@@ -1,4 +1,4 @@
-from youtubesearchpython import Transcript, Comments, Video
+from youtubesearchpython import Transcript, Comments, Video, VideosSearch
 import csv
 import os
 from config import *
@@ -28,12 +28,24 @@ def get_video_comments(video_id):
         i += 1
 
 
-video_link ='https://www.youtube.com/watch?v=ZVYqB0uTKlE'
-video_info = get_video_info(video_link)
-video_id = video_info[0]
-write_csv(INFO_PATH, [video_info])
-for comments in get_video_comments(video_id):
-    write_csv(COMMENT_PATH, comments)
-transcript = get_video_transcript(video_id)
-transcript.insert(0, TRANSCRIPT_HEAD)
-write_csv(os.path.join(TRANSCRIPT_FOLDER, video_id+'.csv'), transcript)
+# video_link ='https://www.youtube.com/watch?v=ZVYqB0uTKlE'
+# video_info = get_video_info(video_link)
+# video_id = video_info[0]
+# write_csv(INFO_PATH, [video_info])
+# for comments in get_video_comments(video_id):
+#     write_csv(COMMENT_PATH, comments)
+# transcript = get_video_transcript(video_id)
+# transcript.insert(0, TRANSCRIPT_HEAD)
+# write_csv(os.path.join(TRANSCRIPT_FOLDER, video_id+'.csv'), transcript)
+with open(INFO_PATH, 'a') as f:
+    wrtier = csv.writer(f)
+    for tag in KEYWORDS:
+        videosSearch = VideosSearch(tag, limit=1500)
+        for video in videosSearch.result()['result']:
+             contents = [video['id'], video['title'], tag, video['publishedTime'], video['duration'], video['viewCount']['text'],
+                  video['link']]
+             wrtier.writerow(contents)
+        print(tag)
+
+
+
