@@ -9,11 +9,9 @@ def write_csv(path,contents):
         writer.writerows(contents)
     print(path+' write complete')
 
-
 def get_video_info(video_link):
     video = Video.get(video_link)
     return video['id'], video['title'].strip(), video['duration']['secondsText'], video['viewCount']['text']
-
 
 def get_video_transcript(video_id):
     transcript = Transcript.get(video_id)["segments"]
