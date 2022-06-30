@@ -26,6 +26,16 @@ def get_video_comments(video_id):
         yield [[video_id,comment["id"], comment["content"].strip(), comment["votes"]['simpleText']] for comment in comments]
         comments_response.getNextComments()
         i += 1
+def search_video(tag):
+    count = 0
+    videosSearch = VideosSearch(tag, limit=100)
+    results = videosSearch.result()['result']
+    while count <= 1500 and len(results) != 0:
+        results = videosSearch.result()['result']
+        yield [[video['id'], video['title'], tag, video['publishedTime'], video['duration'], video['viewCount']['text'], video['link']] for video in results]
+        count += len(results)
+        print(count)
+        videosSearch.next()
 
 
 # video_link ='https://www.youtube.com/watch?v=ZVYqB0uTKlE'
@@ -37,15 +47,8 @@ def get_video_comments(video_id):
 # transcript = get_video_transcript(video_id)
 # transcript.insert(0, TRANSCRIPT_HEAD)
 # write_csv(os.path.join(TRANSCRIPT_FOLDER, video_id+'.csv'), transcript)
-with open(INFO_PATH, 'a') as f:
-    wrtier = csv.writer(f)
-    for tag in KEYWORDS:
-        videosSearch = VideosSearch(tag, limit=1500)
-        for video in videosSearch.result()['result']:
-             contents = [video['id'], video['title'], tag, video['publishedTime'], video['duration'], video['viewCount']['text'],
-                  video['link']]
-             wrtier.writerow(contents)
-        print(tag)
 
+for tag in KEYWORDS:
+    write_csv(INFO_PATH, search_video(tag))
 
 
