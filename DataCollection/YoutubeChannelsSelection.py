@@ -36,6 +36,6 @@ video_id = video_info[0]
 write_csv(INFO_PATH, [video_info])
 for comments in get_video_comments(video_id):
     write_csv(COMMENT_PATH, comments)
-transcript_head = [['vid','start', "end", "text"]]
 transcript = get_video_transcript(video_id)
-write_csv(os.path.join(TRANSCRIPT_FOLDER, video_id+'.csv'), transcript_head+transcript)
+transcript.insert(0, TRANSCRIPT_HEAD)
+write_csv(os.path.join(TRANSCRIPT_FOLDER, video_id+'.csv'), transcript)
