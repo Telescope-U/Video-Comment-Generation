@@ -1,0 +1,310 @@
+vid,start,end,text
+k8RkyaSHFLM,47,1200,- You might not like it
+k8RkyaSHFLM,1200,4040,but this is what peak performance looks like
+k8RkyaSHFLM,4040,6859,"And it is chonky, yeah."
+k8RkyaSHFLM,6860,9225,Kind of reminds me of a stubby G4 Cube.
+k8RkyaSHFLM,9225,11910,The Mac studio and matching studio display
+k8RkyaSHFLM,11910,14050,are the two latest announcements out of Apple
+k8RkyaSHFLM,14050,15235,and of everything they announced today
+k8RkyaSHFLM,15235,18699,they're easily the most exciting
+k8RkyaSHFLM,18700,20660,both powered by Apple Silicon
+k8RkyaSHFLM,20660,23300,they're set to usher in a new era performance
+k8RkyaSHFLM,23300,25509,for apple enthusiasts
+k8RkyaSHFLM,25510,27170,but the way Apple's gone about this
+k8RkyaSHFLM,27170,30130,makes things so much more complicated
+k8RkyaSHFLM,30130,32040,unlike our sponsor Ridge wallet.
+k8RkyaSHFLM,32040,34390,Thanks to Ridge wallet for sponsoring today's video.
+k8RkyaSHFLM,34390,36260,Ridge wallet holds up to 12 cards
+k8RkyaSHFLM,36260,38219,comes with a cash strap or a money clip
+k8RkyaSHFLM,38220,40520,and is available in tons of different colors
+k8RkyaSHFLM,40520,42160,celebrate Ridge's ninth anniversary
+k8RkyaSHFLM,42160,43270,and use offer code Linus
+k8RkyaSHFLM,43270,45768,for 15% off site wide until March 18th
+k8RkyaSHFLM,45768,47194,at the link below.
+k8RkyaSHFLM,47194,50611,(playful cheerful music)
+k8RkyaSHFLM,57210,59629,The new max studio is in every way
+k8RkyaSHFLM,59630,62290,what we all feared the Mac pro would become
+k8RkyaSHFLM,62290,65040,when apple started the transition to Apple Silicon
+k8RkyaSHFLM,65040,66980,an entirely unexpandable design
+k8RkyaSHFLM,66980,69630,with fully solder components in a Mac mini enclosure
+k8RkyaSHFLM,69630,71939,that decided to make a little taller than usual
+k8RkyaSHFLM,71940,75040,cooled by two beefy fans that pull air up
+k8RkyaSHFLM,75040,76220,through the bottom of the chassis
+k8RkyaSHFLM,76220,77610,and out to the rear grill
+k8RkyaSHFLM,77610,79670,something Apple says is nearly silent
+k8RkyaSHFLM,79670,82479,there's actually a lot going for this design.
+k8RkyaSHFLM,82480,85810,For starters you get 10 gigabit ethernet as standard.
+k8RkyaSHFLM,85810,87448,Thank you Apple.
+k8RkyaSHFLM,87448,90210,Now the rest of the rear IO is rearranged
+k8RkyaSHFLM,90210,92450,but looks basically the same as the Intel Mac mini
+k8RkyaSHFLM,92450,95200,with a high impedance pro audio output
+k8RkyaSHFLM,95200,96689,that I suspect is the same
+k8RkyaSHFLM,96690,98150,as on the new MacBook pros
+k8RkyaSHFLM,98150,99610,turn it around however
+k8RkyaSHFLM,99610,101730,and you'll see that Apple has finally
+k8RkyaSHFLM,101730,105040,acquiesced added front facing connectors
+k8RkyaSHFLM,105040,107070,two USB type C 10 gigabit ports
+k8RkyaSHFLM,107070,109180,and an SDX C reader
+k8RkyaSHFLM,109180,111730,while support from a brand new SD express format
+k8RkyaSHFLM,111730,112830,would've been nice to see
+k8RkyaSHFLM,112830,115020,as a future proofing measure
+k8RkyaSHFLM,115020,118188,what we're getting tracks with the larger MacBook pros.
+k8RkyaSHFLM,118189,121410,If you pick up an M1 ultra equipped max studio
+k8RkyaSHFLM,121410,122420,those types C ports
+k8RkyaSHFLM,122420,125220,up front turn into Thunderbolt ports
+k8RkyaSHFLM,125220,126053,wait
+k8RkyaSHFLM,127114,129246,M1 ultra
+k8RkyaSHFLM,129246,132120,Yeah turns out Apple's been holding out on us
+k8RkyaSHFLM,132120,135190,and their M1 max chips had an unused interconnect
+k8RkyaSHFLM,135190,136370,called ultra fusion
+k8RkyaSHFLM,136370,138099,that allows for a chip style connection
+k8RkyaSHFLM,138100,141708,between two M1 maxes to make up an M1 ultra
+k8RkyaSHFLM,141708,143969,the effective result is a single SOC
+k8RkyaSHFLM,143970,145212,as far as software is concerned
+k8RkyaSHFLM,145212,149280,and gives a metric bug load of CPU and GPU cores
+k8RkyaSHFLM,149280,151920,double the already very impressive media engine
+k8RkyaSHFLM,151920,155620,on the M1 max and twice the maximum memory capacity
+k8RkyaSHFLM,155620,157299,at 800 gigabytes per second
+k8RkyaSHFLM,157300,159220,that is faster memory
+k8RkyaSHFLM,159220,161150,than the GDR 6X
+k8RkyaSHFLM,161150,164713,that is used on Avid RTX 3080 and 3090.
+k8RkyaSHFLM,165960,168193,That is pretty amazing
+k8RkyaSHFLM,168193,169829,and even more amazing
+k8RkyaSHFLM,169830,172260,as the memory itself isn't even clocked faster.
+k8RkyaSHFLM,172260,174790,There's just that many more channels to work with.
+k8RkyaSHFLM,174790,176760,If you believe what Apple has to say
+k8RkyaSHFLM,176760,179260,the M1 ultra is up to 60% faster
+k8RkyaSHFLM,179260,182265,than the Mac pro equipped with 28 Zion W cores
+k8RkyaSHFLM,182266,184643,and 80% faster than that machine's fastest GPU
+k8RkyaSHFLM,184643,187920,the Radeon W6900X.
+k8RkyaSHFLM,187920,189680,They still sell those by the way
+k8RkyaSHFLM,189680,192209,something about those claims though
+k8RkyaSHFLM,192210,194196,it doesn't really pass the sniff test.
+k8RkyaSHFLM,194196,195900,Part of that claim is that
+k8RkyaSHFLM,195900,200430,it's also 90% faster than a 16 core desktop CPU
+k8RkyaSHFLM,200430,202849,while drawing a hundred Watts less power
+k8RkyaSHFLM,202850,204100,you might think that's referring
+k8RkyaSHFLM,204100,206302,to the only current 16 core desktop CPU
+k8RkyaSHFLM,206302,208550,the rise in 95950X
+k8RkyaSHFLM,208550,213040,but in fact they're talking about the core i9-12900K
+k8RkyaSHFLM,213040,214829,which is an eight plus eight core CPU
+k8RkyaSHFLM,214830,216340,with performance and efficiency cores
+k8RkyaSHFLM,216340,217668,much like Apple Silicon.
+k8RkyaSHFLM,217668,222668,what's more Max Turbo Power on the 12900K is 241 Watts.
+k8RkyaSHFLM,222890,224430,So we can surmise based
+k8RkyaSHFLM,224430,226870,on Apple's own data that the M1 ultra draws
+k8RkyaSHFLM,226870,228569,around 140 Watts
+k8RkyaSHFLM,228570,229970,which is still a lot of Watts.
+k8RkyaSHFLM,229970,233580,The 12900K is TDP at base clock is 125 Watts
+k8RkyaSHFLM,233580,235440,and I can guarantee you M1 ultra
+k8RkyaSHFLM,235440,238350,doesn't draw just 25 Watts
+k8RkyaSHFLM,238350,240570,but that's the CPU
+k8RkyaSHFLM,240570,242640,128 gigs of unified memory
+k8RkyaSHFLM,242640,247210,offers an unprecedented amount of potential VERA to the GPU
+k8RkyaSHFLM,247210,249390,Apple is right in that the biggest workstation card
+k8RkyaSHFLM,249390,250310,on the market right now
+k8RkyaSHFLM,250310,254229,the RTX A6000 caps out a meager 48 gigs.
+k8RkyaSHFLM,254229,257150,Sure you can connect multiple as six thousands together
+k8RkyaSHFLM,257150,260889,via NVlink but having that much memory in a single package
+k8RkyaSHFLM,260890,263320,is a significant feather in Apple's cap.
+k8RkyaSHFLM,263320,265080,They're also making some interesting claims
+k8RkyaSHFLM,265080,267121,about beating the highest end discrete GPU
+k8RkyaSHFLM,267122,270580,while also using 200 Watts less power though
+k8RkyaSHFLM,270580,271419,the footnote says
+k8RkyaSHFLM,271420,273370,they're talking about the RTX 3090
+k8RkyaSHFLM,273370,275860,using select industry standard benchmarks.
+k8RkyaSHFLM,275860,277520,So take from that what you will
+k8RkyaSHFLM,277520,280190,I expect performance will be decent either way
+k8RkyaSHFLM,280190,281470,but it it's very possible
+k8RkyaSHFLM,281470,285100,this specific claim leans on the media engine
+k8RkyaSHFLM,285100,286500,as Apple has done in the past
+k8RkyaSHFLM,286500,288660,and they're not talking about raw compute performance.
+k8RkyaSHFLM,288660,290920,I'd like to be wrong though.
+k8RkyaSHFLM,290920,293740,Speaking of the doubled up media engine is now capable
+k8RkyaSHFLM,293740,297569,"of running 18 simultaneous 8K ProRes, 422 streams."
+k8RkyaSHFLM,297570,299180,So it really does sound
+k8RkyaSHFLM,299180,301949,like an ideal workstation for most professionals
+k8RkyaSHFLM,301950,304520,especially as software support comes online
+k8RkyaSHFLM,304520,305974,like with blender 3.1
+k8RkyaSHFLM,305975,307820,you'll be able to make use of it too
+k8RkyaSHFLM,307820,309460,up to four pro display XDR
+k8RkyaSHFLM,309460,311867,and a 4K HDMI device simultaneously
+k8RkyaSHFLM,311868,314260,that is more battle stations
+k8RkyaSHFLM,314260,315870,certainly more pixels
+k8RkyaSHFLM,315870,318501,than Apple has ever officially supported.
+k8RkyaSHFLM,318501,321950,Internal storage doesn't look expandable however
+k8RkyaSHFLM,321950,324630,"So you'll need to add over $2,000"
+k8RkyaSHFLM,326262,330490,for 8 terabytes if you don't want external storage
+k8RkyaSHFLM,330490,332435,a fact made worse by recent revelations
+k8RkyaSHFLM,332435,334145,that Apple's SSD performance
+k8RkyaSHFLM,334145,336560,isn't as good as they claim it is.
+k8RkyaSHFLM,336560,337393,They're cheating
+k8RkyaSHFLM,337393,339280,"and in the process, putting data at risk"
+k8RkyaSHFLM,339280,340676,if an unexpected shutdown occurs
+k8RkyaSHFLM,340676,342490,the onboard battery
+k8RkyaSHFLM,342490,344550,in a MacBook makes this a non-issue
+k8RkyaSHFLM,344550,347637,but on a stationary machine plugged into wall power
+k8RkyaSHFLM,347637,350120,Well make sure that you combine
+k8RkyaSHFLM,350120,352580,the Mac studio with a battery backup.
+k8RkyaSHFLM,352580,354840,That'll add to the already high price tag
+k8RkyaSHFLM,354840,356280,for the M1 ultra variant
+k8RkyaSHFLM,356280,357577,but if you take Apple at their word
+k8RkyaSHFLM,357577,359550,it's the most powerful machine
+k8RkyaSHFLM,359550,360746,you can buy for the money.
+k8RkyaSHFLM,360746,362040,Get subscribed
+k8RkyaSHFLM,362040,366710,because we are definitely putting that claim to the test.
+k8RkyaSHFLM,366710,368759,You might also want to combine the Mac studio
+k8RkyaSHFLM,368760,370570,with a new studio display.
+k8RkyaSHFLM,370570,372410,Apple certainly wants you to
+k8RkyaSHFLM,372410,374900,the panel itself seems suspiciously similar
+k8RkyaSHFLM,374900,377160,to the existing LG UltraFine 5K
+k8RkyaSHFLM,377160,378810,with a slight bump and peak brightness
+k8RkyaSHFLM,378810,381520,and 10 gig type C ports instead of 5 gig.
+k8RkyaSHFLM,381520,383840,It even has similar power delivery capabilities
+k8RkyaSHFLM,383840,384680,to the recent models
+k8RkyaSHFLM,384680,387126,so it seems like a bit of a cop out
+k8RkyaSHFLM,387127,389530,until you get under the hood.
+k8RkyaSHFLM,389530,392160,Ye from lttstore.com.
+k8RkyaSHFLM,392160,393410,Got it in there
+k8RkyaSHFLM,393410,395330,what makes the studio display special
+k8RkyaSHFLM,395330,397740,aside from the aluminum and glass construction
+k8RkyaSHFLM,397740,399370,is the A13 bionic chip
+k8RkyaSHFLM,399370,402000,powering a plethora of onboard goodies.
+k8RkyaSHFLM,402000,404490,It's got a very similar speaker array on paper
+k8RkyaSHFLM,404490,406240,to the 24 inch M1 iMac
+k8RkyaSHFLM,406240,407970,complete with special audio
+k8RkyaSHFLM,407970,410490,a three-mic array presumably with noise suppression
+k8RkyaSHFLM,410490,412965,and an integrated 12 megapixel FaceTime camera
+k8RkyaSHFLM,412965,415220,capable of center stage
+k8RkyaSHFLM,415220,418980,which means you can finally use center stage on a Mac
+k8RkyaSHFLM,418980,421474,like the one place it makes a lot of sense
+k8RkyaSHFLM,421474,423550,not to mention the A13
+k8RkyaSHFLM,423550,425090,provides the image signal processing
+k8RkyaSHFLM,425090,427400,we've come to expect from Apple Silicon.
+k8RkyaSHFLM,427400,428810,That means that the Mac itself
+k8RkyaSHFLM,428810,430360,doesn't need to do any of the work
+k8RkyaSHFLM,430360,432729,freeing up the neural engine for other tasks.
+k8RkyaSHFLM,432730,434610,It even makes these AI features usable
+k8RkyaSHFLM,434610,437120,on Intel max as old as 2016.
+k8RkyaSHFLM,437120,438650,Now the studio display XDR
+k8RkyaSHFLM,438650,440330,comes with three mounting options
+k8RkyaSHFLM,440330,442500,a 30 degree tilt-adjustable stand
+k8RkyaSHFLM,442500,444010,a pro display XDR like stand
+k8RkyaSHFLM,444010,445543,except without rotation support
+k8RkyaSHFLM,445543,447980,and an ugly VESA mount
+k8RkyaSHFLM,447980,449310,although it looks like
+k8RkyaSHFLM,449310,451417,you need to choose what you want out of the factory
+k8RkyaSHFLM,451417,453695,because unlike the pro display XDR
+k8RkyaSHFLM,453696,456480,there isn't a user accessible mounting mechanism
+k8RkyaSHFLM,456480,458096,on the display itself.
+k8RkyaSHFLM,458096,460290,Thankfully the VESA mount
+k8RkyaSHFLM,460290,462024,and tilt adjustable stand are options
+k8RkyaSHFLM,462024,465409,that don't add to the already lofty 1599 price tag
+k8RkyaSHFLM,465410,467729,but the tilt and height adjustable stand
+k8RkyaSHFLM,467729,469753,costs an extra 400 bucks
+k8RkyaSHFLM,469753,473110,I guess rotation is a $600 value now
+k8RkyaSHFLM,473110,474009,it's worth mentioning
+k8RkyaSHFLM,474010,476848,that the UltraFine 5K is $300 cheaper
+k8RkyaSHFLM,476848,478990,and it's already priced $300 higher
+k8RkyaSHFLM,478990,480759,than the old Thunderbolt displays were
+k8RkyaSHFLM,480760,482040,I can't win 'em all I guess
+k8RkyaSHFLM,482040,484060,but hey you've got the option
+k8RkyaSHFLM,484060,486500,of buying color matched silver and black peripherals.
+k8RkyaSHFLM,486500,489120,So it's not all bad
+k8RkyaSHFLM,489120,490139,whatever
+k8RkyaSHFLM,490140,491922,the rest of the event was pretty unimpressive
+k8RkyaSHFLM,491922,494570,we got a spec bump for the iPad air
+k8RkyaSHFLM,494570,497210,now powered by the M1 SOC with 8 gigs of Ram
+k8RkyaSHFLM,497210,501272,and rocking a 12 megapixel front camera with central stage.
+k8RkyaSHFLM,501272,504434,It's got 5G support now and it comes in new colors.
+k8RkyaSHFLM,504434,506750,I don't really know what else to say here
+k8RkyaSHFLM,506750,508880,they're comparing it to a similarly priced laptop
+k8RkyaSHFLM,508880,511690,and while I don't disagree that for a layperson
+k8RkyaSHFLM,511690,513260,it's probably a better experience
+k8RkyaSHFLM,513260,515200,it's really not the same thing unless
+k8RkyaSHFLM,515200,518479,and until they bring Mac OS to the iPad
+k8RkyaSHFLM,518479,520555,which they stubbornly refuse to do
+k8RkyaSHFLM,520555,521388,the other specs
+k8RkyaSHFLM,521388,523797,as much as they talked about them are the same
+k8RkyaSHFLM,523797,525710,with the exception of the type C port
+k8RkyaSHFLM,525710,528540,which is now 10 gigabits per second rather than 5.
+k8RkyaSHFLM,528540,530970,It's a little less disappointing than the iPhone SE
+k8RkyaSHFLM,530970,533439,and I know that's going to be a hot take
+k8RkyaSHFLM,533440,534860,but hear me out
+k8RkyaSHFLM,534860,536170,the price is going up
+k8RkyaSHFLM,536170,538149,and all we're getting is the A 15 bionic SOC
+k8RkyaSHFLM,538150,540435,a few hours better battery life
+k8RkyaSHFLM,540435,543210,ceramic shield and 5G.
+k8RkyaSHFLM,543210,545120,The rest is exactly the same
+k8RkyaSHFLM,545120,546990,right down to the iPhone eight and star chassis.
+k8RkyaSHFLM,546990,548620,Now to be clear
+k8RkyaSHFLM,548620,551950,I wasn't expecting Apple to reinvent the wheel here.
+k8RkyaSHFLM,551950,553968,I understand that things are getting more expensive
+k8RkyaSHFLM,553968,556813,and glad this form factor is still available
+k8RkyaSHFLM,556813,559769,but it would've been nice to see MagSafe
+k8RkyaSHFLM,559770,561180,come to the SE
+k8RkyaSHFLM,561180,562450,by Apple's own admission
+k8RkyaSHFLM,562450,565320,this is going to be many people's first foray into iPhone
+k8RkyaSHFLM,565320,568680,and MagSafe is becoming a big part of the ecosystem
+k8RkyaSHFLM,568680,570620,I might be giving Apple a harder time over this
+k8RkyaSHFLM,570620,574000,than I should be but I I feel it's a missed opportunity
+k8RkyaSHFLM,574000,576100,particularly given how long SE models
+k8RkyaSHFLM,576100,577889,have traditionally stayed in market.
+k8RkyaSHFLM,577890,580890,And that is basically all they talked about
+k8RkyaSHFLM,580890,582860,outside of baseball and apple TV plus
+k8RkyaSHFLM,582860,587209,and a new green color option for the iPhone 13 and 13 pro.
+k8RkyaSHFLM,587210,589304,There are a few things we did pick up on though.
+k8RkyaSHFLM,589304,591790,"First, they came out and said"
+k8RkyaSHFLM,591790,592880,that the Mac studio
+k8RkyaSHFLM,592880,596060,is not the Apple Silicon refreshed the Mac Pro
+k8RkyaSHFLM,596060,598003,so that's still on the horizon.
+k8RkyaSHFLM,598003,600761,"Second, they said that the Mac pro"
+k8RkyaSHFLM,600762,604211,was the final Mac to make the transition
+k8RkyaSHFLM,604211,607880,and the 27 inch iMac like the iMac pro
+k8RkyaSHFLM,607880,610581,is now missing from Apple's product pages.
+k8RkyaSHFLM,610581,613440,In fact if you type 27 into the URL bar
+k8RkyaSHFLM,613440,614840,to try and force it you're redirected
+k8RkyaSHFLM,614840,616722,to the 24 inch pages set
+k8RkyaSHFLM,616722,619331,My guess is the M1 max iMac studio
+k8RkyaSHFLM,619331,622220,is taking the place of the 27 inch
+k8RkyaSHFLM,622220,623379,which makes sense
+k8RkyaSHFLM,623380,625380,looking at the performance comparisons I get it
+k8RkyaSHFLM,625380,626890,just feels
+k8RkyaSHFLM,626890,628630,strange for apple to discontinue
+k8RkyaSHFLM,628630,630730,a long standing skew like that
+k8RkyaSHFLM,630730,633040,with no fanfare you know
+k8RkyaSHFLM,633040,635099,speaking of bailing with no fanfare
+k8RkyaSHFLM,635099,637260,we'll have all this stuff linked below
+k8RkyaSHFLM,637260,639480,and we are gonna be clicking on those links ourselves
+k8RkyaSHFLM,639480,641102,cause we've got a lot of apple hardware to purchase.
+k8RkyaSHFLM,641103,644000,So
+k8RkyaSHFLM,644000,644840,I'd better get cracking
+k8RkyaSHFLM,644840,647040,on this segue to our sponsor ting mobile.
+k8RkyaSHFLM,647040,649269,Thanks to ting mobile for sponsoring today's video.
+k8RkyaSHFLM,649270,650470,Do you like saving money?
+k8RkyaSHFLM,650470,652139,Ting mobile is a low cost carrier
+k8RkyaSHFLM,652140,653893,with rates to help you do just that.
+k8RkyaSHFLM,653893,655840,Start with unlimited talk and text
+k8RkyaSHFLM,655840,658730,for $10 a month or data plans for $15 a month.
+k8RkyaSHFLM,658730,662079,Their set 12 plan with 12 gigs of data is only $35 a month
+k8RkyaSHFLM,662080,662913,and if you need it
+k8RkyaSHFLM,662913,665870,unlimited data plans are $45 a month as well.
+k8RkyaSHFLM,665870,666880,You can even share your data
+k8RkyaSHFLM,666880,668487,on a family plan and save even more
+k8RkyaSHFLM,668487,671080,ting mobile also provides pay per use plans
+k8RkyaSHFLM,671080,674050,with their flex plans charging just $5 per gig.
+k8RkyaSHFLM,674050,675149,Even with those savings
+k8RkyaSHFLM,675150,677316,you'll still get nationwide coverage and award
+k8RkyaSHFLM,677316,680110,support that made consumer reports named ting mobile
+k8RkyaSHFLM,680110,682620,their number one carrier in America.
+k8RkyaSHFLM,682620,684860,Almost every phone on the market will work with ting mobile
+k8RkyaSHFLM,684860,685768,and they have the perfect plan for everybody
+k8RkyaSHFLM,685768,687920,no matter what your needs are
+k8RkyaSHFLM,687920,689839,check them out at linus.ting.com
+k8RkyaSHFLM,689840,691437,and receive a $25 credit today.
+k8RkyaSHFLM,691437,692270,(upbeat music)
+k8RkyaSHFLM,692270,693350,Thanks for watching guys
+k8RkyaSHFLM,693350,694490,maybe go check out a review
+k8RkyaSHFLM,694490,697170,of the M1 max Mac books for a little preview
+k8RkyaSHFLM,697170,699850,of how the base Mac studio will perform.
+k8RkyaSHFLM,699850,702443,"It's pretty good, but it's still evolving."

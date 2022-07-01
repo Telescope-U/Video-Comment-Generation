@@ -1,0 +1,215 @@
+vid,start,end,text
+QmIcFWu0US0,110,2129,So I uploaded a video recently
+QmIcFWu0US0,2130,5100,where I compared the brand new M2 MacBook Pro
+QmIcFWu0US0,5100,8580,"against its predecessor, the M1 MacBook Pro."
+QmIcFWu0US0,8580,11730,"But during testing, I noticed a really weird issue"
+QmIcFWu0US0,11730,13920,with the SSD on the M2.
+QmIcFWu0US0,13920,16470,It was nowhere near as fast as the M1.
+QmIcFWu0US0,16470,18869,And this could have a massive impact
+QmIcFWu0US0,18870,22350,on the performance of M2 MacBook Pro base models.
+QmIcFWu0US0,22350,24390,So what could be the reason for this?
+QmIcFWu0US0,24390,26220,Is it just Apple being greedy?
+QmIcFWu0US0,26220,27900,Is it some secret plan to get you
+QmIcFWu0US0,27900,29730,to spend more money on upgrades
+QmIcFWu0US0,29730,33600,or was Apple forced to do this by external circumstances?
+QmIcFWu0US0,33600,35340,"Well, I'm going to do a deep dive"
+QmIcFWu0US0,35340,36180,into this topic
+QmIcFWu0US0,36180,38130,and see if we can figure it out.
+QmIcFWu0US0,38130,41040,"First things first, let's run some SSD speed tests"
+QmIcFWu0US0,41040,44400,to find out just how bad the M2 SSD is.
+QmIcFWu0US0,44400,46860,"Starting with Blackmagic Disk Speed Test,"
+QmIcFWu0US0,46860,50070,you can immediately see a massive difference in speeds.
+QmIcFWu0US0,50070,53940,The M2 is roughly twice as slow in read speeds.
+QmIcFWu0US0,53940,55980,"On the AJA System Speed Test,"
+QmIcFWu0US0,55980,58410,"but this time with the disk cache disabled,"
+QmIcFWu0US0,58410,60780,"the write speeds seem about the same,"
+QmIcFWu0US0,60780,64739,"but the read speeds, again, are significantly worse."
+QmIcFWu0US0,64739,66390,So what the hell is going on here?
+QmIcFWu0US0,66390,69150,Isn't the M2 supposed to be the faster
+QmIcFWu0US0,69150,72120,and more improved clone of M1?
+QmIcFWu0US0,72120,74970,"Well, to find out, let's open these two machines up"
+QmIcFWu0US0,74970,76560,and have a look inside.
+QmIcFWu0US0,76560,78600,"Taking a look at the M2, you can see"
+QmIcFWu0US0,78600,81840,that there's only one NAND flash chip soldered on
+QmIcFWu0US0,81840,84479,with a big old empty space to the left.
+QmIcFWu0US0,84480,85313,So it seems
+QmIcFWu0US0,85313,89760,that Apple is using a single 256 gigabyte NAND flash chip
+QmIcFWu0US0,89760,92280,on these base model M2 MacBooks.
+QmIcFWu0US0,92280,95159,"When I compared with the base model M1 MacBook Pro,"
+QmIcFWu0US0,95160,97260,"oh, look, there's a second chip!"
+QmIcFWu0US0,97260,102150,It looks like the M1 is using two 128 gigabyte NAND chips
+QmIcFWu0US0,102150,106770,"instead of one big 256 gigabyte chip, like the M2."
+QmIcFWu0US0,106770,108090,So I did some more digging
+QmIcFWu0US0,108090,109829,and read through some of my comments
+QmIcFWu0US0,109830,113970,and it looks like Max Tech also has only one NAND chip
+QmIcFWu0US0,113970,115380,"on their M2 MacBook,"
+QmIcFWu0US0,115380,117000,which basically confirms to me
+QmIcFWu0US0,117000,121230,that this is widespread across all M2 Pro base models.
+QmIcFWu0US0,121230,122490,"So this begs the question,"
+QmIcFWu0US0,122490,126570,why is having two smaller NAND chips actually faster
+QmIcFWu0US0,126570,128310,than having one big one?
+QmIcFWu0US0,128310,131520,"Well, by using two of them, it allows each one to connect"
+QmIcFWu0US0,131520,134460,to the M1 or M2 controller separately
+QmIcFWu0US0,134460,136860,and fill two buses in parallel.
+QmIcFWu0US0,136860,138810,"No, not school buses."
+QmIcFWu0US0,138810,141569,I mean the communication system that transfers data
+QmIcFWu0US0,141570,144270,between components inside a computer.
+QmIcFWu0US0,144270,147810,"Think of a bus as a data highway of sorts,"
+QmIcFWu0US0,147810,151050,having two NAND chips using two separate buses
+QmIcFWu0US0,151050,153630,is like having two lanes instead of just one
+QmIcFWu0US0,153630,154800,on a highway.
+QmIcFWu0US0,154800,158310,Traffic or data will be able to flow much quicker
+QmIcFWu0US0,158310,159569,with two lanes.
+QmIcFWu0US0,159570,160680,"So on the M1,"
+QmIcFWu0US0,160680,163560,"you are basically getting double the available bandwidth,"
+QmIcFWu0US0,163560,166950,which results in a doubling of the read and write speeds.
+QmIcFWu0US0,166950,168270,"Now, if you're familiar with RAID,"
+QmIcFWu0US0,168270,170370,it's kind of like using RAID 0.
+QmIcFWu0US0,170370,172890,"Although, Apple doesn't technically use RAID,"
+QmIcFWu0US0,172890,174690,they have their own way of doing it.
+QmIcFWu0US0,174690,176190,"As an extreme example,"
+QmIcFWu0US0,176190,178950,here's my 16-inch M1 Max MacBook Pro
+QmIcFWu0US0,178950,180989,with a four terabyte SSD.
+QmIcFWu0US0,180990,184290,"The speeds on this MacBook are insanely fast,"
+QmIcFWu0US0,184290,186540,at least twice as fast as the M1.
+QmIcFWu0US0,186540,190110,And you can see why. Look at all those NAND chips.
+QmIcFWu0US0,190110,192780,So why is the SSD performance decrease
+QmIcFWu0US0,192780,195959,on the base model M2 MacBook Pro a bad thing?
+QmIcFWu0US0,195960,198210,"Well, there are a couple of reasons why."
+QmIcFWu0US0,198210,200580,"Number one, I don't really like the fact"
+QmIcFWu0US0,200580,203670,that this is technically an upgraded M1 chip
+QmIcFWu0US0,203670,206700,but we are seeing decreased performance on the SSD.
+QmIcFWu0US0,206700,208410,It doesn't really make sense to me.
+QmIcFWu0US0,208410,211740,"Seriously, if you check out the M1 versus M2 MacBook Pro"
+QmIcFWu0US0,211740,213210,"comparison video I made,"
+QmIcFWu0US0,213210,216780,the M2 outperforms the M1 in every area.
+QmIcFWu0US0,216780,219720,Sometimes by a whopping 30%.
+QmIcFWu0US0,219720,222330,I'll link that video in case you want to check it out.
+QmIcFWu0US0,222330,224820,Another reason why these slower SSD speeds
+QmIcFWu0US0,224820,226140,might be a bad thing is
+QmIcFWu0US0,226140,228210,if you are simply reading and writing files
+QmIcFWu0US0,228210,229710,"onto the SSD, right?"
+QmIcFWu0US0,229710,232980,So if you are editing video or photo files
+QmIcFWu0US0,232980,234120,on the SSD
+QmIcFWu0US0,234120,236400,or if you're transferring on and off the SSD
+QmIcFWu0US0,236400,238319,"to an external drive, for example,"
+QmIcFWu0US0,238320,240450,all of that is going to be slower.
+QmIcFWu0US0,240450,241920,Also the slower speeds
+QmIcFWu0US0,241920,245280,are going to impact overall snappiness and speed
+QmIcFWu0US0,245280,247470,of the system due to swap memory.
+QmIcFWu0US0,247470,250680,"Now, swap memory essentially makes your computer faster."
+QmIcFWu0US0,250680,253620,It's existed for a very long time and is actually used
+QmIcFWu0US0,253620,255540,"on almost all operating systems,"
+QmIcFWu0US0,255540,258900,"including macOS, Linux, and also Windows."
+QmIcFWu0US0,258900,261419,Its purpose is to move processes and programs
+QmIcFWu0US0,261420,264450,"that aren't currently being used out of physical memory,"
+QmIcFWu0US0,264450,265470,"which is your RAM,"
+QmIcFWu0US0,265470,267240,"and onto virtual memory,"
+QmIcFWu0US0,267240,269970,which is essentially just temporarily writing
+QmIcFWu0US0,269970,272580,and then reading this data from your SSD.
+QmIcFWu0US0,272580,274020,"Now, I have an entire video"
+QmIcFWu0US0,274020,275819,on the subject of Mac SSDs
+QmIcFWu0US0,275820,277800,"that goes into this in more detail,"
+QmIcFWu0US0,277800,279090,which I will link.
+QmIcFWu0US0,279090,281669,"But in a nutshell, if you have a base model MacBook"
+QmIcFWu0US0,281670,283650,"with only eight gigabytes of RAM,"
+QmIcFWu0US0,283650,287370,this swap process is actually going to happen fairly often.
+QmIcFWu0US0,287370,289470,"For example, when doing intensive work"
+QmIcFWu0US0,289470,292020,"like rendering or extreme multitasking,"
+QmIcFWu0US0,292020,293400,the eight gigabytes of RAM
+QmIcFWu0US0,293400,296280,"on the M2 gets maxed out straight away,"
+QmIcFWu0US0,296280,299520,and I've seen the M2 need to use up to six gigabytes
+QmIcFWu0US0,299520,301889,of swap memory to cope with the workload
+QmIcFWu0US0,301890,303420,in worst-case scenarios.
+QmIcFWu0US0,303420,306390,And the speed of your SSD will have a big impact
+QmIcFWu0US0,306390,307500,on this process.
+QmIcFWu0US0,307500,309270,Swap memory uses a mixture
+QmIcFWu0US0,309270,311610,"of sequential and random reads and writes,"
+QmIcFWu0US0,311610,313500,and you likely won't notice a big difference
+QmIcFWu0US0,313500,314520,"for the random stuff,"
+QmIcFWu0US0,314520,318180,but you definitely will for sequential as you can see here.
+QmIcFWu0US0,318180,321479,"Now, to be fair, the M2 is still more powerful"
+QmIcFWu0US0,321480,324120,and has an increased unified memory bandwidth
+QmIcFWu0US0,324120,325560,when compared to M1.
+QmIcFWu0US0,325560,327180,So it's still probably faster
+QmIcFWu0US0,327180,328919,even with the slower SSD.
+QmIcFWu0US0,328920,332700,Also the M2 seems to be using LPDDR5 memory
+QmIcFWu0US0,332700,335100,instead of DDR4 on the M1.
+QmIcFWu0US0,335100,338970,"So in general, the RAM is slightly faster on M2 as well"
+QmIcFWu0US0,338970,341760,as you can see in this amorphous memory benchmark.
+QmIcFWu0US0,341760,343680,So I think that nerfing the SSD
+QmIcFWu0US0,343680,346530,is just such a weird performance bottleneck to put
+QmIcFWu0US0,346530,347550,on the system.
+QmIcFWu0US0,347550,348479,And it's a shame
+QmIcFWu0US0,348480,350850,because out of all the changes Apple made
+QmIcFWu0US0,350850,352620,"from M1 to M2,"
+QmIcFWu0US0,352620,355350,keeping the SSD the same as the previous generation
+QmIcFWu0US0,355350,357360,is literally the easiest one.
+QmIcFWu0US0,357360,358860,And it's even more of a shame
+QmIcFWu0US0,358860,361229,because it might actually have a negative impact
+QmIcFWu0US0,361230,363720,on the overall performance of the M2
+QmIcFWu0US0,363720,367680,at least on the 256 gigabyte base model.
+QmIcFWu0US0,367680,370440,"Now, I'm going to play devil's advocate and defend Apple"
+QmIcFWu0US0,370440,371273,for a second here
+QmIcFWu0US0,371273,373980,because there may actually be some legitimate reasons
+QmIcFWu0US0,373980,377190,why they went with one NAND flash memory chip
+QmIcFWu0US0,377190,378690,instead of two.
+QmIcFWu0US0,378690,380220,"So first, let's be honest,"
+QmIcFWu0US0,380220,384720,you can't do much with a 256 gigabyte SSD anyway.
+QmIcFWu0US0,384720,386400,"If you are video or photo editing,"
+QmIcFWu0US0,386400,389220,"it's likely going to be on an external SSD,"
+QmIcFWu0US0,389220,392370,same with storing and transferring large amounts of files.
+QmIcFWu0US0,392370,393203,"And at the end of the day,"
+QmIcFWu0US0,393203,395670,this is a base model MacBook we're talking about.
+QmIcFWu0US0,395670,398130,Most people aren't really going to be pushing the SSD
+QmIcFWu0US0,398130,399030,to its limits.
+QmIcFWu0US0,399030,400980,So they probably won't even notice the difference
+QmIcFWu0US0,400980,402420,in speed to begin with.
+QmIcFWu0US0,402420,404130,"And if they are power users,"
+QmIcFWu0US0,404130,407610,"they'll likely get at least a 512 gigabyte SSD,"
+QmIcFWu0US0,407610,409860,which as we can see from existing videos
+QmIcFWu0US0,409860,411030,on the M2 MacBook
+QmIcFWu0US0,411030,413550,is just as fast as the previous generation
+QmIcFWu0US0,413550,417930,because it's using 256 gigabyte NAND chips.
+QmIcFWu0US0,417930,420750,It's funny how Apple always sends out the upgraded models
+QmIcFWu0US0,420750,423030,"for the early access reviews, isn't it?"
+QmIcFWu0US0,423030,425400,"I mean, if you look at all the big tech publications"
+QmIcFWu0US0,425400,427050,"like The Verge, for example,"
+QmIcFWu0US0,427050,430500,they were actually sent upgraded 16 gigabyte RAM
+QmIcFWu0US0,430500,434430,and 512 gigabyte SSD M2 MacBook Pros.
+QmIcFWu0US0,434430,436169,It's almost as if Apple is trying
+QmIcFWu0US0,436170,439110,to make their new product look as good as possible.
+QmIcFWu0US0,439110,441780,"Also, don't forget like I've mentioned in previous videos,"
+QmIcFWu0US0,441780,444210,"I mean, there is a massive global silicon"
+QmIcFWu0US0,444210,445889,and chip shortage right now.
+QmIcFWu0US0,445890,449160,So it might just be that Apple simply cannot get their hands
+QmIcFWu0US0,449160,452190,on enough 128 gigabyte SSDs.
+QmIcFWu0US0,452190,454830,But what is often the case with corporations is
+QmIcFWu0US0,454830,456330,that they're just cost cutting.
+QmIcFWu0US0,456330,460199,Why buy 128 gigabyte SSDs and mix and match
+QmIcFWu0US0,460200,463310,when you can just bulk order millions of 256
+QmIcFWu0US0,463310,465470,or 512 gigabyte SSDs.
+QmIcFWu0US0,465470,468150,It just makes sense from a corporate point of view.
+QmIcFWu0US0,468150,470220,I like to think that there was an Apple engineer
+QmIcFWu0US0,470220,471360,that went to corporate one day
+QmIcFWu0US0,471360,473849,"and asked, hey guys, should we continue"
+QmIcFWu0US0,473850,475410,to use two NAND chips
+QmIcFWu0US0,475410,477000,"on the M2 MacBook Pro,"
+QmIcFWu0US0,477000,479460,"and corporate just kind of going like, eh, nah,"
+QmIcFWu0US0,479460,480293,we don't need that.
+QmIcFWu0US0,480293,481320,Just get rid of it.
+QmIcFWu0US0,481320,483000,And the engineer just kind of shrugs his shoulders
+QmIcFWu0US0,483000,484050,and just walks away.
+QmIcFWu0US0,484050,486569,"So yeah, really interesting decision from Apple."
+QmIcFWu0US0,486570,487470,"Like I said before,"
+QmIcFWu0US0,487470,489780,I don't think it's going to have a massive impact
+QmIcFWu0US0,489780,492090,on most people's workflow.
+QmIcFWu0US0,492090,494220,"I don't think you'll see a massive difference,"
+QmIcFWu0US0,494220,497970,especially because that base model SSD is just so small
+QmIcFWu0US0,497970,498930,to begin with.
+QmIcFWu0US0,498930,501720,But what I think is going to be interesting is
+QmIcFWu0US0,501720,505050,seeing what Apple does with the new M2 MacBook Air.
+QmIcFWu0US0,505050,508440,And if they use the same one NAND chip strategy
+QmIcFWu0US0,508440,510900,for the base model M2 MacBook Airs.
+QmIcFWu0US0,510900,513599,"But apart from that, guys, hopefully you enjoyed this video,"
+QmIcFWu0US0,513599,516032,and I'll catch you in the next one.

@@ -1,0 +1,333 @@
+vid,start,end,text
+vRdZ6NvPG5I,200,3120,"- Even with all of the guides we've created over the years,"
+vRdZ6NvPG5I,3120,5970,building a computer can still be pretty challenging
+vRdZ6NvPG5I,5970,7640,if you've never done it before.
+vRdZ6NvPG5I,7640,10530,"Wrong CPU socket, confusing case,"
+vRdZ6NvPG5I,10530,13530,and what do I do with all of these RAM slots?
+vRdZ6NvPG5I,13530,17550,Our goal with this Build then was to create a gaming PC
+vRdZ6NvPG5I,17550,21849,"that is not only darn near impossible to screw up,"
+vRdZ6NvPG5I,21850,23800,but that you can build yourself
+vRdZ6NvPG5I,23800,26279,in less time than it would take to drive to the store
+vRdZ6NvPG5I,26280,27810,and buy a console.
+vRdZ6NvPG5I,27810,30070,Micro Center stepped up and sponsored us
+vRdZ6NvPG5I,30070,33570,then to give you the fool-proof PC.
+vRdZ6NvPG5I,33570,35210,"So grab a screwdriver,"
+vRdZ6NvPG5I,35210,39447,"preferably one from lttstore.com, and follow along."
+vRdZ6NvPG5I,39447,42030,(upbeat music)
+vRdZ6NvPG5I,48372,52010,"After slipping an ESD bracelet over my ankle,"
+vRdZ6NvPG5I,52010,54570,we will start as always with the motherboard.
+vRdZ6NvPG5I,54570,57110,And ASUS ROG Strix B660-I.
+vRdZ6NvPG5I,57110,58940,"And I can already hear you saying,"
+vRdZ6NvPG5I,58940,62110,"Linus, small form factor is hard and (mutters)."
+vRdZ6NvPG5I,63000,64750,"You gotta trust me, okay?"
+vRdZ6NvPG5I,64750,66200,An ITX motherboard
+vRdZ6NvPG5I,66200,68399,"might not have as much room for expansion,"
+vRdZ6NvPG5I,68400,72150,but it also has almost no room to screw up.
+vRdZ6NvPG5I,72150,73740,Which memory slots do I use?
+vRdZ6NvPG5I,73740,76150,"Doy, the only ones."
+vRdZ6NvPG5I,76150,77360,Where do I get it?
+vRdZ6NvPG5I,77360,79030,"Micro Center, obviously."
+vRdZ6NvPG5I,79030,80760,"See, easy."
+vRdZ6NvPG5I,80760,83310,The box will serve as a handy build surface.
+vRdZ6NvPG5I,83310,86040,"Just unlatch the retention arm and pull it open,"
+vRdZ6NvPG5I,86040,89720,then orient your unboxed LGA 1700 CPU
+vRdZ6NvPG5I,89720,91920,using the golden triangle on the CPU
+vRdZ6NvPG5I,91920,93630,"and on the socket cover,"
+vRdZ6NvPG5I,93630,97079,or by lining up the notches on the top and bottom.
+vRdZ6NvPG5I,97080,99880,We went with Intel's Core i5-12600K
+vRdZ6NvPG5I,99880,102180,because it offers great gaming performance
+vRdZ6NvPG5I,102180,104680,and we like the value that those efficiency cores
+vRdZ6NvPG5I,104680,107640,bring to the table for multi-threaded workloads.
+vRdZ6NvPG5I,107640,109300,"Once it's in, give it a little wiggle"
+vRdZ6NvPG5I,109300,111000,"to make sure it's seated correctly,"
+vRdZ6NvPG5I,111000,113630,then push the lid down until the top latch
+vRdZ6NvPG5I,113630,115939,"grabs hold of the lid, push the retention arm down"
+vRdZ6NvPG5I,115940,119980,and you can really giver here and tuck it under its holder.
+vRdZ6NvPG5I,119980,121820,The socket cover should pop off on its own.
+vRdZ6NvPG5I,121820,122670,Set that aside
+vRdZ6NvPG5I,122670,125610,in case you ever want to RMA or sell your motherboard.
+vRdZ6NvPG5I,125610,129789,"The next step is to install our SSD, a Samsung 980 PRO."
+vRdZ6NvPG5I,129789,133969,"It is pricey, but Samsung regularly performs very well"
+vRdZ6NvPG5I,133970,135840,in Puget reliability reports
+vRdZ6NvPG5I,135840,139180,and it's a really fast drive that can truly take advantage
+vRdZ6NvPG5I,139180,141150,of PCIe Gen 4.
+vRdZ6NvPG5I,141150,143780,"Capacity as always, is a personal choice"
+vRdZ6NvPG5I,143780,146380,but since we only have 2M.2 slots
+vRdZ6NvPG5I,146380,148310,we decided on a two terabyte model
+vRdZ6NvPG5I,148310,150280,so you won't need to upgrade right away.
+vRdZ6NvPG5I,150280,152110,Unless of course you're a data hoarder
+vRdZ6NvPG5I,152110,153900,"in which case, make sure to get subscribed"
+vRdZ6NvPG5I,153900,155739,so you don't miss our upcoming video
+vRdZ6NvPG5I,155740,158340,about who's the biggest data hoarder at LMG
+vRdZ6NvPG5I,158340,160980,and what solutions everybody uses.
+vRdZ6NvPG5I,160980,163170,"Both slots on this board are Gen 4,"
+vRdZ6NvPG5I,163170,164950,so there's no wrong answer.
+vRdZ6NvPG5I,164950,168520,But both have slightly different installation methods.
+vRdZ6NvPG5I,168520,170670,"The rear slot goes in like this,"
+vRdZ6NvPG5I,170670,174130,and needs this screw from the motherboard box to secure it.
+vRdZ6NvPG5I,174130,176060,I prefer to use this one for now
+vRdZ6NvPG5I,176060,178340,since this slot is gonna be harder to access
+vRdZ6NvPG5I,178340,179819,when it's time to upgrade.
+vRdZ6NvPG5I,179820,180980,"When that time comes,"
+vRdZ6NvPG5I,180980,183590,the front slot is under the motherboard armor.
+vRdZ6NvPG5I,183590,185430,"Take out these three screws,"
+vRdZ6NvPG5I,185430,187180,"a number one Phillips will do the trick,"
+vRdZ6NvPG5I,187180,189689,then lift it off and set it aside.
+vRdZ6NvPG5I,189690,191650,Peel off the film covering the thermal pad
+vRdZ6NvPG5I,191650,194610,and slide in the SSD until it clicks into place.
+vRdZ6NvPG5I,194610,197210,Push it down and check this out.
+vRdZ6NvPG5I,197210,199810,ASUS calls this M.2 Q-Latch
+vRdZ6NvPG5I,199810,201349,and it makes SSD installation
+vRdZ6NvPG5I,201350,204410,as simple as rotating this little plastic doodad.
+vRdZ6NvPG5I,204410,205540,Love it.
+vRdZ6NvPG5I,205540,207629,"At this stage, you can just not bother"
+vRdZ6NvPG5I,207630,208610,putting the armor back on
+vRdZ6NvPG5I,208610,210030,"if you wanna save some time,"
+vRdZ6NvPG5I,210030,212930,it's really unlikely to affect performance
+vRdZ6NvPG5I,212930,215810,"but if you like the look, peel the film off the underside,"
+vRdZ6NvPG5I,215810,219130,place it over the drive and screw it back down into place.
+vRdZ6NvPG5I,219130,220940,"Now for the CPU heat sink,"
+vRdZ6NvPG5I,220940,223920,the LGA 1700 socket is still pretty new.
+vRdZ6NvPG5I,223920,226319,So any cooler that's been sitting on the shelf for a year
+vRdZ6NvPG5I,226320,228330,might not include the right hardware.
+vRdZ6NvPG5I,228330,231200,But if you reach out to Noctua with proof of purchase
+vRdZ6NvPG5I,231200,233560,they will send you a free mounting kit.
+vRdZ6NvPG5I,233560,237790,This is a potential extra step in our fool-proof PC
+vRdZ6NvPG5I,237790,241180,but thankfully this kit makes it impossible
+vRdZ6NvPG5I,241180,242859,to screw up your mount.
+vRdZ6NvPG5I,242860,244840,We went with the NH-U12S
+vRdZ6NvPG5I,244840,246560,"for its excellent performance,"
+vRdZ6NvPG5I,246560,248819,compatibility and ease of use.
+vRdZ6NvPG5I,248820,250540,Also it's available at Micro Center.
+vRdZ6NvPG5I,250540,253060,But another solid option the community seems to really like
+vRdZ6NvPG5I,253060,255930,is the Scythe Mugen 5 Rev.b.
+vRdZ6NvPG5I,255930,258600,Pick up your motherboard with one hand by the IO shield
+vRdZ6NvPG5I,258600,261170,and push the back blade into place through these holes.
+vRdZ6NvPG5I,261170,262002,"It's symmetrical,"
+vRdZ6NvPG5I,262002,263360,so the only thing that really matters
+vRdZ6NvPG5I,263360,264550,is that the holes correspond
+vRdZ6NvPG5I,264550,266819,to where the screws are sticking through the socket.
+vRdZ6NvPG5I,266820,268090,"So easy, right?"
+vRdZ6NvPG5I,268090,270530,"Place the board back down on top of the box,"
+vRdZ6NvPG5I,270530,273180,"slide the plastic spacers over the bolts, like so,"
+vRdZ6NvPG5I,273180,275070,then install the two mounting bars
+vRdZ6NvPG5I,275070,278570,over top of the spacers with the bars curving outward.
+vRdZ6NvPG5I,278570,280050,"Finally, we'll use the thumb nuts"
+vRdZ6NvPG5I,280050,281449,to screw down in our four corners
+vRdZ6NvPG5I,281450,283230,to keep everything in place.
+vRdZ6NvPG5I,283230,286320,"When it comes to thermal compound, don't stress."
+vRdZ6NvPG5I,286320,290040,"Noctua includes a non-conductive, non-capacitive paste"
+vRdZ6NvPG5I,290040,291420,with all of their coolers.
+vRdZ6NvPG5I,291420,294640,So it won't hurt anything to put on some extra.
+vRdZ6NvPG5I,294640,297210,"For these longer LGA 1700 CPUs,"
+vRdZ6NvPG5I,297210,299819,we're gonna go with the thin line down the middle technique
+vRdZ6NvPG5I,299820,303320,and it can be about the width of an uncooked grain of rice.
+vRdZ6NvPG5I,303320,305200,Then remove the fan from the heat sink
+vRdZ6NvPG5I,305200,307400,by pulling out these two wires
+vRdZ6NvPG5I,307400,310449,and place the heat sink over the two mounting points
+vRdZ6NvPG5I,310450,313400,and tighten it down until the screws bottom out.
+vRdZ6NvPG5I,313400,315850,"Honestly, that was the hardest part."
+vRdZ6NvPG5I,315850,318440,"But if you still think that all of this is too difficult,"
+vRdZ6NvPG5I,318440,320920,Micro Center has technicians who can put everything together
+vRdZ6NvPG5I,320920,323260,for you for a $150 build fee.
+vRdZ6NvPG5I,323260,326030,They'll even do hardline water cooling for an upcharge.
+vRdZ6NvPG5I,326030,327540,Let's move on to RAM.
+vRdZ6NvPG5I,327540,330680,DDR5 installs exactly the same as DDR4.
+vRdZ6NvPG5I,330680,332620,And we only have two DIMM slots
+vRdZ6NvPG5I,332620,334630,so you can't put them in the wrong one.
+vRdZ6NvPG5I,334630,336970,We've also chosen lower spec DDR5
+vRdZ6NvPG5I,336970,339840,to ensure that we don't run into any instability
+vRdZ6NvPG5I,339840,342919,or compatibility issues when enabling XNP.
+vRdZ6NvPG5I,342920,345640,We also considered the size of our modules.
+vRdZ6NvPG5I,345640,348290,You might choose to mostly follow our parts list
+vRdZ6NvPG5I,348290,350870,"but maybe you change your cooler, for example."
+vRdZ6NvPG5I,350870,353880,"These Corsair Vengeance 5200 mega transfer per second,"
+vRdZ6NvPG5I,353880,357630,C38 modules will fit in just about anything.
+vRdZ6NvPG5I,357630,360240,Push down the tabs on the top end of the DIMM slots
+vRdZ6NvPG5I,360240,362440,then align the notch of your memory module
+vRdZ6NvPG5I,362440,364010,with the notch on the slot.
+vRdZ6NvPG5I,364010,366610,Slide the first module into the rails
+vRdZ6NvPG5I,366610,369650,then guide it to the bottom and press firmly
+vRdZ6NvPG5I,369650,372630,with two thumbs until you hear a click on each side.
+vRdZ6NvPG5I,372630,374280,Do it again for the second module
+vRdZ6NvPG5I,374280,376970,and then you are all set.
+vRdZ6NvPG5I,376970,378200,"Now that our memory's installed,"
+vRdZ6NvPG5I,378200,379990,we can attach our fan to our heat sink
+vRdZ6NvPG5I,379990,381910,"with the side clips like so,"
+vRdZ6NvPG5I,381910,385200,then plug the cable into the gray fan header at the top.
+vRdZ6NvPG5I,385200,386960,This is your CPU_FAN header
+vRdZ6NvPG5I,386960,390100,and the one directly next to it is the AIO_pump header.
+vRdZ6NvPG5I,390100,391780,"We'll get to our case selection in a second,"
+vRdZ6NvPG5I,391780,395500,but for now since we know that it comes with two case fans
+vRdZ6NvPG5I,395500,397150,we're gonna use a handy Y-Splitter
+vRdZ6NvPG5I,397150,399360,and plug it into the chassis fan header up here
+vRdZ6NvPG5I,399360,401129,near the CPU power connector.
+vRdZ6NvPG5I,401130,403760,"If you don't wanna pay the extra few dollars, that's okay,"
+vRdZ6NvPG5I,403760,406140,"you can use the pump header for your second chassis fan,"
+vRdZ6NvPG5I,406140,408820,it just might require a little bit of extra configuration
+vRdZ6NvPG5I,408820,410900,"to get it to properly ramp up and down,"
+vRdZ6NvPG5I,410900,413130,according to your system temperatures.
+vRdZ6NvPG5I,413130,416150,"All right, remember when I asked you to trust me"
+vRdZ6NvPG5I,416150,417440,small form factors hard
+vRdZ6NvPG5I,417440,419550,but we're not building small form factor?
+vRdZ6NvPG5I,419550,423430,Our biggest trick today is the Jake Tivy special
+vRdZ6NvPG5I,423430,427310,"putting an ITX board in an ATX case,"
+vRdZ6NvPG5I,427310,431338,specifically the H510 Flow from NZXT.
+vRdZ6NvPG5I,431338,435110,"Ah, so much room for activities."
+vRdZ6NvPG5I,435110,437550,"Okay, we're gonna do this in sort of a weird order"
+vRdZ6NvPG5I,437550,438819,but you'll thank me later.
+vRdZ6NvPG5I,438820,441150,Starting with our power supply.
+vRdZ6NvPG5I,441150,443790,"Yes, I know fully modular power supplies"
+vRdZ6NvPG5I,443790,446550,are a super cool upgrade for experienced builders.
+vRdZ6NvPG5I,446550,449330,"But while it's hard to put cables in the wrong way,"
+vRdZ6NvPG5I,449330,452550,it's not impossible and it does add extra steps.
+vRdZ6NvPG5I,452550,455580,So we went with an EVGA 700 GD.
+vRdZ6NvPG5I,455580,457349,It's rated for 80 plus gold efficiency
+vRdZ6NvPG5I,457350,459520,and outputs a bit more use than we need today
+vRdZ6NvPG5I,459520,461919,with some to spare for the reportedly power hungry
+vRdZ6NvPG5I,461920,464520,upcoming RTX 4000 series.
+vRdZ6NvPG5I,464520,465919,Let's grab the only three cables
+vRdZ6NvPG5I,465920,467710,we actually need for our build now.
+vRdZ6NvPG5I,467710,472539,"The ATX 24 pin, CPU 8 pin and PCIe 8 pin."
+vRdZ6NvPG5I,472540,474170,We'll take the others that we don't need
+vRdZ6NvPG5I,474170,476250,"like these SATA and Molex cables,"
+vRdZ6NvPG5I,476250,478410,as well as these extra PCIe cables
+vRdZ6NvPG5I,478410,481340,bundle them together and forget about them for now.
+vRdZ6NvPG5I,481340,483680,"Put your power supply close to your case like this,"
+vRdZ6NvPG5I,483680,485460,then take the eight pin CPU cable
+vRdZ6NvPG5I,485460,487449,and feed it through the cutout at the top.
+vRdZ6NvPG5I,487450,489850,Give yourself as much slack as possible for now
+vRdZ6NvPG5I,489850,491520,we're gonna clean that up later.
+vRdZ6NvPG5I,491520,494210,"While you're up here, feed the rear exhaust fan cable"
+vRdZ6NvPG5I,494210,496069,out through that same cutout.
+vRdZ6NvPG5I,496070,498190,This next step can be done with your case standing
+vRdZ6NvPG5I,498190,500720,"which will make the CPU power cable easier to manage,"
+vRdZ6NvPG5I,500720,502470,but if you're more comfortable resting your motherboard
+vRdZ6NvPG5I,502470,504790,on the standoffs and then screwing it in with two hands
+vRdZ6NvPG5I,504790,507420,"rather than one, that's perfectly okay."
+vRdZ6NvPG5I,507420,510160,"Either way, we're gonna take our CPU cable in one hand"
+vRdZ6NvPG5I,510160,512610,and the motherboard in the other and bring it close enough
+vRdZ6NvPG5I,512610,515130,that you can plug in the CPU connector
+vRdZ6NvPG5I,515130,518360,by pushing this cable in with the clip pointed out.
+vRdZ6NvPG5I,518360,520329,"If you're not using the Y-Splitter for fans,"
+vRdZ6NvPG5I,520330,522729,plug in your chassis fans now as well.
+vRdZ6NvPG5I,522729,524550,Then as you place the motherboard
+vRdZ6NvPG5I,524550,526100,"on these four standoffs,"
+vRdZ6NvPG5I,526100,528920,"align the IO, no shield installation for us,"
+vRdZ6NvPG5I,528920,530700,our board comes with one pre-installed
+vRdZ6NvPG5I,530700,533600,and gently push it into place.
+vRdZ6NvPG5I,533600,537050,Our ITX board fits perfectly on the pre-installed standoffs
+vRdZ6NvPG5I,537050,539040,and I promise you that using these screws
+vRdZ6NvPG5I,539040,542399,"to secure the three corners here, here, and here"
+vRdZ6NvPG5I,542400,543970,and then resting the last one
+vRdZ6NvPG5I,543970,546889,on the pre-installed center post will be fine.
+vRdZ6NvPG5I,546890,548090,"But if you're truly worried,"
+vRdZ6NvPG5I,548090,549990,feel free to swap out that post
+vRdZ6NvPG5I,549990,551410,with any of the other standoffs
+vRdZ6NvPG5I,551410,553449,using their handy standoff tool.
+vRdZ6NvPG5I,553450,555970,"Now remember that Y-Splitter we plugged in earlier,"
+vRdZ6NvPG5I,555970,557790,tuck the ends of that cable
+vRdZ6NvPG5I,557790,560570,out through the same cutout as your CPU power connector
+vRdZ6NvPG5I,560570,563440,and then plug in the front in rear case fans.
+vRdZ6NvPG5I,563440,565800,We can now wire up our case IO since we're in here
+vRdZ6NvPG5I,565800,568970,and this is why we chose NZXT.
+vRdZ6NvPG5I,568970,572250,"The power switch, reset switch and power LED"
+vRdZ6NvPG5I,572250,574570,are all properly grouped together for us
+vRdZ6NvPG5I,574570,577560,so we plug them all in at once.
+vRdZ6NvPG5I,577560,580080,"I mean, I get it universal compatibility"
+vRdZ6NvPG5I,580080,581600,with the broken out ones.
+vRdZ6NvPG5I,581600,582560,That's pretty cool.
+vRdZ6NvPG5I,582560,584880,"But most modern boards are the same,"
+vRdZ6NvPG5I,584880,587790,"and man, is this ever a time saver?"
+vRdZ6NvPG5I,587790,590470,"USB-C goes here, USB-A goes here."
+vRdZ6NvPG5I,590470,591319,Both of them are keyed
+vRdZ6NvPG5I,591320,592840,"so they only go in one way,"
+vRdZ6NvPG5I,592840,594700,then we're gonna take our HD Audio
+vRdZ6NvPG5I,594700,596030,and stretch it across our board
+vRdZ6NvPG5I,596030,600040,so it can rest snuggly between our GPU and our CPU cooler.
+vRdZ6NvPG5I,600040,602970,Now it's time to push your power supply into the basement
+vRdZ6NvPG5I,602970,604000,through the side.
+vRdZ6NvPG5I,604000,607920,Get your ATX 24 pin and PCIe 8 pin out of the way
+vRdZ6NvPG5I,607920,610660,then you can tuck all those extra cables outta site.
+vRdZ6NvPG5I,610660,611910,So roomy!
+vRdZ6NvPG5I,611910,614029,Run the ATX 24 pin up the side
+vRdZ6NvPG5I,614030,617290,then out through any of the nearby cutouts and plug it in.
+vRdZ6NvPG5I,617290,619250,It's key to only go in one way.
+vRdZ6NvPG5I,619250,621480,Then the PCIe cable comes up through the basement
+vRdZ6NvPG5I,621480,623350,and we can leave it hanging there for now.
+vRdZ6NvPG5I,623350,626190,"Next, grab the four screws included with your power supply"
+vRdZ6NvPG5I,626190,629020,"and secure it here, here, here, and here."
+vRdZ6NvPG5I,629020,631280,"At this point, if we were using integrated graphics"
+vRdZ6NvPG5I,631280,632270,"we'd be ready to rock,"
+vRdZ6NvPG5I,632270,635610,but the GPU shortage is finally settling down.
+vRdZ6NvPG5I,635610,637399,Micro Center has lots of stock.
+vRdZ6NvPG5I,637400,639900,Mostly in their stores to help produce online scalping.
+vRdZ6NvPG5I,639900,643500,So we chose an EVGA RTX 3060 XC.
+vRdZ6NvPG5I,643500,647460,It's a great match for our 12600K and being a 2-fan card
+vRdZ6NvPG5I,647460,651260,"in a case, this size, it is a breeze to install."
+vRdZ6NvPG5I,651260,653370,"Remove the two top slot covers from the case,"
+vRdZ6NvPG5I,653370,655220,then put them with your case hardware
+vRdZ6NvPG5I,655220,657060,and keep those two screws.
+vRdZ6NvPG5I,657060,659710,"Grab your GPU, remove the PCIe protector"
+vRdZ6NvPG5I,659710,661750,"as well as whichever display out covers you'll need,"
+vRdZ6NvPG5I,661750,664870,"and if you're a novice, I would suggest laying your case"
+vRdZ6NvPG5I,664870,667010,down for an easier time here.
+vRdZ6NvPG5I,667010,668700,"Line up the slot with the connector,"
+vRdZ6NvPG5I,668700,670130,you might have to wiggle this around a bit
+vRdZ6NvPG5I,670130,673400,to get it just right and push it down until it's seated.
+vRdZ6NvPG5I,673400,674390,You can check if you're done
+vRdZ6NvPG5I,674390,676230,by trying to spot the case holes
+vRdZ6NvPG5I,676230,678490,"through the rear bracket like this,"
+vRdZ6NvPG5I,678490,682233,or by checking the PCIe lock to make sure that it's engaged.
+vRdZ6NvPG5I,683100,686649,And we are in business.
+vRdZ6NvPG5I,686650,688770,Now we just need to screw it back down
+vRdZ6NvPG5I,688770,693330,and plug in our last power connector a little like so.
+vRdZ6NvPG5I,693330,694340,And that's it.
+vRdZ6NvPG5I,694340,697800,Following this guide you could conceivably complete this PC
+vRdZ6NvPG5I,697800,699630,"in 10 to 15 minutes,"
+vRdZ6NvPG5I,699630,701660,and I'm so confident that it's gonna work.
+vRdZ6NvPG5I,701660,705433,I'm gonna put the panels on before I power it up.
+vRdZ6NvPG5I,706300,708440,You can check out all the products that we used by the way
+vRdZ6NvPG5I,708440,711030,in the links down below while we get windows installed
+vRdZ6NvPG5I,711030,712810,and then get some games fired up.
+vRdZ6NvPG5I,712810,714103,"Blah, blah, blah, blah."
+vRdZ6NvPG5I,715900,717990,This is a fantastic gaming experience.
+vRdZ6NvPG5I,717990,720490,Doom Eternal's not the most difficult game to run
+vRdZ6NvPG5I,720490,722773,"but anything that can do Doom Eternal 1440P,"
+vRdZ6NvPG5I,723761,728420,130 to 150 FPS is gonna be having a pretty darn good time
+vRdZ6NvPG5I,728420,730300,in just about any AAA game
+vRdZ6NvPG5I,730300,734510,that has at least some reason level of optimization.
+vRdZ6NvPG5I,734510,735820,"And the craziest part of all of this,"
+vRdZ6NvPG5I,735820,738470,is GPUs are finally coming down to prices
+vRdZ6NvPG5I,738470,742889,"that you could conceivably, actually build this thing."
+vRdZ6NvPG5I,742890,744340,"I love it, right?"
+vRdZ6NvPG5I,744340,746180,We have struggled so much to make videos
+vRdZ6NvPG5I,746180,747870,for the last two years.
+vRdZ6NvPG5I,747870,749270,This is great.
+vRdZ6NvPG5I,749270,751040,So whether you wanna build it yourself
+vRdZ6NvPG5I,751040,753829,or just pick out something you know has good parts
+vRdZ6NvPG5I,753830,755600,"rather than rolling the dice on a pre-built,"
+vRdZ6NvPG5I,755600,758709,you can find everything you're looking for at Micro Center.
+vRdZ6NvPG5I,758710,760500,"They've got a great selection of products,"
+vRdZ6NvPG5I,760500,763020,knowledgeable associates to help you when you're shopping
+vRdZ6NvPG5I,763020,765540,and plenty of products available in store.
+vRdZ6NvPG5I,765540,768180,"Not feeling social, you can place your order online"
+vRdZ6NvPG5I,768180,769390,and get your products fast
+vRdZ6NvPG5I,769390,772410,with their 18 minute in-store pickup options.
+vRdZ6NvPG5I,772410,775949,"They've got fantastic prices, 25 U.S. locations"
+vRdZ6NvPG5I,775950,777720,with their own service and repair departments.
+vRdZ6NvPG5I,777720,780240,So you can avoid shipping RMA products overseas.
+vRdZ6NvPG5I,780240,782240,"And if you're a new customer,"
+vRdZ6NvPG5I,782240,784240,"well, Micro Center wants to offer you"
+vRdZ6NvPG5I,784240,787360,a free 128 gig USB flash drive
+vRdZ6NvPG5I,787360,789769,and a 128 gig microSD card.
+vRdZ6NvPG5I,789770,791580,Check out the link in the video description.
+vRdZ6NvPG5I,791580,792970,New customers only; No purchase necessary;
+vRdZ6NvPG5I,792970,794199,Limited time offer; Valid in-store only;
+vRdZ6NvPG5I,794200,795890,Limit one coupon per customer.
+vRdZ6NvPG5I,795890,796970,"If you guys enjoyed this video,"
+vRdZ6NvPG5I,796970,799439,make sure to check out the build stream that we did recently
+vRdZ6NvPG5I,799440,801520,for a solid budget build.
+vRdZ6NvPG5I,801520,802928,"I was also sponsored by Micro Center, right?"
+vRdZ6NvPG5I,802928,803850,"- [Man] Yeah. - Yeah, I was."
+vRdZ6NvPG5I,803850,804683,(upbeat music)

@@ -1,0 +1,494 @@
+vid,start,end,text
+QW3KRaz4aI4,150,2050,"- Hello, I'm Jeffrey Rosenthal."
+QW3KRaz4aI4,2050,3400,I'm a Professor of Statistics
+QW3KRaz4aI4,3400,5000,at the University of Toronto.
+QW3KRaz4aI4,5000,7069,And this is Stats Support.
+QW3KRaz4aI4,7069,9736,[upbeat music]
+QW3KRaz4aI4,10817,13247,"Question from Kingdweeb,"
+QW3KRaz4aI4,13247,15927,"""Why do statisticians get so worked up over probability?"
+QW3KRaz4aI4,15927,18130,Every event is just 50/50.
+QW3KRaz4aI4,18130,19800,"It either happens or it doesn't."""
+QW3KRaz4aI4,19800,22279,"This is something I've heard before this idea that,"
+QW3KRaz4aI4,22280,24680,"well if it can either happen or not, it must be 50/50."
+QW3KRaz4aI4,24680,26590,Sometimes that's referred to by philosophers
+QW3KRaz4aI4,26590,28660,as the principle of indifference
+QW3KRaz4aI4,28660,30090,meaning that anything that could happen
+QW3KRaz4aI4,30090,32040,they must all have the same probability.
+QW3KRaz4aI4,32040,33400,"The thing is, it's just not true."
+QW3KRaz4aI4,33400,35140,When I go home today from the studio
+QW3KRaz4aI4,35140,36970,"I might get killed by a bolt of lightning,"
+QW3KRaz4aI4,36970,38757,or I might not get killed by a bolt of lightning.
+QW3KRaz4aI4,38757,41140,But I'm pretty sure there's not a 50% chance
+QW3KRaz4aI4,41140,43120,I'm gonna get killed by a bolt of lightning.
+QW3KRaz4aI4,43120,46976,"Okay next, we have a question from Whatthefuss who says,"
+QW3KRaz4aI4,46977,49450,"""Why is statistics important in life?"""
+QW3KRaz4aI4,49450,52030,"Really, we're awash in all kinds of different data."
+QW3KRaz4aI4,52030,54030,So anything from the spread of disease
+QW3KRaz4aI4,54030,58300,"or crime statistics, or studies of a medical treatment"
+QW3KRaz4aI4,58300,60780,"or financial data or public opinion polls,"
+QW3KRaz4aI4,60780,63559,there's so many facts and figures and statistics out there.
+QW3KRaz4aI4,63560,65269,The science of statistics
+QW3KRaz4aI4,65269,66850,is a way to try to sort through it.
+QW3KRaz4aI4,66850,69700,So if you don't have any statistical knowledge
+QW3KRaz4aI4,69700,71259,"or understanding or perspective,"
+QW3KRaz4aI4,71260,72680,"then you're likely just say, well"
+QW3KRaz4aI4,72680,74850,"this must be true because my friend said it,"
+QW3KRaz4aI4,74850,77320,or this must be true because I heard it on the news
+QW3KRaz4aI4,77320,79200,or I just kind of think it must be true.
+QW3KRaz4aI4,79200,80579,"But if you have statistics,"
+QW3KRaz4aI4,80580,82330,you can try to analyze all the facts
+QW3KRaz4aI4,82330,83270,and figures that are out there
+QW3KRaz4aI4,83270,85049,"and try to see what are the real trends,"
+QW3KRaz4aI4,85050,87450,what's really happening versus what things really
+QW3KRaz4aI4,87450,89000,aren't the way people think they are.
+QW3KRaz4aI4,89000,93227,"Next we have question from Lawrenceitv says,"
+QW3KRaz4aI4,93227,95170,"""Question for statisticians."
+QW3KRaz4aI4,95170,98659,"Why did the polls get it so wrong, explanations please?"""
+QW3KRaz4aI4,98660,100780,"Yeah, so public opinion polling, especially"
+QW3KRaz4aI4,100780,104020,when it's predicting elections is a very high profile thing
+QW3KRaz4aI4,104020,105780,but also a hard thing to do.
+QW3KRaz4aI4,105780,108659,And usually people notice the mistakes more
+QW3KRaz4aI4,108660,109493,than the corrections.
+QW3KRaz4aI4,109493,111187,"So, a lot of public polling for elections"
+QW3KRaz4aI4,111187,112770,has actually been quite accurate
+QW3KRaz4aI4,112770,114340,and it's predicted things quite well
+QW3KRaz4aI4,114340,117369,"but there have been some high profile misses, for example"
+QW3KRaz4aI4,117370,121000,the US presidential elections of 2016 and the 2020.
+QW3KRaz4aI4,121000,122680,"Now, even in those cases,"
+QW3KRaz4aI4,122680,124620,typically the polls prediction compared
+QW3KRaz4aI4,124620,126800,to the actual results was usually only off
+QW3KRaz4aI4,126800,128539,"by about four or 5%,"
+QW3KRaz4aI4,128539,130459,which isn't such a huge amount considering
+QW3KRaz4aI4,130460,132410,how hard it is to figure out what's gonna happen.
+QW3KRaz4aI4,132410,133990,But it's still a big enough error
+QW3KRaz4aI4,133990,136310,"that if the election's close, it can make a big difference."
+QW3KRaz4aI4,136310,137142,So why is that?
+QW3KRaz4aI4,137143,140430,"Well, election polls, of course they don't ask everybody"
+QW3KRaz4aI4,140430,141262,how they're gonna vote.
+QW3KRaz4aI4,141263,144010,"They just ask a sample, usually a few thousand people"
+QW3KRaz4aI4,144010,145019,and then try to figure out
+QW3KRaz4aI4,145020,147740,what maybe a hundred million people are going to do.
+QW3KRaz4aI4,147740,148980,"So, that is a challenge."
+QW3KRaz4aI4,148980,152250,"The good news is if the polling is done randomly,"
+QW3KRaz4aI4,152250,154750,that is we're equally likely to pick every person
+QW3KRaz4aI4,154750,156170,with the same probability.
+QW3KRaz4aI4,156170,158728,Then we have good statistics to allow us to figure out
+QW3KRaz4aI4,158728,160560,"how accurate we're gonna be,"
+QW3KRaz4aI4,160560,162899,what will be the so-called margin of error?
+QW3KRaz4aI4,162899,165580,How close we'll usually be to the true answer.
+QW3KRaz4aI4,165580,167410,And actually that works pretty well
+QW3KRaz4aI4,167410,169417,but what makes it especially hard for the pollsters
+QW3KRaz4aI4,169417,171830,is that it's hard to get a random sample.
+QW3KRaz4aI4,171830,173080,And the main reason
+QW3KRaz4aI4,173080,175680,is because most people don't wanna talk to pollsters.
+QW3KRaz4aI4,175680,177849,"Polling companies don't necessarily like to talk about it,"
+QW3KRaz4aI4,177850,181059,but their response rates are usually less than 10%.
+QW3KRaz4aI4,181059,183320,And that can lead to a lot of biases
+QW3KRaz4aI4,183320,185939,because maybe people who support a certain candidate
+QW3KRaz4aI4,185939,188370,are a little bit more likely to agree to talk
+QW3KRaz4aI4,188370,191019,to the pollsters than people who support another candidate.
+QW3KRaz4aI4,191020,192820,And any little response bias
+QW3KRaz4aI4,192820,195410,like that can have a huge impact on the results.
+QW3KRaz4aI4,195410,197997,"Question from, CmonMattTHINK,"
+QW3KRaz4aI4,197997,200500,"""What are some common statistical errors"
+QW3KRaz4aI4,200500,202480,"and how can we learn to spot them and if possible,"
+QW3KRaz4aI4,202480,204610,"correct them in others and our own work?"""
+QW3KRaz4aI4,204610,206690,One of the biggest things is people don't think
+QW3KRaz4aI4,206690,209470,about what I like to call the out of how many principle.
+QW3KRaz4aI4,209470,211447,And that's this idea that when something happens
+QW3KRaz4aI4,211447,213977,at striking people will compute the probability
+QW3KRaz4aI4,213977,216899,"of it happening in that exact way to that exact person,"
+QW3KRaz4aI4,216899,218950,but not look at the chance that it will happen
+QW3KRaz4aI4,218950,220239,in some way to somebody.
+QW3KRaz4aI4,220240,221780,There was a woman
+QW3KRaz4aI4,221780,226550,in England who had two sons who each died in infancy.
+QW3KRaz4aI4,226550,227820,"There is something, as you probably know"
+QW3KRaz4aI4,227820,230170,called SIDS or a sudden infant death syndrome.
+QW3KRaz4aI4,230170,232959,"So maybe just two times she got really, really unlucky"
+QW3KRaz4aI4,232960,236450,"and her baby stopped breathing, or maybe she was a murderer."
+QW3KRaz4aI4,236450,238840,"And she had actually, she'd actually suffocated them"
+QW3KRaz4aI4,238840,241430,and she was arrested and charged.
+QW3KRaz4aI4,241430,243017,"And at her trial, they said,"
+QW3KRaz4aI4,243017,246569,"""Oh it's so unlikely that there'd be two SIDS cases"
+QW3KRaz4aI4,246570,249110,in the same family that we can rule that out.
+QW3KRaz4aI4,249110,251080,"She must have actually tried to kill them."""
+QW3KRaz4aI4,251080,253070,And that's an interesting example
+QW3KRaz4aI4,253070,255530,"where if you just look at the probability,"
+QW3KRaz4aI4,255530,257480,"given two kids in one family,"
+QW3KRaz4aI4,257480,259579,what's the chance they're both gonna die of SIDS?
+QW3KRaz4aI4,259579,260859,"Of course, it is very unlikely."
+QW3KRaz4aI4,260859,263478,But then if you say out of all the millions of families
+QW3KRaz4aI4,263478,265919,in the United Kingdom or in the whole world
+QW3KRaz4aI4,265920,268030,what's a chance that somewhere there's a family
+QW3KRaz4aI4,268030,270210,where two kids both died of SIDS?
+QW3KRaz4aI4,270210,271130,Extremely likely.
+QW3KRaz4aI4,271130,272710,And it seems like that was the case with her.
+QW3KRaz4aI4,272710,274490,There was actually no other evidence
+QW3KRaz4aI4,274490,276639,that she had actually tried to kill these kids.
+QW3KRaz4aI4,276640,278000,She was just extremely unlucky.
+QW3KRaz4aI4,278000,280230,"And yet, she was convicted, she was jailed."
+QW3KRaz4aI4,280230,281660,She spent several years in jail
+QW3KRaz4aI4,281660,283060,before there was enough of an outcry.
+QW3KRaz4aI4,283060,284480,"And eventually on the second appeal,"
+QW3KRaz4aI4,284480,285450,the case was overturned.
+QW3KRaz4aI4,285450,287527,"Question from Josh Levs says,"
+QW3KRaz4aI4,287527,289691,"""What's more likely than winning the lottery?"""
+QW3KRaz4aI4,289691,291900,"The short answer is everything,"
+QW3KRaz4aI4,291900,293580,that is to say if you're talking about winning
+QW3KRaz4aI4,293580,296020,"a lottery jackpot for one of the big lotteries,"
+QW3KRaz4aI4,296020,298080,like mega millions or power ball
+QW3KRaz4aI4,298080,299930,then the chance of winning that jackpot
+QW3KRaz4aI4,299930,302560,with a single ticket is one chance
+QW3KRaz4aI4,302560,305450,"in a couple of hundred million, depending on which lottery."
+QW3KRaz4aI4,305450,307010,"So, just incredibly unlikely."
+QW3KRaz4aI4,307010,309240,"So compared to that, almost anything you can think of,"
+QW3KRaz4aI4,309240,310630,being killed by a bolt of lightning
+QW3KRaz4aI4,310630,313570,or the next person you meet will one day be the president
+QW3KRaz4aI4,313570,314403,of the United States
+QW3KRaz4aI4,314403,316090,or any crazy thing you can come up with.
+QW3KRaz4aI4,316090,317600,We can estimate the odds for all of them
+QW3KRaz4aI4,317600,319150,and they're all more likely
+QW3KRaz4aI4,319150,321169,than the chance you're gonna win the Powerball lottery.
+QW3KRaz4aI4,321170,322949,"And in fact, one that I like to use as an example"
+QW3KRaz4aI4,322949,326280,"is if you drive to the store to buy your lottery ticket,"
+QW3KRaz4aI4,326280,328680,you're way more likely to be killed in a car crash
+QW3KRaz4aI4,328680,330990,on your way to the store than you are to win the jackpot.
+QW3KRaz4aI4,330990,334927,"Next, we have a question from SmollyMall."
+QW3KRaz4aI4,334927,337160,"""I'm just patiently waiting for people to realize"
+QW3KRaz4aI4,337160,340580,that all statistics are skewed because the data is skewed
+QW3KRaz4aI4,340580,343939,"in so many ways that I can can't even list them all."""
+QW3KRaz4aI4,343940,346377,"So not a big fan of statistics, maybe, but that's true."
+QW3KRaz4aI4,346377,349190,That's a good point that all data
+QW3KRaz4aI4,349190,351110,is gonna have some things that are wrong with it.
+QW3KRaz4aI4,351110,352159,Maybe it was bias.
+QW3KRaz4aI4,352160,353720,Maybe it wasn't measured correctly.
+QW3KRaz4aI4,353720,355490,Maybe it only shows part of the story
+QW3KRaz4aI4,355490,357430,but I don't think that means we should just forget
+QW3KRaz4aI4,357430,359650,about it and just forget about statistics and data.
+QW3KRaz4aI4,359650,361419,I think what it means is we have to think carefully
+QW3KRaz4aI4,361420,362760,"when we get data, we have to say,"
+QW3KRaz4aI4,362760,364080,how is this data collected?
+QW3KRaz4aI4,364080,366069,Is it an accurate reflection of the truth?
+QW3KRaz4aI4,366070,368520,In what ways is it gonna be biased or misleading?
+QW3KRaz4aI4,368520,370220,And then we can still draw inferences from it.
+QW3KRaz4aI4,370220,372270,But it's true that we have to be careful.
+QW3KRaz4aI4,372270,375186,"We have a question from John Friedberg says,"
+QW3KRaz4aI4,375187,378410,"""About to play what be the absolute worst casino game"
+QW3KRaz4aI4,378410,381050,"in terms of player odds, any guesses?"""
+QW3KRaz4aI4,381050,382310,"Well, it's an interesting question."
+QW3KRaz4aI4,382310,384050,There's different casinos with different games
+QW3KRaz4aI4,384050,386259,"but one of the games, which to my surprise"
+QW3KRaz4aI4,386260,387660,is one of the most popular
+QW3KRaz4aI4,387660,389780,and also has one of the worst odds against you
+QW3KRaz4aI4,389780,392250,is the video lottery terminals.
+QW3KRaz4aI4,392250,394090,"So people love them, but they usually have"
+QW3KRaz4aI4,394090,398280,at least a 5% and maybe 10% or even 15% housage.
+QW3KRaz4aI4,398280,399740,"So, they're really not the best game."
+QW3KRaz4aI4,399740,402720,"Now, there are some casino games which have odds"
+QW3KRaz4aI4,402720,404040,which are much better for the players.
+QW3KRaz4aI4,404040,407740,"So for example, of the pure chance games, the game Craps"
+QW3KRaz4aI4,407740,409580,"where you repeatedly roll a pair of dice,"
+QW3KRaz4aI4,409580,414340,kind of like these you have a 49.2929% chance of winning.
+QW3KRaz4aI4,414340,416686,"Next, we have a question from ShavaKadzi,"
+QW3KRaz4aI4,416687,418610,"""Are murder rates skyrocketing"
+QW3KRaz4aI4,418610,421099,"or the media doesn't have much to report,"
+QW3KRaz4aI4,421100,422780,"so they are focusing more on that?"""
+QW3KRaz4aI4,422780,423620,"Yeah, it's a good question."
+QW3KRaz4aI4,423620,426850,"So, murder rates have generally been coming down"
+QW3KRaz4aI4,426850,428990,a little bit in the last couple of decades.
+QW3KRaz4aI4,428990,430180,"But in the last few years,"
+QW3KRaz4aI4,430180,431699,there's been a little bit of an uptake.
+QW3KRaz4aI4,431700,433610,So they're now a little bit higher
+QW3KRaz4aI4,433610,434900,than they were a few years ago
+QW3KRaz4aI4,434900,436090,but there's still quite a bit lower
+QW3KRaz4aI4,436090,438400,than they were a decade or two go.
+QW3KRaz4aI4,438400,440040,Also I've noticed for example
+QW3KRaz4aI4,440040,443010,"politicians and police spokespeople and so on,"
+QW3KRaz4aI4,443010,444700,"they all will at times say, oh"
+QW3KRaz4aI4,444700,446550,crime rates are way up for their own reasons.
+QW3KRaz4aI4,446550,448360,"They have reasons for wanting that to be said,"
+QW3KRaz4aI4,448360,450729,"even though, maybe it's not actually true."
+QW3KRaz4aI4,450730,451950,So it's just one more reason
+QW3KRaz4aI4,451950,453260,that if you wanna know what's happening
+QW3KRaz4aI4,453260,455341,"with something like rates of crime,"
+QW3KRaz4aI4,455341,457891,well don't listen to what a few people are saying.
+QW3KRaz4aI4,457891,459810,Look at the actual statistics
+QW3KRaz4aI4,459810,461290,and then you can see the truth.
+QW3KRaz4aI4,461290,464777,"Next, we have a question from Brentaclan, says,"
+QW3KRaz4aI4,464777,467322,"""How does probability work in the roulettes?"""
+QW3KRaz4aI4,467322,468155,So that's a good question.
+QW3KRaz4aI4,468155,469150,Roulettes are fairly simple.
+QW3KRaz4aI4,469150,471620,So the standard American Roulette Wheel
+QW3KRaz4aI4,471620,474199,has 38 of those little wedge slots.
+QW3KRaz4aI4,474200,475840,And two of them are green.
+QW3KRaz4aI4,475840,477460,There's the zero and the double zero.
+QW3KRaz4aI4,477460,478740,And then the others are divided
+QW3KRaz4aI4,478740,480639,into eight 18 red and 18 black.
+QW3KRaz4aI4,480640,482460,The person at the casino spins the wheel.
+QW3KRaz4aI4,482460,484060,And presumably it's equally likely
+QW3KRaz4aI4,484060,486800,to come up any of those 38 different wedges.
+QW3KRaz4aI4,486800,489340,"So what it means is if you bet on, for example, red,"
+QW3KRaz4aI4,489340,492010,well 18 out of the 38 wedges are red.
+QW3KRaz4aI4,492010,494590,So you have an 18 out of 38 chance of getting red
+QW3KRaz4aI4,494590,497030,which is a little bit less than 50%.
+QW3KRaz4aI4,497030,498950,"And that's why, if you bet on red"
+QW3KRaz4aI4,498950,501040,"there's an even my payout, but on average"
+QW3KRaz4aI4,501040,503610,you're gonna lose a little bit more money than you win.
+QW3KRaz4aI4,503610,505569,You can also sometimes bet on different things
+QW3KRaz4aI4,505570,507540,like all the even numbers or something like that.
+QW3KRaz4aI4,507540,509750,"But whichever bet you do, it works out to the same thing."
+QW3KRaz4aI4,509750,512150,There's a slight edge in favor of the casino.
+QW3KRaz4aI4,512150,513523,"And that's why if you play Roulette,"
+QW3KRaz4aI4,513523,515690,"over a long period of time, it's gonna be more"
+QW3KRaz4aI4,515690,517950,and more sure that you're gonna lose more money
+QW3KRaz4aI4,517950,518783,than you win.
+QW3KRaz4aI4,518783,521896,"A question from 6Latin6Lover6,"
+QW3KRaz4aI4,521896,524420,"""Who makes betting odds, is it an algorithm?"""
+QW3KRaz4aI4,524420,526649,So it's a really interesting problem
+QW3KRaz4aI4,526650,529690,for the bookies or the people who are making these odds.
+QW3KRaz4aI4,529690,531900,"Now, the goal is pretty easy to understand"
+QW3KRaz4aI4,531900,533980,"'cause if you're a bookie, what you want is pretty"
+QW3KRaz4aI4,533980,536970,much to have the same amount of betting on both sides.
+QW3KRaz4aI4,536970,538730,"So that in the end, you don't really care"
+QW3KRaz4aI4,538730,539680,if the horse wins or not
+QW3KRaz4aI4,539680,541820,or you don't really care if the team wins or not
+QW3KRaz4aI4,541820,543170,"'cause either way you're gonna make money,"
+QW3KRaz4aI4,543170,544180,'cause you're gonna get your cut.
+QW3KRaz4aI4,544180,546720,Whereas if everybody bet on one side and then they all won
+QW3KRaz4aI4,546720,547626,then you could lose a lot of money.
+QW3KRaz4aI4,547627,548530,But on the other hand
+QW3KRaz4aI4,548530,550220,how they do that is kind of a challenge.
+QW3KRaz4aI4,550220,552339,"And usually, they're updating their odds as they go."
+QW3KRaz4aI4,552340,553750,"And if they see you, everybody's betting"
+QW3KRaz4aI4,553750,555630,on this one team G we better change the odds
+QW3KRaz4aI4,555630,556540,so that the next betters
+QW3KRaz4aI4,556540,558470,are more likely to bet on the other side.
+QW3KRaz4aI4,558470,559939,"And I'm not a bookie, but my impression"
+QW3KRaz4aI4,559940,561890,"is that in the old days, it used to be on just kind of"
+QW3KRaz4aI4,561890,564170,by their judgment or experienced people
+QW3KRaz4aI4,564170,566110,looking things over and tweaking things.
+QW3KRaz4aI4,566110,568310,Whereas now there's so much online gambling
+QW3KRaz4aI4,568310,570660,that a lot of it is automated and they have algorithms
+QW3KRaz4aI4,570660,572170,which I think are not simple based
+QW3KRaz4aI4,572170,574120,on how everybody's betting and trying to adjust things.
+QW3KRaz4aI4,574120,575870,"But the goal is pretty easy to understand,"
+QW3KRaz4aI4,575870,577480,trying to balance out those bets.
+QW3KRaz4aI4,577480,579011,Question from Zenodotus.
+QW3KRaz4aI4,579011,581579,"What is stochastic process, really?"
+QW3KRaz4aI4,581580,582560,"Well, I'm glad you asked."
+QW3KRaz4aI4,582560,585880,"So, stochastic is just another word for random."
+QW3KRaz4aI4,585880,587300,"So, it means random processes"
+QW3KRaz4aI4,587300,589330,or things that proceed randomly in time.
+QW3KRaz4aI4,589330,591030,And the simplest example is actually one.
+QW3KRaz4aI4,591030,592300,I sometimes like to illustrate
+QW3KRaz4aI4,592300,594149,with my students using a stuff frog.
+QW3KRaz4aI4,594150,594983,So I'll do that here.
+QW3KRaz4aI4,594983,596418,"And we imagine we have a frog,"
+QW3KRaz4aI4,596419,599150,which every second randomly decides
+QW3KRaz4aI4,599150,602550,either to move one step this way
+QW3KRaz4aI4,602550,604380,or to move one step this way.
+QW3KRaz4aI4,604380,606020,"And once it does, then the next second,"
+QW3KRaz4aI4,606020,608750,it again decides randomly to move one step this way
+QW3KRaz4aI4,608750,609860,or one step this way.
+QW3KRaz4aI4,609860,612180,"And yet, it's actually really interesting"
+QW3KRaz4aI4,612180,613680,for mathematicians to study this.
+QW3KRaz4aI4,613680,615803,What's the chance that the frog will eventually return
+QW3KRaz4aI4,615803,618269,"into where it started, turns out it's 100%."
+QW3KRaz4aI4,618270,620170,"It's certain, they might take a really long time"
+QW3KRaz4aI4,620170,622570,but eventually it's gonna return to where it started.
+QW3KRaz4aI4,622570,623403,"And in fact, eventually,"
+QW3KRaz4aI4,623403,625920,it's gonna be a million steps that way.
+QW3KRaz4aI4,625920,628550,"And eventually it's gonna be a billion steps that way,"
+QW3KRaz4aI4,628550,630380,it's gonna go to every single place.
+QW3KRaz4aI4,630380,633020,"Eventually, if you wait long enough with probability one,"
+QW3KRaz4aI4,633020,633950,we can prove that.
+QW3KRaz4aI4,633950,636710,"Next, we have a question from Anacelx, says,"
+QW3KRaz4aI4,636710,639910,"""What does it mean to be statistically significant?"""
+QW3KRaz4aI4,639910,643120,"So, statistically significant is saying probably"
+QW3KRaz4aI4,643120,644170,it wasn't just chance.
+QW3KRaz4aI4,644170,646620,"That this is enough of an effect that we can pretty much,"
+QW3KRaz4aI4,646620,648990,"you can never do it for sure, but you can pretty much say"
+QW3KRaz4aI4,648990,650740,it's probably not due to chance alone.
+QW3KRaz4aI4,650740,653100,Probably this actually shows something real.
+QW3KRaz4aI4,653100,654240,There was really a difference
+QW3KRaz4aI4,654240,655360,or there was really an increase
+QW3KRaz4aI4,655360,656680,or something really happened.
+QW3KRaz4aI4,656680,658070,It wasn't just the random luck.
+QW3KRaz4aI4,658070,659570,"So, the basic idea is pretty simple."
+QW3KRaz4aI4,659570,661110,"It sometimes gets lost in the details,"
+QW3KRaz4aI4,661110,663260,"but when you notice something that happens,"
+QW3KRaz4aI4,663260,665070,"maybe, oh this classroom did better"
+QW3KRaz4aI4,665070,666580,on the test than this other classroom.
+QW3KRaz4aI4,666580,668790,"Then as statisticians, the fundamental question"
+QW3KRaz4aI4,668790,671740,"you're always asking is, does that mean something real?"
+QW3KRaz4aI4,671740,673760,"Like, oh, maybe the teaching was better in this class,"
+QW3KRaz4aI4,673760,676110,or maybe people in that class are smarter.
+QW3KRaz4aI4,676110,677610,Or was it just random luck?
+QW3KRaz4aI4,677610,679810,"So, you'd never expect any two results"
+QW3KRaz4aI4,679810,680900,to be exactly the same.
+QW3KRaz4aI4,680900,682570,There's always gonna be some differences.
+QW3KRaz4aI4,682570,685090,"Okay, next question from John Elworthy."
+QW3KRaz4aI4,685090,686950,Can someone please help with this?
+QW3KRaz4aI4,686950,689370,What are the odds of having three generations
+QW3KRaz4aI4,689370,692140,of family members being born on the same day?
+QW3KRaz4aI4,692140,694370,"First was born on January 10th, 1943,"
+QW3KRaz4aI4,694370,696320,"the second, same day, 1994"
+QW3KRaz4aI4,696320,698800,"the third, same day in 2022."
+QW3KRaz4aI4,698800,700130,It's actually a good example
+QW3KRaz4aI4,700130,702210,of the sort of question that there's different ways
+QW3KRaz4aI4,702210,703400,of looking at the probability.
+QW3KRaz4aI4,703400,705510,"So, if you just say there's three people,"
+QW3KRaz4aI4,705510,707070,what are the chances they'll all have been born
+QW3KRaz4aI4,707070,707970,on the same day?
+QW3KRaz4aI4,707970,708990,"Well, that's pretty straightforward."
+QW3KRaz4aI4,708990,709823,"So you can think,"
+QW3KRaz4aI4,709823,711000,"well the first one could be born on any day,"
+QW3KRaz4aI4,711000,712070,doesn't really matter.
+QW3KRaz4aI4,712070,713910,Then the second one has roughly one chance
+QW3KRaz4aI4,713910,716420,in 365 of being born on that same day.
+QW3KRaz4aI4,716420,718149,And then the third one has roughly one chance
+QW3KRaz4aI4,718150,720720,in 365 of being born again on that same day.
+QW3KRaz4aI4,720720,725019,"So, it's one chance in 365 times 365"
+QW3KRaz4aI4,725020,726360,which was at a little lesser
+QW3KRaz4aI4,726360,728120,"and one chance in a hundred thousand, I think."
+QW3KRaz4aI4,728120,729790,"So, it's quite unlikely."
+QW3KRaz4aI4,729790,731720,One way I'd like to look at these kind of questions
+QW3KRaz4aI4,731720,734470,is this is sort of out of how many different ways
+QW3KRaz4aI4,734470,735350,that this could have happened.
+QW3KRaz4aI4,735350,736670,"So even in this one family,"
+QW3KRaz4aI4,736670,738110,probably there's a lot of other people
+QW3KRaz4aI4,738110,739410,in each of those generations.
+QW3KRaz4aI4,739410,742000,"And if any three of them had matched up their birthdays,"
+QW3KRaz4aI4,742000,743980,then the same tweet could have been written.
+QW3KRaz4aI4,743980,746010,"So right away, the chance is a lot bigger"
+QW3KRaz4aI4,746010,747491,'cause there's lots of different combinations
+QW3KRaz4aI4,747491,749960,which all could have led to the same conclusion.
+QW3KRaz4aI4,749960,751350,"It's not incredible that it happens,"
+QW3KRaz4aI4,751350,753579,but it's still pretty cool when it does happen to you.
+QW3KRaz4aI4,753580,756487,"From AjaoSeyi, says,"
+QW3KRaz4aI4,756487,759320,"""How best can a statistician explain P value"
+QW3KRaz4aI4,759320,760410,"to a non statistician?"""
+QW3KRaz4aI4,760410,761620,"Yeah, so that's a good question."
+QW3KRaz4aI4,761620,764120,The basic idea of a P value is the idea
+QW3KRaz4aI4,764120,767771,of what is the probability that the thing you just observed
+QW3KRaz4aI4,767771,770839,would've happened just by pure chance
+QW3KRaz4aI4,770840,772100,if there was no true effect?
+QW3KRaz4aI4,772100,774350,"If we look at, let's say, we have some people"
+QW3KRaz4aI4,774350,776792,"with a disease and we give them a new treatment,"
+QW3KRaz4aI4,776792,779529,and then a certain number of them get better.
+QW3KRaz4aI4,779530,780363,"Do we say, oh well,"
+QW3KRaz4aI4,780363,781329,that means the new treatment really helped?
+QW3KRaz4aI4,781330,783090,"Well, no, 'cause some of them would've gotten better"
+QW3KRaz4aI4,783090,784330,even without this new treatment.
+QW3KRaz4aI4,784330,785870,Maybe more of them got better
+QW3KRaz4aI4,785870,788190,than you'd expect on average from the new treatment.
+QW3KRaz4aI4,788190,789023,"Yeah, but how much more"
+QW3KRaz4aI4,789023,791923,"and the P value question would be, what's the probability"
+QW3KRaz4aI4,791923,795139,if we hadn't given any treatment that that same number
+QW3KRaz4aI4,795140,797610,or more of the people would still have gotten better?
+QW3KRaz4aI4,797610,799370,"And if that P value is pretty high,"
+QW3KRaz4aI4,799370,801440,maybe there was a 40% chance
+QW3KRaz4aI4,801440,803470,"that they would've gotten better even without the treatment,"
+QW3KRaz4aI4,803470,804730,we haven't really proved anything.
+QW3KRaz4aI4,804730,806931,And the typical standard is that if the P value
+QW3KRaz4aI4,806931,810110,"is less than 5% or less than one chance in 20,"
+QW3KRaz4aI4,810110,811500,"then we say, okay it's pretty unlikely"
+QW3KRaz4aI4,811500,812650,that they all would've gotten better
+QW3KRaz4aI4,812650,814320,if it hadn't been for this new treatment.
+QW3KRaz4aI4,814320,815760,"So, this provides some evidence"
+QW3KRaz4aI4,815760,816890,that the new treatment is helping.
+QW3KRaz4aI4,816890,819020,"But if the P value's larger, it doesn't."
+QW3KRaz4aI4,819020,822017,"Okay, so next a question from King Mbuso says,"
+QW3KRaz4aI4,822017,823720,"""Statistically, what are the chances?"""
+QW3KRaz4aI4,823720,827120,"And right, and this is a display of draw results."
+QW3KRaz4aI4,827120,827953,And I believe this was
+QW3KRaz4aI4,827953,830780,from the South Africa Powerball Lottery
+QW3KRaz4aI4,830780,832830,back in December of 2020.
+QW3KRaz4aI4,832830,834600,And what happened was a little surprising.
+QW3KRaz4aI4,834600,835750,So of the main numbers
+QW3KRaz4aI4,835750,837700,"there were five numbers chosen in a row,"
+QW3KRaz4aI4,837700,839240,"five, six, seven, eight, nine"
+QW3KRaz4aI4,839240,841830,and then the bonus Powerball number chosen was a 10.
+QW3KRaz4aI4,841830,844185,"So we had six numbers all in a row for the draw,"
+QW3KRaz4aI4,844185,845610,seemed very surprising.
+QW3KRaz4aI4,845610,847350,"So you could say, what are the chances of that happening?"
+QW3KRaz4aI4,847350,850389,"Well, the rules of the South African Powerball then,"
+QW3KRaz4aI4,850390,853100,were you choose five numbers between one and 50
+QW3KRaz4aI4,853100,854920,and then a bonus number between one and 20.
+QW3KRaz4aI4,854920,856720,So you could say how many different ways
+QW3KRaz4aI4,856720,858160,could you get them all in a row like that?
+QW3KRaz4aI4,858160,861569,"Well, the first five numbers would have to be five numbers"
+QW3KRaz4aI4,861570,862970,"in a row, starting with something"
+QW3KRaz4aI4,862970,865029,"from one, two, three up to 15, really."
+QW3KRaz4aI4,865030,866270,So that's only 15 ways.
+QW3KRaz4aI4,866270,868050,And then the power ball number would have
+QW3KRaz4aI4,868050,868883,to be the next one.
+QW3KRaz4aI4,868883,870310,So there's a very small number.
+QW3KRaz4aI4,870310,872529,And then when you divide that by the total number
+QW3KRaz4aI4,872530,875080,of different ways you could have chosen those five balls
+QW3KRaz4aI4,875080,877260,"plus the one bonus thing, there's many more of those."
+QW3KRaz4aI4,877260,879520,"So when you divide it, you get that there's a little less"
+QW3KRaz4aI4,879520,883540,than one chance in 2 million that such a sequence like that
+QW3KRaz4aI4,883540,884373,would've come up.
+QW3KRaz4aI4,884373,886153,Question from Chris Masterson.
+QW3KRaz4aI4,886153,887954,Is it statistically less likely
+QW3KRaz4aI4,887954,891160,to be in a plane crash if you've already been in one?
+QW3KRaz4aI4,891160,892959,"Well, no. And of course the answer is no."
+QW3KRaz4aI4,892960,894310,"And if you think about it, how could it be?"
+QW3KRaz4aI4,894310,897110,"How could this new plane know, wait a minute."
+QW3KRaz4aI4,897110,898899,There's somebody on here who was on another crash.
+QW3KRaz4aI4,898900,900160,So I better not crash this time.
+QW3KRaz4aI4,900160,901829,That's just not the way science works.
+QW3KRaz4aI4,901830,902910,It's not the way airplanes work.
+QW3KRaz4aI4,902910,903980,It's not the way pilots work
+QW3KRaz4aI4,903980,905529,but a lot of people will think that.
+QW3KRaz4aI4,905530,906680,And the reason people think that
+QW3KRaz4aI4,906680,908581,is because it's very unlikely any one person
+QW3KRaz4aI4,908581,911339,"is gonna be on two different that crash, right?"
+QW3KRaz4aI4,911340,913874,"That's really bad luck, but once you've already been on one"
+QW3KRaz4aI4,913874,916920,"that was very unlucky, but now it doesn't have any effect"
+QW3KRaz4aI4,916920,918470,on the probability of the next plane.
+QW3KRaz4aI4,918470,920740,They are what we call statistically independent events.
+QW3KRaz4aI4,920740,922740,"So, neither one affects the probability of the other."
+QW3KRaz4aI4,922740,925117,"So a question from Tetraform says,"
+QW3KRaz4aI4,925117,927660,"""Hey, what is the most statistically improbable thing"
+QW3KRaz4aI4,927660,928699,"to happen to you?"""
+QW3KRaz4aI4,928700,931460,"Well, when I was in my early teens,"
+QW3KRaz4aI4,931460,934200,"my family went on a trip to Disney World, Florida."
+QW3KRaz4aI4,934200,935190,"And in the middle of it all,"
+QW3KRaz4aI4,935190,938650,"we looked up and we saw my father's cousin, Phil."
+QW3KRaz4aI4,938650,940560,And he lived in Connecticut at the time.
+QW3KRaz4aI4,940560,942260,"And we lived in Toronto, Canada"
+QW3KRaz4aI4,942260,944420,and we had no idea he was gonna be there.
+QW3KRaz4aI4,944420,945529,"I said, ""What are the odds"
+QW3KRaz4aI4,945530,947680,that out of all of the hundreds of millions of people
+QW3KRaz4aI4,947680,948970,in the United States and all the people
+QW3KRaz4aI4,948970,950709,"that visited Disney World,"
+QW3KRaz4aI4,950710,952050,"that my dad's cousin would to be there?"""
+QW3KRaz4aI4,952050,953600,"It's a good example that on the one hand,"
+QW3KRaz4aI4,953600,954899,if you just say what's the chance
+QW3KRaz4aI4,954900,956934,"that one guy would be my dad's cousin Phil,"
+QW3KRaz4aI4,956934,959950,"it's incredibly unlikely, but as with a lot of things"
+QW3KRaz4aI4,959950,961490,"if you take the bigger picture, you can say,"
+QW3KRaz4aI4,961490,963709,"well my dad's cousin, Phil, isn't the only person"
+QW3KRaz4aI4,963710,965230,we would've been so surprised to see.
+QW3KRaz4aI4,965230,967550,"What about my dad's other cousins or my mom's cousins,"
+QW3KRaz4aI4,967550,970443,"or my cousins or my piano teacher or my friend from school,"
+QW3KRaz4aI4,970443,972170,there's probably a few hundred people
+QW3KRaz4aI4,972170,973769,that we would've been really surprised to see.
+QW3KRaz4aI4,973770,976320,"And then you say, well, we were at Disneyland"
+QW3KRaz4aI4,976320,979360,for a couple of days and we went on lots of different rides
+QW3KRaz4aI4,979360,980193,and so on.
+QW3KRaz4aI4,980193,981560,And we probably saw thousands of people.
+QW3KRaz4aI4,981560,983390,"And just one of them was my dad's cousin, Phil,"
+QW3KRaz4aI4,983390,984370,the other ones were other people.
+QW3KRaz4aI4,984370,986320,"So, it's actually not so unlikely."
+QW3KRaz4aI4,986320,988950,And I end up computing there's about one chance in 200
+QW3KRaz4aI4,988950,992020,"or so, about half of 1% that if you go on a trip"
+QW3KRaz4aI4,992020,993710,"to Disney World and spend a couple of days there,"
+QW3KRaz4aI4,993710,996190,"on all the rides, that you run into somebody that you know."
+QW3KRaz4aI4,996190,997540,"So it's not so incredible,"
+QW3KRaz4aI4,997540,999870,even though it sure was a surprise at the time.
+QW3KRaz4aI4,999870,1002100,"Okay, so I think that's all the questions for today"
+QW3KRaz4aI4,1002100,1003120,and I hope you learned something
+QW3KRaz4aI4,1003120,1004620,and I hope I'll see you again.
