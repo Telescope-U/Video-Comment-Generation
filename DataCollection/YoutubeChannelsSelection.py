@@ -73,6 +73,3 @@ for index, video in videos.iterrows():
         log(LOG_SUCCESS_PATH,'transcript', video_id)
     except:
         log(LOG_ERROR_PATH, "transcript", video_id)
-
-
-
