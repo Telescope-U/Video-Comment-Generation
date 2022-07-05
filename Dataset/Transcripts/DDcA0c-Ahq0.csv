@@ -1,0 +1,247 @@
+vid,start,end,text
+DDcA0c-Ahq0,200,3410,"- GPU prices are falling, is what I would say"
+DDcA0c-Ahq0,3410,7420,"if not for the RTX 3090 Ti, Nvidia's latest and,"
+DDcA0c-Ahq0,7420,9800,"ho-ho, greatest."
+DDcA0c-Ahq0,9800,10830,Look at this thing.
+DDcA0c-Ahq0,10830,12080,It is massive.
+DDcA0c-Ahq0,12080,13350,Just look at the cooler.
+DDcA0c-Ahq0,13350,16170,"It's like three slots, maybe three and a half,"
+DDcA0c-Ahq0,16170,20070,and I think there's like eight separate heat pipes here.
+DDcA0c-Ahq0,20070,25070,It's bound to be the most powerful consumer card ever.
+DDcA0c-Ahq0,25130,28960,"But this time, we don't wanna be a part of the hype machine"
+DDcA0c-Ahq0,28960,31179,that sells these things.
+DDcA0c-Ahq0,31180,32810,Let me explain what I mean.
+DDcA0c-Ahq0,32810,35490,"But first, let me tell you about our sponsor."
+DDcA0c-Ahq0,35490,36660,- SmartDeploy.
+DDcA0c-Ahq0,36660,39260,SmartDeploy provides out-of-the-box Windows imaging support
+DDcA0c-Ahq0,39260,41379,"for over 1,500 computer models."
+DDcA0c-Ahq0,41380,44340,Deploy one Windows image to any hardware model with ease.
+DDcA0c-Ahq0,44340,46760,"Get your free licenses, worth over $500,"
+DDcA0c-Ahq0,46760,49669,at smartdeploy.com/linus.
+DDcA0c-Ahq0,49669,52252,(upbeat music)
+DDcA0c-Ahq0,58520,59870,- We'll be comparing the new Ti
+DDcA0c-Ahq0,59870,62850,"to the only GPU we really need to,"
+DDcA0c-Ahq0,62850,66490,"the RTX 3090, which is quite close in specification"
+DDcA0c-Ahq0,66490,68220,to the new big boy here.
+DDcA0c-Ahq0,68220,72330,"So close, in fact, that I had to triple-check my notes."
+DDcA0c-Ahq0,72330,75860,"Yes, both have 24 gigs of GDDR6X memory,"
+DDcA0c-Ahq0,75860,78370,"but the Ti pulls ahead in memory bandwidth,"
+DDcA0c-Ahq0,78370,82240,"to almost, but not quite, a terabyte per second."
+DDcA0c-Ahq0,82240,85439,It also boasts an extra 2.4% more GPU cores
+DDcA0c-Ahq0,85440,88610,"that are thankfully clocked 10 to 12 percent higher,"
+DDcA0c-Ahq0,88610,93330,and draws a staggering 29% higher total graphics power
+DDcA0c-Ahq0,93330,95500,at 450 watts.
+DDcA0c-Ahq0,95500,98100,"To achieve that, Nvidia has resorted"
+DDcA0c-Ahq0,98100,100890,to a triple 8-pin-to-12-pin dongle
+DDcA0c-Ahq0,100890,104710,with a hefty 850-watt power supply requirement.
+DDcA0c-Ahq0,104710,106510,They recommend a kilowatt.
+DDcA0c-Ahq0,106510,110090,Just hoping our GPU test bench can handle that kinda load.
+DDcA0c-Ahq0,110090,112869,"In ""F1 2021"", we're looking at a roughly eight"
+DDcA0c-Ahq0,112870,115860,"or nine percent improvement over the RTX 3090,"
+DDcA0c-Ahq0,115860,117810,"with ray tracing disabled, of course,"
+DDcA0c-Ahq0,117810,120479,which translates into about ten fps.
+DDcA0c-Ahq0,120480,123330,"When we enable ray tracing, the extra cores work"
+DDcA0c-Ahq0,123330,125480,"their magic for a good 13% improvement,"
+DDcA0c-Ahq0,125480,127410,"keeping things much closer to 60 fps,"
+DDcA0c-Ahq0,127410,129267,maxed out at 4K.
+DDcA0c-Ahq0,129267,132180,"""Far Cry 6"" sees a slightly less impressive result"
+DDcA0c-Ahq0,132180,134629,at around five or six percent with ray tracing disabled
+DDcA0c-Ahq0,134630,138350,and just a little bit more with ray tracing turned on.
+DDcA0c-Ahq0,138350,140930,"Like the RTX 3090, Nvidia says"
+DDcA0c-Ahq0,140930,144500,"that 8K gaming is one of the 3090 Ti's strong suits,"
+DDcA0c-Ahq0,144500,147860,"but when I tried it out, ""F1 2021"" chugged"
+DDcA0c-Ahq0,147860,151370,"at around 30 fps, so I didn't bother testing any further."
+DDcA0c-Ahq0,151370,153780,Maybe productivity will show us a better example
+DDcA0c-Ahq0,153780,157390,of how the power of the 3090 Ti will improve your life.
+DDcA0c-Ahq0,157390,161030,"Blender, hmm, doesn't seem to think so."
+DDcA0c-Ahq0,161030,163410,"We're looking at a few seconds, at most,"
+DDcA0c-Ahq0,163410,165520,depending on what renderer you're using.
+DDcA0c-Ahq0,165520,168790,"V-Ray gives the 3090 Ti a slight lead, too,"
+DDcA0c-Ahq0,168790,171340,"although the RTX result is over 100 points more,"
+DDcA0c-Ahq0,171340,175370,"so hooray, a whole four percent lead."
+DDcA0c-Ahq0,175370,178519,Octane renderer gave us a similar kind of situation
+DDcA0c-Ahq0,178520,179480,"to these, as well."
+DDcA0c-Ahq0,179480,181819,"It's, whatever."
+DDcA0c-Ahq0,181820,183890,"Moving on to power, we ran five laps"
+DDcA0c-Ahq0,183890,187330,"of ""F1 2021"" as a typical gaming load"
+DDcA0c-Ahq0,187330,191740,and we saw a power draw spike as high as 480 watts.
+DDcA0c-Ahq0,191740,193670,"Wait, that cannot be right."
+DDcA0c-Ahq0,193670,195470,480 watts?
+DDcA0c-Ahq0,195470,196490,Really?
+DDcA0c-Ahq0,196490,198040,Holy (beeps)!
+DDcA0c-Ahq0,198040,200650,"Yeah, and the average was over 400,"
+DDcA0c-Ahq0,200650,204120,not much lower than the peak wattage the RTX 3090 drew
+DDcA0c-Ahq0,204120,205959,in the same test.
+DDcA0c-Ahq0,205960,208240,"To be fair to Nvidia, while that's an absurd amount"
+DDcA0c-Ahq0,208240,210530,"of power, more than an entire PC"
+DDcA0c-Ahq0,210530,213020,"with a low-end GPU might draw,"
+DDcA0c-Ahq0,213020,215240,it's roughly inline with the performance improvement
+DDcA0c-Ahq0,215240,216360,we saw in that game.
+DDcA0c-Ahq0,216360,219040,So you're getting frames proportionally
+DDcA0c-Ahq0,219040,221159,in exchange for the extra juice.
+DDcA0c-Ahq0,221160,223280,"If the rumors are to be believed,"
+DDcA0c-Ahq0,223280,225080,we'll see even more power draw
+DDcA0c-Ahq0,225080,226390,in search of higher frame rates
+DDcA0c-Ahq0,226390,228819,when the next generation rolls out.
+DDcA0c-Ahq0,228820,232770,"Speaking of which, why is this GPU only launching now,"
+DDcA0c-Ahq0,232770,236180,when the 40-Series Ada Lovelace GPUs are supposedly right
+DDcA0c-Ahq0,236180,237719,around the corner?
+DDcA0c-Ahq0,237720,240820,"Well, I've got a few theories."
+DDcA0c-Ahq0,240820,243880,Maybe this is an indication that Ada isn't right
+DDcA0c-Ahq0,243880,245850,around the corner and Nvidia's trying
+DDcA0c-Ahq0,245850,247680,to make-do with what they've got.
+DDcA0c-Ahq0,247680,251209,Or maybe the 3090 Ti was delayed for so long
+DDcA0c-Ahq0,251210,253020,during the silicon shortage that
+DDcA0c-Ahq0,253020,255910,it's launching way later than they planned.
+DDcA0c-Ahq0,255910,259660,Or maybe they just had high-binned GPUs kicking
+DDcA0c-Ahq0,259660,261160,around that they wanted to clear out
+DDcA0c-Ahq0,261160,263270,before Ada hit later this year.
+DDcA0c-Ahq0,263270,264759,Our screwdriver and backpack are hitting
+DDcA0c-Ahq0,264760,265740,"later this year, too."
+DDcA0c-Ahq0,265740,267650,Sign up at lttstore.com to be the first
+DDcA0c-Ahq0,267650,269759,to know when they're ready.
+DDcA0c-Ahq0,269760,273700,"The GPU clear-out angle is a very likely one, IMO."
+DDcA0c-Ahq0,273700,276710,"Nvidia's existing A40, a data center GPU,"
+DDcA0c-Ahq0,276710,278289,shares most of its spec sheet
+DDcA0c-Ahq0,278290,280350,"with the 3090 Ti, albeit"
+DDcA0c-Ahq0,280350,282130,with a significantly lower board power
+DDcA0c-Ahq0,282130,284270,"and more, but slower, memory."
+DDcA0c-Ahq0,284270,286440,"Sure enough, the Nvidia Control Panel"
+DDcA0c-Ahq0,286440,288700,even has an ECC memory support toggle
+DDcA0c-Ahq0,288700,291240,like you might find on one of those cards.
+DDcA0c-Ahq0,291240,293800,"While I don't have a problem with this, in principle,"
+DDcA0c-Ahq0,293800,296770,"I do have a problem with the price they're asking for it,"
+DDcA0c-Ahq0,296770,299810,and I'm not comfortable with how much power
+DDcA0c-Ahq0,299810,302080,this thing is capable of drawing.
+DDcA0c-Ahq0,302080,305539,"Starting at $2,000 US, MSRP,"
+DDcA0c-Ahq0,305540,308690,"the EVGA one we tested costs 2,200."
+DDcA0c-Ahq0,308690,312100,"You're looking at a 25% premium, or more,"
+DDcA0c-Ahq0,312100,314800,over a GPU that is already priced
+DDcA0c-Ahq0,314800,318690,like a Titan and already is not proportionally faster
+DDcA0c-Ahq0,318690,321200,than the next card down the stack for the money.
+DDcA0c-Ahq0,321200,323800,"Nvidia wants us to compare against the Titan RTX,"
+DDcA0c-Ahq0,323800,326259,a card that already wasn't worth the price
+DDcA0c-Ahq0,326260,328970,"when it launched, and which didn't even live"
+DDcA0c-Ahq0,328970,332400,"up to the Titan name, with its crippled FP64 performance."
+DDcA0c-Ahq0,332400,335030,"That card, like this one, has more in common"
+DDcA0c-Ahq0,335030,337139,"with the Titan Xp, a card that"
+DDcA0c-Ahq0,337140,339210,also had crippled FP64 performance
+DDcA0c-Ahq0,339210,342156,"and launched at $1,200 US,"
+DDcA0c-Ahq0,342157,346120,$300 less than the RTX 3090.
+DDcA0c-Ahq0,346120,348970,"That is the RTX tax in a nutshell,"
+DDcA0c-Ahq0,348970,351240,and calling this a $500 price drop
+DDcA0c-Ahq0,351240,354970,from the Titan RTX is a slap in the face
+DDcA0c-Ahq0,354970,358290,to anyone who thought that the 3090 itself was
+DDcA0c-Ahq0,358290,361130,already making that comparison.
+DDcA0c-Ahq0,361130,363510,It's one thing to have a halo product
+DDcA0c-Ahq0,363510,365560,"for the die-hards, but when even"
+DDcA0c-Ahq0,365560,368650,"that product gets eclipsed, in terms of pricing,"
+DDcA0c-Ahq0,368650,371210,that's when we journey into the absurd.
+DDcA0c-Ahq0,371210,374130,If many people thought that Nvidia had jumped the shark
+DDcA0c-Ahq0,374130,377490,"with the RTX 3090's $1,500 price tag,"
+DDcA0c-Ahq0,377490,378770,then they're now trying to see
+DDcA0c-Ahq0,378770,380500,just how big a shark they can clear
+DDcA0c-Ahq0,380500,381593,with the 3090 Ti.
+DDcA0c-Ahq0,382550,383860,Especially with competition
+DDcA0c-Ahq0,383860,385759,from AMD and Intel on the horizon
+DDcA0c-Ahq0,385760,389570,"and with the RTX 3090 coming back down to earth in price,"
+DDcA0c-Ahq0,389570,391810,"it feels like a cynical cash grab,"
+DDcA0c-Ahq0,391810,394470,no matter what their intention was.
+DDcA0c-Ahq0,394470,395900,You'd be forgiven for losing track
+DDcA0c-Ahq0,395900,397840,of just what GPUs even cost anymore
+DDcA0c-Ahq0,397840,399270,with how crazy pricing has been
+DDcA0c-Ahq0,399270,401139,over the past couple of years.
+DDcA0c-Ahq0,401140,404880,"After all, as recently as this month,"
+DDcA0c-Ahq0,404880,408100,"RTX 3090s were going for over three grand,"
+DDcA0c-Ahq0,408100,409380,"sometimes over four,"
+DDcA0c-Ahq0,409380,412260,easily double the original asking price.
+DDcA0c-Ahq0,412260,413940,Now that's finally changing.
+DDcA0c-Ahq0,413940,418590,The RTX 3090 is routinely going for 2K or less.
+DDcA0c-Ahq0,418590,421230,Someone even got really lucky on this one.
+DDcA0c-Ahq0,421230,424840,And so Nvidia read the room full of wary gamers
+DDcA0c-Ahq0,424840,427340,"and professionals trying to catch a break,"
+DDcA0c-Ahq0,427340,429699,"and with a straight face, bragged"
+DDcA0c-Ahq0,429700,431610,to their investors that people were paying
+DDcA0c-Ahq0,431610,433969,more for new GPUs while slapping
+DDcA0c-Ahq0,433970,436623,an astronomical price tag onto this thing.
+DDcA0c-Ahq0,437530,439700,"As for power, yeah, I get that"
+DDcA0c-Ahq0,439700,442640,just releasing an A40 with 24 gigs of VRAM
+DDcA0c-Ahq0,442640,444960,for the consumer market wouldn't be very impressive
+DDcA0c-Ahq0,444960,448370,"next to the 3090, but this is just ridiculous."
+DDcA0c-Ahq0,448370,452889,The EVGA card even has a thankfully unpopulated second
+DDcA0c-Ahq0,452890,456610,"ATX 3.0 power connector, which would theoretically give"
+DDcA0c-Ahq0,456610,460990,"this thing access to over 1,200 watts of power."
+DDcA0c-Ahq0,460990,464620,"It's a chilling look at a world where watts don't matter,"
+DDcA0c-Ahq0,464620,467190,as long as you're getting frames.
+DDcA0c-Ahq0,467190,469510,"You'll note, however, that we didn't do"
+DDcA0c-Ahq0,469510,471630,very many benchmarks to find reasons
+DDcA0c-Ahq0,471630,473410,for this thing to exist.
+DDcA0c-Ahq0,473410,474970,That's because we didn't get our card
+DDcA0c-Ahq0,474970,477560,"until two business days before embargo-lift,"
+DDcA0c-Ahq0,477560,480070,"and even if we got it sooner,"
+DDcA0c-Ahq0,480070,483670,the driver was only made available two days before that.
+DDcA0c-Ahq0,483670,484503,The final version
+DDcA0c-Ahq0,484503,487723,of the reviewer's guide was uploaded yesterday.
+DDcA0c-Ahq0,488990,492020,Nvidia clearly did not want us to look
+DDcA0c-Ahq0,492020,496819,"too closely at the RTX 3090 Ti, and that's okay,"
+DDcA0c-Ahq0,496820,499550,because I'm not sure how much more I need to see.
+DDcA0c-Ahq0,499550,501180,The worst part about all of this is
+DDcA0c-Ahq0,501180,503990,that there's nothing that I can say or do
+DDcA0c-Ahq0,503990,506099,that will prevent people from buying it.
+DDcA0c-Ahq0,506100,509780,"The RTX 3090, itself, is already nearly half a percent"
+DDcA0c-Ahq0,509780,511560,of the Steam Hardware Survey.
+DDcA0c-Ahq0,511560,515770,That is twice as many GPUs than the RX 6700 XT
+DDcA0c-Ahq0,515770,518930,and nearly so for the RTX 3050 Ti.
+DDcA0c-Ahq0,518930,521729,"If you expand it out, the desktop GA102 GPU"
+DDcA0c-Ahq0,521729,524169,that powers everything from the RTX 3080
+DDcA0c-Ahq0,524169,527450,to the 3090 Ti represents a combined total
+DDcA0c-Ahq0,527450,530370,"of nearly 2%, a big enough portion"
+DDcA0c-Ahq0,530370,532380,to put it in the top ten.
+DDcA0c-Ahq0,532380,535940,"People want the big boy, and I think we deserve"
+DDcA0c-Ahq0,535940,537390,"some of the blame for that,"
+DDcA0c-Ahq0,537390,538610,kinda like how we deserve blame
+DDcA0c-Ahq0,538610,539930,for our storage going haywire.
+DDcA0c-Ahq0,539930,540839,Get subscribed so you don't miss
+DDcA0c-Ahq0,540840,542840,"our data recovery adventure, by the way."
+DDcA0c-Ahq0,543960,547180,"But if you want this thing,"
+DDcA0c-Ahq0,547180,548060,if you're one of the people
+DDcA0c-Ahq0,548060,551529,"that Nvidia says want the absolute best,"
+DDcA0c-Ahq0,551530,553100,then I don't know what to tell you.
+DDcA0c-Ahq0,553100,554600,Perhaps money is no object
+DDcA0c-Ahq0,554600,557240,and you wanna get as close to the 8K gaming promise
+DDcA0c-Ahq0,557240,558410,as you can.
+DDcA0c-Ahq0,558410,561800,Or maybe that extra little bit of blood Nvidia squeezed
+DDcA0c-Ahq0,561800,564310,from the stone is exactly what you need
+DDcA0c-Ahq0,564310,566140,for peak productivity.
+DDcA0c-Ahq0,566140,568530,I disagree.
+DDcA0c-Ahq0,568530,571670,What is peak productivity is this segue to our sponsor.
+DDcA0c-Ahq0,571670,573519,- Thanks to Backblaze for sponsoring today's video.
+DDcA0c-Ahq0,573520,575620,"World Backup Day is March 31st,"
+DDcA0c-Ahq0,575620,578779,"and if you wanna back up your data, give Backblaze a try."
+DDcA0c-Ahq0,578780,579920,Backblaze is an affordable
+DDcA0c-Ahq0,579920,581810,and easy-to-use cloud backup solution
+DDcA0c-Ahq0,581810,583720,that starts at just seven bucks a month.
+DDcA0c-Ahq0,583720,585600,You can back up almost anything from your PC
+DDcA0c-Ahq0,585600,588000,or Mac and access it on the go
+DDcA0c-Ahq0,588000,589770,with their web and mobile apps.
+DDcA0c-Ahq0,589770,591990,Backblaze also lets you restore by mail.
+DDcA0c-Ahq0,591990,594040,"They'll ship you a hard drive with your data,"
+DDcA0c-Ahq0,594040,595959,"right to your door, and after you're done,"
+DDcA0c-Ahq0,595960,598200,you can return the hard drive for a refund.
+DDcA0c-Ahq0,598200,601450,Backblaze has nearly two exabytes of data under management
+DDcA0c-Ahq0,601450,604650,and over 55 billion files have been restored.
+DDcA0c-Ahq0,604650,607720,So you can receive a fully-featured 15-day trial
+DDcA0c-Ahq0,607720,609350,with no credit card required.
+DDcA0c-Ahq0,609350,610410,Don't be an April fool.
+DDcA0c-Ahq0,610410,611759,Try it out and start protecting
+DDcA0c-Ahq0,611760,613330,yourself from potential bad times
+DDcA0c-Ahq0,613330,615070,at the link in the video description below
+DDcA0c-Ahq0,615070,618510,or at backblaze.com/LTT.
+DDcA0c-Ahq0,618510,619630,"- Thanks for watching, guys."
+DDcA0c-Ahq0,619630,622230,Sorry this one was a bit ranty.
+DDcA0c-Ahq0,622230,624670,"I just, I know it's not for everybody,"
+DDcA0c-Ahq0,624670,627220,but I don't like what this represents.
+DDcA0c-Ahq0,627220,628910,Maybe go grab a palate cleanser
+DDcA0c-Ahq0,628910,629769,with our recent video
+DDcA0c-Ahq0,629770,632390,on the GRAID GPU-accelerated NVME solution.
+DDcA0c-Ahq0,632390,634163,That one's actually really cool.

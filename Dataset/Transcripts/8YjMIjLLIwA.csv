@@ -1,0 +1,479 @@
+vid,start,end,text
+8YjMIjLLIwA,150,5150,"- This is the most powerful computer you can buy for $4,000."
+8YjMIjLLIwA,5342,6510,(cash register ringing)
+8YjMIjLLIwA,6510,7950,Or so Apple would have you believe.
+8YjMIjLLIwA,7950,10500,"Could this tiny box,"
+8YjMIjLLIwA,10500,13559,"basically, two Mac Minis stacked on top of each other,"
+8YjMIjLLIwA,13560,16260,really be more powerful than a Core i9
+8YjMIjLLIwA,16260,18510,or an RTX 3090 from the PC world?
+8YjMIjLLIwA,18510,21600,Or is Apple cherry-picking their data again?
+8YjMIjLLIwA,21600,22920,"Come along for the ride,"
+8YjMIjLLIwA,22920,26820,because it's more difficult than you'd think to find out.
+8YjMIjLLIwA,26820,29160,But it's easy to talk about our sponsor.
+8YjMIjLLIwA,29160,31950,- Jackery the Explorer 1500 Power Station
+8YjMIjLLIwA,31950,34530,"provides 1,500 watt-hour capacity,"
+8YjMIjLLIwA,34530,38100,allowing up to seven devices to charge at the same time.
+8YjMIjLLIwA,38100,42149,Only four hours are needed to recharge from zero up to 80%.
+8YjMIjLLIwA,42150,45060,And you can get 10% off with code LinusTechTips
+8YjMIjLLIwA,45060,46532,at the link below.
+8YjMIjLLIwA,46532,49199,(upbeat music)
+8YjMIjLLIwA,55050,59460,"- We've got both the M1 Max and M1 Ultra Mac Studios here,"
+8YjMIjLLIwA,59460,62489,along with a 16-inch M1 Max MacBook Pro
+8YjMIjLLIwA,62490,64710,and a PC bench to compare against.
+8YjMIjLLIwA,64710,67470,"For reference, that PC bench runs a little more"
+8YjMIjLLIwA,67470,69865,"with shipping than a base-spec M1 Ultra,"
+8YjMIjLLIwA,69865,74220,"while our Ultra, as spec'd, costs about $1,800 more."
+8YjMIjLLIwA,74220,76110,I wanna start off with gaming this time
+8YjMIjLLIwA,76110,78540,because it highlights exactly why
+8YjMIjLLIwA,78540,81810,it's so difficult to benchmark Apple silicon.
+8YjMIjLLIwA,81810,84000,"Dolphin, a native GameCube emulator"
+8YjMIjLLIwA,84000,86820,"that I've tested extensively with M1 chips,"
+8YjMIjLLIwA,86820,89310,was struggling to reach frame rates above 120
+8YjMIjLLIwA,89310,91500,"when I know it should be capable of much more,"
+8YjMIjLLIwA,91500,92820,because I can crank the resolution
+8YjMIjLLIwA,92820,94740,without losing much performance.
+8YjMIjLLIwA,94740,97290,That indicates that we're hitting a CPU bottleneck
+8YjMIjLLIwA,97290,99930,since it only uses a few cores at once.
+8YjMIjLLIwA,99930,102180,We are off to a bad start here.
+8YjMIjLLIwA,102180,104100,The rest of the games in our typical lineup
+8YjMIjLLIwA,104100,105780,use the Rosetta compatibility layer
+8YjMIjLLIwA,105780,107640,to translate Intel native apps
+8YjMIjLLIwA,107640,109740,because native Apple silicon ports
+8YjMIjLLIwA,109740,111487,are few and far between.
+8YjMIjLLIwA,111487,113310,"""Civ VI"" is such a mess"
+8YjMIjLLIwA,113310,115409,that I don't even want to talk about it.
+8YjMIjLLIwA,115410,117960,Firaxis really needs to get on a native board.
+8YjMIjLLIwA,117960,120090,Maybe bundle it with some nice expansion packs
+8YjMIjLLIwA,120090,121109,if they need to.
+8YjMIjLLIwA,121110,123840,(sighs) M1 Ultra doesn't perform very well at all
+8YjMIjLLIwA,123840,127289,"in ""CS:GO"" either, with a measly 95 FPS average"
+8YjMIjLLIwA,127290,129929,"and a healthy dose of stuttering to go along with it,"
+8YjMIjLLIwA,129929,132780,"thanks to that game's use of the OpenGL API,"
+8YjMIjLLIwA,132780,134890,long ago deprecated on macOS.
+8YjMIjLLIwA,134890,137790,"Feral Interactive's port of ""Shadow of the Tomb Raider"""
+8YjMIjLLIwA,137790,138750,does a little bit better
+8YjMIjLLIwA,138750,142350,"thanks to using Apple's modern Metal 2 API,"
+8YjMIjLLIwA,142350,145140,"but remember, we're running at 1080P here."
+8YjMIjLLIwA,145140,148950,"The frame rate simply does not compare to the PC bench,"
+8YjMIjLLIwA,148950,151260,and this clearly isn't indicative
+8YjMIjLLIwA,151260,153450,of M1 Ultra's performance potential.
+8YjMIjLLIwA,153450,156060,"The same is true of ""Total War: Warhammer III,"""
+8YjMIjLLIwA,156060,159540,a game that straight up requires Apple silicon.
+8YjMIjLLIwA,159540,162510,But runs through Rosetta anyway?
+8YjMIjLLIwA,162510,165060,"Yeah, they say that there's no performance penalty"
+8YjMIjLLIwA,165060,165892,and they're doing it
+8YjMIjLLIwA,165893,169646,because they need certain features only found in Intel Macs.
+8YjMIjLLIwA,169646,171450,(sighs) What a mess.
+8YjMIjLLIwA,171450,174540,"The M1 Ultra, for its part, breaks the 60 FPS barrier"
+8YjMIjLLIwA,174540,177540,at nearly double the performance of the M1 Max
+8YjMIjLLIwA,177540,180420,but lags to about half the performance of the PC bench.
+8YjMIjLLIwA,180420,182970,"So, a win and a loss."
+8YjMIjLLIwA,182970,185670,"Gaming on M1 is such a minefield,"
+8YjMIjLLIwA,185670,187020,that the only two games
+8YjMIjLLIwA,187020,189270,that are fully native to Apple silicon
+8YjMIjLLIwA,189270,191287,"are massively multiplayer,"
+8YjMIjLLIwA,191287,193470,"""World of Warcraft"" and ""EVE Online."""
+8YjMIjLLIwA,193470,195120,"I've never played ""EVE,"""
+8YjMIjLLIwA,195120,198180,and I honestly have no idea how I would benchmark it.
+8YjMIjLLIwA,198180,202140,"As for ""WoW,"" last time, my lack of game knowledge"
+8YjMIjLLIwA,202140,204390,made our previous benchmark pointless.
+8YjMIjLLIwA,204390,207390,"Thankfully, I do know someone who still plays ""WoW,"""
+8YjMIjLLIwA,207390,209250,and she threw together a simple Lua script
+8YjMIjLLIwA,209250,212370,that logs the current frame rate at regular intervals.
+8YjMIjLLIwA,212370,214019,"Letting us for the first time,"
+8YjMIjLLIwA,214020,217500,truly get something close to frame data out of a Mac
+8YjMIjLLIwA,217500,218850,without pulling a Digital Foundry
+8YjMIjLLIwA,218850,221190,and analyzing video capture.
+8YjMIjLLIwA,221190,225390,"This is its own minefield within the minefield, however."
+8YjMIjLLIwA,225390,227130,Even local multiplayer games
+8YjMIjLLIwA,227130,229500,introduce two machines worth of uncertainty
+8YjMIjLLIwA,229500,232920,"instead of just one, let alone an MMO with other players"
+8YjMIjLLIwA,232920,234990,and server instances to deal with.
+8YjMIjLLIwA,234990,238140,"So, we made the script also output the current location"
+8YjMIjLLIwA,238140,241830,"and the number of players in the vicinity into CSV format,"
+8YjMIjLLIwA,241830,244260,which should let us sanitize our data.
+8YjMIjLLIwA,244260,246420,"For our testing, we dragged a Heal Shaman"
+8YjMIjLLIwA,246420,248520,through the same area a total of four times
+8YjMIjLLIwA,248520,251640,across each of our test systems and averaged the results.
+8YjMIjLLIwA,251640,254100,"Before we talked numbers, though, check this out."
+8YjMIjLLIwA,254100,256560,"The M1 Ultra exhibited some visual artifacting,"
+8YjMIjLLIwA,256560,259260,with assets blinking in and out of existence.
+8YjMIjLLIwA,259260,263130,"This didn't affect stability, but it was definitely a thing."
+8YjMIjLLIwA,263130,265440,"Clearly, they didn't have the M1 Ultra in mind"
+8YjMIjLLIwA,265440,267990,when they made this native port.
+8YjMIjLLIwA,267990,269789,"Now, the numbers."
+8YjMIjLLIwA,269790,272563,The M1 Ultra impressively captures between 70
+8YjMIjLLIwA,272563,275759,and 88% of the RTX 3090 PC bench
+8YjMIjLLIwA,275760,278670,and doesn't dip below 60 FPS.
+8YjMIjLLIwA,278670,281430,"Meanwhile, the M1 Max doesn't do so hot,"
+8YjMIjLLIwA,281430,284759,"which indicates that ""WoW"" is able to utilize either"
+8YjMIjLLIwA,284760,287700,those extra CPUs or the additional memory bandwidth
+8YjMIjLLIwA,287700,289590,available on M1 Ultra.
+8YjMIjLLIwA,289590,291210,Since this test skews heavily
+8YjMIjLLIwA,291210,293819,"towards the GPU at 4K Max settings,"
+8YjMIjLLIwA,293820,296520,my money is on memory bandwidth.
+8YjMIjLLIwA,296520,298710,"Interestingly, the Mac Studio loses"
+8YjMIjLLIwA,298710,300750,"less performance than the PC bench does,"
+8YjMIjLLIwA,300750,302370,with a consistent 25 players
+8YjMIjLLIwA,302370,304860,compared to runs where the players dropped out.
+8YjMIjLLIwA,304860,307469,"This could just be run-to-run variance,"
+8YjMIjLLIwA,307470,310590,but the fact that it held across both of our Mac Studios
+8YjMIjLLIwA,310590,312780,is a pattern worth bringing up.
+8YjMIjLLIwA,312780,314400,"But productivity, not gaming,"
+8YjMIjLLIwA,314400,315810,is what Apple was talking about
+8YjMIjLLIwA,315810,317820,when they said that this was the most powerful desktop
+8YjMIjLLIwA,317820,319890,"you can buy for $4,000."
+8YjMIjLLIwA,319890,321060,"And to be fair to them,"
+8YjMIjLLIwA,321060,323910,it's where most potential buyers will spend their time
+8YjMIjLLIwA,323910,325050,with a Mac Studio.
+8YjMIjLLIwA,325050,327599,"But there are inconsistencies here too,"
+8YjMIjLLIwA,327600,329670,and we'll go through them one by one.
+8YjMIjLLIwA,329670,332610,"Cinebench, and Cinema 4D in general,"
+8YjMIjLLIwA,332610,335280,"isn't fully ready for Apple silicon,"
+8YjMIjLLIwA,335280,338280,but multi-threaded CPU performance isn't far off
+8YjMIjLLIwA,338280,341340,"from the Core i9, which is frankly amazing."
+8YjMIjLLIwA,341340,343410,"It's basically what we'd expect,"
+8YjMIjLLIwA,343410,346500,at double the performance of our M1 Max.
+8YjMIjLLIwA,346500,349530,Geekbench is another test that's not fully optimized.
+8YjMIjLLIwA,349530,352740,CPU usage doesn't quite max out for some reason.
+8YjMIjLLIwA,352740,354569,"But it's not far off per thread,"
+8YjMIjLLIwA,354570,357450,and it does surpass the Core i9's
+8YjMIjLLIwA,357450,358650,multi-threaded performance.
+8YjMIjLLIwA,358650,360780,That is impressive.
+8YjMIjLLIwA,360780,363510,"Though it does slip when we move over to the GPU test,"
+8YjMIjLLIwA,363510,365790,which is obviously not correct.
+8YjMIjLLIwA,365790,367170,"With double the GPU cores,"
+8YjMIjLLIwA,367170,368700,"we'd expect a linear improvement,"
+8YjMIjLLIwA,368700,370020,unless we're limited somewhere else.
+8YjMIjLLIwA,370020,372780,But M1 Ultra is only about 60% faster
+8YjMIjLLIwA,372780,376950,"than the M1 Max here, way behind the RTX 3090."
+8YjMIjLLIwA,376950,379410,"Let's move away from synthetics and into the real world,"
+8YjMIjLLIwA,379410,381720,starting with Blender's CPU rendering.
+8YjMIjLLIwA,381720,384090,We're looking at a worse showing than our Core i9
+8YjMIjLLIwA,384090,385320,"from both Apple machines,"
+8YjMIjLLIwA,385320,388290,albeit with roughly correct scaling between the M1 Ultra
+8YjMIjLLIwA,388290,389880,and M1 Max.
+8YjMIjLLIwA,389880,392760,This tells me that perhaps there's some optimization
+8YjMIjLLIwA,392760,394200,still have to be done here.
+8YjMIjLLIwA,394200,397620,"And that's definitely the case with the GPU renderer,"
+8YjMIjLLIwA,397620,399510,which is still quite early
+8YjMIjLLIwA,399510,402690,"and falls well behind our RTX 3090,"
+8YjMIjLLIwA,402690,405180,"which we tested with the traditional CUDA renderer,"
+8YjMIjLLIwA,405180,407880,not the ray-accelerated OptiX renderer.
+8YjMIjLLIwA,407880,409050,Another major category
+8YjMIjLLIwA,409050,411509,for prospective Apple customers is development.
+8YjMIjLLIwA,411510,413310,"Compile time isn't everything,"
+8YjMIjLLIwA,413310,416130,but with the Mac Studio coming with a minimum
+8YjMIjLLIwA,416130,417600,of 32 gigs of RAM
+8YjMIjLLIwA,417600,420150,"to take care of most other aspects of dev work,"
+8YjMIjLLIwA,420150,423660,compile time is likely to be the limited factor.
+8YjMIjLLIwA,423660,426630,"So, we grabbed the Chromium source code and compiled it."
+8YjMIjLLIwA,426630,429900,"M1 Ultra is twice as fast as the M1 Max,"
+8YjMIjLLIwA,429900,433410,and nearly five minutes ahead of the 12900K.
+8YjMIjLLIwA,433410,436110,That's more than 20% faster.
+8YjMIjLLIwA,436110,438210,I'm not sure that platform differences alone
+8YjMIjLLIwA,438210,439979,would really make that much of a difference
+8YjMIjLLIwA,439980,443460,but devs can feel free to correct me if I'm wrong here.
+8YjMIjLLIwA,443460,444419,"I can picture them now,"
+8YjMIjLLIwA,444420,446257,just typing out angry comments in their WAN hoodies
+8YjMIjLLIwA,446257,448754,and dad hats for LTTStore.com
+8YjMIjLLIwA,448754,451139,(sighs) Majestic.
+8YjMIjLLIwA,451140,454740,"Now for Apple silicon's bread and butter, video editing."
+8YjMIjLLIwA,454740,456840,Final Cut Pro allows for timelines
+8YjMIjLLIwA,456840,461840,with up to 24 simultaneous raw streams on M1 Ultra
+8YjMIjLLIwA,462090,465090,before any frames drop in our multicam test.
+8YjMIjLLIwA,465090,467699,Which is such ludicrous performance
+8YjMIjLLIwA,467700,469050,that it's tough to imagine
+8YjMIjLLIwA,469050,471629,how you would even fully utilize it.
+8YjMIjLLIwA,471630,474720,That's the magic of fixed-function hardware.
+8YjMIjLLIwA,474720,476820,"What's more, our DaVinci Resolve timeline"
+8YjMIjLLIwA,476820,478950,rendered out in a little under 5 1/2 minutes
+8YjMIjLLIwA,478950,480240,"on the M1 Ultra,"
+8YjMIjLLIwA,480240,483330,"which, while not quite double the performance of M1 Max,"
+8YjMIjLLIwA,483330,485280,is still a huge improvement.
+8YjMIjLLIwA,485280,488970,It's over 25% ahead of our PC bench here.
+8YjMIjLLIwA,488970,492420,"Video encoding, however, is rough,"
+8YjMIjLLIwA,492420,496170,thanks to the magic of that fixed-function hardware.
+8YjMIjLLIwA,496170,499320,"See, on Floatplane you can download videos directly."
+8YjMIjLLIwA,499320,500640,And when I did that
+8YjMIjLLIwA,500640,503400,"with our Mac Studio unboxing on ""Short Circuit,"""
+8YjMIjLLIwA,503400,505199,both Apple's own Compressor
+8YjMIjLLIwA,505200,507810,"and the third-party app HandBrake failed,"
+8YjMIjLLIwA,507810,511290,but only while encoding the H.264 codec.
+8YjMIjLLIwA,511290,513690,Compressor falls back to the CPU without a word
+8YjMIjLLIwA,513690,516810,"and takes forever, while HandBrake just errors out."
+8YjMIjLLIwA,516810,519419,"It turns out that Apple's H.264 compression engine,"
+8YjMIjLLIwA,519419,521610,"and NVIDIA's NVENC to be fair,"
+8YjMIjLLIwA,521610,524310,doesn't support our 2:1 aspect ratio.
+8YjMIjLLIwA,524310,527384,"If I scale to consumer 4K during the transcode instead,"
+8YjMIjLLIwA,527384,529350,it works just fine.
+8YjMIjLLIwA,529350,532860,"Performance-wise, this is worse than a straight transcode,"
+8YjMIjLLIwA,532860,536700,but it is still somewhat favorable against NVIDIA.
+8YjMIjLLIwA,536700,539190,What's really a head-scratcher for me
+8YjMIjLLIwA,539190,543461,is that the cheaper M1 Max pulls ahead in both H.264
+8YjMIjLLIwA,543461,548310,and H.265 encoding for reasons I struggled to comprehend.
+8YjMIjLLIwA,548310,553310,"I retested this at least a dozen times, and here we are."
+8YjMIjLLIwA,553440,557070,"To Apple's credit, ProRes is probably a more common target"
+8YjMIjLLIwA,557070,558780,"for transcodes from raw,"
+8YjMIjLLIwA,558780,560880,especially given the timeline performance we saw
+8YjMIjLLIwA,560880,561780,in Final Cut.
+8YjMIjLLIwA,561780,566430,But ProRes encoding time isn't materially better
+8YjMIjLLIwA,566430,568410,between any of our Mac.
+8YjMIjLLIwA,568410,569399,"Wait, what?"
+8YjMIjLLIwA,569400,572910,No. M1 Ultra is clearly several seconds faster than the Max.
+8YjMIjLLIwA,572910,574259,What am I talking about?
+8YjMIjLLIwA,574260,576510,"Well, okay."
+8YjMIjLLIwA,576510,580530,ProRes is more limited by how fast the SSD can write
+8YjMIjLLIwA,580530,582780,than how fast the encoder is.
+8YjMIjLLIwA,582780,585900,"Our Ultra-equipped Mac Studio and our MacBook Pro,"
+8YjMIjLLIwA,585900,588300,"both have one terabyte of storage,"
+8YjMIjLLIwA,588300,591510,while our base model M1 Max-equipped Studio
+8YjMIjLLIwA,591510,593640,has a 512 gig module.
+8YjMIjLLIwA,593640,595591,The bigger SSDs boast much better
+8YjMIjLLIwA,595591,597600,"write performance in most scenarios,"
+8YjMIjLLIwA,597600,599730,and the difference in ProRes encoding performance
+8YjMIjLLIwA,599730,601380,roughly corresponds to the difference
+8YjMIjLLIwA,601380,603570,in write speeds across AmorphousDiskMark.
+8YjMIjLLIwA,603570,606660,"Moral of the story, avoid the base tier storage option"
+8YjMIjLLIwA,606660,608639,if you want the best possible performance
+8YjMIjLLIwA,608640,610290,out of your Mac Studio.
+8YjMIjLLIwA,610290,611970,There's a reason why the M1 Ultra
+8YjMIjLLIwA,611970,614279,comes with a terabyte by default.
+8YjMIjLLIwA,614280,615600,"Moving on to Creative Cloud,"
+8YjMIjLLIwA,615600,619470,"while most a PugetBench can run natively on Apple silicon,"
+8YjMIjLLIwA,619470,622259,the Photoshop plugin needs to run via Rosetta.
+8YjMIjLLIwA,622260,623490,"Accordingly, we get overall"
+8YjMIjLLIwA,623490,625020,"poor performance in Photoshop here,"
+8YjMIjLLIwA,625020,629220,but After Effects and especially Premiere are way better.
+8YjMIjLLIwA,629220,631620,"Like, they're out ahead of the PC bench"
+8YjMIjLLIwA,631620,635460,to pull one of the highest scores that I have ever seen.
+8YjMIjLLIwA,635460,638610,"In fact, even the M1 Max is out ahead in this test too,"
+8YjMIjLLIwA,638610,640500,which tells me that Apple's decoders
+8YjMIjLLIwA,640500,642960,are doing a lot of heavy lifting here.
+8YjMIjLLIwA,642960,644760,Now we need to talk thermals.
+8YjMIjLLIwA,644760,646500,The cooler design of the Mac Studio
+8YjMIjLLIwA,646500,649050,"differs between the M1 Max and M1 Ultra,"
+8YjMIjLLIwA,649050,650550,"with the latter getting a copper,"
+8YjMIjLLIwA,650550,651990,rather than aluminum heat sink.
+8YjMIjLLIwA,651990,654990,A difference that makes the Ultra two pounds heavier.
+8YjMIjLLIwA,654990,656940,"In both cases, the heat sink is attached"
+8YjMIjLLIwA,656940,658260,to the same thermal module
+8YjMIjLLIwA,658260,660750,that handles cooling for the entire machine.
+8YjMIjLLIwA,660750,664500,Testing thermals turned out to be another difficult task.
+8YjMIjLLIwA,664500,666060,"Blender alone wasn't cutting it,"
+8YjMIjLLIwA,666060,669270,"so, instead, I turned to stress-ng,"
+8YjMIjLLIwA,669270,671190,a cross-platform stress test suite
+8YjMIjLLIwA,671190,674100,that has native Apple silicon support through Brew.
+8YjMIjLLIwA,674100,675569,These are the parameters that I found
+8YjMIjLLIwA,675570,677280,"stressed the CPU the most,"
+8YjMIjLLIwA,677280,680850,"add in Gooseberry at 3,000 samples to hit the GPU as well"
+8YjMIjLLIwA,680850,683459,and you've got yourself an Apple cooker.
+8YjMIjLLIwA,683460,685500,I'm not sure if anyone outside of Apple
+8YjMIjLLIwA,685500,688380,has pushed M1 Ultra to quite these temperatures before.
+8YjMIjLLIwA,688380,692490,This is a mostly synthetic and highly unreasonable load.
+8YjMIjLLIwA,692490,694320,But the copper cooler design
+8YjMIjLLIwA,694320,696480,is more than capable of handling it.
+8YjMIjLLIwA,696480,699510,"Yes, the hottest CPU cores are in the mid to high 90s,"
+8YjMIjLLIwA,699510,701460,but the hottest GPU clusters
+8YjMIjLLIwA,701460,703860,and memory sensors are nowhere near that.
+8YjMIjLLIwA,703860,706170,Meaning the SOC itself is comfortable.
+8YjMIjLLIwA,706170,708750,"Not only that, but the fans only ever ramped up"
+8YjMIjLLIwA,708750,711720,to around 50% throughout the entire run.
+8YjMIjLLIwA,711720,714720,"Not bad, though I bet we could push the GPU a little harder"
+8YjMIjLLIwA,714720,718110,if we had a dedicated Apple silicon native stress test.
+8YjMIjLLIwA,718110,719459,"The M1 Max, by comparison,"
+8YjMIjLLIwA,719460,721680,"fares a bit better in terms of raw heat output,"
+8YjMIjLLIwA,721680,723930,but we knew that already.
+8YjMIjLLIwA,723930,728010,While the hottest core sensor does slowly creep up
+8YjMIjLLIwA,728010,729660,"past the 90-degree mark,"
+8YjMIjLLIwA,729660,732060,that aluminum heat sink is more than adequate.
+8YjMIjLLIwA,732060,733680,Sensors elsewhere in the package
+8YjMIjLLIwA,733680,736170,"show downright cool thermals by PC standards,"
+8YjMIjLLIwA,736170,739529,and this time the fans never spun up
+8YjMIjLLIwA,739530,741960,much faster than they did at idle.
+8YjMIjLLIwA,741960,743160,"With results like that,"
+8YjMIjLLIwA,743160,745350,how much power could they possibly be drawing
+8YjMIjLLIwA,745350,746639,with this load?
+8YjMIjLLIwA,746640,749730,"To get a good idea, we're using a power meter at the wall."
+8YjMIjLLIwA,749730,751470,It's worth noting that we've seen at least
+8YjMIjLLIwA,751470,752970,three different power supply designs
+8YjMIjLLIwA,752970,753899,"from Apple at this point,"
+8YjMIjLLIwA,753900,755670,which means efficiency will differ
+8YjMIjLLIwA,755670,757920,very slightly between each design.
+8YjMIjLLIwA,757920,759930,Is there a best one?
+8YjMIjLLIwA,759930,762570,Meh. That's the question for LTT Labs later.
+8YjMIjLLIwA,762570,765150,"For now, we can see the idle consumption for the M1 Ultra"
+8YjMIjLLIwA,765150,769110,"is a measly 10.8 watts, with the M1 Max at 8.7,"
+8YjMIjLLIwA,769110,771420,just a little more than an LED light bulb.
+8YjMIjLLIwA,771420,774240,This is why the idle thermal output for both models
+8YjMIjLLIwA,774240,775350,is incredibly low
+8YjMIjLLIwA,775350,778350,and makes Mac Studio actually a pretty good fit
+8YjMIjLLIwA,778350,779550,for hotter climates.
+8YjMIjLLIwA,779550,781050,It's worth putting into perspective
+8YjMIjLLIwA,781050,782850,"how little power is being used here,"
+8YjMIjLLIwA,782850,784560,despite the load I hit them with.
+8YjMIjLLIwA,784560,789210,The idle wattage of our Intel bench was just 2/3
+8YjMIjLLIwA,789210,792300,of the full load reading on the M1 Max.
+8YjMIjLLIwA,792300,796620,"At full bore, it pulled 10 times that"
+8YjMIjLLIwA,796620,801330,with CPU cores at 100 degrees under our Noctua NH-D15S.
+8YjMIjLLIwA,801330,803760,"True, even Apple's best GPU"
+8YjMIjLLIwA,803760,805590,doesn't come near the raw performance
+8YjMIjLLIwA,805590,807150,"of this top-end PC hardware,"
+8YjMIjLLIwA,807150,810540,but the M1 Ultra racked up over 80%
+8YjMIjLLIwA,810540,813810,"of the PC benches performance in overall productivity,"
+8YjMIjLLIwA,813810,817200,at 34% of the power draw at full load.
+8YjMIjLLIwA,817200,819030,"M1 Max is even more efficient,"
+8YjMIjLLIwA,819030,820950,at 57% of the PC's performance
+8YjMIjLLIwA,820950,825090,while drawing just 15% of the power under full load.
+8YjMIjLLIwA,825090,826890,In a world where PC power consumption
+8YjMIjLLIwA,826890,831780,"just creeps ever upward, this is a breath of fresh air."
+8YjMIjLLIwA,831780,835050,"Fresh, smogless air."
+8YjMIjLLIwA,835050,836764,All this in a machine
+8YjMIjLLIwA,836764,837600,(Anthony tapping Mac)
+8YjMIjLLIwA,837600,840240,"with the same footprint as the Mac Mini,"
+8YjMIjLLIwA,840240,842040,only about twice as tall.
+8YjMIjLLIwA,842040,846089,"Admit it, that's impressive for such a small boy."
+8YjMIjLLIwA,846090,848760,And it's not all for cooling and power either.
+8YjMIjLLIwA,848760,850980,The addition of front IO was a welcome one
+8YjMIjLLIwA,850980,853230,"when I unboxed the Mac Studio on ""Short Circuit."""
+8YjMIjLLIwA,853230,854699,And with those Type-C ports
+8YjMIjLLIwA,854700,857340,"doubling as Thunderbolt 4 ports on the M1 Ultra,"
+8YjMIjLLIwA,857340,859140,there's a frankly ridiculous amount
+8YjMIjLLIwA,859140,861240,of Thunderbolt on display here.
+8YjMIjLLIwA,861240,863250,"Meanwhile, 10 Gig ethernet as standard"
+8YjMIjLLIwA,863250,865140,doesn't need anything special to work.
+8YjMIjLLIwA,865140,867330,And this tells me that Apple knows
+8YjMIjLLIwA,867330,870060,what their professional customers need.
+8YjMIjLLIwA,870060,872730,But Apple has always been hesitant
+8YjMIjLLIwA,872730,875310,to provide their customers with what they want.
+8YjMIjLLIwA,875310,878970,And it's finally time to talk expansion and repairability.
+8YjMIjLLIwA,878970,880769,Or lack thereof.
+8YjMIjLLIwA,880770,881603,We know by now
+8YjMIjLLIwA,881603,884250,that getting into the Mac Studio is a bit painful.
+8YjMIjLLIwA,884250,885240,That ring on the bottom
+8YjMIjLLIwA,885240,886800,will probably never look the same again
+8YjMIjLLIwA,886800,888180,unless you're careful.
+8YjMIjLLIwA,888180,890763,But that's not the bad part.
+8YjMIjLLIwA,891660,893459,It's the SSD.
+8YjMIjLLIwA,893460,895050,You can learn more about our findings
+8YjMIjLLIwA,895050,896279,"in this previous video,"
+8YjMIjLLIwA,896280,900200,but the TLDR is that these modules are not SSDs
+8YjMIjLLIwA,900200,901830,"in the traditional sense,"
+8YjMIjLLIwA,901830,904650,but rather only contain raw NAND chips.
+8YjMIjLLIwA,904650,906240,The storage controller is integrated
+8YjMIjLLIwA,906240,908370,into the M1 series SOCs themselves
+8YjMIjLLIwA,908370,910800,and is simply programmed from the factory.
+8YjMIjLLIwA,910800,913045,Why can't you just swap or even rearrange them even
+8YjMIjLLIwA,913045,915209,with a factory reset?
+8YjMIjLLIwA,915210,918360,"Well, Apple has created a de facto allow list"
+8YjMIjLLIwA,918360,920550,by only supporting the specific combinations
+8YjMIjLLIwA,920550,921959,they're selling.
+8YjMIjLLIwA,921960,925800,"This ""because Apple says so"" thing isn't new."
+8YjMIjLLIwA,925800,929070,I upgraded my 2011 MacBook Pro with the wifi module
+8YjMIjLLIwA,929070,931950,"from the continuity supporting 2012 model,"
+8YjMIjLLIwA,931950,934350,"but couldn't use it without a hack,"
+8YjMIjLLIwA,934350,938490,specifically because Apple never shipped that configuration
+8YjMIjLLIwA,938490,939839,with that model.
+8YjMIjLLIwA,939840,942900,It has the drivers didn't bother loading them.
+8YjMIjLLIwA,942900,947400,"It's just, ""Okay. You can't use it."" (sighs)"
+8YjMIjLLIwA,947400,951240,"But as mad as that makes me, consumers have come to expect"
+8YjMIjLLIwA,951240,954180,this kind of limitation from Apple silicon by now.
+8YjMIjLLIwA,954180,955170,"So, at the end of the day,"
+8YjMIjLLIwA,955170,957842,it all boils down to performance and lasting power.
+8YjMIjLLIwA,958680,961350,Will the Mac Studio and M1 Ultra
+8YjMIjLLIwA,961350,964290,be relevant in the next five to 10 years?
+8YjMIjLLIwA,964290,967350,"Honestly, I'm not so sure."
+8YjMIjLLIwA,967350,970060,The greatest irony with the M1 Ultra
+8YjMIjLLIwA,971070,975510,"is that the one thing that it's really, really good at"
+8YjMIjLLIwA,975510,978870,is also the one thing that M1 Max
+8YjMIjLLIwA,978870,983870,"is already really, really good at, video editing."
+8YjMIjLLIwA,983910,987569,"Unless you absolutely need access to 128 gigs of memory,"
+8YjMIjLLIwA,987570,989730,"or you do a lot of VFX work,"
+8YjMIjLLIwA,989730,992370,chances are you'll never fully appreciate the extra power
+8YjMIjLLIwA,992370,994830,that it affords you until it's already obsolete.
+8YjMIjLLIwA,994830,997200,"If your use cases are covered by the few exceptions,"
+8YjMIjLLIwA,997200,1000620,"like compilation and Resolve, then M1 Ultra is great."
+8YjMIjLLIwA,1000620,1002630,"Otherwise, wherever it's not"
+8YjMIjLLIwA,1002630,1005000,"within spitting distance of M1 Max,"
+8YjMIjLLIwA,1005000,1006800,it's still matched or outmatched
+8YjMIjLLIwA,1006800,1009170,by PCs that cost the same or less.
+8YjMIjLLIwA,1009170,1011480,"Now, this could be an optimization thing"
+8YjMIjLLIwA,1011480,1013940,"that Apple will just have to deal with in the future,"
+8YjMIjLLIwA,1013940,1017840,with additional updates to Swift and Xcode.
+8YjMIjLLIwA,1017840,1020480,"But, for now, that's just the reality."
+8YjMIjLLIwA,1020480,1023329,"As for the Mac Studio itself,"
+8YjMIjLLIwA,1023330,1026180,"like M1 Ultra, it's impressive."
+8YjMIjLLIwA,1026180,1028400,But as excited as I was when it was announced...
+8YjMIjLLIwA,1028400,1030530,"Thank you, Apple!"
+8YjMIjLLIwA,1030530,1032390,Now I'm not sure I get the point.
+8YjMIjLLIwA,1032390,1034339,"It lacks peripherals and a display,"
+8YjMIjLLIwA,1034339,1036829,"and it shares many of Apple silicon's current limitations,"
+8YjMIjLLIwA,1036829,1040069,like the lack of 48Gbps second HDMI output.
+8YjMIjLLIwA,1040069,1042169,"If you buy Apple's matching peripherals,"
+8YjMIjLLIwA,1042170,1044780,the cost of owning even the base model
+8YjMIjLLIwA,1044780,1048230,works out to be more than a MacBook Pro with the same specs
+8YjMIjLLIwA,1048230,1050299,and anchors it to a desk.
+8YjMIjLLIwA,1050300,1052040,A MacBook Pro with the same SOC
+8YjMIjLLIwA,1052040,1053540,"can drive the same Studio Display,"
+8YjMIjLLIwA,1053540,1056510,"has the same HDMI output, and has the same card reader."
+8YjMIjLLIwA,1056510,1059750,You can bring a MacBook's IO up to speed with a dock too.
+8YjMIjLLIwA,1059750,1061910,This one not only provides more connectivity
+8YjMIjLLIwA,1061910,1064370,"than the Mac Studio would have, with a Studio Display,"
+8YjMIjLLIwA,1064370,1068270,"but it costs $400 and also supports audio-video bridging,"
+8YjMIjLLIwA,1068270,1069260,something that I'm told
+8YjMIjLLIwA,1069260,1071690,Apple silicon's LAN ports drop support for
+8YjMIjLLIwA,1071690,1075440,but is critically important for broadcast work.
+8YjMIjLLIwA,1075440,1077600,The total cost of a MacBook Pro with this dock
+8YjMIjLLIwA,1077600,1079910,"remains well below that of the Studio setup,"
+8YjMIjLLIwA,1079910,1082700,even if you got the 16-inch model.
+8YjMIjLLIwA,1082700,1085039,Mac Studio's only saving grace
+8YjMIjLLIwA,1085040,1087650,is that you don't have to buy the Studio Display
+8YjMIjLLIwA,1087650,1090830,"or Magic peripherals, Apple just expects you to."
+8YjMIjLLIwA,1090830,1093649,We'll have them linked down below just in case.
+8YjMIjLLIwA,1093650,1095960,And this really is the overall theme here.
+8YjMIjLLIwA,1095960,1098539,Apple expects you to want the M1 Ultra.
+8YjMIjLLIwA,1098540,1099713,You probably don't.
+8YjMIjLLIwA,1100610,1102470,Apple expects you to think
+8YjMIjLLIwA,1102470,1104390,that the Mac Studio is a good value.
+8YjMIjLLIwA,1104390,1106190,It's really not.
+8YjMIjLLIwA,1106190,1109220,"What it is, is a uniquely compact, efficient,"
+8YjMIjLLIwA,1109220,1111710,"and surprisingly powerful machine,"
+8YjMIjLLIwA,1111710,1113330,"but with a price tag to match,"
+8YjMIjLLIwA,1113330,1115399,and without matching the PC competition
+8YjMIjLLIwA,1115400,1118400,in terms of performance in most workloads.
+8YjMIjLLIwA,1118400,1120680,"If it aligns with your priorities, then great,"
+8YjMIjLLIwA,1120680,1123290,I can't tell you not to shell out for it.
+8YjMIjLLIwA,1123290,1124910,"If your priority is value,"
+8YjMIjLLIwA,1124910,1127340,then Apple has trapped themselves into a corner
+8YjMIjLLIwA,1127340,1131270,with how ludicrously good the 2021 MacBook Pros already are.
+8YjMIjLLIwA,1131270,1133130,And those even come with MagSafe.
+8YjMIjLLIwA,1133130,1135260,Just like this video comes with a segue to our sponsor.
+8YjMIjLLIwA,1135260,1136400,- Nord Security.
+8YjMIjLLIwA,1136400,1137750,"If you keep up with the tech news,"
+8YjMIjLLIwA,1137750,1140030,you know that hackers are always looking
+8YjMIjLLIwA,1140030,1141290,for new ways to compromise
+8YjMIjLLIwA,1141290,1145550,everything from tech giants' servers to Grandma's computer.
+8YjMIjLLIwA,1145550,1148580,"Thankfully, Nord Security's well-rounded protection package"
+8YjMIjLLIwA,1148580,1151159,"is there to help protect your files, devices,"
+8YjMIjLLIwA,1151160,1153140,and your personal data online.
+8YjMIjLLIwA,1153140,1154010,"Like NordPass,"
+8YjMIjLLIwA,1154010,1156890,a password manager that helps you generate unique passwords
+8YjMIjLLIwA,1156890,1158750,across your devices and browsers.
+8YjMIjLLIwA,1158750,1160220,"Or NordLocker,"
+8YjMIjLLIwA,1160220,1162559,a powerful file encryption and sharing service
+8YjMIjLLIwA,1162560,1165020,that's a great alternative to Google Drive.
+8YjMIjLLIwA,1165020,1166880,"Cybercrime is everywhere these days,"
+8YjMIjLLIwA,1166880,1168620,so make sure you're taking the right precautions
+8YjMIjLLIwA,1168620,1169550,when you surf the web.
+8YjMIjLLIwA,1169550,1172700,"Right now, you can get one month free on all Nord products"
+8YjMIjLLIwA,1172700,1175669,when you go to NordSecurity.com/Linus.
+8YjMIjLLIwA,1175670,1177560,That's 30 days to see for yourself
+8YjMIjLLIwA,1177560,1180050,"all the ways that Nord can help protect you online,"
+8YjMIjLLIwA,1180050,1180980,risk-free.
+8YjMIjLLIwA,1180980,1184100,"So don't wait, go to NordSecurity.com/Linus"
+8YjMIjLLIwA,1184100,1185690,or click the link down below.
+8YjMIjLLIwA,1185690,1186679,"- Thanks for watching, guys."
+8YjMIjLLIwA,1186680,1190340,Go check out our investigation on the Mac Studio's SSDs
+8YjMIjLLIwA,1190340,1193190,for a little more context into what's going on there.
+8YjMIjLLIwA,1193190,1196220,"Apple silicon really is a new frontier,"
+8YjMIjLLIwA,1196220,1197543,for better or for worse.

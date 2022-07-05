@@ -1,0 +1,1051 @@
+vid,start,end,text
+ZK43RAc90ZA,640,7680,welcome ladies and gentlemen we're going  to have a lot of fun today that's right  we've got not only the steam deck which
+ZK43RAc90ZA,7680,15360,we are going to be cracking open and  having a look at its gorgeous internals  but also just for comparison the aya neo
+ZK43RAc90ZA,15360,21199,next which is one that we didn't talk  about extensively in our hardware review  of the steam deck because
+ZK43RAc90ZA,21199,26960,it's in kind of an awkward is it  released or isn't it released limbo
+ZK43RAc90ZA,26960,32960,where there's only 300 units of it that  were made from an initial production run  but they're supposed to be more coming
+ZK43RAc90ZA,32960,38879,later but they're going to have a  different hardware spec anyway the point  is the way that i see it two of the best
+ZK43RAc90ZA,38879,44879,handheld gaming pcs on the market are in  my hands and we're going to be taking a  look inside both of them to see
+ZK43RAc90ZA,44879,52399,what valve did right and what maybe they  could get some inspiration from their  competitors on so without further ado
+ZK43RAc90ZA,52399,57440,you guys can clearly see that this is in  fact a working steam deck that we will
+ZK43RAc90ZA,57440,64720,be risking for  bisking biscuit bisking risking for the  biscuits risking for the bisking
+ZK43RAc90ZA,64720,70240,and i will open it up i'm a little  nervous we do have a couple of them  valve did send more than one unit
+ZK43RAc90ZA,70240,76240,because apparently they knew who they  were sending them to haha good job valve
+ZK43RAc90ZA,76240,81840,but i still don't want to break them  because we have a lot of coverage to do  over the next little while and i'm going
+ZK43RAc90ZA,81840,88159,to need more than one unit to get it  done in a timely manner we want to check  this thing out with windows we want to
+ZK43RAc90ZA,88159,94720,do more in-depth comparisons for specs  that um  most people might not think of but that
+ZK43RAc90ZA,94720,101040,i definitely want to investigate things  like for example idle battery drain  that's something that apple for example
+ZK43RAc90ZA,101040,106560,does extraordinarily well that separates  idevices from their android competitors
+ZK43RAc90ZA,106560,112799,so i want to see how good of a job valve  has done of battery management while the  device is actually in standby or in
+ZK43RAc90ZA,112799,118399,sleep mode and the more devices i have  the more quickly i'm going to be able to  run through things like that without
+ZK43RAc90ZA,118399,123920,further ado this is not my  ifixit toolkit i'm going to tell you
+ZK43RAc90ZA,123920,131120,about our sponsor  that's right ladies and gentlemen this  video is brought to you by build redux
+ZK43RAc90ZA,131120,136400,thanks to build redux for sponsoring  this video they believe in bringing pc  gaming to the masses just select your
+ZK43RAc90ZA,136400,142959,budget pick your games to see how they  perform and let them build and optimize  your gaming pc just head to
+ZK43RAc90ZA,142959,149599,buildredux.com  linus to start creating your pc today
+ZK43RAc90ZA,149599,155120,all right get this  get this mess out of here  love ifixit long time sponsor of the
+ZK43RAc90ZA,155120,162319,show so people are saying what's the  black screening  i don't know this does not have a black
+ZK43RAc90ZA,162319,170080,screen and this is off because jake did  all the battery life testing for these  devices and apparently that was one of
+ZK43RAc90ZA,170080,175440,the last things he did because he left  them all completely drained  so i had to give them both a cup a
+ZK43RAc90ZA,175440,180959,little zap before we started just so  that i could show you guys that they are  in fact working so first things first
+ZK43RAc90ZA,180959,187280,let's go ahead and start removing screws  from the back of the steam deck here  i'll get the inu out of the way the main
+ZK43RAc90ZA,187280,193920,reason that i wanted to look at the  steam deck compared to the ineo was  actually to look at the difficulty well
+ZK43RAc90ZA,193920,200560,or ease i guess depending on how we look  at it because valve has  said they've done they've put a fair bit
+ZK43RAc90ZA,200560,206480,of thought into repairability for this  device  and we saw a great example of that when
+ZK43RAc90ZA,206480,213280,valve actually did their own teardown of  the device showing us how easy it is to  replace the joysticks but i'd like to
+ZK43RAc90ZA,213280,219280,see some of the other components  compared to the eye and neo for example  steve from gamers nexus actually
+ZK43RAc90ZA,219280,224959,uploaded their tear down which is of  course going to get more into the  nitty-gritty sciency details of the
+ZK43RAc90ZA,224959,230319,device than we're going to today this is  just a live stream  where he noted that on his unit the
+ZK43RAc90ZA,230319,235680,battery was actually glued in place so  i'd like to see how that compares to  some of the other devices in the
+ZK43RAc90ZA,235680,242879,industry as i've talked about in a fair  bit of depth already in our hardware  review there isn't really a competitor
+ZK43RAc90ZA,242879,249040,strictly speaking for the steam deck at  least the way that i see it because at  the price that it's at
+ZK43RAc90ZA,249040,254879,nothing else comes even close so  whenever i use the word competing
+ZK43RAc90ZA,254879,262079,product or  or  competitor or whatever else you guys are  just going to have to imagine a great
+ZK43RAc90ZA,262079,268000,big giant asterisk because  the ineo next for example right here is
+ZK43RAc90ZA,268000,275520,going to run you somewhere in the  neighborhood of 1300 to 1400 us dollars  that's right my friends a whopping
+ZK43RAc90ZA,275520,281919,anywhere from double to triple the price  of a steam deck depending on how you  configure each of them although that
+ZK43RAc90ZA,281919,287040,does come with some additional benefits  you do get additional ssd capacity as
+ZK43RAc90ZA,287040,292400,well as the ability to greatly increase  the capacity you get much higher quality
+ZK43RAc90ZA,292400,298720,vibration motors if you care about that  personally i like having high quality  fat haptics particularly for certain
+ZK43RAc90ZA,298720,305360,genres of games for others it really  doesn't make a difference to me and i  saw in a lot of your comments on our  steam deck hardware review that for many
+ZK43RAc90ZA,305360,312560,of you haptics are not a priority so  maybe you won't care about that you get  two charging ports that was something
+ZK43RAc90ZA,312560,319280,that i was  not that pleased about on the steam deck  the fact that not only does it have only
+ZK43RAc90ZA,319280,325199,one but the one that it has is on the  top whereas for me in a seated position
+ZK43RAc90ZA,325199,330880,i would  i would almost always prefer to be  plugged in from the bottom whereas the
+ZK43RAc90ZA,330880,336000,ineo next has it in both positions on  the top and the bottom the next is
+ZK43RAc90ZA,336000,341120,significantly harder to get at the  screws but part of the reason for that  is just because i'm not using a
+ZK43RAc90ZA,341120,348479,conventional jeweler's screwdriver i'm  using this i fix it one that ah oh no  we're good we're good we got all this
+ZK43RAc90ZA,348479,354800,and i dropped it  nope i found it uh yeah i could use a  parts tray do we have any sticking on
+ZK43RAc90ZA,354800,361199,the things if one of you wouldn't mind  grabbing a parts tray that would be  amazing they're supposed to live in here  but people moved them
+ZK43RAc90ZA,361199,366560,my alcohol was missing before the stream  as well  in the meantime how are you guys all
+ZK43RAc90ZA,366560,372240,doing today  it's good to hear from you all look at  everybody tuning in for the stream
+ZK43RAc90ZA,372240,380240,uh one advantage for the ineo next  already though is that it uses the exact  same screws for all of the backing let's
+ZK43RAc90ZA,380240,385360,have a closer look at the screws valve  is using for the steam deck here real  quick uh hold on i just dropped the
+ZK43RAc90ZA,385360,391440,screw there you are okay perfect here we  go so here are the screws from the steam  deck and you can see that valve is using
+ZK43RAc90ZA,391440,398080,two different lengths so on the outsides  they're actually using these coarse  threaded can you see those david
+ZK43RAc90ZA,398080,404000,do you need me to get you a different  background on that  for the steam deck they're using these
+ZK43RAc90ZA,404000,410560,coarse threaded plastic screws so you  better be careful with those i'm not a  huge fan of those uh typically if you
+ZK43RAc90ZA,410560,415680,want a more durable fastener you would  use like a brass uh a brass inset uh
+ZK43RAc90ZA,415680,422240,like threaded piece and then you'd use a  more conventional machine screw like  this one so this looks like i don't know
+ZK43RAc90ZA,422240,427280,probably like an m2 or something like  that i'm just i'm just guessing i can't  actually see exactly what the thread
+ZK43RAc90ZA,427280,433199,pitch is so all the inside ones are  these little machine screws and all the  outside ones are these coarse threaded
+ZK43RAc90ZA,433199,439919,plastic screws whereas  aya is actually using the same screws  throughout which just makes assembly and
+ZK43RAc90ZA,439919,445680,our disassembly and assembly a little  bit easier i've already had this one  apart a couple of times so it's possible
+ZK43RAc90ZA,445680,450720,i'll just be able to pry it apart with  my fingers  i think i did end up breaking one of the
+ZK43RAc90ZA,450720,456160,clips last time i opened it up or that  might have been my 2021 pro i'm not sure
+ZK43RAc90ZA,456160,462479,the flying crocodile says can't wait to  see you daily drive the deck as it will  be super interesting to see how good  steam os as a desktop
+ZK43RAc90ZA,462479,470639,i am really excited about that so the  content roadmap for steam deck right now  is we do plan to do hopefully a
+ZK43RAc90ZA,470639,477520,dedicated video around upgrading the ssd  just because i think that's a question  that a lot of people are going to have
+ZK43RAc90ZA,477520,483919,and it's something that people could  just  whoops did i just power this on oh  bloody heck
+ZK43RAc90ZA,483919,489680,oh battery's almost dead anyway  there you go you can actually oh it's  gone
+ZK43RAc90ZA,489680,495840,um  that is something that i think people  could just refer to this or honestly  valve's own official teardown to figure
+ZK43RAc90ZA,495840,501440,out how to do but what we'd like to do  is we'd like to do a more detailed
+ZK43RAc90ZA,501440,507919,just hey here's everything it's possible  you might miss version of that guide
+ZK43RAc90ZA,507919,512959,because i think a lot of people are  going to be looking for it the other  thing that we're planning is a way more
+ZK43RAc90ZA,512959,518080,in-depth look at the software so valve  messaged me after the hardware review  going
+ZK43RAc90ZA,518080,524560,hey you mentioned that there were some  rough edges around the software and  that's  why you didn't cover it and i was like
+ZK43RAc90ZA,524560,529680,do you have any particular feedback and  i'm sitting here going no no guys like  you told me
+ZK43RAc90ZA,529680,536640,there are rough edges around the  software and that's why we're not  covering it yet because it's it's not  done yet so don't worry guys don't worry
+ZK43RAc90ZA,536640,541920,guys other than like descriptive text  and stuff it was really cool i gotta say
+ZK43RAc90ZA,541920,547519,like hats off to valve for being so  transparent about this whole process  because it was really cool getting
+ZK43RAc90ZA,547519,553120,access to a device at such an early  stage that there was like  clearly
+ZK43RAc90ZA,553120,558240,you know engineer software engineers  memeing in things like the descriptions
+ZK43RAc90ZA,558240,563680,for the functions of certain sliders or  buttons within the ui because it's under
+ZK43RAc90ZA,563680,571120,embargo i'm not going to talk about any  of the specific things i saw but there  were clearly cases where you know
+ZK43RAc90ZA,571120,576800,this slider does slightly slidey things  you know like it was just obvious  placeholder text so that's what i'm
+ZK43RAc90ZA,576800,584240,talking about i just mean it's not done  yet and i don't want to judge it until  it's in a state that you guys feel uh is
+ZK43RAc90ZA,584240,590160,is complete all right so we've got our  ine next open there are two screws that  i neglected to mention to you guys they
+ZK43RAc90ZA,590160,597600,are shorter so there's one right here  and one right here on the bottom then  the whole thing pops off and it's all
+ZK43RAc90ZA,597600,605120,kind of self-contained like that now  let's compare that  to the steam deck this i have not had
+ZK43RAc90ZA,605120,612000,open because for our thermal testing we  relied on the internal sensors and we  basically just wanted to make sure that
+ZK43RAc90ZA,612000,617600,it was operating in  as stock a capacity as possible uh
+ZK43RAc90ZA,617600,623120,considering that this is while it's  final hardware certainly um
+ZK43RAc90ZA,623120,630000,an engineering unit from valve's  perspective like i'm sure that they did  not  send these things these early preview
+ZK43RAc90ZA,630000,635519,units out to press without carefully  putting them through their paces
+ZK43RAc90ZA,635519,642720,whoop  look at that  okay  well this is cool so we've got a look
+ZK43RAc90ZA,642720,649360,here we go at the paddles on the back  very very basic mechanism what i will
+ZK43RAc90ZA,649360,656079,say right out of the gate guys is you  are not going to want to try to cast  yourself a gold steam deck
+ZK43RAc90ZA,656079,662480,it will probably not make for a very  pleasant gaming experience not only will  it be heavy and have extremely poor
+ZK43RAc90ZA,662480,667600,wi-fi connectivity but i can speaking  from experience tell you that the
+ZK43RAc90ZA,667600,672640,functionality of these rear paddles is  not going to be very good once you've  cast them in gold
+ZK43RAc90ZA,672640,679440,because you can see they're actually  just relying on a tiny bit of spring  action in the plastic here
+ZK43RAc90ZA,679440,685440,in order to bounce them back  see that  just a little bit of spring action and  then what prevents them from being
+ZK43RAc90ZA,685440,691120,pressed in too far are these stoppers  right here kudos to valve by the way for  the design of this
+ZK43RAc90ZA,691120,697680,i have seen on much higher end  controllers  far far worse mechanisms for this where
+ZK43RAc90ZA,697680,704000,just you know one tiny piece of plastic  once it snaps the whole thing's dead but  they've actually got it reinforced
+ZK43RAc90ZA,704000,709680,they've got it on both sides and you can  actually see that not only is it  reinforced but this piece right here
+ZK43RAc90ZA,709680,717040,appears to be actually braced internally  if i had to guess there it is yep look  at this they've got little stopper pads
+ZK43RAc90ZA,717040,722160,so the force of pressing on those is  really distributed it's distributed with
+ZK43RAc90ZA,722160,727839,the on the the spring tension of the  plastic on the button itself which you  can see these are just
+ZK43RAc90ZA,727839,736000,simple little switches quite stiff  switches i really like the switches that  they've used here i feel like they've  struck an excellent balance between um
+ZK43RAc90ZA,736000,742160,hard to accidentally press while still  being easy to actuate and then they've  also got these little like stomp pads
+ZK43RAc90ZA,742160,748000,down here they kind of remind me of i'm  calling it a stomp pad because it  reminds me of those pads on the back of  a snowboard where you kind of put your
+ZK43RAc90ZA,748000,754240,foot to prevent the pcb from being  damaged but to also help spread out some  of that load there's just
+ZK43RAc90ZA,754240,760560,so much thoughtful design that has gone  into this device let me just see if  there's anything else that i want to
+ZK43RAc90ZA,760560,766959,note about the inside here  it's funny to me that it's got kind of  like a grip texture on the inside i
+ZK43RAc90ZA,766959,773680,wonder if that's a leftover if maybe  they had at some point intended to put  this kind of texture on the outside
+ZK43RAc90ZA,773680,779600,instead of the  shoot i forget what this finish is  called this super fine finish i should
+ZK43RAc90ZA,779600,784959,know  i think it's like micro micro something  because we've done the exact same finish
+ZK43RAc90ZA,784959,790560,on the ltt screwdriver and i talked to  kyle about it when we were deciding on  different plastic finishes it's really
+ZK43RAc90ZA,790560,796639,finicky to get right i can tell you guys  that much but valve has done a bang-up  job  all right so we've got both of our back
+ZK43RAc90ZA,796639,801839,plates off you can see comparison wise  valve definitely put a little bit more
+ZK43RAc90ZA,801839,808000,care and attention into things like rf  shielding  i guess that's all i can really say
+ZK43RAc90ZA,808000,813040,about it  in terms of stiffness here's the one  from the ineo remember this is a device
+ZK43RAc90ZA,813040,818240,that costs many times more i'd say it's  probably a little bit on the stiffer  side
+ZK43RAc90ZA,818240,825279,okay  so let's get the top down and let's talk  through like the basics of these two  devices one of the things that valve has
+ZK43RAc90ZA,825279,830800,done an outstanding job of is isolating  the heat generating components from the
+ZK43RAc90ZA,830800,836079,hand touching components so you can see  our main cooling fan is here but unlike
+ZK43RAc90ZA,836079,842880,on the io neo  right here okay so you got your fan  directly behind the air intake okay then
+ZK43RAc90ZA,842880,847920,it exhausts out here it's got the little  tape seal so that you're not going to  lose a bunch of your static pressure to
+ZK43RAc90ZA,847920,853360,to leakage in inside the chassis okay  but so unlike the io neo valve has
+ZK43RAc90ZA,853360,860800,actually opted for an intake that is  way far away from there much smaller and
+ZK43RAc90ZA,860800,866000,as i noted actually i don't think i  don't know if this made it into the  final cut but as i noted when i was
+ZK43RAc90ZA,866000,872240,watching valve's teardown of the steam  deck this is a really wimpy looking fan  and i also mentioned this in the full
+ZK43RAc90ZA,872240,878079,review that i was surprised seeing this  fan  compared to
+ZK43RAc90ZA,878079,884160,this one  right  somehow managing to hold up both in
+ZK43RAc90ZA,884160,891440,terms of acoustics  and in terms of thermals  how the f does that work because not
+ZK43RAc90ZA,891440,897519,only is the fan way smaller than this  and you know theoretically you to hear
+ZK43RAc90ZA,897519,904399,laptop manufacturers talk about it  having a whole bunch of blades on your  cooling fan blah blah fifteen percent
+ZK43RAc90ZA,904399,912240,more blades eight percent better  performance etc um theoretically from  everything that i know about fans this
+ZK43RAc90ZA,912240,918000,one should move a heck of a lot more air  at lower temperatures than this one and  yet
+ZK43RAc90ZA,918000,923199,both of these chips are rated in the 20  to 25 watt range
+ZK43RAc90ZA,923199,930399,and both of them performed similarly in  terms of thermals and in terms of  acoustics which is really really
+ZK43RAc90ZA,930399,936959,impressive it just goes to show again  how thoughtful the design of the steam  deck is now one thing that surprises me
+ZK43RAc90ZA,936959,943920,here just gonna go ahead and shove this  back up is that valve has gone for a bit  of an unconventional battery layout so
+ZK43RAc90ZA,943920,951440,you can see it's a two-piece pack um  there's a seam right here and what i was  kind of expecting is that we might find
+ZK43RAc90ZA,951440,959199,three  individual cells which hold on a second  if this is a 7.7 volt no
+ZK43RAc90ZA,959199,966160,so if it's a lithium battery then it's  got to be it's got to be two cells in  parallel so no it looks like they're
+ZK43RAc90ZA,966160,973839,just taking the approach of building an  l-shaped battery so that they can add  additional capacity and what's funny to
+ZK43RAc90ZA,973839,979680,me about this  is oh no okay it's true  so it's a little bit deceptive you can
+ZK43RAc90ZA,979680,985839,actually you can actually see it from  this angle a little bit better the steam  deck is super thick okay so you can see
+ZK43RAc90ZA,985839,991920,to put my to put my fingers around it  like this i don't have calipers on hand  otherwise i could tell you guys the  exact thickness we're getting here but
+ZK43RAc90ZA,991920,998880,the steam deck compared to the iron neo  which is about as thick as the shoulder  button here is much thicker in terms of
+ZK43RAc90ZA,998880,1003920,its overall profile and that's due to  the the just the size of the the desktop
+ZK43RAc90ZA,1003920,1009519,style and um  analog sticks as well as the the the
+ZK43RAc90ZA,1009519,1015120,contours of the grippy handles but in  terms of the thinness of the body itself
+ZK43RAc90ZA,1015120,1020560,it's actually quite a bit thinner than  the aya neo here so one of the things i
+ZK43RAc90ZA,1020560,1027120,was trying to figure out was why did  valve go with such a low capacity  battery and then second of all why do
+ZK43RAc90ZA,1027120,1034400,they need so much of the internal space  here for the battery when it's a lower  capacity pack so this according to spec
+ZK43RAc90ZA,1034400,1039438,is a 47 watt hour pack while this is  only a 40 watt hour pack but you can see
+ZK43RAc90ZA,1039438,1046319,this one seems at least on first glance  much more compact so aya took the  approach of wanting a
+ZK43RAc90ZA,1046319,1053360,narrower and  thinner overall device but with a  thicker body while valve wanted to get
+ZK43RAc90ZA,1053360,1060880,things clearly as thin as possible and  then save their their weight budget i  guess for the contoured grips and
+ZK43RAc90ZA,1060880,1066400,whatnot  all right  now let's dig a little bit deeper here
+ZK43RAc90ZA,1066400,1072320,this is the part where i'm gonna start  needing to label things do we actually  have a finer tip marker by any chance or
+ZK43RAc90ZA,1072320,1078240,no dice  if you if you have a finer tip wet erase  marker i'll definitely take it i  actually see another one of these pads
+ZK43RAc90ZA,1078240,1084160,over here so it's possible someone would  have put a marker with it or left it  down here nope nothing as sensible as
+ZK43RAc90ZA,1084160,1092320,that so that's fine we'll make do with  what we have for now worst case scenario  we're gonna have all the footage so you  can go back and look at it
+ZK43RAc90ZA,1092840,1099679,um uh speedy asks why would ltt waste a  steam deck on a low production value
+ZK43RAc90ZA,1099679,1104960,fake live stream when they could release  it as a polished vid and get more views  it's obviously live yes
+ZK43RAc90ZA,1104960,1111520,it's definitely live speedy i don't know  who's saying this video isn't live but  it's absolutely live our intention was
+ZK43RAc90ZA,1111520,1118000,to do this live because i actually enjoy  this kind of thing  just exploring with you guys so let's go
+ZK43RAc90ZA,1118000,1124080,ahead and  here we go  i will call these right trigger
+ZK43RAc90ZA,1124080,1130960,let's go ahead or excuse me right  trigger right analog stick and have a  look at just how easy it is to replace
+ZK43RAc90ZA,1130960,1137039,one of these analog sticks in here so  it's three screws  all the screws are the same which is
+ZK43RAc90ZA,1137039,1141280,really nice to see here david i'll get  you a look at that
+ZK43RAc90ZA,1142400,1148080,all identical  very nice to see thank you very much for  that valve
+ZK43RAc90ZA,1148080,1154000,and then in terms of the  pull-out strategy it's definitely better  than mine
+ZK43RAc90ZA,1154000,1160400,got him three kids  it just pulls up like that really is  that that's the whole
+ZK43RAc90ZA,1160400,1167360,that's the whole shebang  this is fantastic they even put a little  pull tab on here for you
+ZK43RAc90ZA,1167360,1172720,so you're just going to  let me have a look here does this flip  up yep okay here david i'm going to need
+ZK43RAc90ZA,1172720,1178559,you for this  so i just want to show the folks out  there who are not familiar with laptop
+ZK43RAc90ZA,1178559,1184960,repair so there's a little  see that there's a little plastic tab  right there that's the lock for it so if
+ZK43RAc90ZA,1184960,1191600,you want to remove it you just go ahead  you flip that up  there we go  and you're going to want to pull on this
+ZK43RAc90ZA,1191600,1197679,little that's a really nice tab really  stiff there you go you pull that  that's it
+ZK43RAc90ZA,1197679,1205440,holy crap  guys  you get a failed thumbstick okay hold on
+ZK43RAc90ZA,1205440,1211120,where's my screws at one two eight  11 screws
+ZK43RAc90ZA,1211120,1216159,11 screws and even with all the dinking  around that i've been doing on this  stream
+ZK43RAc90ZA,1216159,1223120,it took us what i don't know i don't  know how long we've been live but not  that freaking long that is awesome
+ZK43RAc90ZA,1223120,1229600,now since we've got it out now's as good  a time as any to have a bit of a closer  look at this puppy so you can see pretty
+ZK43RAc90ZA,1229600,1236400,conventional pretty conventional  thumbstick from alps it's obviously  designed to be
+ZK43RAc90ZA,1236400,1242880,replaced as a full module there's no way  you're going to want to try to  desolder this
+ZK43RAc90ZA,1242880,1248400,what else are you going to have to do  yeah you're going to have to solder on  the connection for the capacitive top of
+ZK43RAc90ZA,1248400,1254720,the thumb stick right there  uh we can get a pretty good look here we  go here's the switch
+ZK43RAc90ZA,1254720,1260960,for the z  what is this z3 i guess would be this  one yeah i believe this is z3 so you can
+ZK43RAc90ZA,1260960,1267440,actually see here you go can i get you a  look at that david can you see where  it's actually soldered to the underside
+ZK43RAc90ZA,1267440,1273360,of the thumbstick  and valve is using this to enable some  really cool functionality we've seen
+ZK43RAc90ZA,1273360,1278400,this before on the index controller  where valve uses their capacitive
+ZK43RAc90ZA,1278400,1285760,buttons for hand presence in vr so  they've already got some experience with  this but here they've come up with some
+ZK43RAc90ZA,1285760,1291760,new really cool ideas  uh yeah i'll read some chat don't worry  i got this oh wait oh it popped off here
+ZK43RAc90ZA,1291760,1297440,here david i'll get you a better look at  that so on the oh shoot is it that i  believe it's the right thumbstick yeah i
+ZK43RAc90ZA,1297440,1304320,think it's the right thumbstick  um  once you touch it with your thumb it
+ZK43RAc90ZA,1304320,1311440,actually switches over into  a  there we go into gyro mode in fps games
+ZK43RAc90ZA,1311440,1317760,which is  great for fine tuning that last little  bit to make the shot especially if
+ZK43RAc90ZA,1317760,1324880,you're playing a pc game that doesn't  have controller level auto aim figured  out right out of the box so you can use
+ZK43RAc90ZA,1324880,1331440,that to you can use the thumbsticks to  get close and then you can switch over  to gyro mode when you're when you're
+ZK43RAc90ZA,1331440,1337760,touching the  the cr you can actually configure it i  believe to either one if you prefer and  then you can switch over to gyro mode to
+ZK43RAc90ZA,1337760,1343919,fine tune it and then pull your trigger  and well you know bad guy fall down  right  all right so we've taken out the one
+ZK43RAc90ZA,1343919,1350159,thumb stick and i've been told that i  should read some chat uh can the rubber  tip be replaced oh oh this what a good
+ZK43RAc90ZA,1350159,1356080,question from twitchchat  let's have a look here
+ZK43RAc90ZA,1356080,1361600,doesn't look easy  this is something that
+ZK43RAc90ZA,1361600,1366799,um  yeah it doesn't look easy i mean that's  a balancing act right guys on the one
+ZK43RAc90ZA,1366799,1372400,hand you look at it and you go well  valve should make every even small  component of it easily user replaceable
+ZK43RAc90ZA,1372400,1377840,and sure maybe that's a perfect world  that we might like to live in someday  but in the real world
+ZK43RAc90ZA,1377840,1383840,striking a balance between making the  rubber replaceable but not fall off by  accident
+ZK43RAc90ZA,1383840,1389039,really tough as for whether you could  replace this top cap it looks like if
+ZK43RAc90ZA,1389039,1395760,you could get your hands on replacement  parts it might be possible but it still  wouldn't be easy because that lead up to
+ZK43RAc90ZA,1395760,1401039,the capacitive surface of the top here  is recessed in a way that looks like the
+ZK43RAc90ZA,1401039,1407760,whole assembly might be press fit or  like ultrasonically welded together i  don't see an obvious way to disassemble
+ZK43RAc90ZA,1407760,1414400,this if that makes sense it kind of  looks one time assembly to me so that's  a really good question guys i keep the
+ZK43RAc90ZA,1414400,1421679,good questions coming in the chat i  would love to hear from you guys  um iclone asks do you think the steam
+ZK43RAc90ZA,1421679,1428080,deck could be an entry point for valve  to get involved in the desktop os market
+ZK43RAc90ZA,1428080,1434480,i  i think nothing's impossible
+ZK43RAc90ZA,1434480,1439679,but i have to say that i kind of doubt  that that's on valve's radar right now i
+ZK43RAc90ZA,1439679,1447520,think that the steam deck makes it i  think the steam deck is way more in line  with valve's goal of being dominant in
+ZK43RAc90ZA,1447520,1452640,the gaming space and being  the go-to for
+ZK43RAc90ZA,1452640,1458720,buying and now playing your games  i do see the steam deck as a viable
+ZK43RAc90ZA,1458720,1464960,desktop replacement i see the steam deck  as  sort of different from a game console i
+ZK43RAc90ZA,1464960,1470000,actually got some criticism on twitter  for comparing the steam deck and the
+ZK43RAc90ZA,1470000,1476559,nintendo switch with people coming out  on the nintendo switch side talking  about nintendo's game library and things
+ZK43RAc90ZA,1476559,1482480,like that to which i kind of replied  well valve doesn't need a huge game  library to compete with the switch  because they've got the steam game
+ZK43RAc90ZA,1482480,1489039,library and also  the switch is nothing like  or the steam deck is nothing like the
+ZK43RAc90ZA,1489039,1496000,switch it's a completely different class  of device  and i had some people criticizing that  particular take saying that
+ZK43RAc90ZA,1496000,1503200,they don't understand what makes the  steam deck different from a console and  my answer was it's the openness that
+ZK43RAc90ZA,1503200,1508559,makes the steam deck different from a  console valve has taken a very pc like
+ZK43RAc90ZA,1508559,1514559,approach to this device so even though  it's priced like a console starting at  399 albeit that's not the one i'd
+ZK43RAc90ZA,1514559,1521919,recommend because  64 gigs of on-board storage is really  not a lot
+ZK43RAc90ZA,1521919,1527039,so it's priced like a console  but it's built with a very pc like
+ZK43RAc90ZA,1527039,1533279,design philosophy you can keep the os  that's on it you could add on a  different operating system you could
+ZK43RAc90ZA,1533279,1538400,dual boot your operating system they're  not locking you in to their software
+ZK43RAc90ZA,1538400,1544799,ecosystem to their rules like nintendo  is just  you know i don't underst i don't know
+ZK43RAc90ZA,1544799,1551120,why we put up with them anymore to be  perfectly blunt about it with you guys  uh you know the fact that there's no way
+ZK43RAc90ZA,1551120,1556400,to back up your save games without  paying for a nintendo online  subscription like
+ZK43RAc90ZA,1556400,1561679,can i can i get an amen chat  it's it's unacceptable
+ZK43RAc90ZA,1561679,1568000,i don't want nintendo online and so what  if my device fails through no fault of
+ZK43RAc90ZA,1568000,1576320,my own if it just randomly outright dies  i am hooped for potentially hours and
+ZK43RAc90ZA,1576320,1583360,hours of in-game time that was spent  i'm just out  well valve's not doing that they've i
+ZK43RAc90ZA,1583360,1588960,shouldn't say always but for as long as  as long as i can remember at this point
+ZK43RAc90ZA,1588960,1594159,uh they've offered cloud saving  capabilities and it's not something that  you pay extra for because
+ZK43RAc90ZA,1594159,1600080,i guess from their perspective you're  already paying enough for it when they  get 30 of the transaction fee from the
+ZK43RAc90ZA,1600080,1606559,developer  which we can have a whole separate  conversation about whether that's  reasonable or not but that's not the
+ZK43RAc90ZA,1606559,1611760,subject of our video today  broccoli rabe says they do make good
+ZK43RAc90ZA,1611760,1618559,games though yeah they they do  once in a while  every every so every so often all right
+ZK43RAc90ZA,1618559,1624960,so i pulled off another three screws  which is going to give us  access to  the bottom side of this plate right here
+ZK43RAc90ZA,1624960,1630320,and that is  wow  is that ever a thick
+ZK43RAc90ZA,1630320,1636799,thermal pad that is thick with two c's  frickin a man
+ZK43RAc90ZA,1636799,1643919,all right  uh  cool so what's that for  that appears to be for the voltage
+ZK43RAc90ZA,1643919,1650320,delivery which kind of makes sense  actually where's power input okay so  that's over there
+ZK43RAc90ZA,1650320,1656799,uh so that's going to be for our apu  what's an apu well an apu is
+ZK43RAc90ZA,1656799,1665039,a cpu and a gpu really i mean i think  the correct term for this is more like  soc at this point uh amd's apu term
+ZK43RAc90ZA,1665039,1672559,never really caught on and there's no  reason to start having it catch on today  at this point so really it's the soc so
+ZK43RAc90ZA,1672559,1680080,it contains all the i o functions pretty  much everything has to plug into here at  some point or another here's our
+ZK43RAc90ZA,1680080,1685440,what is it lp ddr5 memory  so it's a total of 16 gigs which means
+ZK43RAc90ZA,1685440,1691360,each of these is a four gigabyte package  we've got our wireless chipset here one
+ZK43RAc90ZA,1691360,1697120,of the big disappointments with the  steam deck was their use of a wi-fi five
+ZK43RAc90ZA,1697120,1702960,chipset and something that's come to  light since we uploaded our hardware  review is that the stuttering issue that
+ZK43RAc90ZA,1702960,1708480,we observed in forza  could be related to network connectivity  now
+ZK43RAc90ZA,1708480,1713760,um that's not what  valve sent me and they seem to be under
+ZK43RAc90ZA,1713760,1719200,the impression that they can continue to  work on this  but that's something that a lot of you
+ZK43RAc90ZA,1719200,1726320,expressed frustration with  saying that you've actually experienced  that before even on a full desktop pc on
+ZK43RAc90ZA,1726320,1732320,windows where apparently there's when  you're playing an online mode even  though you're not racing against anyone
+ZK43RAc90ZA,1732320,1738799,there can be  sort of weird connectivity issues as  it's loading in new sections of the map  or something like that and it can cause
+ZK43RAc90ZA,1738799,1744880,that that slow down catch up slow down  catch up effect i had also seen it  suggested that it could be to do with
+ZK43RAc90ZA,1744880,1752000,running out of video memory so there's  definitely a number of theories but if  it is network related then it could be
+ZK43RAc90ZA,1752000,1757039,something to do with the fact that valve  has gone with a wi-fi five chipset  me
+ZK43RAc90ZA,1757039,1763760,i don't i don't really i don't really  buy that but i don't want to be  dismissive of decent theories at this
+ZK43RAc90ZA,1763760,1768799,stage in the game either so i'm just  gonna oh nice we did get a wedding race
+ZK43RAc90ZA,1768799,1776480,nice  wi-fi  all right let's have a look at this bad  boy wait is this the ssd no i think this
+ZK43RAc90ZA,1776480,1782080,is the ssd  so where's where's wi-fi hold on a  second yeah i bumped that up okay let's
+ZK43RAc90ZA,1782080,1787840,go under  here we go  oh interesting this appears to be one of
+ZK43RAc90ZA,1787840,1793039,those uh graphite thermal pads that we  checked out a little while ago so what's
+ZK43RAc90ZA,1793039,1799600,cool about these is they are  exceptionally  uh thermally conductive
+ZK43RAc90ZA,1799600,1804640,um but they're highly directional which  was which was super neat
+ZK43RAc90ZA,1804640,1810960,okay i thought this was better news than  it was i totally screwed that up and  jumped the gun that was the ssd we were
+ZK43RAc90ZA,1810960,1816880,looking at and we have to dig under  there we go under our graphite pad so
+ZK43RAc90ZA,1816880,1823919,we've got a pcie m.2 slot here and then  this  there we go this is our wireless chipset
+ZK43RAc90ZA,1823919,1828960,i had hoped there might be a way to  replace this  but it appears to be soldered directly
+ZK43RAc90ZA,1828960,1835360,to the board so unless you wanted to get  real ambitious  i don't think you are subbing this out
+ZK43RAc90ZA,1835360,1843039,for anything else  uh  as your wave whatever yeah okay
+ZK43RAc90ZA,1843039,1848720,well that's disappointing but not much  not much we can do about it at this  stage
+ZK43RAc90ZA,1848720,1854559,something we can do is we can pull this  little  this little looks like kind of uh what
+ZK43RAc90ZA,1854559,1862880,are they going for here is this intended  to be  a heat spreader no this looks like more  of a like an emi shield oh oh adorable
+ZK43RAc90ZA,1862880,1868799,look at that it wears a little vest  we got the ssd dressed up yeah it's
+ZK43RAc90ZA,1868799,1873840,adorable  so this is a kingston drive and one of
+ZK43RAc90ZA,1873840,1880559,the things that we're going to be doing  as soon as humanly possible is getting  our hands on one of those upcoming  micron two
+ZK43RAc90ZA,1880559,1886000,terabyte  2230 m.2 drives for a steam deck upgrade
+ZK43RAc90ZA,1886000,1891919,and so far i'm really happy with this  process i haven't had to remove any
+ZK43RAc90ZA,1891919,1898799,adhesive of any sort even any tape to  get as far as i have and i suspect that
+ZK43RAc90ZA,1898799,1906278,i could even reuse this little sleeve  with another ssd if i really wanted to
+ZK43RAc90ZA,1906880,1913278,oh no yeah i need to disconnect the  battery it's right here  sorry about that
+ZK43RAc90ZA,1913519,1918880,well hold on a second we could find out  we could find out if i killed it  hold on
+ZK43RAc90ZA,1918880,1924720,there's only one way to know for sure oh  my god hold on hold on  i'm just gonna find out i'm gonna find
+ZK43RAc90ZA,1924720,1930320,out if we i'm gonna find out if we  killed it okay  oh yeah oh yeah hold on i'm not allowed
+ZK43RAc90ZA,1930320,1936960,to show the os  so oh look at this default boot device  missing oh well there's your problem
+ZK43RAc90ZA,1936960,1942720,uh well i'm not allowed to show any  software so i'm not going to do that  uh am i allowed to describe it to you
+ZK43RAc90ZA,1942720,1949120,know i'm not even going to describe it  too i don't want to i don't want to get  in trouble i don't want to get in  trouble with valve they have been super
+ZK43RAc90ZA,1949120,1954640,cool about this whole process i would  like to keep working with valve um
+ZK43RAc90ZA,1954640,1961600,i think they have done an outstanding  job of supporting media without  interfering with us doing our jobs
+ZK43RAc90ZA,1961600,1967279,so those are the kinds of relationships  that we want to try to maintain uh  hardware manufacturers that actually
+ZK43RAc90ZA,1967279,1972799,value feedback and not all of them do  some  just like you know you say something
+ZK43RAc90ZA,1972799,1978080,critical and they get butt hurt and they  want to like they want to punish you  so you won't have access to their
+ZK43RAc90ZA,1978080,1984000,hardware in the future or whatever and  the ones that genuinely care about media  feedback are the ones that we are
+ZK43RAc90ZA,1984000,1990320,interested in working with and valve has  absolutely taken that approach so far  so uh yeah totally totally mislabeled
+ZK43RAc90ZA,1990320,1996080,that don't worry about that  all right so let's go ahead and  disconnect the battery this should  actually be your first step anytime
+ZK43RAc90ZA,1996080,2002720,you're opening up a mobile device i tend  to be a little bit more loosey-goosey  but this is a do as i say not as i do
+ZK43RAc90ZA,2002720,2007919,moment  takes out ssd it won't boot yet pretty  much
+ZK43RAc90ZA,2007919,2014240,pretty much and if you really if you  really want to be sure uh you want to  either hold or press the power button
+ZK43RAc90ZA,2014240,2020960,and this is actually the case even on a  desktop computer for example to to drain  uh
+ZK43RAc90ZA,2020960,2026880,drain any capacitors or anything like  that because technically you could still  short out the device uh if there's any
+ZK43RAc90ZA,2026880,2032000,charge remaining in those  uh all right so what should we do next i  mean one of the big ones i'm curious
+ZK43RAc90ZA,2032000,2037279,about so far we've got the ssd sorted  out we've got the thumb stick sorted out
+ZK43RAc90ZA,2037279,2043679,and  the next most obvious thing that someone  might want to replace is the battery so
+ZK43RAc90ZA,2043679,2049760,i want to try and get access to the  battery as soon as we can here so far  we've managed to get at the ssd with a
+ZK43RAc90ZA,2049760,2054878,mirror so let's total it up eight  three  uh 12 screws
+ZK43RAc90ZA,2054878,2060320,12 screws to swap an ssd and just 11  screws to swap a thumbstick that is
+ZK43RAc90ZA,2060320,2066560,freaking awesome and honestly from my  point of view i think valve oversold the
+ZK43RAc90ZA,2066560,2072960,difficulty of replacing the ssd when  they did their original teardown the way  that it was cut it really seemed like
+ZK43RAc90ZA,2072960,2079200,there was a lot more to it did anyone  else kind of get that vibe  this was brain dead simple i've only
+ZK43RAc90ZA,2079200,2085599,needed one screwdriver so far a phillips  number one  that  is awesome
+ZK43RAc90ZA,2085599,2092638,that's freaking awesome the number of  times we're at the point now where the  screwdriver tip sets that we've created
+ZK43RAc90ZA,2092638,2098320,for the ltt screwdriver there's the  stock loadout so if you just want a  replacement we've got a phillips one
+ZK43RAc90ZA,2098320,2103520,we've got a  a hex one a torx one and then we've got
+ZK43RAc90ZA,2103520,2109040,the fu set which is when the  manufacturer says fu
+ZK43RAc90ZA,2109040,2115359,you will not take apart our device so  it's got like your tri-wings and your  like stupid stuff like that that only
+ZK43RAc90ZA,2115359,2120720,exists to inconvenience you the user and  valve has not taken that approach at all
+ZK43RAc90ZA,2120720,2126960,i actually realized that i had sort of  pivoted off my comparison here and i  want to take a moment to revisit the
+ZK43RAc90ZA,2126960,2134079,comparison to the i and neo as we go  they've actually done a better job of  the ssd now it's actually a similar
+ZK43RAc90ZA,2134079,2140000,number of screws just because there's  more screws holding on the chassis but  as soon as you open this puppy up it's
+ZK43RAc90ZA,2140000,2147839,one screw  full size 2280 ssd which means that you  can put up to an 8 terabyte ssd in this
+ZK43RAc90ZA,2147839,2153440,thing which obviously i took the  opportunity to do because if you're like  me and you have an extremely large
+ZK43RAc90ZA,2153440,2160160,library of like emulated games that you  just want to  get a physical copy of verify your
+ZK43RAc90ZA,2160160,2166400,physical copy of and then play  then a really large local ssd is a is a
+ZK43RAc90ZA,2166400,2172640,great place to keep all of that and one  of the things that made me extremely  happy about this device was the fact
+ZK43RAc90ZA,2172640,2179040,that i could replace the mediatek  wireless chipset with an intel one if i
+ZK43RAc90ZA,2179040,2185200,saw fit in the future and that's  something that you cannot do on the  steam deck would i pay double for it
+ZK43RAc90ZA,2185200,2192079,that's a little bit tougher  but i do  certainly appreciate having the option
+ZK43RAc90ZA,2192079,2197839,now let's do the battery on or actually  let's have a look at the joysticks on  this one before we go any further
+ZK43RAc90ZA,2197839,2203040,if you guys have questions the best way  to ensure that i see them is actually a
+ZK43RAc90ZA,2203040,2209839,merch message guys don't send super  chats we don't do super chats on this  channel anymore we do merch messages so
+ZK43RAc90ZA,2209839,2215119,you go on ltt store pick up some cool  swag and then in the checkout there's a
+ZK43RAc90ZA,2215119,2220480,spot to leave a message it'll say hey  they're live do you want to leave a  message  that's the best way to do it because
+ZK43RAc90ZA,2220480,2226640,that way instead of giving google a big  cut of the money you're sending and  getting nothing if we don't get to your
+ZK43RAc90ZA,2226640,2233040,message you'll at least get some merch  from ltt store if we don't get to your  message  and uh the cost is the same because the
+ZK43RAc90ZA,2233040,2240160,cost is whatever you decide you want it  to be okay so this is an interesting  assembly  okay what we've got going on here
+ZK43RAc90ZA,2240160,2247359,all right so i they've got kind of a  uh looks feels like kind of like a  structural like a rigidity plate
+ZK43RAc90ZA,2247359,2254079,in here it houses  uh  no it doesn't really house anything it's  just more of a cover so one of our
+ZK43RAc90ZA,2254079,2259359,antennas is here which i thought was a  really funny place for the antennas on  this device i haven't asked aya about
+ZK43RAc90ZA,2259359,2264800,this yet but they've got them right  under where your hands are cupped which  i just i thought was kind of a head  scratcher
+ZK43RAc90ZA,2264800,2270400,and then it's just like it feels like  kind of a structural cover for the back  where your hands are which kind of makes
+ZK43RAc90ZA,2270400,2276240,sense but it makes it so that the top of  the  thumb stick doesn't come out
+ZK43RAc90ZA,2276240,2283280,the good news though is that you can  actually replace the mechanism without  needing to do that so these are from
+ZK43RAc90ZA,2283280,2289599,gui kit  not familiar with this particular  manufacturer extremely similar mechanism
+ZK43RAc90ZA,2289599,2295040,though so you can see the  the press  there you go is right there
+ZK43RAc90ZA,2295040,2300400,same kind of here actually we can pull  one of the valve ones out here and have  a look
+ZK43RAc90ZA,2300400,2305599,i mean joysticks are pretty much a uh  a known quantity at this point it just
+ZK43RAc90ZA,2305599,2311880,comes down to  how well manufactured they are so you  got your that appears to be a
+ZK43RAc90ZA,2311880,2318640,self-lubricating style of plastic inside  both of them that's pretty typical uh  the only time you really get into
+ZK43RAc90ZA,2318640,2325119,extremely high-end the only time you get  into like really different joysticks is  if you've got like a fully hall effect
+ZK43RAc90ZA,2325119,2330800,joystick like i think the dreamcast and  the dreamcast have hall effect joysticks  i believe so yeah i'm like yeah i'm
+ZK43RAc90ZA,2330800,2336000,getting the nod from uh from our  producer over there if i recall  correctly it did and that was one of the
+ZK43RAc90ZA,2336000,2343359,that was just one of the many ways that  the dreamcast was just  such an amazing ahead of its time
+ZK43RAc90ZA,2343359,2350400,incredible device that ultimately was  the death of sega or the death of sega  as a hardware company anyway so there
+ZK43RAc90ZA,2350400,2357760,you go joysticks actually very similar  level of complexity to get removed  now let's have a look at the battery
+ZK43RAc90ZA,2357760,2366240,um  is speakers are just  pooh-pooh compared to the steam deck but
+ZK43RAc90ZA,2366240,2372400,i think that's as much to do with  orientation and software tuning as it is  to hardware you can see they're pointed
+ZK43RAc90ZA,2372400,2378160,down away from you whereas the steam  deck took the htc one approach and  pointed it right
+ZK43RAc90ZA,2378160,2384560,right at you right at your face  which i'm a big fan of it's no it's no
+ZK43RAc90ZA,2384560,2391119,great secret that sound go sound waves  do be going like this you know
+ZK43RAc90ZA,2391280,2397599,they don't like to bounce off stuff and  if you are going to bounce them off  stuff you have to do a mess of software
+ZK43RAc90ZA,2397599,2403839,work to make that  uh even remotely functional so what i'm  trying to do right now is i'm trying to
+ZK43RAc90ZA,2403839,2410160,kind of get under  this three layer  battery pack here and it's i'm starting
+ZK43RAc90ZA,2410160,2415839,to get a bit of a  i'm starting to get a bit of a glued in  a glued in vibe here
+ZK43RAc90ZA,2415839,2423599,unfortunately and what's challenging  about that is that flexible battery  packs like we see with these uh lithium
+ZK43RAc90ZA,2423599,2428960,polymer or lithium ion batteries  are  really dangerous
+ZK43RAc90ZA,2428960,2435440,to just  pry out  if you bend them or puncture them
+ZK43RAc90ZA,2435440,2440880,you're going to have an extremely bad  time because that fire is pretty much
+ZK43RAc90ZA,2440880,2446319,non-extinguishable  like there's nothing you can do other  than
+ZK43RAc90ZA,2446319,2452480,huck the thing into a bucket of sand and  cover it and hope that it doesn't  explode
+ZK43RAc90ZA,2452480,2457920,um  now one thing i can do to get myself a  little bit better access to this is i
+ZK43RAc90ZA,2457920,2464800,can undo a couple of screws here for the  bottom speaker sorry you're not going to  get a great look at this i don't think  but maybe i can reply to a couple of
+ZK43RAc90ZA,2464800,2470480,messages in the meantime  um  i baby slapper says hey thanks linus now
+ZK43RAc90ZA,2470480,2476880,that i know the emi shield comes off  super easily i'm getting my steam deck  order in and ordering a samsung pm 991
+ZK43RAc90ZA,2476880,2484960,for my 64 gig deck yeah that is  absolutely going to be the way to go i  mean there okay there that's another
+ZK43RAc90ZA,2484960,2490240,very pc like  well hopefully that's fine there
+ZK43RAc90ZA,2490240,2496319,probably that one i don't even know  that's another pc like thing about the  steam deck that is so
+ZK43RAc90ZA,2496319,2502960,freaking cool  what are the odds that nintendo okay  would allow you to upgrade the capacity
+ZK43RAc90ZA,2502960,2508319,of your switch down the line and i'm not  talking microsd card because valve's got  that too so that's feature parity what
+ZK43RAc90ZA,2508319,2515359,are the odds that nintendo would use a  socketed ssd so that and then provide  you with the tools to load a new image
+ZK43RAc90ZA,2515359,2522800,onto your onto your fresh switch migrate  all of your migrate all of your data  over with your free cloud saves and be
+ZK43RAc90ZA,2522800,2529680,up and running with an upgraded ssd as  technology continues to improve no  nintendo wants you to live in the year
+ZK43RAc90ZA,2529680,2536560,when did the switch get released oh it  doesn't matter because the hardware is  actually older than that
+ZK43RAc90ZA,2536560,2542160,so  you know and  to be clear consoles don't have to be  like that
+ZK43RAc90ZA,2542160,2548960,that's what's really frustrating about  it is consoles are only console like  because console manufacturers make them
+ZK43RAc90ZA,2548960,2554319,console like they define what console  like is and that's where i think
+ZK43RAc90ZA,2554319,2560160,microsoft has actually done a decent job  of stepping up i think they could be  doing a better job of their ssd upgrades
+ZK43RAc90ZA,2560160,2566560,i think sony's ahead of them there but  allowing things like intergenerational  controller compatibility for example not
+ZK43RAc90ZA,2566560,2573280,just allowing it but making it seamless  is in my opinion such a huge step  forward for that industry and this is
+ZK43RAc90ZA,2573280,2579920,really confusing because i feel like  i've got it  but it's just not coming out the last  little bit here oh there we go oh look
+ZK43RAc90ZA,2579920,2585760,at that okay it is glued in  but that's not bad
+ZK43RAc90ZA,2585760,2590960,that was actually pretty painless and oh  look at that if since we've got it  flipped over we can actually see the
+ZK43RAc90ZA,2590960,2597599,specs on this thing forty seven point  four watt hours  eleven point five five volts
+ZK43RAc90ZA,2597599,2603920,so it's running at oh  now that's interesting
+ZK43RAc90ZA,2603920,2609599,i wonder why  the battery pack in the iron neo
+ZK43RAc90ZA,2609599,2616720,runs at a much higher voltage  so these appear to be all capacity units
+ZK43RAc90ZA,2616720,2622720,and are running in no hold on because  what is it um 3.3 volts per cell in
+ZK43RAc90ZA,2622720,2628480,lithium ion  so what am i looking at here  i forget what the nominal voltage is
+ZK43RAc90ZA,2628480,2635280,sorry this is all just kind of like  3.3.7 is nominal right  or 4.2 is nominal
+ZK43RAc90ZA,2635280,2641359,hmm  let me charge one 3.7 max 3.7 right
+ZK43RAc90ZA,2641359,2647200,i can't remember you know what do you  want to summon kyle  because i would actually like to get his  perspective for
+ZK43RAc90ZA,2647200,2652319,why the io neo is using a higher voltage  battery
+ZK43RAc90ZA,2652319,2659359,very interesting in the meantime let's  set aside the ineo and let's go back to  the steam deck and have a look at the
+ZK43RAc90ZA,2659359,2664960,battery removal process for this bad boy  so the neo was glued in or taped in
+ZK43RAc90ZA,2664960,2671839,rather double-sided taped in but it's  kind of a it's kind of a tacky tape  so that's going to help you know keep it
+ZK43RAc90ZA,2671839,2677280,it's going to help keep it from just  vibrating loose and rattling around  inside the chassis but it was pretty
+ZK43RAc90ZA,2677280,2682960,easy to remove so let's have a look at  the steam deck now  i am going to want to be extra careful
+ZK43RAc90ZA,2682960,2688720,with these ribbon cables i totally  understand why  valve wants these guys
+ZK43RAc90ZA,2688720,2694640,glued down or taped down but it  does make it a little bit  tricky to get under them i was
+ZK43RAc90ZA,2694640,2701119,attempting a camera repair recently  where there were some really tiny ribbon  cables like these i accidentally severed
+ZK43RAc90ZA,2701119,2707359,one and i ended up needing to order a  whole new  replacement module for it and it was
+ZK43RAc90ZA,2707359,2713599,pretty  brutal  we've got some we've got some word from
+ZK43RAc90ZA,2713599,2719760,the float plane chat higher voltage  means smaller current thinner traces and  thus less emi
+ZK43RAc90ZA,2719760,2724960,but i guess my question is  well then why wouldn't valve just go for
+ZK43RAc90ZA,2724960,2731359,a higher voltage battery which my  understanding is is pretty typical for  these types of devices be they laptops
+ZK43RAc90ZA,2731359,2736400,or  game consoles or  really laptops in the form of a game
+ZK43RAc90ZA,2736400,2741680,console  oh boy  these suck
+ZK43RAc90ZA,2741680,2746880,um these are not fun  compared to everything that we've seen  so far
+ZK43RAc90ZA,2746880,2752400,this is by far  the least friendly thing that we've seen  yet
+ZK43RAc90ZA,2752400,2759359,okay let's get some alcohol in here  the good news is that a little bit of  alcohol eases the
+ZK43RAc90ZA,2759359,2766000,slicing of the adhesive very  significantly here so as long as we can  keep our blade lubed i don't think we're
+ZK43RAc90ZA,2766000,2769359,gonna have a ton of trouble
+ZK43RAc90ZA,2772960,2778720,uh had a good bit of feedback in uh i  think this was in twitch chat here why  don't you just
+ZK43RAc90ZA,2778720,2783839,why don't you just remove the connector  for the ribbon and then just leave it  glued to the battery that's a good
+ZK43RAc90ZA,2783839,2789599,question it's because i'd have to pull  out this motherboard first in order to  do that and really what i want to know
+ZK43RAc90ZA,2789599,2795119,is because the battery is something that  i could conceivably see people wanting  to replace
+ZK43RAc90ZA,2795119,2800640,um  like relatively uh
+ZK43RAc90ZA,2800640,2806880,what's the word i'm looking for not  predictably but it's something that i  think is very likely that people are  going to want to replace
+ZK43RAc90ZA,2806880,2812400,i want to do it with as little tear down  as possible that's my goal right now
+ZK43RAc90ZA,2812400,2817920,i want this to be manageable for people  with nothing but a number one  screwdriver and a butter knife did you
+ZK43RAc90ZA,2817920,2823839,find him  he's on his way nice bringing in kyle  our resident
+ZK43RAc90ZA,2823839,2830240,nerd  he knows he knows a lot more about  this kind of electronics than i do
+ZK43RAc90ZA,2830240,2835520,because he's been working on some  really cool top secret projects for us  and also he just knew a lot of that
+ZK43RAc90ZA,2835520,2839680,stuff before he came here which is why  we hired him because he's awesome
+ZK43RAc90ZA,2840559,2847119,you guys have actually met kyle before  if you saw our video about the lab  um kyle's been helping us with hiring
+ZK43RAc90ZA,2847119,2852720,for the lab and also helping us with  specking out some of the equipment that  we're building out for the lab so
+ZK43RAc90ZA,2852720,2859838,he's uh he works for creator warehouse  but the lines  the lines are blurry sometimes
+ZK43RAc90ZA,2861040,2867599,uh  okay so i'm just gonna peel up this  ribbon yeah it looks like there's just  no way to get around this
+ZK43RAc90ZA,2867599,2874800,i'm gonna have to  yeah okay hold on let me see if i can  get you guys an angle here i'm going to  have to remove this adhesive from the
+ZK43RAc90ZA,2874800,2880078,audio cable it's nicely labeled there  let's just go ahead and
+ZK43RAc90ZA,2880720,2887280,oh  this is bed  come on come on
+ZK43RAc90ZA,2887280,2892559,oh my goodness i do not like this at all  uh  i don't want to remove that if i don't
+ZK43RAc90ZA,2892559,2900240,have to maybe i don't have to  you know what no i'm just going to put  it there i'm going to peel back this one
+ZK43RAc90ZA,2900240,2905119,and i'm going to see  how rough this is
+ZK43RAc90ZA,2907200,2912839,this frame around it  so  that's really
+ZK43RAc90ZA,2912839,2920880,challenging um  uh can you come back to the a cam
+ZK43RAc90ZA,2921440,2927280,this frame around it is really tough  on the neo the reason i was able to
+ZK43RAc90ZA,2927280,2932480,remove the battery was because even even  a relatively weak adhesive right
+ZK43RAc90ZA,2932480,2937680,it's it's all about  the kind of strength that something has
+ZK43RAc90ZA,2937680,2944400,so even a relatively weak adhesive is  hard to pull off straight off think of  it kind of like the way that if you have
+ZK43RAc90ZA,2944400,2950480,an amd cpu in the socket okay you put  some thermal paste on there  and you pull the heatsink right off it's
+ZK43RAc90ZA,2950480,2958000,going to pull the pins right out of the  socket you're probably going to have a  cpu on the bottom of your heatsink right  so adhesives are really strong that way
+ZK43RAc90ZA,2958000,2963760,but  sliding  not necessarily as strong you poke  something sharp
+ZK43RAc90ZA,2963760,2969359,between  uh  and it like through an adhesive right so  between the the base layer and
+ZK43RAc90ZA,2969359,2975920,whatever's being glued onto it and slice  really easy to remove so i was able to  get it this one because by removing this
+ZK43RAc90ZA,2975920,2982079,speaker here see that there you go i was  able to get access to the underside of  the battery and slice through the
+ZK43RAc90ZA,2982079,2989440,adhesive  see kind of like that  on the steam deck  valve has actually built
+ZK43RAc90ZA,2989440,2995280,like it's it appears to be kind of a  rigidity enhancing frame you can see it
+ZK43RAc90ZA,2995280,3002319,actually goes all the way from here to  here and that's probably a big part of  the reason that even without its backing
+ZK43RAc90ZA,3002319,3008480,this is really impressive there is so  little flex in the steam deck and
+ZK43RAc90ZA,3008480,3015440,here you go compared to the ioneo  actually quite similar  but the thing you've got to remember is
+ZK43RAc90ZA,3015440,3021440,that keeping that limited flexibility  gets i don't know if i could say  exponentially more difficult but it
+ZK43RAc90ZA,3021440,3028640,certainly gets more difficult in a  non-linear fashion the larger the device  gets is that fair to say kyle
+ZK43RAc90ZA,3028640,3035839,the bigger something gets the much much  harder it is to retain  rigidity so valve probably needed to do
+ZK43RAc90ZA,3035839,3041520,a lot of work to optimize this for  weight you can see they probably don't  want to have any more of it in there
+ZK43RAc90ZA,3041520,3048240,than they absolutely have to and  structural rigidity so can can i borrow  you yeah i guess so um these batteries
+ZK43RAc90ZA,3048240,3055119,sorry i need to go around i don't want  to break anything um it was interesting  to me to see that the io neo which has a
+ZK43RAc90ZA,3055119,3061119,similar  rated soc in terms of wattage so it's  got a 20 watt soc in it it's actually
+ZK43RAc90ZA,3061119,3067440,got a 47 watt hour battery in it whereas  the steam deck this soc is typically in
+ZK43RAc90ZA,3067440,3072960,the 20-ish range but it can go as high  as 25. so theoretically the steam deck
+ZK43RAc90ZA,3072960,3079119,can draw more power now we haven't  gotten into  the fact that the ineo is using ddr4
+ZK43RAc90ZA,3079119,3085119,generation memory for example versus  ddr5 which runs at a lower voltage we  also haven't talked about how there's a
+ZK43RAc90ZA,3085119,3090800,lot of other aspects of a device like  this that can draw power aside from the  soc like the screen for example
+ZK43RAc90ZA,3090800,3097599,extremely important but but on paper you  would expect similar battery life  between the two of them in practice it
+ZK43RAc90ZA,3097599,3104240,wasn't that similar even though the  steam deck is only a 40 watt hour  battery so it has a whopping like 17
+ZK43RAc90ZA,3104240,3110400,percent less capacity but what we  noticed during our teardown is that  valve's actually running their battery
+ZK43RAc90ZA,3110400,3116400,at a much lower voltage this pack is 8.8  volts while this one is
+ZK43RAc90ZA,3116400,3122240,uh  11.55 nominal so that would be what  two
+ZK43RAc90ZA,3122240,3128480,two lithium cells in series here and  versus three yes  why can you think of any reason why you
+ZK43RAc90ZA,3128480,3134319,might want higher or lower and why valve  might have gone this route you're  putting me a little bit on the spot here  yeah yeah i know
+ZK43RAc90ZA,3134319,3139520,that's how i roll yeah um okay i brought  my  multimeter down thank you
+ZK43RAc90ZA,3139520,3144880,voltage measurement no i don't think so  so  the only thing i can hazard to guess and
+ZK43RAc90ZA,3144880,3150640,this is guessing here  is  every time you change voltage
+ZK43RAc90ZA,3150640,3157040,right like you don't get power for free  if you change voltage you you getting  current out right  so the bigger the voltage differential
+ZK43RAc90ZA,3157040,3162319,between what your battery is versus what  you're trying to get out  right you have a better chance for
+ZK43RAc90ZA,3162319,3168559,losses right okay so i guess because  they're switching from a lower voltage  to like whatever your core voltage is
+ZK43RAc90ZA,3168559,3174160,what like one or point seven volts  probably in the neighborhood of yeah  around one maybe but they're using
+ZK43RAc90ZA,3174160,3180400,switching like vrm switching so it's not  a linear thing so  usually you get good efficiency out of
+ZK43RAc90ZA,3180400,3187359,those um  that's really all i can hazard the guess  i mean how old is this compared to like
+ZK43RAc90ZA,3187359,3193200,this is brand new these are both brand  new brand new devices it's not like  they're using a technological
+ZK43RAc90ZA,3193200,3198480,you know there's a generational increase  in  you know vrm stuff i'd have to actually
+ZK43RAc90ZA,3198480,3204559,look up what they're doing on their  power side to actually give you a proper  answer sure everything's just a guess at  this point yeah don't worry about it i
+ZK43RAc90ZA,3204559,3210000,was just i was kind of curious because  it seemed like such a it seemed like  such an obvious thing for the industry
+ZK43RAc90ZA,3210000,3216880,to be kind of standardized on almost  every laptop i've ever opened up uses a  very similar structure for the battery
+ZK43RAc90ZA,3216880,3223599,so i mean another one and this is  could i knew whoever makes this battery
+ZK43RAc90ZA,3223599,3229760,yeah  be stopping it earlier than like the  switches so for example i'm saying is
+ZK43RAc90ZA,3229760,3236240,yeah you can you can set like a shuttle  voltage right yeah let's say like  to increase battery life someone's
+ZK43RAc90ZA,3236240,3241680,shutting this down at like 3.2 volts  instead of like three i'd be surprised
+ZK43RAc90ZA,3241680,3246880,right i'd be surprised i'd say if  anything these guys fly pretty close to  the sun and i'd say they're probably
+ZK43RAc90ZA,3246880,3252000,giving you that's the giving you what  you're doing so that's the only other  thing i could think of off the top of my
+ZK43RAc90ZA,3252000,3259119,head we had one person in the chat  suggest that a higher voltage  um a higher voltage might mean you could
+ZK43RAc90ZA,3259119,3265280,have smaller thinner traces on your pcb  but  at these kinds of voltages i i suspect
+ZK43RAc90ZA,3265280,3271440,that is not a major design consideration  yes but  the only reason why you honestly have
+ZK43RAc90ZA,3271440,3278400,thinner thicker traces is current  really voltage doesn't really matter i  suppose the argument there is a a higher
+ZK43RAc90ZA,3278400,3284720,voltage means less current right and so  you could use thinner traces but then  your traces have a higher impedance
+ZK43RAc90ZA,3284720,3290079,which is a engineering thing we don't  get into now so  it's a lot of guess work right now until
+ZK43RAc90ZA,3290079,3296000,we actually go down into the data sheets  and figure out exactly how they're doing  it  but
+ZK43RAc90ZA,3296000,3302640,besides the battery cut-off point and  maybe a smaller voltage differential  giving you efficiencies that
+ZK43RAc90ZA,3302640,3310079,i can't really think of anything else  for the top of my head okay all right  thank you that's a weird shaped battery  though right so it's a two-piece pack so
+ZK43RAc90ZA,3310079,3316880,there's a seam here  and it seems like they were just trying  to optimize the internal layout because  they've actually got a thinner main
+ZK43RAc90ZA,3316880,3323119,chassis body than this guy so these guys  were able to stack  three like this but then valve didn't
+ZK43RAc90ZA,3323119,3328160,need to stack three because they're only  using  a two in series
+ZK43RAc90ZA,3328160,3333280,design  so i i don't know yeah that's  interesting it's all it's all very it's
+ZK43RAc90ZA,3333280,3339119,all very fascinating um our next step is  we're going to try and pry the battery  out so uh
+ZK43RAc90ZA,3339119,3344720,okay i know i know trust me i mean you  want to open the fire door to eat it  outside in case it starts
+ZK43RAc90ZA,3344720,3350880,yeah um i mean it should be fine it's  like if it catches fire just step away  and like
+ZK43RAc90ZA,3350880,3356640,i'm gonna breathe the magic dust but i'm  not gonna i'm not gonna go that hard at  it if it doesn't come out easily we're
+ZK43RAc90ZA,3356640,3361960,just gonna basically say hey you have  water poor water
+ZK43RAc90ZA,3363520,3368720,okay okay you're you're done you're out  you're out thank you very much thanks  for playing do you want that no i'm good
+ZK43RAc90ZA,3368720,3374640,thank you this this guy this guy okay i  feel like i need to step in and say no
+ZK43RAc90ZA,3374640,3381599,you do not pour water on a lithium fire  and he knows that that's why he's he's  always trying to kill me like that
+ZK43RAc90ZA,3381599,3388559,doesn't want you to use the metal  guys don't worry don't worry they're not  wrong they're not wrong the metal thing
+ZK43RAc90ZA,3388559,3394319,is a much higher chance of puncturing  look let me show you guys how much force  i'm putting on it okay i'm going like
+ZK43RAc90ZA,3394319,3399680,this  that's it  that's it i am not i'm not i'm i'm
+ZK43RAc90ZA,3399680,3407440,looking for if there's any obvious  obvious place that it's supposed to be  pried up for i am not putting any kind
+ZK43RAc90ZA,3407440,3413280,of stress on it uh i think the issue is  that my ifixit kit i lost one of my one
+ZK43RAc90ZA,3413280,3420240,of my plastic pieces so would you prefer  i use this plastic piece because that's  my other option
+ZK43RAc90ZA,3421760,3427680,all right  so let's have a look here honestly guys  i don't think there's any getting around
+ZK43RAc90ZA,3427680,3432720,this even removing the fan here you can  see that there's enough of a lip on this
+ZK43RAc90ZA,3432720,3438400,spot right here  that i am not going to be able to get  under this battery
+ZK43RAc90ZA,3438400,3445119,wait  oh i was wrong  yes okay hold on i'm excited again
+ZK43RAc90ZA,3445119,3450160,i think it's possible  that we can get under it here
+ZK43RAc90ZA,3450160,3456720,i missed this  okay  it's entirely possible that we will  break this steam deck in the process i
+ZK43RAc90ZA,3456720,3462640,sincerely hope we don't but  i don't know maybe if i offer to pay for  another one valve will send me another
+ZK43RAc90ZA,3462640,3470799,one before the review embargo  you hear that valve  if i break it i buy it okay deal deal
+ZK43RAc90ZA,3470799,3476559,uh  okay oh my goodness we are we are right  up against the display assembly here
+ZK43RAc90ZA,3476559,3483359,though i do not like that  i do not like  i do not like oh getting a message from
+ZK43RAc90ZA,3483359,3488559,my wife  please do not blow yourself up the
+ZK43RAc90ZA,3488559,3493680,increased life insurance hasn't gone  through yet
+ZK43RAc90ZA,3494640,3499839,got it  so not yet  not yet but later
+ZK43RAc90ZA,3499839,3505119,later she'll be okay with it you know i  mean once uh once the house is all paid
+ZK43RAc90ZA,3505119,3510240,for what does she need me for anyway  right that's what insurance is for  so you don't need your dead hubby
+ZK43RAc90ZA,3510240,3517359,anymore  uh okay  oh hi
+ZK43RAc90ZA,3517359,3523680,huh  i'd be lying if i said i liked this any  more than you guys do  why don't we take a short break and tell
+ZK43RAc90ZA,3523680,3529280,you about our sponsor  actually yup we should do that uh this  video is brought to you by
+ZK43RAc90ZA,3529280,3534319,oh i'm actually even wearing shoes today  they're not the right ones thanks to  bestie footwear vesty forward is known
+ZK43RAc90ZA,3534319,3539680,for being lightweight easy to pack  comfortable and most importantly water  resistant they're designed to keep you
+ZK43RAc90ZA,3539680,3545760,moving vessie released their new  everyday move shoes i have no idea what  they look like i thought maybe we were
+ZK43RAc90ZA,3545760,3551200,going to have some footage of them but  whatever oh okay is someone wearing them  is that them all right chase you'll be
+ZK43RAc90ZA,3551200,3556720,our vanna open it up show david with  enhanced breathability and added support  this style is perfect for the
+ZK43RAc90ZA,3556720,3564960,adventurous or those looking for  something sportier they feature a pull  tab to take them off and put them on  with ease vegan suede lace cages vegan
+ZK43RAc90ZA,3564960,3570160,suede that's the second time i've done  that i've got  i got gpus on the mind
+ZK43RAc90ZA,3570160,3575520,vegan vegan suede uh vegan suede lace  cages you can go back to the shoes uh
+ZK43RAc90ZA,3575520,3581520,extra midsole cushioning and the same  waterproof dymatex technology so you'll  want to wear them everywhere the dual
+ZK43RAc90ZA,3581520,3588240,climate knit material keeps your feet  warm during winter and cool during the  summer so stay dry and get your veggie  shoes today at vesey.com linus tech tips
+ZK43RAc90ZA,3588240,3593599,and you can get 25  off using our code linus tech tips at
+ZK43RAc90ZA,3593599,3598880,the checkout also nick is here  big announcement for ltt store that's
+ZK43RAc90ZA,3598880,3604880,right swagit v2 is back in stock ladies  and gentlemen so we actually have wan
+ZK43RAc90ZA,3604880,3610319,hoodies  and swag it's in stock right now do we  have all sizes of the when sweatpants
+ZK43RAc90ZA,3610319,3616319,still no oh when hoodies are gonna sell  out so buy it now if you want one okay  yeah so if you want to win hoodie now's
+ZK43RAc90ZA,3616319,3623280,the time and if you want to swack it  honestly now's the time for those as  well uh they've got the reflective  strips on the back they've got of course
+ZK43RAc90ZA,3623280,3628319,our style of phone pocket where is it uh  batman where is it no no they have
+ZK43RAc90ZA,3628319,3635280,zipper pockets on this one  oh there we go  uh what else can i what else can i  really say about it zipper pocket super
+ZK43RAc90ZA,3635280,3641359,kind of i like kind of a canvassy  material here breathable material here  it's somewhere in between a sweater and
+ZK43RAc90ZA,3641359,3646960,a jacket it's a swagget  all right  let's move on
+ZK43RAc90ZA,3646960,3652799,the electro classic says hey nick  congrats on the olympic coverage yeah  that was pretty that was pretty freaking
+ZK43RAc90ZA,3652799,3658319,cool seeing one of our team canada  athletes reppin ltt store absolutely
+ZK43RAc90ZA,3658319,3664960,love it that was not a paid arrangement  okay we cannot afford olympic uh  sponsorships just
+ZK43RAc90ZA,3664960,3670480,yet at this stage in the game  but give us time all right  give us time there's a starting place
+ZK43RAc90ZA,3670480,3675599,for everything  ah wow this is an absolute
+ZK43RAc90ZA,3675599,3681680,nightmare to get out  i am not a fan because my best prying
+ZK43RAc90ZA,3681680,3687760,surface  is right back here and that's the  freaking back of the display
+ZK43RAc90ZA,3687760,3694480,that is not  what you want to pry on so my only way  to apply any kind of pressure to it
+ZK43RAc90ZA,3694480,3701520,is to kind of  um  just  just pull on it like this which
+ZK43RAc90ZA,3701520,3707520,is like we were discussing before  not a good way  to oh
+ZK43RAc90ZA,3707520,3713839,okay i heard a i heard a little bit of a  crack there  um hopefully that's a good crack you
+ZK43RAc90ZA,3713839,3721119,know  like a like a thick crack  thick crack yeah
+ZK43RAc90ZA,3721119,3726799,i really want i want one of these  corners up  and then this frame let's frame like i
+ZK43RAc90ZA,3726799,3733359,can't  oh man  do not like
+ZK43RAc90ZA,3733359,3740519,do not like  one bit i mean we're  we're getting in there
+ZK43RAc90ZA,3740559,3745920,okay  oh i do not like this  i'm sweating
+ZK43RAc90ZA,3745920,3752559,okay  i'm sweating  i'm sorry guys i gotta  i've gotta lose the merch we gotta lose
+ZK43RAc90ZA,3752559,3758079,the merch  get the other merch
+ZK43RAc90ZA,3760319,3766720,oh  i do not recommend this  i don't like this one little bit i don't
+ZK43RAc90ZA,3766720,3772079,recommend it with a heat gun see that's  a problem right with a heat gun it's
+ZK43RAc90ZA,3772079,3778079,possible that we could make this a  little bit easier by softening up the  adhesive but the problem is that heat
+ZK43RAc90ZA,3778079,3783920,guns and lithium batteries  not a great combination  not the best
+ZK43RAc90ZA,3783920,3791039,not what i would uh  not that i would recommend playing  around with  and you can heat it from the other side
+ZK43RAc90ZA,3791039,3796720,but again you better be careful because  a you're heating up your screen and b
+ZK43RAc90ZA,3796720,3803119,you are dumping that heat pretty much  straight into the battery  on the other side
+ZK43RAc90ZA,3803119,3809119,okay  do not like  oh man
+ZK43RAc90ZA,3809119,3814640,oh man okay oh  okay
+ZK43RAc90ZA,3815119,3820880,okay  david  you're not making this easier
+ZK43RAc90ZA,3821200,3825520,i don't think i have any life insurance  as you do
+ZK43RAc90ZA,3826480,3831839,come on  okay
+ZK43RAc90ZA,3831839,3837680,oh my goodness  okay i want a uh  i want a skinnier
+ZK43RAc90ZA,3837680,3843839,i want a skinnier doodad i don't really  have one  do we have a skinnier doodad
+ZK43RAc90ZA,3843839,3847599,okay  oh
+ZK43RAc90ZA,3850880,3857039,okay okay  i know i know i know i'm not trying to
+ZK43RAc90ZA,3857039,3862558,i'm not trying to shake  i'm not trying to i'm just
+ZK43RAc90ZA,3862720,3868319,okay  okay  all right  so
+ZK43RAc90ZA,3868319,3874640,i've got this side up actually you know  what here david check this out  now that we've got this side up
+ZK43RAc90ZA,3874640,3881280,i think we can get under it  see that yeah  just brace against the motherboard here
+ZK43RAc90ZA,3881280,3888480,okay  the battery's supposed to bend like that  yeah yeah it's good that's a good bend
+ZK43RAc90ZA,3888480,3895200,okay  um  oh man
+ZK43RAc90ZA,3895200,3902400,do not like  do  not like  okay i think it's coming up now
+ZK43RAc90ZA,3902400,3909400,oh you bastard  come on come on come on come on come on
+ZK43RAc90ZA,3910160,3915920,okay  that battery
+ZK43RAc90ZA,3915920,3923599,is  freaking glued in  i got it
+ZK43RAc90ZA,3923599,3930240,it is glued for days  i do not
+ZK43RAc90ZA,3930240,3936400,like it  um  i've got no problem
+ZK43RAc90ZA,3936400,3941760,with a little bit of glue  but that's too much glue
+ZK43RAc90ZA,3941760,3948480,too much glue you out glued yourself  valve  um
+ZK43RAc90ZA,3948480,3954000,in the process i ended up bending the  uh the plug for the battery a little a
+ZK43RAc90ZA,3954000,3959920,little touch that's okay that's okay  it's uh it's bent back now  you guys want to know if it still turns
+ZK43RAc90ZA,3959920,3965680,on  are we into it you guys you guys down  are you down
+ZK43RAc90ZA,3965680,3971920,all right let's do it  let's do it because i want to know  i want to know if it's bricked
+ZK43RAc90ZA,3971920,3978559,okay  let's go ahead and oh man my hands are  shaking  my hands are shaking it's a combination
+ZK43RAc90ZA,3978559,3985359,of just like the exertion and the stress  it's exertion stress shaking
+ZK43RAc90ZA,3985359,3990640,okay how's this bad boy going  and by bad i mean bad you were you were
+ZK43RAc90ZA,3990640,3997359,bad  you were bad to have so much glue on you  bad okay
+ZK43RAc90ZA,3997359,4004799,where to put that screw oh there it is  someone give lioness a red bull he needs  to calm down yeah i'm oh man my hand's
+ZK43RAc90ZA,4004799,4010079,shaking too much to put the screw in  go on pencil grip here  okay
+ZK43RAc90ZA,4010079,4016640,jeez  jeez  this is what you guys tune in though for
+ZK43RAc90ZA,4016640,4022160,right am i right ladies and gentlemen  okay you ready i can't show you guys the
+ZK43RAc90ZA,4022160,4028799,software interface so  i can't show you the screen until i have  a game open uh once i have a game open
+ZK43RAc90ZA,4028799,4033319,though i will i will show you guys the  screen okay
+ZK43RAc90ZA,4034000,4040559,yes yes yes i will be able to without  the joysticks because valve thought of  that and they put lots of different
+ZK43RAc90ZA,4040559,4046960,um user interfaces on this puppy  the light is on
+ZK43RAc90ZA,4046960,4053200,uh you can show the overhead if you want  okay  yeah go for it the light is on
+ZK43RAc90ZA,4053200,4060160,oh it's powered on it's powered on okay  okay yeah go back to the other go back  to the other one okay  okay battery is just it's
+ZK43RAc90ZA,4060160,4066079,battery's hanging out here i'm just  hanging out with my battery we're both  hanging out get it because the battery
+ZK43RAc90ZA,4066079,4072880,is hanging hanging out it's hanging it's  hanging out  oh i should do some uh i should do some  merch messages they've got some curated
+ZK43RAc90ZA,4072880,4078960,ones for me i think here hey happy early  birthday colin your fiance thinks you're  really cute
+ZK43RAc90ZA,4078960,4085119,love it  uh please don't kill yourself removing  that battery i won't andrew i won't i
+ZK43RAc90ZA,4085119,4090720,got this i got this  are there any plans to make women's or  unisex t-shirts
+ZK43RAc90ZA,4090720,4096960,yes we are planning women's shirts  absolutely  uh also higher voltage battery allows
+ZK43RAc90ZA,4096960,4103679,for more power with less current leading  to okay yes so we did end up talking  about that good stuff
+ZK43RAc90ZA,4103679,4109600,okay go ahead and remove this one dumb  question but why go with a steam deck  over a decent laptop is the small amount
+ZK43RAc90ZA,4109600,4117120,of portability worth it  now i would make the argument that the  steam deck is a lot more portable than a
+ZK43RAc90ZA,4117120,4122719,laptop not in the sense that the steam  deck is  um
+ZK43RAc90ZA,4122719,4128238,necessarily easier to lug around because  it's so thick that when i when i got it
+ZK43RAc90ZA,4128238,4133359,like when i had my early hands on right  like i had like 45 minutes with it or  something like that an hour i can't
+ZK43RAc90ZA,4133359,4140560,remember it was really fast other than  just  verbally diarrheaing all over the camera
+ZK43RAc90ZA,4140560,4147278,i didn't have time to think right and so  it wasn't until i got it in my hands and  i was able to really sit and game on it
+ZK43RAc90ZA,4147278,4154159,i realized wow this thing is really  thick and it was actually a  significant consideration for us
+ZK43RAc90ZA,4154159,4159600,uh right here as we were going through  our latest revision of the backpack
+ZK43RAc90ZA,4159600,4164960,because our intention had been for this  to be like the tech slash gamer backpack
+ZK43RAc90ZA,4164960,4171359,right so you got your laptop sleeve you  got your tablet sleeve and then our  intention was a third sleeve intended
+ZK43RAc90ZA,4171359,4177359,for something like a game console well  we realized that no matter how thick we  made this sleeve
+ZK43RAc90ZA,4177359,4182960,there was no  freaking way that a steam deck was going  to go in there and not absolutely get
+ZK43RAc90ZA,4182960,4188480,mangled like the joysticks would have a  ton of pressure on them so what we  decided to do seeing how thick it was
+ZK43RAc90ZA,4188480,4194238,was give up essentially uh we decided  okay we're gonna take our third sleeve  we're gonna say okay now it's for just
+ZK43RAc90ZA,4194238,4199600,like an auxiliary electronic device mp3  player extra phone you know drug dealer  phone or something like that and put
+ZK43RAc90ZA,4199600,4204719,that there and then what that did is it  actually created kind of a shape like
+ZK43RAc90ZA,4204719,4209760,this inside and so what we're going to  do is on the bottom side here we're
+ZK43RAc90ZA,4209760,4216320,going to create or we're going to make  it like a microfiber on the inside here  and then our intention is for you to
+ZK43RAc90ZA,4216320,4222080,actually slide your game console in  like this  into the bottom
+ZK43RAc90ZA,4222080,4227440,there you go and so it'll be kind of  supported from the back by that pocket  just a little bit it's not ideal but the
+ZK43RAc90ZA,4227440,4233280,reality of it is these things are  getting so thick and  and and not switch-like that we just
+ZK43RAc90ZA,4233280,4239120,weren't going to be able to build a  pocket that was going to properly  accommodate it  so we just want to make sure that it's
+ZK43RAc90ZA,4239120,4245280,big enough that you could fit the steam  deck in either with or without a
+ZK43RAc90ZA,4245280,4251199,um  uh a thing i'm gonna call it a case  that's the word i was looking for okay
+ZK43RAc90ZA,4251199,4259079,here let's oh wait controls not  installed on this one  what is
+ZK43RAc90ZA,4259199,4264320,uh library okay hold on let me just  hold on where is uh
+ZK43RAc90ZA,4264320,4269760,oh this will do  okay hold on hold on wait don't uh don't  don't show it yet and okay the game is
+ZK43RAc90ZA,4269760,4274800,launched  okay my steam deck is still working
+ZK43RAc90ZA,4275920,4281120,uh i think it's still working yes it's  still working  play  hopefully we didn't show any screen
+ZK43RAc90ZA,4281120,4287280,there uh yeah should be hopefully fine  all right let's play some video games
+ZK43RAc90ZA,4287280,4294560,you want to switch to the overhead  sure  oh that's interesting
+ZK43RAc90ZA,4294560,4301158,ah  it's  it's drifting to the left
+ZK43RAc90ZA,4301199,4307360,uh yeah there's no there's no joystick  attached you know what's really  interesting something i learned about uh
+ZK43RAc90ZA,4307360,4312560,while i was doing research on joystick  drift is that one of the reasons that
+ZK43RAc90ZA,4312560,4318480,joysticks drift is just an inherent  limitation of the design of joysticks
+ZK43RAc90ZA,4318480,4325840,there's basically nothing you can do  about it they drift  and so what's normal  to overcome that is to calibrate them at
+ZK43RAc90ZA,4325840,4332450,the factory and i wonder if what we're  seeing is  my left joystick calibration
+ZK43RAc90ZA,4332450,4339600,[Music]  that's that's probably it  so my left joystick is probably it
+ZK43RAc90ZA,4339600,4346080,probably drifts slightly to the right  very interesting
+ZK43RAc90ZA,4346159,4353040,let lions know that without the back  cover the thermals aren't ideal uh yeah  yeah that is a very good point don't
+ZK43RAc90ZA,4353040,4358719,worry guys we're not running a demanding  game and we're not going to be doing  this for long obviously
+ZK43RAc90ZA,4358719,4364640,so you can actually that's a actually a  really good point so let's bring out the  back cover again so you can see here
+ZK43RAc90ZA,4364640,4369760,that we're in taking air right here over  the ssd and wireless chipset we're going
+ZK43RAc90ZA,4369760,4376560,to get a little bit of incidental  airflow kind of over here around our  memory modules
+ZK43RAc90ZA,4376560,4381920,around our vrm modules okay and then the  bulk of our air is going to get  exhausted
+ZK43RAc90ZA,4381920,4388400,out here and kind of drawn over this  area by this fan so it's a combination
+ZK43RAc90ZA,4388400,4393679,of using the cool of fresh air coming in  to cool these components right and
+ZK43RAc90ZA,4393679,4399360,actually the heat or the emi shield  it does pulls a little bit of cooling
+ZK43RAc90ZA,4399360,4405360,duty as well here you can see that's why  it's connected with thermal pads to the  vrms
+ZK43RAc90ZA,4405440,4410800,and then the bulk of the cooling for the  soc is done by this heatsink right here
+ZK43RAc90ZA,4410800,4415440,i think we can go ahead and shut it down  now
+ZK43RAc90ZA,4417679,4423679,okay  so let's pull that out pop that in there  huh you guys having fun yet ladies and
+ZK43RAc90ZA,4423679,4430960,gentlemen  because i'm definitely having fun  let's go a little deeper shall we pull  our battery back off safety first right
+ZK43RAc90ZA,4430960,4437520,there you go  um we can pull the  uh wi-fi majig back off
+ZK43RAc90ZA,4437520,4443280,i want to have a look at this  motherboard  all right  now what are we going to have to do to
+ZK43RAc90ZA,4443280,4450320,get the motherboard here  let's go ahead and  pull this off so we've got a single heat
+ZK43RAc90ZA,4450320,4456800,pipe let me just label  this heat pipe whoop
+ZK43RAc90ZA,4456800,4466239,there we go  getting hydrated david lttstore.com
+ZK43RAc90ZA,4467199,4473600,okay i'm gonna actually label these  individual screws because i don't know  if they're the same so one and two
+ZK43RAc90ZA,4473600,4480880,come on up baby you can do it  you can do it you don't want to do it  okay well that's uh that's fair
+ZK43RAc90ZA,4480880,4487040,okay let's get our little tape seal here  right  our little airflow seal
+ZK43RAc90ZA,4487040,4493840,come on  come on you get it  you can do it  well it's actually really easy to remove
+ZK43RAc90ZA,4493840,4499760,once you've taken off the back cover or  rather the  emi shield it's just two screws and you
+ZK43RAc90ZA,4499760,4506719,can pop the whole thermal module out  that's it  that's freaking it you guys
+ZK43RAc90ZA,4506719,4514239,crazy  so just a simple thermal plate  our copper plate really thin
+ZK43RAc90ZA,4514239,4519440,single heat pipe sitting directly over  top of the soc carrying the heat to this
+ZK43RAc90ZA,4519440,4526560,tiny little heat sink  that's it  when you compare that again to the
+ZK43RAc90ZA,4526560,4532239,to the neo  it's like  half the size  not even
+ZK43RAc90ZA,4532239,4539280,look at that  they're not even close like this goes  all the way back to hold on a second how
+ZK43RAc90ZA,4539280,4545199,deep is this heatsink  here we go let me pull this  pull their seal back here yeah
+ZK43RAc90ZA,4545199,4552560,there you go  so it is  double the depth see it goes all the way  back to here double the depth
+ZK43RAc90ZA,4552560,4558158,and what looks like about  30 percent wider
+ZK43RAc90ZA,4559440,4566080,and it has that way bigger fan that  draws fresh air directly in and still  doesn't manage better temps on the soc
+ZK43RAc90ZA,4566080,4573199,that is just freaking incredible  what a great job they did  okay so let's put that uh that bad boy
+ZK43RAc90ZA,4573199,4578480,right there  um  there it is
+ZK43RAc90ZA,4578840,4586080,okay i actually like to do a dry wipe of  thermal compound before i get the  alcohol in i just find it helps me get
+ZK43RAc90ZA,4586080,4591840,the the bulk of the overflow off  without making a mess and getting it all
+ZK43RAc90ZA,4591840,4600159,over everything  going in dry you know what i mean
+ZK43RAc90ZA,4600320,4607520,that's my dry paper towel  that got a lot less innuendo-y
+ZK43RAc90ZA,4607520,4613920,okay  and then uh  you know what this is one of those cases  where i think i actually care about
+ZK43RAc90ZA,4613920,4619440,using a  proper wipe  to finish it off
+ZK43RAc90ZA,4619440,4625440,with something like a cpu i wouldn't  bother but  this is just a really small
+ZK43RAc90ZA,4625440,4632560,chip on a really small board and i don't  want to make a mess  okay
+ZK43RAc90ZA,4634159,4639280,here we go this is where we liquid metal  the steam deck right absolutely not i
+ZK43RAc90ZA,4639280,4644320,think the whole industry has learned a  lesson about liquid metal guys
+ZK43RAc90ZA,4644320,4651040,uh we ruined a couple of devices with  liquid metal a couple manufacturers have  shipped devices that have had
+ZK43RAc90ZA,4651040,4657040,reliability issues due to their use of  liquid metal i think that  liquid metal is one of those
+ZK43RAc90ZA,4657040,4663520,technologies that  it has to be the right  it has to be the right solution not just
+ZK43RAc90ZA,4663520,4669360,a solution  when it's used effectively it's amazing
+ZK43RAc90ZA,4669360,4676400,it's so cool but when it's not used  effectively it can make a right mess of  things  all right
+ZK43RAc90ZA,4676400,4682080,just want to dry that off so we can have  a look okay check this out david  actually is the overhead what's better  what do i have more zoom on
+ZK43RAc90ZA,4682080,4689280,24 to 105 oh yeah give me give me that  105.  check that out  did you need any more proof that this is
+ZK43RAc90ZA,4689280,4696400,a custom chip  that's cool that is so cool
+ZK43RAc90ZA,4696400,4701600,so cool  oh man is it a qr code i love it uh yes
+ZK43RAc90ZA,4701600,4707040,it does appear to be a qr code  valve powered by amd diffused in taiwan
+ZK43RAc90ZA,4707040,4712960,made in taiwan  what appears to be a serial number of
+ZK43RAc90ZA,4712960,4719760,some sort it's glued down  which will make  board swaps more challenging
+ZK43RAc90ZA,4719760,4726400,at the very least so it's appears to be  glued down in all four corners  so if for whatever reason you had a dead
+ZK43RAc90ZA,4726400,4731440,soc or a dead board and you wanted to  swap it out i don't think that would be
+ZK43RAc90ZA,4731440,4735840,manageable for any but the most skilled  shops
+ZK43RAc90ZA,4737280,4743440,all right let's go ahead and finish  removing the motherboard get a get a  closer look at this bad boy
+ZK43RAc90ZA,4743840,4751040,all right  yeah that's pretty sick
+ZK43RAc90ZA,4751040,4757120,again over on the floatplane chat there  uh are there any more merch messages  queued up should i be having a look at
+ZK43RAc90ZA,4757120,4763440,those  we got a bunch okay yeah give me a sec  i'm just going to get a couple of these
+ZK43RAc90ZA,4763440,4768800,screws removed  um  okay motherboard ribbon can be pulled
+ZK43RAc90ZA,4768800,4776080,out just by flipping up the little thing  i love that valve has gone and put nice  little pull tabs on all these  serviceability was absolutely a factor
+ZK43RAc90ZA,4776080,4781520,for them in the design and i really  appreciate that  so this is our main board motherboard
+ZK43RAc90ZA,4781520,4788560,main motherboard it's the board it's the  one it's our neo  or no it's not a neo because aya makes
+ZK43RAc90ZA,4788560,4796640,the neo that's not the point the point  is  this is where all the logic is so  there's a handful of daughter boards but
+ZK43RAc90ZA,4796640,4803360,all the actual processing and storage is  done right here connectivity
+ZK43RAc90ZA,4803600,4809520,any any logic is all here  um hold on
+ZK43RAc90ZA,4809520,4814800,bring it come on  right  come on damn it
+ZK43RAc90ZA,4814800,4821760,good  i was hoping that i could just i could  just flip this over what am i stuck on
+ZK43RAc90ZA,4821840,4827600,oh interesting  one of these ribbons appears to be  glued down
+ZK43RAc90ZA,4827600,4833040,yeah hold on i'll see if i can get you a  look at that so this ribbon seems to be  glued down under the motherboard here so
+ZK43RAc90ZA,4833040,4840960,just  there it goes  all right  got another shield on the back got our
+ZK43RAc90ZA,4840960,4847000,is this broken  what the crap
+ZK43RAc90ZA,4848800,4854159,what  that explains where my install of  control went
+ZK43RAc90ZA,4854159,4862239,oh wow  how did that  happen some tape
+ZK43RAc90ZA,4862239,4868000,i don't think we can tape it back  together dude  now it's just a 700 gig what just
+ZK43RAc90ZA,4868000,4875280,happened  did anyone see this happen  what
+ZK43RAc90ZA,4875280,4880800,oh this is a wire rack you have to try  to connect an egp to the m.2 that's  actually a pretty amazing idea
+ZK43RAc90ZA,4880800,4888880,um  i think  come on guys did did that ever happen
+ZK43RAc90ZA,4888880,4896638,maybe when you were prying maybe when  removing the top case  yeah maybe maybe the top case
+ZK43RAc90ZA,4899360,4904800,okay  i don't know well i was prying over on  the other side though i wasn't prying
+ZK43RAc90ZA,4904800,4910880,over here the sd slot is like way over  here and i was prying over here  uh it could be when i removed the case
+ZK43RAc90ZA,4910880,4917360,because it does stick out a little bit  so hey there's a pro tip make sure you  remove your sd card prior to uh opening
+ZK43RAc90ZA,4917360,4922880,up your case  that's uh that say hey learn from learn
+ZK43RAc90ZA,4922880,4929440,from my mistakes moment and a half if  i've ever seen one  oh man
+ZK43RAc90ZA,4929440,4935040,oh lame okay  uh i want to peel this off and have a  look at the back of the board here
+ZK43RAc90ZA,4935040,4940960,although all the main all the main  business  seems to be happening on the front of  the board
+ZK43RAc90ZA,4940960,4946480,ram vrms sock  yeah
+ZK43RAc90ZA,4946480,4952560,not a whole lot of exciting action going  on here so this just appears to be an  insulation layer to keep this from
+ZK43RAc90ZA,4952560,4958239,shorting out on that  really large  um
+ZK43RAc90ZA,4958239,4964080,does it play a thermal roll kind of  you know what's interesting
+ZK43RAc90ZA,4964080,4970800,um maybe we can maybe we can hear from  maybe we can hear from some of the  electronics nerd folks out there in the
+ZK43RAc90ZA,4970800,4978159,audience here  but  these copper foil bits here
+ZK43RAc90ZA,4978159,4984639,do these play some kind of heat  conductive roll  or what are what are these bad boys
+ZK43RAc90ZA,4984639,4990159,doing because i noticed that there's one  of them  for each segment of this battery you can
+ZK43RAc90ZA,4990159,4995360,see it's actually a two-piece  battery pack here
+ZK43RAc90ZA,4996400,5001480,ah no one's no one's mentioned anything
+ZK43RAc90ZA,5003199,5012400,yeah hard to hard to say what role that  plays but it's possible  that this mid plate here is serving a
+ZK43RAc90ZA,5012400,5018158,like a heat dissipative roll for the  battery specifically
+ZK43RAc90ZA,5021440,5026719,they are for  emi maybe  yeah i know copper is
+ZK43RAc90ZA,5026719,5032080,heat conductive could be to stop  interference with the screen  yeah it could be possible
+ZK43RAc90ZA,5032080,5038320,uh as an electronics nerd i could say  that those things are indeed some sort  of electronic thing thank you very much
+ZK43RAc90ZA,5038320,5044639,you guys thank you very much  uh to do with the wi-fi antenna  that's it yup you nailed it i should
+ZK43RAc90ZA,5044639,5051360,have noticed that check this out so the  wi-fi antennas are in a much  imo smarter place in the steam deck
+ZK43RAc90ZA,5051360,5057360,compared to the ineo next so you can see  these wires coming out of our wireless  chipset coming along here to these
+ZK43RAc90ZA,5057360,5064000,little boards here one two so there's  your main there's your auxiliary so  these are actually your antennas and
+ZK43RAc90ZA,5064000,5070800,apparently valve determined that there  was not enough metal content in the  screen to cause interference
+ZK43RAc90ZA,5070800,5077280,um with the wi-fi antennas i that's a  weird call actually i'm not sure how i
+ZK43RAc90ZA,5077280,5085120,feel about that but i can also see that  there are some  antenna looking traces on those boards
+ZK43RAc90ZA,5085120,5092159,themselves so i do see some zigzags so  it's possible that the copper plays some
+ZK43RAc90ZA,5092159,5097520,other role other than just  to act as the the metal part of the
+ZK43RAc90ZA,5097520,5103920,antenna  yeah if anyone has some if anyone has  some smart ideas
+ZK43RAc90ZA,5103920,5111280,for  what exact role that copper is playing  i'm certainly open to them  at this stage in the game whoops let's
+ZK43RAc90ZA,5111280,5116880,put our little insulation thing back on  here  i feel like we're not actually going to
+ZK43RAc90ZA,5116880,5123040,get much more from going any deeper than  this but i would like to take a look at  the
+ZK43RAc90ZA,5123040,5128400,uh at one of the daughter boards for the  joysticks here  get a nice little look at the
+ZK43RAc90ZA,5128400,5135760,spring-loaded trigger  nice feeling triggers on this  there you go
+ZK43RAc90ZA,5136080,5142880,a little something like that  um yeah let's let's start removing some  more screws here
+ZK43RAc90ZA,5142880,5150000,where'd my screwdriver go  right  somewhere ah there it is  fantastic
+ZK43RAc90ZA,5150000,5157440,so i'm giving valve a c for that battery  swapping experience  not happy
+ZK43RAc90ZA,5163440,5170400,overall i've been i've been happy  otherwise though so it could be a lot  worse
+ZK43RAc90ZA,5170400,5175520,uh-huh  kind of looks like  kind of looks like there's another screw
+ZK43RAc90ZA,5175520,5180800,holding this bad boy in  okay  well let's uh
+ZK43RAc90ZA,5180800,5186639,let's see here this definitely needs to  come out  okay
+ZK43RAc90ZA,5186639,5193679,uh yeah  oh another piece you shouldn't replace  with gold
+ZK43RAc90ZA,5193679,5199679,got a  little  plastic flexi bit there  curious to see how much it rattles after
+ZK43RAc90ZA,5199679,5208520,reassembly says uh  oh man the chat's going too fast uh  jamal over on floatplane chat
+ZK43RAc90ZA,5211120,5218080,okay  peel  peel this little guy up  pop this little guy out come on come on
+ZK43RAc90ZA,5218080,5224960,little guy where's my tweezers at  that's one thing i think i fix it could  really improve quality of their tweezers
+ZK43RAc90ZA,5224960,5231360,see this should this should grab  definitely  should grab  10 of 10 needs to grab
+ZK43RAc90ZA,5231360,5237280,ah yeah fingers for the win  okay  there we go
+ZK43RAc90ZA,5237280,5245599,here we go  here we go if i recall correctly these  connectors need to be pried up
+ZK43RAc90ZA,5248159,5254960,there you go  okay let's get some screws on down here
+ZK43RAc90ZA,5254960,5258000,here's our main boy
+ZK43RAc90ZA,5261440,5268079,i pity whoever has to put this back  together for me  thanks in advance you're welcome
+ZK43RAc90ZA,5269360,5274480,ps5 was worse i'm not the one who tore  that thing apart that was alex
+ZK43RAc90ZA,5274560,5281199,you blame alex  um  [Music]  interesting i am
+ZK43RAc90ZA,5281199,5286639,not going to lie i'm having a little bit  of trouble here ladies and gentlemen  oh we can see the spring load for the
+ZK43RAc90ZA,5286639,5292158,shoulder button though  there you go see that in there right  right
+ZK43RAc90ZA,5292320,5300239,uh that's right can you see it david i  can see this right now you see the  spring right in there  there you go yeah there we go
+ZK43RAc90ZA,5300239,5306560,so there appears to be one more screw  holding this  sucker in  and what i'm
+ZK43RAc90ZA,5306560,5312000,wondering is if it's under the  shoulder oh no i see it
+ZK43RAc90ZA,5312000,5317280,oh how interesting  uh  well then
+ZK43RAc90ZA,5317280,5322960,how  do i get at you reveal to me your
+ZK43RAc90ZA,5322960,5330480,secrets uh it's under here  it's like back there
+ZK43RAc90ZA,5331199,5337080,yeah  yeah you can um
+ZK43RAc90ZA,5337280,5344239,oh here we go  uh yeah i can  sort of see it there
+ZK43RAc90ZA,5344239,5351120,you got some extra tools that have been  handed to you what the devil  okay well these are interesting um
+ZK43RAc90ZA,5351120,5357920,yeah so like a 45 degree screwdriver i  don't think that's actually going to  help though
+ZK43RAc90ZA,5360719,5365840,yes indeed  yes quite
+ZK43RAc90ZA,5370000,5373280,well definitely having fun
+ZK43RAc90ZA,5377280,5381360,all right you rat bastard how do i get  at you
+ZK43RAc90ZA,5385040,5388800,how is this attached
+ZK43RAc90ZA,5391280,5396800,that screw absolutely holds that into  place  you can fix everything with a hammer
+ZK43RAc90ZA,5396800,5402880,linus  i had no no i do not want a hammer
+ZK43RAc90ZA,5402880,5408080,what i want is to get under this  oh
+ZK43RAc90ZA,5408080,5414000,i think i see it  yep  i think you just got to pry this boy off
+ZK43RAc90ZA,5414000,5420400,right  hold on  where's my where's my metal pry tool
+ZK43RAc90ZA,5420400,5424159,that you guys get so upset about here we  go
+ZK43RAc90ZA,5425440,5431040,yeah i think we just want to go in here  rip  there we go
+ZK43RAc90ZA,5431040,5438320,got it  nice catch got the screw okay  so we have to pull the trigger off
+ZK43RAc90ZA,5438320,5444560,in order to get at the last screw  then
+ZK43RAc90ZA,5444560,5450960,this piece this is really cool so it's  plastic but it's like  man the engineering that goes into
+ZK43RAc90ZA,5450960,5456960,creating a plastic part like this  very cool all these little like nooks
+ZK43RAc90ZA,5456960,5462480,and crannies getting the injection  molding to go just right  absolutely love it not cheap by the way
+ZK43RAc90ZA,5462480,5467920,to do with any kind of precision  gg valve
+ZK43RAc90ZA,5468239,5474239,now we can pop this boy oh  come on  can it you can't you can do it there's a
+ZK43RAc90ZA,5474239,5480159,little post that it's stuck on it's not  a screw or anything it's just a  it's just a
+ZK43RAc90ZA,5480159,5485520,little plastic post yeah it's a micro sd  card  but if it's gonna get in my way
+ZK43RAc90ZA,5485520,5489320,i'm gonna rip it apart
+ZK43RAc90ZA,5490719,5497600,okay so here's our daughter board that  handles uh let's see is this  one or both of the rear oh yeah both of
+ZK43RAc90ZA,5497600,5503040,the rear paddles here  um connectivity for the abx y's where
+ZK43RAc90ZA,5503040,5509920,where are they at there they are  these boys are up here so this is right  here so that goes there as well as the
+ZK43RAc90ZA,5509920,5516400,ah let's uh let's have a look at one of  the touch pads so it connects to the  touch pad uh also connects to the
+ZK43RAc90ZA,5516400,5522719,this goes to the motherboard oh okay  this one was for the main board so  that's for the screen right there
+ZK43RAc90ZA,5522719,5529679,uh let's go ahead and pull out one of  the touch pads okay so here's the super  here's the mushiest button ever i'm not
+ZK43RAc90ZA,5529679,5535760,a huge fan of these buttons  for the
+ZK43RAc90ZA,5535760,5540560,oh interesting  so listen to this
+ZK43RAc90ZA,5543520,5549360,oh you guys can't hear it can you  can you hear it  i'm doing it
+ZK43RAc90ZA,5549360,5556960,okay well the point is it's not a very  clicky it's not a very clicky switch in  the quick access menu and the
+ZK43RAc90ZA,5556960,5562080,steam button  buttons  not not very nice  um
+ZK43RAc90ZA,5562080,5567520,oh wait is this going  something like that i think
+ZK43RAc90ZA,5567520,5574320,i hope so anyway all right oh right that  goes off  then let's go ahead and pop this bad boy
+ZK43RAc90ZA,5574320,5582239,off  man this has been fun
+ZK43RAc90ZA,5584239,5589840,okay  i should probably talk to chad a little  bit
+ZK43RAc90ZA,5590159,5594800,what you gonna do when linus mania runs  wild on you
+ZK43RAc90ZA,5596719,5603840,uh linus what's the serial number on the  metal chassis oh good question  uh let's have a look
+ZK43RAc90ZA,5604000,5610000,uh 11 out of  250 it appears to be
+ZK43RAc90ZA,5610000,5617800,now it says 25d  11 out of 25 d is my read of that
+ZK43RAc90ZA,5619120,5626638,i wonder if this is really then  november 2021 production
+ZK43RAc90ZA,5627440,5631840,man was this only a 25 unit run
+ZK43RAc90ZA,5632719,5638880,that doesn't really make sense because i  would have  thought  wow maybe this is the uh what's it
+ZK43RAc90ZA,5638880,5645199,called again i can't remember what kyle  called it top of top of something run or  something like that so this could be
+ZK43RAc90ZA,5645199,5651440,after the dev kits but before mass  production for these media samples would  be my guess
+ZK43RAc90ZA,5651440,5657440,if they only did 25 units  apparently steve's was 11 as well so
+ZK43RAc90ZA,5657440,5665119,then it's probably not a simple  numbering scheme like that  okay this is cool
+ZK43RAc90ZA,5666159,5671440,is that how they're doing the touch  sensitivity or is that
+ZK43RAc90ZA,5671440,5678400,the haptics  oh guys i'm going to need your help with  this one  so here's the back
+ZK43RAc90ZA,5678400,5683600,of the touch pad and the module is quite  thick  like the module is about this thick i'd
+ZK43RAc90ZA,5683600,5689760,say  so we're looking at the back of it here  whatever the devil
+ZK43RAc90ZA,5689760,5695040,this is  connects to the touchpad  and then
+ZK43RAc90ZA,5695040,5701840,i guess  takes some kind of  holy crap how does the data flow here so
+ZK43RAc90ZA,5701840,5707280,you can see there's this zigzag trace on  the back here
+ZK43RAc90ZA,5707280,5713280,see that  okay  uh
+ZK43RAc90ZA,5713280,5719600,hold on let's catch the light a little  bit here if we can we got it there you  go right there okay so we got this  zigzag trace
+ZK43RAc90ZA,5719600,5725199,and then  what do you do
+ZK43RAc90ZA,5725199,5732400,do you vibrate  what do you do  that's the touch
+ZK43RAc90ZA,5732400,5742880,i don't think it's the touch see that's  what i was thinking too  but it doesn't cover the width of it see
+ZK43RAc90ZA,5742880,5749280,and besides the touch layer on a touch  pad is typically closer to the surface  and this thing is freaking thick like
+ZK43RAc90ZA,5749280,5755840,it's like this thick in front of this  thing  it is perhaps an rfpd antenna no i don't
+ZK43RAc90ZA,5755840,5762400,think it's an rfid antenna because  we've already got  our
+ZK43RAc90ZA,5762400,5767440,um  our antennas people are saying yeah  capacitive sensor
+ZK43RAc90ZA,5767440,5774639,but why would it  can we go deeper
+ZK43RAc90ZA,5774639,5782239,maybe we can go deeper  yeah we're going to have to
+ZK43RAc90ZA,5782800,5788400,all right let's pull these little  what looks like little aluminum zigzag
+ZK43RAc90ZA,5788400,5793679,pieces off here  i want to know how the vibration works
+ZK43RAc90ZA,5793679,5798960,for these because what i suspect is that  it's something to do with that i'm sure  valve's going to be all over this video
+ZK43RAc90ZA,5798960,5804800,messaging me being like um actually and  that's good i appreciate that i love  learning
+ZK43RAc90ZA,5806800,5811840,oh  tall data says hey i found those copper  strips i think and they are for
+ZK43RAc90ZA,5811840,5816480,shielding  so  uh maybe
+ZK43RAc90ZA,5817679,5823840,i hope they have the software review  done pretty sure linus isn't going to  put this back together i do not have the  software review done i will can't even
+ZK43RAc90ZA,5823840,5831280,start on it until the software is at  least approaching release  so there you go now you guys can see how
+ZK43RAc90ZA,5831280,5837760,thick this bad boy is  do the touch pads have pressure  sensitivity they do
+ZK43RAc90ZA,5837760,5843440,that's probably it  it's gotta be pressure
+ZK43RAc90ZA,5843440,5851360,that makes sense  okay  oh that's super cool so each touch and
+ZK43RAc90ZA,5851360,5857199,pressure have their own connections back  to the daughter board  and then
+ZK43RAc90ZA,5857199,5863679,how does this  puppy come apart  [Music]
+ZK43RAc90ZA,5863679,5869119,it do not  this may actually just be melted
+ZK43RAc90ZA,5869119,5874400,together you can see these little these  little coil pieces here
+ZK43RAc90ZA,5876800,5882560,yeah yeah it has pressure so touch is up  here and then  i don't see an obvious way to get this
+ZK43RAc90ZA,5882560,5889760,apart without damaging it so i think  that's where i'm gonna call it guys  this has been a lot of fun uh i can do a
+ZK43RAc90ZA,5889760,5896320,little bit more q a and going through  the merch messages here but i think  that's as deep as we're gonna go hey
+ZK43RAc90ZA,5896320,5901840,thanks for staying up past bedtime by  whatever your name is how many cores and  threads on this pillow the expensive
+ZK43RAc90ZA,5901840,5909280,edition ah  i don't know lots  lots brian h
+ZK43RAc90ZA,5909360,5914880,skye one of my favorite things on the  steam controller was the buttons at the  edge of the trigger travel
+ZK43RAc90ZA,5914880,5921199,i assume that's not here though the  buttons at the end of the trigger travel  no no there's no buttons at the end of
+ZK43RAc90ZA,5921199,5928719,the trigger travel in fact i can get you  a good look at that there's a little  another one of those sort of forced  distribution slash stomp pads here
+ZK43RAc90ZA,5928719,5935040,so when you hit the end of the travel  it's a soft  it's a soft landing  you able to see that david
+ZK43RAc90ZA,5935040,5940639,yeah yeah you got it okay cool put it  back together nope not putting it back  together on stream not even going to try
+ZK43RAc90ZA,5940639,5946719,lol got him  ah brandon how long do you think it will  be before there are third-party  backshells that can have larger m.2
+ZK43RAc90ZA,5946719,5953360,drives for easier access with an  extension cable to the internal slot oh  man  oh man i'd be surprised if dbrand isn't
+ZK43RAc90ZA,5953360,5959440,already working on that let me put it  that way i don't i don't know that they  are if i did know that i wouldn't be  able to tell you but i would be
+ZK43RAc90ZA,5959440,5966880,surprised if they're not because that  would be super awesome  it's just a regular pcie i believe 2x
+ZK43RAc90ZA,5966880,5973520,interface so there should be no reason  that it couldn't work constantine thanks  for the great content could you give  more measurements on the store in metric
+ZK43RAc90ZA,5973520,5978639,like the dimensions of the water bottle  yes  we should provide both can someone
+ZK43RAc90ZA,5978639,5985760,forward that to nick has something for  the creator warehouse team to work on  andrew says do you think other pc  handheld systems might use steam os
+ZK43RAc90ZA,5985760,5991600,i would be surprised if valve locked it  away because the money valve is making  is not on the sale of steam os and
+ZK43RAc90ZA,5991600,5998000,frankly i don't think it's on the sale  of steam decks either the money valve is  making is on the 30 that they're gonna
+ZK43RAc90ZA,5998000,6004080,take from you buying games i don't think  they've officially announced any kinds  of partnerships for
+ZK43RAc90ZA,6004080,6009679,steam os software but i also suspect  that they're not going to stop anybody  from loading it in fact one of the
+ZK43RAc90ZA,6009679,6016960,things that i had intended to do was  install steam os on an aya device just  to try it out yes valve is doing a lot
+ZK43RAc90ZA,6016960,6023119,of work around their custom soc to get  the drivers working properly but there  should be no reason that a regular apu
+ZK43RAc90ZA,6023119,6030159,that just has driver support in linux  shouldn't also work so i'd be really  excited to see how that goes
+ZK43RAc90ZA,6030159,6036080,ah what you'll call it lookman says is  there still a way for valve to reduce or  eliminate the glue on the battery in a
+ZK43RAc90ZA,6036080,6042080,future batch seems to use tape in one  corner could they use that instead they  could but they would have to decide
+ZK43RAc90ZA,6042080,6047920,that they want to do that and i have to  assume that if valve is doing something  there's probably a reason for it so they
+ZK43RAc90ZA,6047920,6053199,may decide at their own discretion to  change up the way that they've adhered  the battery or they may decide not to
+ZK43RAc90ZA,6053199,6059440,change it and the reality of it is  overall they've done a great job with  openness on this platform and
+ZK43RAc90ZA,6059440,6065440,repairability  the battery is an area for improvement  so they may take that feedback to heart
+ZK43RAc90ZA,6065440,6070800,or they may decide not to act on it  i don't want to get greedy but i do
+ZK43RAc90ZA,6070800,6078159,wish that they would change that  have you played non-recommended games  yet no i was a good boy and i did not
+ZK43RAc90ZA,6078159,6083760,but i will very soon  ahmed uh  do you also hope for more valve hardware
+ZK43RAc90ZA,6083760,6090080,products oh absolutely they need to do a  gaming headset 100  andrew i love the ltt shirt designs but
+ZK43RAc90ZA,6090080,6096400,don't like wearing black any plans for  other colors absolutely we have them  coming  anonymous any plans to review the new
+ZK43RAc90ZA,6096400,6102239,prusa xl 3d printer when it starts  shipping process sent out review units  in the past probably not you know it's
+ZK43RAc90ZA,6102239,6108719,one of those things where i feel like as  we get the lab going we might start to  try our hand at um you know in-depth
+ZK43RAc90ZA,6108719,6114560,reviews of categories like that but as  it is i want to leave stuff like that to  the people who are really experts in it
+ZK43RAc90ZA,6114560,6121480,whereas we will take the opportunity to  check out anything that's really  category changing
+ZK43RAc90ZA,6122400,6128320,bot merge for the first time back on the  topic of ad blocks what would be your  stance on youtube premium
+ZK43RAc90ZA,6128320,6134239,um  plus youtube vance slash ad blocked well  if you're using youtube premium there
+ZK43RAc90ZA,6134239,6140880,are no ads and you already have the  features that vance  enables like you've already paid for the
+ZK43RAc90ZA,6140880,6148639,main features that advanced enables once  you're paying for youtube premium you  are  without a doubt the most premium viewers
+ZK43RAc90ZA,6148639,6154880,on the platform i've had so many people  ask me this and i feel like youtube does  an extremely poor job of messaging
+ZK43RAc90ZA,6154880,6160880,around it  yes youtube premium absolutely  contributes to the creators that you  watch
+ZK43RAc90ZA,6160880,6167679,way more way more than watching ads like  by an order of magnitude more and it
+ZK43RAc90ZA,6167679,6175440,goes to the creators that you watch not  just to a random pool that youtube  distributes willy-nilly
+ZK43RAc90ZA,6175600,6182000,uh matthew asked hey linus i was  wondering what's the significance of  your second ring it's an ura ring i  haven't charged it in two weeks because
+ZK43RAc90ZA,6182000,6188080,i um it's really tight and it's kind of  a pain to get off sometimes so i'm  really bad about charging it but it's  kind of cool
+ZK43RAc90ZA,6188080,6193119,uh my daughter can't wait to get the  plushie she's about to turn one oh  that's awesome
+ZK43RAc90ZA,6193119,6198560,uh jeff r would labs and create a  warehouse have need for remote  mechanical designer for product or
+ZK43RAc90ZA,6198560,6205280,testing rigs honestly we've had such an  overwhelmingly positive response to our  hiring announcement
+ZK43RAc90ZA,6205280,6210719,that uh and like so many people that are  in canada or who are able to get here  that i don't think we're going to take
+ZK43RAc90ZA,6210719,6217040,uh international people at this time  matthew dumb question but why go with a  steam deck over a decent laptop is this
+ZK43RAc90ZA,6217040,6223520,small oh yeah i never finished answering  that question is the small amount of  portability worth it it's a lot more  portable not in terms of carrying it
+ZK43RAc90ZA,6223520,6229199,around because in my mind the device is  not small enough that you don't still  need a bag to carry it
+ZK43RAc90ZA,6229199,6236000,but the additional portability is in the  like using it a laptop  yes you could be sitting on the train
+ZK43RAc90ZA,6236000,6241520,you could put it in your lap and you  could have a controller but now you've  got two pieces  um if you don't want to deal with
+ZK43RAc90ZA,6241520,6247760,bluetooth latency you've got a separate  cable that you're carrying around you're  going to plug in your laptop cable the
+ZK43RAc90ZA,6247760,6252960,steam deck is just two pieces the steam  deck the charger  that's it
+ZK43RAc90ZA,6252960,6258840,that's portability  absolutely i think it's i think it's
+ZK43RAc90ZA,6258840,6264719,justified um  does the steam deck slash switch have  visible visible capacitors and are they
+ZK43RAc90ZA,6264719,6271440,dangerous when taking them apart oh okay  i see what you mean um okay we're not  talking like tube tvs okay so capacitors
+ZK43RAc90ZA,6271440,6278239,on devices like this  are hold on where are some caps here's  some caps  like that they're like little
+ZK43RAc90ZA,6278239,6284960,tiny things  um no  it's not running they are not storing  enough energy that they would be
+ZK43RAc90ZA,6284960,6290800,dangerous to you but they could be  dangerous to themselves
+ZK43RAc90ZA,6292080,6297280,uh getting these for the baby that will  be born any day now hey congratulations  hollis
+ZK43RAc90ZA,6297280,6305199,out of curiosity what are the top three  games that you would recommend oh that  is so hard without knowing anything
+ZK43RAc90ZA,6305199,6310639,about you  can i recommend one game that i think is  an absolute gem i really enjoyed cross
+ZK43RAc90ZA,6310639,6317040,code and it's something that you'll be  able to enjoy on a steam deck with the  baby in the arms napping
+ZK43RAc90ZA,6317040,6323199,if you need to it's a very controller  friendly game  uh adam says hey been watching for a
+ZK43RAc90ZA,6323199,6329840,long time time to show my appreciation  rep some merch loving the steam deck  coverage since it has a gyro could you  3d print an enclosure to strap it to
+ZK43RAc90ZA,6329840,6336560,your head for vr lol  it's not going to have the performance  for vr guys i mean valve has come out
+ZK43RAc90ZA,6336560,6343199,and said and they're a very vr invested  company they've come out and said the  steam deck is not for vr so don't get
+ZK43RAc90ZA,6343199,6350159,your hopes up  for the most basic of games yeah it  might be runnable but i i don't expect a
+ZK43RAc90ZA,6350159,6355280,good experience hoff how long do you  think until microsoft comes out with a  portable xbox to compete with all their
+ZK43RAc90ZA,6355280,6360880,laptop experience it could be epic i'd  love it  but
+ZK43RAc90ZA,6360880,6366960,yeah i'd love it i'd love to see more  competition i think that valve has  already kind of just
+ZK43RAc90ZA,6366960,6372000,slapped their dick on the table in terms  of making this such an appealing device
+ZK43RAc90ZA,6372000,6378960,that it's going to be really difficult  to compete with like if microsoft comes  in and goes well guess what we've got
+ZK43RAc90ZA,6378960,6385760,game pass  i could say that's nice i can play all  those games on my steam deck by dual
+ZK43RAc90ZA,6385760,6391199,booting windows  show me something i don't already have  right that's the challenge give me
+ZK43RAc90ZA,6391199,6397600,something i don't have  i don't know man and exclusives  exclusive cell consoles what exclusives
+ZK43RAc90ZA,6397600,6402880,do you have  it's tough  yeah we're almost there i've got a
+ZK43RAc90ZA,6402880,6409440,handful more merch messages to go  through here  are you going to try vr on the steam  deck adrian asks probably i mean i'll
+ZK43RAc90ZA,6409440,6415920,maybe i'll try it but i do think it's  kind of a waste of time honestly with  your experience in tech and gaming where  do you see gaming where you see gaming
+ZK43RAc90ZA,6415920,6422000,both desktop and handheld going in 10 to  20 years well desktop i think the  direction is already pretty clear the
+ZK43RAc90ZA,6422000,6427679,desktop as we know it is fading away  it's becoming unaffordable i don't think  gpus are going to return to their
+ZK43RAc90ZA,6427679,6433119,pre-pandemic levels  ever i think that those prices have now  been established intel's going to come
+ZK43RAc90ZA,6433119,6438480,in they're going to want to buy some  market share  maybe that alters our course that we're  on right now but they're becoming less
+ZK43RAc90ZA,6438480,6444960,and less affordable over time and  options like geforce now and this is not  an accident options like geforce now are
+ZK43RAc90ZA,6444960,6451679,becoming the only way that some people  can get into pc gaming so  um you know streaming i think is going
+ZK43RAc90ZA,6451679,6459119,to play a much more prominent role both  on the desktop and on mobile and then as  for mobile gaming i mean i'd love to say
+ZK43RAc90ZA,6459119,6465360,that this is the future but honestly i  don't know because i called  this as the future nine years ago when i
+ZK43RAc90ZA,6465360,6470960,first laid hands on the nvidia shield  and i was wrong  until now
+ZK43RAc90ZA,6470960,6477040,so  i definitely i definitely got the timing  wrong 20 years you're asking for a
+ZK43RAc90ZA,6477040,6482400,pretty big crystal ball here  philip says planning to get children's  sizes in or do they change shape too
+ZK43RAc90ZA,6482400,6488800,fast we absolutely do want to do  children's sizes i think we're doing two  first excuse me beanies
+ZK43RAc90ZA,6489520,6496320,um oh  archive oh my archive button is not  working oh this is going to make this  more challenging uh wrap some merch
+ZK43RAc90ZA,6496320,6502639,level could you 3d printed enclosure  okay this is old  have you heard anything i would buy 100  when is the indoor hoodie back in stock
+ZK43RAc90ZA,6502639,6508400,no time soon we do not have an eta for  indoor hoodie uh hoth how long do you  think oh have i made it through all
+ZK43RAc90ZA,6508400,6514000,these  i think this is the end  oh there's a couple more any thoughts on
+ZK43RAc90ZA,6514000,6519280,ad nauseum what is ad nauseam  ad nauseam
+ZK43RAc90ZA,6519280,6524560,is it a game  if so i clearly have no thoughts on it
+ZK43RAc90ZA,6524560,6531280,free browser extension designed to  obfuscate browsing data and protect  users from tracking by advertising  networks
+ZK43RAc90ZA,6531280,6536960,sounds cool  and that's it thanks for tuning in guys
+ZK43RAc90ZA,6536960,6542960,i will see you tomorrow with our regular  upload you guys want to know what it is  hey i can give you uh i can give you a
+ZK43RAc90ZA,6542960,6549360,teaser here  what's tomorrow's video going to be  why is everyone buying this gaming
+ZK43RAc90ZA,6549360,6556639,keyboard  to be followed by gpu shunt modding  that's right alex does a gpu shunt mod
+ZK43RAc90ZA,6556639,6562080,on i think an rtx 3090 because  what's the point of you know risking it
+ZK43RAc90ZA,6562080,6569599,for the biscuit if you're not going to  risk the full biscuit right  spoiler it lives
+ZK43RAc90ZA,6569599,6575760,yeah you don't have to fix it  and ending the stream

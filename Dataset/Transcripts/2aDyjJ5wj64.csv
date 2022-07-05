@@ -1,0 +1,349 @@
+vid,start,end,text
+2aDyjJ5wj64,1199,7279,hi everyone it's peter here from lucid  motors  as you may be aware we recently achieved
+2aDyjJ5wj64,7279,15440,a landmark 520 miles range on an epa  cycle with our lucid air dream edition
+2aDyjJ5wj64,15440,22400,and i really just wanted to take you  through some of the technologies that's  enabled that and maybe give away one or
+2aDyjJ5wj64,22400,27000,two little secrets in so doing
+2aDyjJ5wj64,29360,37289,[Music]
+2aDyjJ5wj64,37600,44239,so let's start with some science basics  and this isn't aimed at hardcore  engineers you'll know that sort of stuff
+2aDyjJ5wj64,44239,50960,but i really want to  progress the narrative to more the  interested lay person who's eager to
+2aDyjJ5wj64,50960,56000,learn about electric cars and how they  work  so let's look at
+2aDyjJ5wj64,56000,61199,energy  and power these are often so  misconstrued
+2aDyjJ5wj64,61199,68479,well energy really is the work done my  old physics teacher would tell me have i  got the energy to walk up that hill have
+2aDyjJ5wj64,68479,73920,i got the energy to get to that position  but a younger fitter guy than me would
+2aDyjJ5wj64,73920,81280,be able to run up that hill and get  there faster  so he's able to expend that energy in a
+2aDyjJ5wj64,81280,88240,shorter time  why because he's more powerful  so let's look at these units
+2aDyjJ5wj64,88240,93280,of energy and power because it's  fundamental to understand this before we
+2aDyjJ5wj64,93280,98960,can look at the battery technology that  really powers lucid air so what is the
+2aDyjJ5wj64,98960,106720,unit of power it's actually the watt  and it's expressed typically as a letter
+2aDyjJ5wj64,106720,113759,w  now a watt is a tiny unit of power so in  electric vehicle terms we tend to use
+2aDyjJ5wj64,113759,120320,kilowatts which is thousands of watts  and interestingly what is the  relationship between that and a
+2aDyjJ5wj64,120320,126240,horsepower well actually one horsepower  as determined by james watt many many
+2aDyjJ5wj64,126240,131280,years ago is  746 watts so
+2aDyjJ5wj64,131280,138560,a horsepower is about three-quarters  of a kilowatt it's actually the same  thing just a different term for it
+2aDyjJ5wj64,138560,143599,alternatively you can say what is a  kilowatt it's about one and a third
+2aDyjJ5wj64,143599,151200,horsepower very easy math because that's  very close the 746 is very close to 750.
+2aDyjJ5wj64,151200,157920,so now how do we relate that's power how  do we relate that to energy
+2aDyjJ5wj64,157920,164000,well we use a unit of  kilowatt  hours
+2aDyjJ5wj64,164000,169120,and that's the energy  that we have in a battery pack and why
+2aDyjJ5wj64,169120,176720,we multiply by hours because  that  links power and energy through time
+2aDyjJ5wj64,176720,182480,however the scientific unit for energy  is actually a jewel it's a thing called
+2aDyjJ5wj64,182480,189040,a jewel  now  we link  watts to joules because one watt
+2aDyjJ5wj64,189040,195280,equals one  joule  per second  and you may ask why i've got this
+2aDyjJ5wj64,195280,200720,delicious apple here  which i'm tempted to take a bite out of  but there's a reason
+2aDyjJ5wj64,200720,207840,this apple weighs about a tenth of a  kilogram  it weighs about one newton
+2aDyjJ5wj64,207840,212959,from isaac newton  and if i take this apple and i place it
+2aDyjJ5wj64,212959,219360,on the floor  and i pick it up from about a meter to  this table and place it on the table
+2aDyjJ5wj64,219360,225680,we've moved one newton through  one meter  and that defines what a jewel is
+2aDyjJ5wj64,225680,232879,and if i do that  in exactly one second  i've been exerting a power on that apple
+2aDyjJ5wj64,232879,240239,of exactly one watt so now the question  is how do we link  that joule that tiny amount of energy of
+2aDyjJ5wj64,240239,247680,moving that apple up to how many joules  there are  in our lucid air battery pack and
+2aDyjJ5wj64,247680,254480,actually the math  is surprisingly simple  because in the case of our grand touring
+2aDyjJ5wj64,254480,260799,car  we have  112 kilowatt hours so we need to  multiply that
+2aDyjJ5wj64,260799,267360,by 1000  and we also have to remember that joules  and watts are linked with seconds so we
+2aDyjJ5wj64,267360,273520,need to say that's kilowatt hours so we  need to multiply that by 3600
+2aDyjJ5wj64,273520,279040,because that's the number of seconds in  an hour and we actually come to a number
+2aDyjJ5wj64,279040,284720,which is very close  to 400 mega
+2aDyjJ5wj64,284720,289840,joules  what does that mean  unbelievably
+2aDyjJ5wj64,289840,297360,i'd have to pick this apple  on the floor and put it on the table  400 million times
+2aDyjJ5wj64,297360,302720,to represent the energy  in a full charge of a lucidaire grand
+2aDyjJ5wj64,302720,308479,touring  and i'd like to present a fun fact  10 years ago
+2aDyjJ5wj64,308479,315520,when i was working on tesla model s  we nearly called  one of the models of model s
+2aDyjJ5wj64,315520,321039,the 300 mega joule it actually came out  as the 85 kilowatt hour but if you do
+2aDyjJ5wj64,321039,326160,the math  300 mega joule now it would have sounded  cool but in the end we thought no one's
+2aDyjJ5wj64,326160,331759,going to understand that it's too  scientific it's too techy people  understand kilowatt hours because
+2aDyjJ5wj64,331759,336800,they're the standard unit of  energy
+2aDyjJ5wj64,336800,343919,so  let's look at  how we determined what the size of the  battery pack should be for lucida
+2aDyjJ5wj64,343919,349360,well to start with we really didn't know  but we did know about 10 years ago that
+2aDyjJ5wj64,349360,355520,a reasonable electric car  would take  about 330
+2aDyjJ5wj64,355520,362960,watt hours  per mile  and with the advancement over the last  10 years it was a reasonable guess
+2aDyjJ5wj64,362960,369440,with our in-house technology we could  get that down to maybe 250 watt hours
+2aDyjJ5wj64,369440,374880,per mile  and if we wanted to get a car  with them we were thinking maybe we
+2aDyjJ5wj64,374880,380720,could get lizard air to 400 miles range  it's simple math it's times 400
+2aDyjJ5wj64,380720,387360,and that would require  100  kilowatt hour pack
+2aDyjJ5wj64,387360,393120,now  we decided to go for these  little beauties this is a
+2aDyjJ5wj64,393120,399039,a cell a lithium-ion cell it's a 21-700  format
+2aDyjJ5wj64,399039,407199,and typically  these contain  about  17 to almost 18
+2aDyjJ5wj64,407199,414400,what hours of energy each  so then you can do some simple sums
+2aDyjJ5wj64,414400,421360,it was clear with 17 to 18 watt hours  per cell that we'd require
+2aDyjJ5wj64,421360,427599,almost  6 000  of these cells  to achieve
+2aDyjJ5wj64,427599,432800,that sort of range  so before i go over to the skateboard
+2aDyjJ5wj64,432800,439599,and the battery pack behind me and look  at the layout and how we incorporate  these cells in the car it is actually
+2aDyjJ5wj64,439599,445840,fascinating to consider if the 17 to 18  watt hours in one of these cells
+2aDyjJ5wj64,445840,451199,and with lucid air we can achieve with  grand touring 4.6 miles per kilowatt
+2aDyjJ5wj64,451199,456720,hour  how far will the car go just from the  energy of one cell it's completely
+2aDyjJ5wj64,456720,463440,hypothetical because the car won't run  with just one cell but how much range  does one cell get you
+2aDyjJ5wj64,463440,469280,it's about 140 yards yes each of these  adding each of these cells there's
+2aDyjJ5wj64,469280,477599,another 280 there's another 420 yard and  so we go  fascinating insight into the sensitivity
+2aDyjJ5wj64,477599,484000,of range to number of cells but the name  of the game is to achieve that range  with ultra high voltage ultra high
+2aDyjJ5wj64,484000,491120,efficiency and achieve it with a minimal  number of cells  so we realized we needed of the order of
+2aDyjJ5wj64,491120,498240,6 000 of these 21 700 cells in order to  get a world-class range from the car
+2aDyjJ5wj64,498240,504800,how could we integrate them in a manner  which was really compatible with the  interior ergonomics of the car and the
+2aDyjJ5wj64,504800,510319,structure concept and to answer that let  me take you to our leap platform this is
+2aDyjJ5wj64,510319,518000,it aluminum intensive skateboard  platform  lucid's electric advanced platform now i
+2aDyjJ5wj64,518000,523120,hear you say lots of people claim  they've got skateboard concepts and  skateboard architectures what's so
+2aDyjJ5wj64,523120,528560,special about this well the difference  is that this truly embodies the space
+2aDyjJ5wj64,528560,534399,concept the space concept that really  differentiates lucid air from the  competition
+2aDyjJ5wj64,534399,541200,in that the car is smaller and more  compact on the outside and bigger and  more comfortable on the inside and you
+2aDyjJ5wj64,541200,548720,might think gosh how have you achieved  that we've achieved this with our  in-house  drive train technology motor inverter
+2aDyjJ5wj64,548720,556080,transmission front and rear super  compact the most volumetrically powered  dense system available today
+2aDyjJ5wj64,556080,562160,and as a result of that we've been able  to open up this space to make more room  for the occupants you might think that
+2aDyjJ5wj64,562160,568399,makes it even more tricky to package the  batteries well paradoxically it does a  great favor because there's more room so
+2aDyjJ5wj64,568399,574080,what we've done is sculpt the battery  pack around the occupant space we've
+2aDyjJ5wj64,574080,580720,given the car a very slight tunnel here  between the front seats because that's a  pretty useless space in the first place
+2aDyjJ5wj64,580720,587120,there's no tunnel at the rear because  that's really important you can slide  your feet through that's where you  shouldn't have a tunnel front tunnel's
+2aDyjJ5wj64,587120,592800,great and we've double stacked the  height of the cells here underneath the
+2aDyjJ5wj64,592800,599200,rear seat  so this is really a hybrid demonstration  model showing the two variants of
+2aDyjJ5wj64,599200,604800,battery pack that power lucid air let me  show you those two variants and how they
+2aDyjJ5wj64,604800,610959,differ  so here  we have  our the smaller of our two variants in
+2aDyjJ5wj64,610959,616320,this one we have the foot garage where  we delete some cells and still the car
+2aDyjJ5wj64,616320,623680,will be capable of over 400 miles in  this configuration but what it does  offer is this foot garage to make the
+2aDyjJ5wj64,623680,630160,rear seating ergonomics even more  comfortable and they're pretty  comfortable with this 500 mile range
+2aDyjJ5wj64,630160,637040,with a flat floor here but make no  mistake  this is more than competitive in the
+2aDyjJ5wj64,637040,644480,marketplace  we have extraordinary unsurpassed  rear foot room and comfort even with
+2aDyjJ5wj64,644480,650160,this version compared with other evs on  the market it's just that this one here
+2aDyjJ5wj64,650160,657839,takes it to a whole new level and i'm  really excited this is the pack that's  going to power my passion to lucid air
+2aDyjJ5wj64,657839,663360,pure  so there is an unsung hero in this
+2aDyjJ5wj64,663360,669200,picture and that is the actual structure  the enclosure of the battery pack itself
+2aDyjJ5wj64,669200,674480,because that does so much more than just  hold the batteries it contributes to the
+2aDyjJ5wj64,674480,680160,entire structure of the vehicle and when  the pack is married to the body shell of
+2aDyjJ5wj64,680160,686640,the vehicle it completes the safety cell  for the occupants in fact it provides a
+2aDyjJ5wj64,686640,692399,safety self occupants and battery cells  it's a safety cell for cells as well
+2aDyjJ5wj64,692399,699279,but it also significantly enhances the  structural rigidity of the car making  the car better handling and more refined
+2aDyjJ5wj64,699279,705600,and it really stabilizes this central  structure for the crumple zones at the
+2aDyjJ5wj64,705600,711519,end of the car to work to absorb energy  now also
+2aDyjJ5wj64,711519,716639,you may note if you're eagle-eyed that  we've actually turned these modules and
+2aDyjJ5wj64,716639,723600,it applies to all the modules kind of  upside down  we've got the electrical connections at  the bottom and the cooling at the top
+2aDyjJ5wj64,723600,729120,there's a reason for doing that we allow  the cells to vent downwards and away
+2aDyjJ5wj64,729120,734800,from the occupant for safety and also we  have this extra layer of coolant here to
+2aDyjJ5wj64,734800,742560,give more safety  and let's just take a look at how this  system works if we move to 18 module
+2aDyjJ5wj64,742560,748560,pack here and we see that this is  matched to these vents which allow hot
+2aDyjJ5wj64,748560,754480,gases  to emerge from the pack  outwards and away from the occupants to
+2aDyjJ5wj64,754480,762079,buy time in the event of a thermal event  now  also a key safety feature here of this
+2aDyjJ5wj64,762079,767200,pack is this ballistic shield which is  eight millimeters thick and it is a an
+2aDyjJ5wj64,767200,772399,advanced  epoxy composite  but  this
+2aDyjJ5wj64,772399,780000,is not just performing a role of safety  it actually has an efficiency function  as well because this composite
+2aDyjJ5wj64,780000,785040,undershield is actually curved  we've created a wing car
+2aDyjJ5wj64,785040,790320,with a curved under tray to give  extraordinary aerodynamic performance to
+2aDyjJ5wj64,790320,795680,enhance efficiency and range this is the  synergy the synergistic approach that
+2aDyjJ5wj64,795680,801519,we've taken to engineering even key  safety features within our battery
+2aDyjJ5wj64,801519,809680,enclosure  so this is where we lead to a modular  construction of our battery pack and for
+2aDyjJ5wj64,809680,817760,many years now we've been the sole  supplier to the world championship  single-seater electric race series
+2aDyjJ5wj64,817760,824880,through our old brand ativa and this is  one of the modules that powers those  racing cars it's extremely high-tech
+2aDyjJ5wj64,824880,831839,state-of-the-art and we've accrued so  much learning  from this endeavor
+2aDyjJ5wj64,831839,837519,and the wonderful thing is we've been  able to transfer that knowledge that dna  across to this
+2aDyjJ5wj64,837519,844880,this is the mass producible  cost-effective  cousin of the racing module
+2aDyjJ5wj64,844880,851040,with all the knowledge  integrated in it and this is the module  which forms the heart
+2aDyjJ5wj64,851040,856399,of the battery pack for lucid air and  actually will be for project gravity
+2aDyjJ5wj64,856399,863600,in a couple of years time  so this is  a lucid air battery module
+2aDyjJ5wj64,863600,869680,and you see inside there we have 300 of  these 21 700
+2aDyjJ5wj64,869680,876880,cells 300 per module  and we string  22 of these modules together
+2aDyjJ5wj64,876880,884000,to achieve the 924 volts of our long  range pack and we string 18 of them
+2aDyjJ5wj64,884000,889120,together in series to achieve a  756 volt
+2aDyjJ5wj64,889120,894560,pack which is good for over 400 miles  range with the foot garage
+2aDyjJ5wj64,894560,899839,on one side you see all the electrical  connections with this bus bar which is a
+2aDyjJ5wj64,899839,905120,signature patent of lucid  and on the other side you see the
+2aDyjJ5wj64,905120,911440,cooling manifold  which allows a water glycol coolant from  these inlet and outlet here to run
+2aDyjJ5wj64,911440,917839,around  and cool this module  so i mentioned that we string
+2aDyjJ5wj64,917839,924000,22 of these together and each of them  has  42 volts so we string
+2aDyjJ5wj64,924000,930320,42 volts  times 22 modules together  to get the 9
+2aDyjJ5wj64,930320,936560,24 volts  and each of these modules have 300 cells
+2aDyjJ5wj64,936560,942480,so we multiply by 22 and we get  6600 cells
+2aDyjJ5wj64,942480,948000,and in the case of the grand touring  that gives us a total pack energy
+2aDyjJ5wj64,948000,954639,of 112 kilowatt hours  and in the instance of the dream
+2aDyjJ5wj64,954639,960880,slightly different cell chemistry  we achieve 118  kilowatt hours
+2aDyjJ5wj64,960880,966079,total pack energy now why should we go  for a high voltage like this many other
+2aDyjJ5wj64,966079,972079,cars  are running at just 400 volts  well let's just explain this with some
+2aDyjJ5wj64,972079,977759,simple  math  there's a classic formula ohm's law
+2aDyjJ5wj64,977759,985360,voltage equals current  times resistance  and we can also link watts power
+2aDyjJ5wj64,985360,990639,remember watts of power  and so power  there's a simple formula for that as
+2aDyjJ5wj64,990639,996399,well  power is voltage  times current yes you just multiply
+2aDyjJ5wj64,996399,1001440,volts by amps and you'll get watts  if you've got 100 volts
+2aDyjJ5wj64,1001440,1007440,10 amps you'll get one kilowatt  so now we can actually substitute
+2aDyjJ5wj64,1007440,1013600,in this formula from equation one  we can substitute for v and we can
+2aDyjJ5wj64,1013600,1018880,insert i r instead of v from  equation two
+2aDyjJ5wj64,1018880,1026079,times i  and we result in this classic  formula power is i
+2aDyjJ5wj64,1026079,1031199,squared r  and this is an inescapable law
+2aDyjJ5wj64,1031199,1036319,of electrical circuitry  and so
+2aDyjJ5wj64,1036319,1043438,the heat losses are just proportional to  the current in amps  they're proportional to current squared
+2aDyjJ5wj64,1043438,1048480,and this is a fundamental  and remember power is volts times
+2aDyjJ5wj64,1048480,1055280,current  so we need a certain amount of power  we all want power
+2aDyjJ5wj64,1055280,1061760,so if we double the voltage  we can half the current  and if we half the current
+2aDyjJ5wj64,1061760,1067600,we can quarter the heat losses  this is a fundamental core tenet
+2aDyjJ5wj64,1067600,1072960,of lucid drive to higher voltage  we've partnered with electrify america
+2aDyjJ5wj64,1072960,1079600,with a thousand volt charging network  um we're using nearly all of that  there's a little bit of buffer in there
+2aDyjJ5wj64,1079600,1085919,with our 924 volts  and you know  there's no substitute for voltage
+2aDyjJ5wj64,1085919,1091600,in terms of efficiency  now  i want to just put to bed an urban myth
+2aDyjJ5wj64,1091600,1097679,about batteries a lot of people say well  you can charge so fast because of the  high voltage
+2aDyjJ5wj64,1097679,1104559,and it's partly true but it's super  misleading yeah we achieved over 300
+2aDyjJ5wj64,1104559,1110160,kilowatts of power in an independently  conducted charging test very recently
+2aDyjJ5wj64,1110160,1116320,and we've proven that with electrify  america we can accrue over 300 miles
+2aDyjJ5wj64,1116320,1124080,range in just 21 minutes  this is unsurpassed  but there's kind of this myth that cells
+2aDyjJ5wj64,1124080,1131039,charge faster because the voltage well  if we look at one of these little cells  here and if i'm a dumb little battery
+2aDyjJ5wj64,1131039,1139440,cell like this  all i will see when i'm charging about  4.2 volts in a full charge at that end
+2aDyjJ5wj64,1139440,1144799,and here  i will see zero volts  if i give it much more than that bad
+2aDyjJ5wj64,1144799,1150799,stuff will happen if i don't give it  that won't charge very well  so each little cell
+2aDyjJ5wj64,1150799,1158400,doesn't matter if the cars at four volts  a thousand volts could be a hundred  thousand volts each little cell doesn't
+2aDyjJ5wj64,1158400,1163840,know the voltage of the car  all it receives is its individual
+2aDyjJ5wj64,1163840,1169760,charging voltage around 4.2 volts  so then you think well hang on so if the
+2aDyjJ5wj64,1169760,1176080,cells don't charge any faster whether  the car's 400 volts or 900 volts why are  you doing the 900 volts
+2aDyjJ5wj64,1176080,1181360,it's the rest of the system it's the  rest of the system that sees the
+2aDyjJ5wj64,1181360,1187039,benefits  of this increase in the voltage
+2aDyjJ5wj64,1187039,1193280,and we look at this holistically for  example these connectors here on our bus  bars are made from aluminum they're not
+2aDyjJ5wj64,1193280,1198720,made from copper  actually although silver is the most  conductive metal and if i was going to
+2aDyjJ5wj64,1198720,1204559,make a money no object pack silver would  be my metal of choice but there's a cost
+2aDyjJ5wj64,1204559,1212480,imperative at work here  um  copper actually is the best if you're  really limited in space but in terms of
+2aDyjJ5wj64,1212480,1217760,mass effectiveness weight advantage  aluminum is fantastic aluminum's the
+2aDyjJ5wj64,1217760,1223360,best choice and that's why we use  aluminum here in this application to
+2aDyjJ5wj64,1223360,1228880,keep the weight of the pack down  so  look at this this 300 cells are all
+2aDyjJ5wj64,1228880,1234400,wired together i can't see how this  results in a higher voltage it's very
+2aDyjJ5wj64,1234400,1240720,difficult to relate the layout of this  when we see these 300 cells to the
+2aDyjJ5wj64,1240720,1246960,voltage of the pack so how do we do that  so i've got some flashlights here as a
+2aDyjJ5wj64,1246960,1253600,as a great sort of aid to understanding  and here we've got  uh a standard length flashlight and
+2aDyjJ5wj64,1253600,1259200,these cells  are just 1.5 volts so we put three of  those together
+2aDyjJ5wj64,1259200,1265280,in on end we just connect them and put  one after another
+2aDyjJ5wj64,1268960,1279280,and what we have here is zero volts  1.5 volts  3.0 volts 4.5 volts and we end up with a
+2aDyjJ5wj64,1279280,1286159,bulb at the end of this  this flashlight or torch as i  i was brought up to say which has got
+2aDyjJ5wj64,1286159,1292799,four and a half volts  and lonely hull we can go for a longer  torch or flashlight as has got
+2aDyjJ5wj64,1292799,1297919,four cells or we can go for six cells so  this one will have um that will have six
+2aDyjJ5wj64,1297919,1305679,volts and then this one will have nine  volts  now  can you imagine if this is 9 volts
+2aDyjJ5wj64,1305679,1313600,just how long  the flashlight would need to be  to achieve  924 volts i think this thing would be
+2aDyjJ5wj64,1313600,1319919,about  probably about 50 foot long  so clearly connecting things that way
+2aDyjJ5wj64,1319919,1326320,is is not the smartest we need to think  of another way  of connecting cells together and also
+2aDyjJ5wj64,1326320,1332400,the way in a flashlight these just touch  each other and on end really is not
+2aDyjJ5wj64,1332400,1337760,an efficient connection there's too much  resistance here it's not really suited
+2aDyjJ5wj64,1337760,1343360,to the to the vibration regime that's  going to last the car for maybe 200 000
+2aDyjJ5wj64,1343360,1349919,miles so we need to think of a different  different way of doing that  and also  we need to think about
+2aDyjJ5wj64,1349919,1355760,each cell each one of these  is 4.2 volts as an open circuit voltage
+2aDyjJ5wj64,1355760,1361039,to get to 924 volts you need 4.2 volts
+2aDyjJ5wj64,1361039,1370640,and we need to put 220 of these  end on end  and the 220 results in our 924 volts so
+2aDyjJ5wj64,1370640,1376520,we'd need to think of about a column of  these or a long flashlight super long
+2aDyjJ5wj64,1376520,1382480,220 of these on end  to achieve the 924 volts but of course
+2aDyjJ5wj64,1382480,1389039,that would only give us 220 cells which  is nothing like the 6600 that we need to
+2aDyjJ5wj64,1389039,1394400,achieve the energy there wouldn't be the  energy in this pack  so we have to do something
+2aDyjJ5wj64,1394400,1399440,as well in parallel  and that is literally put the cells in  parallel we need to create another
+2aDyjJ5wj64,1399440,1404480,column of cells in parallel here  and it's like really
+2aDyjJ5wj64,1404480,1410960,um  if i were to  bunch up a whole group of flashlights  and hold them all together
+2aDyjJ5wj64,1410960,1416960,it's like  putting them in parallel  to connect  that way
+2aDyjJ5wj64,1416960,1424080,so we need to connect in series and in  parallel  and we achieve that through the way we
+2aDyjJ5wj64,1424080,1432559,connect  all these cells together  inside the module so let me open the  module up and explore
+2aDyjJ5wj64,1434480,1440159,so  here we have the lucid air module  and this reveals
+2aDyjJ5wj64,1440159,1446240,all the cells on end  300 of them  and what we do is we group them in
+2aDyjJ5wj64,1446240,1451360,groups  of 30.  and we have this little membrane here as
+2aDyjJ5wj64,1451360,1457200,a little bit of insulation and then you  can see that the next group of 30  runs through
+2aDyjJ5wj64,1457200,1463679,to here so we have 10  groups of 30 cells
+2aDyjJ5wj64,1463679,1469679,and each of those  steps each group of 30 steps up the  voltage
+2aDyjJ5wj64,1469679,1476640,by 4.2 volts and because we've got 10  the voltage of this module is 42 volts
+2aDyjJ5wj64,1476640,1483120,30 in parallel  10 in series  22 of these so we have
+2aDyjJ5wj64,1483120,1491039,in engineering poland  we would describe this pack  as  a 220 s for series
+2aDyjJ5wj64,1491039,1496640,and a 30 p  for parallel count that's how battery  engineer
+2aDyjJ5wj64,1496640,1502400,would describe  the long range pack of a lucid air
+2aDyjJ5wj64,1502400,1510080,so i'd like to just spend a little bit  of time showing our cooling strategy  here we use this plate and this cools
+2aDyjJ5wj64,1510080,1515440,the cells from their ends this is an end  cooling arrangement
+2aDyjJ5wj64,1515440,1523200,we think this has got many advantages uh  thermally and also in terms of  consistency of manufacturing and cost as
+2aDyjJ5wj64,1523200,1528240,well and it's excellent way of  containing and managing the temperature
+2aDyjJ5wj64,1528240,1533919,of the cells in certain cold weather  conditions we need to heat the cells up  we have to use some of their energy to
+2aDyjJ5wj64,1533919,1540240,warm themselves and in hot weather  conditions  the cells actually sometimes need to be
+2aDyjJ5wj64,1540240,1545440,cool not just by cooling through the  radiators but through the the compressor
+2aDyjJ5wj64,1545440,1550559,loop on the air conditioning  now why do we choose this end cooling
+2aDyjJ5wj64,1550559,1556880,rather than a  side cooling which is another approach  altogether well there's a very
+2aDyjJ5wj64,1556880,1562240,interesting aspect of a cell if you look  at a cell this cylindrical
+2aDyjJ5wj64,1562240,1570640,layout here  it's  thermally an isotropic what does that  mean it is actually able to conduct heat
+2aDyjJ5wj64,1570640,1576799,in different directions at different  rates  it's really good at conducting heat
+2aDyjJ5wj64,1576799,1584559,axially  but it's really quite  poor  at conducting heat sideways ah you might
+2aDyjJ5wj64,1584559,1591440,say well what's that ratio it's quite  significant actually  we have this advantage this thermal
+2aDyjJ5wj64,1591440,1598000,anisotropic nature  but of course the heat has to flow a  long way and we'll get an imbalance
+2aDyjJ5wj64,1598000,1603279,between the temperature at one end of  the cell versus the other that's the  downside
+2aDyjJ5wj64,1603279,1610720,but  we've got a real great advantage here we  can get a very clear consistent
+2aDyjJ5wj64,1610720,1616640,area of contact  on this end  through a thermal adhesive that we layer
+2aDyjJ5wj64,1616640,1622799,on here when we close this plate off and  this is very consistent and reliable and
+2aDyjJ5wj64,1622799,1629440,mass producible and consistency of  manufacturing  and cost-effectiveness is critical in a
+2aDyjJ5wj64,1629440,1637039,battery pack  now if we take the other approach  which is side cooling of these cells
+2aDyjJ5wj64,1637039,1643039,we have a configuration of cells here in  a classic  honeycomb
+2aDyjJ5wj64,1643039,1649120,yeah  but we have to make a little gap between  them  they won't go right close together
+2aDyjJ5wj64,1649120,1656240,because in that configuration we need to  run a coolant channel
+2aDyjJ5wj64,1656240,1661360,between them  down the sides  of the cells
+2aDyjJ5wj64,1661360,1668960,and she said well tried and tested and  it's not a bad system and it's real pros  and cons here now of course with that
+2aDyjJ5wj64,1668960,1675120,we need space for that channel so we  won't be able to achieve this
+2aDyjJ5wj64,1675120,1681120,close compact honeycomb that we achieve  with lucid so here we're able to get
+2aDyjJ5wj64,1681120,1686480,more energy more compactly this way but  we do have a little price to pay that we
+2aDyjJ5wj64,1686480,1693039,have the cooling plate on the end so the  module is just a tiny bit deeper  whereas alternatively
+2aDyjJ5wj64,1693039,1700399,the side cooling means that the module  like for like apples for apples in terms  of energy is a little bit bigger but a
+2aDyjJ5wj64,1700399,1706000,little bit compact in its height  but there's a real downside to this
+2aDyjJ5wj64,1706000,1713440,which is not  self-evident  to try to achieve a perfect fit
+2aDyjJ5wj64,1713440,1721120,along the side of the cell here is  extraordinarily challenging at the best  of times let alone in mass production
+2aDyjJ5wj64,1721120,1727360,and you tend to get funny tolerancing  effects coming in  and as a consequence of that
+2aDyjJ5wj64,1727360,1734399,you tend to get  you know contact points i mean what  you'd want here is a pure perfect
+2aDyjJ5wj64,1734399,1742000,contact point  running  over a big area  of the cell like that
+2aDyjJ5wj64,1742000,1749279,that is very difficult to achieve  it's more likely you get  a couple of contact points
+2aDyjJ5wj64,1749279,1755760,an interrupted  condition very tricky to achieve that  i'm not saying it can't be done but
+2aDyjJ5wj64,1755760,1762559,super challenging for a consistent  effect so here you have  the cell not wanting to conduct heat but
+2aDyjJ5wj64,1762559,1767600,he hasn't got to go so far  does want to conduct heat and you can
+2aDyjJ5wj64,1767600,1774640,have a really consistent  a flat area but the heat's got to go  further and we've elected for that and
+2aDyjJ5wj64,1774640,1782240,that's part  of the reason we're getting  extraordinary efficiency  so our philosophy is to end cool the
+2aDyjJ5wj64,1782240,1787440,cells this gives us a more consistent  more reliable more manufacturable more
+2aDyjJ5wj64,1787440,1794159,controllable system  and key to that is this cooling plate  this cold plate which is just a
+2aDyjJ5wj64,1794159,1802080,two-piece aluminum stamping  and what you see are a lot of these  dimples here and these dimples are bonds
+2aDyjJ5wj64,1802080,1808399,which hold the lamination of two pieces  of aluminum together to resist the
+2aDyjJ5wj64,1808399,1813760,pressure of the water glycol which is  pumped in and out from these
+2aDyjJ5wj64,1813760,1818799,unions  but these dimples provide another  function
+2aDyjJ5wj64,1818799,1824399,they create a turbulent effect to the  water flow the flow of water comes in
+2aDyjJ5wj64,1824399,1830320,here and goes right around this race  track and then out here
+2aDyjJ5wj64,1830320,1835760,so why do we want to induce this  turbulent effect and the reason is that
+2aDyjJ5wj64,1835760,1841520,if we induce a turbulent boundary layer  to the fluid flow
+2aDyjJ5wj64,1841520,1846799,it enhances the conductivity  at that surface
+2aDyjJ5wj64,1846799,1853760,and we want  maximum conductivity we need a fluid  which can absorb a lot of heat and
+2aDyjJ5wj64,1853760,1860720,collect a lot of heat and transmit a lot  of heat very quickly  super cost effective super
+2aDyjJ5wj64,1860720,1866399,manufacturable and a key element of how  we take a step forward to mass
+2aDyjJ5wj64,1866399,1871840,industrialize the electric car with  technology like this which is designed
+2aDyjJ5wj64,1871840,1877360,to be made by the millions of units  that's how we're going to drive the cost  down and that's what's going to help
+2aDyjJ5wj64,1877360,1883279,save the planet  so last but not least is how we wire all
+2aDyjJ5wj64,1883279,1890080,these cells together remember we've got  10 groups of 30 in parallel now when we
+2aDyjJ5wj64,1890080,1895120,look at the the flashlight we look at  the negative being on one end of the  cell
+2aDyjJ5wj64,1895120,1902000,and the positive on the other but  there's an interesting feature of these  lithium-ion cylindrical cells is that
+2aDyjJ5wj64,1902000,1910240,the negative comes all the way around  right to the top  so let me just illustrate that
+2aDyjJ5wj64,1911120,1917759,cell here  so not only is that negative
+2aDyjJ5wj64,1919519,1926640,and that's the positive end there  but right around to this lip here
+2aDyjJ5wj64,1926640,1933600,that's negative  and remember we want to link negative to  positive negative to positive to step up
+2aDyjJ5wj64,1933600,1939279,the voltage  so we don't actually have to use one end  to connect positive and the other to
+2aDyjJ5wj64,1939279,1944960,connect negative we can actually put  both connections  at the same end of the cell and that's
+2aDyjJ5wj64,1944960,1950000,what we do so that we can have the  cooling on the one end of the cell here
+2aDyjJ5wj64,1950000,1956799,and we have to all the electrical  connections the positive and the  negative here
+2aDyjJ5wj64,1956799,1962480,and in order to span across  these rows these three rows of 10
+2aDyjJ5wj64,1962480,1968320,cells in that series group we have this  bus bar configuration these aluminum
+2aDyjJ5wj64,1968320,1976159,brush bars and this is all integrally  molded in this single shot  injection molding this entire assembly
+2aDyjJ5wj64,1976159,1982799,these are not these bus bars are not  glued in  they're actually encapsulation molded
+2aDyjJ5wj64,1982799,1988840,in this plastic injection molding and  it's an absolute breakthrough it's a  one-shot deal it's going to
+2aDyjJ5wj64,1988840,1994080,revolutionize mass industrialization  of the semi-structural modules but let
+2aDyjJ5wj64,1994080,1999279,me show you in detail how we do that and  how our learning
+2aDyjJ5wj64,1999279,2004320,from our racing experience has really  helped
+2aDyjJ5wj64,2004320,2010960,we know that resistance in the system is  our enemy  i squared r i squared is terrible we
+2aDyjJ5wj64,2010960,2016840,want to reduce resistance so what we do  is  we have different
+2aDyjJ5wj64,2016840,2022799,gauge bonds for negative and positive  we put
+2aDyjJ5wj64,2022799,2028399,a thinner  bonding wire  here
+2aDyjJ5wj64,2028799,2035360,and we put a thicker bonding wire  yeah  i'm giving away one of our big secrets
+2aDyjJ5wj64,2035360,2042399,here this is how we reduce the heat  losses in a lucid pack the best of my  knowledge no one else has done this
+2aDyjJ5wj64,2042399,2050480,this is really proprietary stuff when we  learnt this from motor racing because  you only need one fuse per cell not two
+2aDyjJ5wj64,2050480,2056240,so how dumb is it to put two fuses on  both of which incur resistance we can
+2aDyjJ5wj64,2056240,2061440,have a thick one which really saves us  on energy and minimizes heating loss
+2aDyjJ5wj64,2061440,2066480,that way we can have smaller radiators  and we put a thin one  we have to give it a little bit of
+2aDyjJ5wj64,2066480,2072638,resistance lose energy that one but  that's the safety valve and really  that's one of the keys to making this
+2aDyjJ5wj64,2072638,2078000,the most efficient car in the world  finally a little word about our battery
+2aDyjJ5wj64,2078000,2085520,management system here integrated into  this module  is our bms computer system a distributed
+2aDyjJ5wj64,2085520,2092000,system  and what this really does is  multi-functions but i can give you uh  just a flavor
+2aDyjJ5wj64,2092000,2098480,of how vital this  management system is  if you look at the battery pack we go
+2aDyjJ5wj64,2098480,2105200,from zero volts at one cell through 220  steps up to 924 so what we need to do is
+2aDyjJ5wj64,2105200,2112880,create this staircase  of voltage  and there's 220 steps on the staircase
+2aDyjJ5wj64,2112880,2118720,of voltage and each one of those steps  is 4.2 volts in a full charge now we can
+2aDyjJ5wj64,2118720,2124560,have lazy cells lazy groups of cells  and they might not all do their line
+2aDyjJ5wj64,2124560,2131760,share of the work  what we need to do with our battery  management system  is iron out and even out that those
+2aDyjJ5wj64,2131760,2137599,steps of voltages are equally spaced  that we don't achieve an imbalance in
+2aDyjJ5wj64,2137599,2142720,the system this is just one of the key  attributes of our bms
+2aDyjJ5wj64,2142720,2147760,and really it is as much a software  discipline as hardware and this is all
+2aDyjJ5wj64,2147760,2153119,integrated into this module you can just  see  up close
+2aDyjJ5wj64,2153119,2159119,the green tabs from the end of our  printed circuit board and the wire bonds
+2aDyjJ5wj64,2159119,2167680,at each of these voltage intervals  across to our battery management system  which computer controls this module
+2aDyjJ5wj64,2167680,2174720,so i hope you found this interesting i  hope you found it i hope you're still  with me um and uh
+2aDyjJ5wj64,2174720,2182160,it's been a real pleasure to take this  opportunity i wanted to do this for a  long time to really sort of uh advance
+2aDyjJ5wj64,2182160,2189119,the narrative  of evs for all those who are interested  out there in this exciting new world
+2aDyjJ5wj64,2189119,2196830,thank you so much  [Music]
+2aDyjJ5wj64,2207280,2209359,you

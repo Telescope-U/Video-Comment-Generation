@@ -1,0 +1,244 @@
+vid,start,end,text
+O0gbfvJDsv4,210,4130,- This is the fastest gaming CPU on the planet!
+O0gbfvJDsv4,4130,7720,Or at least it was when AMD first announced it.
+O0gbfvJDsv4,7720,9139,Intel beats them to the punch
+O0gbfvJDsv4,9140,11880,with what they claim is the fastest gaming CPU:
+O0gbfvJDsv4,11880,15040,The Core i9-1200KS.
+O0gbfvJDsv4,15040,17560,"They put that together so quickly,"
+O0gbfvJDsv4,17560,19240,we didn't get a chance to review it
+O0gbfvJDsv4,19240,21800,before they shoved it out door.
+O0gbfvJDsv4,21800,25349,"What is it about this unassuming little square,"
+O0gbfvJDsv4,25350,28730,"the Ryzen 7 5800X3D,"
+O0gbfvJDsv4,28730,30520,that's got Intel so scared
+O0gbfvJDsv4,30520,33910,that they dropped everything to come out ahead of it?
+O0gbfvJDsv4,33910,34760,"I'll tell you,"
+O0gbfvJDsv4,34760,37469,but first I'm gonna drop this message from our sponsor.
+O0gbfvJDsv4,37470,39640,"- Lambda created with Razer,"
+O0gbfvJDsv4,39640,43000,their new Tensorbook comes with an RTX 3080
+O0gbfvJDsv4,43000,46360,Linux and Lambda stack with PyTorch and Tensorflow
+O0gbfvJDsv4,46360,47610,so machine learning engineers
+O0gbfvJDsv4,47610,51050,"can develop AI models anytime, anywhere."
+O0gbfvJDsv4,51050,52982,Learn more at the link down below.
+O0gbfvJDsv4,55865,58865,(electronic music)
+O0gbfvJDsv4,62100,64510,- AMD's new gaming CPU
+O0gbfvJDsv4,64510,66730,achieves its fastest ever gaming claims
+O0gbfvJDsv4,66730,70180,"by using their shiny new 3D V-Cache technology,"
+O0gbfvJDsv4,70180,71810,where ultra-fast cache memory
+O0gbfvJDsv4,71810,74090,"is stacked on top of the CPU die,"
+O0gbfvJDsv4,74090,77030,in addition to the cache that's already inside it.
+O0gbfvJDsv4,77030,79979,But why is cache so important for gaming
+O0gbfvJDsv4,79980,81860,that AMD would go out of their way
+O0gbfvJDsv4,81860,84590,to literally make a cash sandwich?
+O0gbfvJDsv4,84590,89590,"Because it's so close to the CPU cores, it is fast!"
+O0gbfvJDsv4,89620,90670,You can think of it roughly
+O0gbfvJDsv4,90670,92860,like the relationship between RAM and storage.
+O0gbfvJDsv4,92860,94650,And there are different levels of cache
+O0gbfvJDsv4,94650,98020,that get even faster the closer they get to the cores.
+O0gbfvJDsv4,98020,102079,"3D V-cache is L3 cache, which for the 5800X3D,"
+O0gbfvJDsv4,102080,103680,is a shared pool of cache memory
+O0gbfvJDsv4,103680,105760,for all of its eight cores.
+O0gbfvJDsv4,105760,109830,"For games, this cache is used for, well, everything."
+O0gbfvJDsv4,109830,112670,"But especially for things like AI behavior trees,"
+O0gbfvJDsv4,112670,113720,"physics information,"
+O0gbfvJDsv4,113720,116460,and other things that the CPU is constantly doing.
+O0gbfvJDsv4,116460,117640,If the cache fills up
+O0gbfvJDsv4,117640,120360,"and this stuff has to be evicted back to RAM,"
+O0gbfvJDsv4,120360,122000,the CPU not only has to wait
+O0gbfvJDsv4,122000,124400,"for new data to arrive from RAM,"
+O0gbfvJDsv4,124400,126210,but it also has to wait for the old data
+O0gbfvJDsv4,126210,128720,to come back when it's needed again.
+O0gbfvJDsv4,128720,130840,This is what you'd call a bottleneck.
+O0gbfvJDsv4,130840,134750,"And this one will lower frame rates of CPU bound games,"
+O0gbfvJDsv4,134750,137690,"or cause hitching, even when FPS is high."
+O0gbfvJDsv4,137690,140000,With three times the cache of its namesake:
+O0gbfvJDsv4,140000,142180,the Ryzen 58007X.
+O0gbfvJDsv4,142180,145129,The 5800X3D promises to basically
+O0gbfvJDsv4,145130,147610,"never run out of cache on a normal circumstances,"
+O0gbfvJDsv4,147610,150040,which should improve gaming performance.
+O0gbfvJDsv4,150040,152250,"To test that, we've got a range of CPUs"
+O0gbfvJDsv4,152250,153950,"from both team red and team blue,"
+O0gbfvJDsv4,153950,156650,including the brand new 12900KS.
+O0gbfvJDsv4,156650,158030,And we've equipped our Intel bench
+O0gbfvJDsv4,158030,159780,with the fastest memory we had available
+O0gbfvJDsv4,159780,162810,to give it the best chance to rain on AMD's parade.
+O0gbfvJDsv4,162810,164860,We'll have all this linked down below.
+O0gbfvJDsv4,164860,168640,"Right away, 3D V-cache makes itself known in F1 2021,"
+O0gbfvJDsv4,168640,171130,where it beats out the Core i9-1200K
+O0gbfvJDsv4,171130,174260,and matches the brand new 12900KS.
+O0gbfvJDsv4,174260,176989,"And this continues to a lesser extent with Forza Horizon 4,"
+O0gbfvJDsv4,176990,180990,"where the 5800X3D slips a little bit, but nothing too major."
+O0gbfvJDsv4,180990,183740,Far Cry 6 brings the first maybe.
+O0gbfvJDsv4,183740,186250,"One percent low frame rates in averages look good,"
+O0gbfvJDsv4,186250,188740,but five percent lows are significantly lower
+O0gbfvJDsv4,188740,191130,as they are with the standard 5800X.
+O0gbfvJDsv4,191130,193150,AMD is at a disadvantage here.
+O0gbfvJDsv4,193150,195159,"Hitman 3 shows more of this pattern,"
+O0gbfvJDsv4,195160,197090,"albeit with better news for AMD in general,"
+O0gbfvJDsv4,197090,200530,"as average frame rates are higher than even the 12900KS,"
+O0gbfvJDsv4,200530,202630,at the cost of frame stability.
+O0gbfvJDsv4,202630,204000,Microsoft Flight Simulator
+O0gbfvJDsv4,204000,207000,"brings the first flawless victory over the entire field,"
+O0gbfvJDsv4,207000,209060,where it seems the extra cache really helps
+O0gbfvJDsv4,209060,212300,"with maintaining not only high, but stable frame rates"
+O0gbfvJDsv4,212300,214600,in this very CPU bound title.
+O0gbfvJDsv4,214600,217130,"C-S Go, also famously CPU bound,"
+O0gbfvJDsv4,217130,219720,"but with an older and more simplistic engine,"
+O0gbfvJDsv4,219720,221580,tips the scales back towards Intel
+O0gbfvJDsv4,221580,224030,"with the 12900KS taking a commanding,"
+O0gbfvJDsv4,224030,227200,almost 20% lead in average FPS.
+O0gbfvJDsv4,227200,228819,"Oh, and you're not getting better turn times"
+O0gbfvJDsv4,228820,231040,"in Civilization V1, FYI."
+O0gbfvJDsv4,231040,233659,But I don't think that's quite what they were talking about
+O0gbfvJDsv4,233660,236800,"when they called it, ""The World's Fastest Gaming CPU""."
+O0gbfvJDsv4,236800,238410,You're also not getting better turn times
+O0gbfvJDsv4,238410,242050,"with our recently restocked Wan hoodies from LTDstore.com,"
+O0gbfvJDsv4,242050,244850,but at least you'll look good while you wait.
+O0gbfvJDsv4,244850,245780,"Tallying it all up,"
+O0gbfvJDsv4,245780,248959,the 5800X3D pulls about a seven percent lead
+O0gbfvJDsv4,248960,250630,"over the 12900K,"
+O0gbfvJDsv4,250630,253620,"which would've made it the fastest gaming CPU,"
+O0gbfvJDsv4,253620,256699,if only the 12900KS didn't exist.
+O0gbfvJDsv4,256700,258890,A fact certainly not lost on Intel.
+O0gbfvJDsv4,258890,261700,The 12900KS is about three percent faster
+O0gbfvJDsv4,261700,263120,across our benchmarks.
+O0gbfvJDsv4,263120,267560,But it's worth remembering that that CPU costs $800.
+O0gbfvJDsv4,267560,269380,More on that later.
+O0gbfvJDsv4,269380,272960,AMD hasn't really marketed the 5800X3D for productivity
+O0gbfvJDsv4,272960,274720,and the slower clock speeds
+O0gbfvJDsv4,274720,276950,are probably going to hurt it more here
+O0gbfvJDsv4,276950,279030,than the extra cache will help.
+O0gbfvJDsv4,279030,281370,"Sure enough, we see about a five percent performance drop"
+O0gbfvJDsv4,281370,285610,across the board in Cinebench R23 over the OG 5800X.
+O0gbfvJDsv4,285610,289080,And Blender doesn't fear much better in BMW.
+O0gbfvJDsv4,289080,291289,Surprisingly 3D V-cache appears to help
+O0gbfvJDsv4,291290,293410,with the more complex Gooseberry render.
+O0gbfvJDsv4,293410,296030,Likely thanks to being able to keep more asset data
+O0gbfvJDsv4,296030,297490,close to the cores.
+O0gbfvJDsv4,297490,299979,"Creative Cloud shows a similar performance uplift,"
+O0gbfvJDsv4,299980,302580,with Premiere picking a good five percent lead
+O0gbfvJDsv4,302580,304400,over the 5800X.
+O0gbfvJDsv4,304400,305690,"And finally, SPECviewperf"
+O0gbfvJDsv4,305690,308090,"shows a similar give and take, depending on the tests."
+O0gbfvJDsv4,308090,310030,With life sciences and general operations
+O0gbfvJDsv4,310030,311840,"seeing a performance boost,"
+O0gbfvJDsv4,311840,315160,and energy and financial services taking a hit.
+O0gbfvJDsv4,315160,316290,"Looking at all our tests,"
+O0gbfvJDsv4,316290,318120,it works out to roughly equal performance
+O0gbfvJDsv4,318120,320550,to the non-58003DX at the end of the day.
+O0gbfvJDsv4,320550,323720,So you'd have to pay attention to the specific benchmarks
+O0gbfvJDsv4,323720,326230,to know if it's better for a given workload.
+O0gbfvJDsv4,326230,328337,"Intel meanwhile, is firmly on top."
+O0gbfvJDsv4,328337,330470,And it's it's not even close.
+O0gbfvJDsv4,330470,334160,Even the Core i7-12700K is way out ahead.
+O0gbfvJDsv4,334160,335790,That means that unless you're in the market
+O0gbfvJDsv4,335790,338560,"for a top-end CPU, the 12700K represents"
+O0gbfvJDsv4,338560,341080,a better value for productivity overall
+O0gbfvJDsv4,341080,344009,than either of those Ryzen 7 chips.
+O0gbfvJDsv4,344010,344850,"For thermal testing,"
+O0gbfvJDsv4,344850,347570,I decided to give these chips a workout using Prime95
+O0gbfvJDsv4,347570,349330,to see just how hot they'll get.
+O0gbfvJDsv4,349330,352680,"And the 5800X3D pleasantly surprises in this torture test,"
+O0gbfvJDsv4,352680,356216,with a consistent 90 degrees using our Noctua NH-D15S.
+O0gbfvJDsv4,356217,357860,And that's just a few degrees more
+O0gbfvJDsv4,357860,359969,"than the standard 5800X puts out,"
+O0gbfvJDsv4,359970,363160,and significantly lower than either Core i9.
+O0gbfvJDsv4,363160,366210,"What's more, it maintained 4.1 gigahertz all core,"
+O0gbfvJDsv4,366210,367289,"throughout most of the run,"
+O0gbfvJDsv4,367290,370820,with power consumption below the OG5800X.
+O0gbfvJDsv4,370820,374400,"Even though both CPUs are rated for 105 Watt TDP,"
+O0gbfvJDsv4,374400,376940,precision boost doesn't seem to be pushing the X3D
+O0gbfvJDsv4,376940,378210,quite as hard.
+O0gbfvJDsv4,378210,379970,Why the hotter cores then?
+O0gbfvJDsv4,379970,381530,"Well, you've got the 3D V-cache"
+O0gbfvJDsv4,381530,383500,"sitting between the cores and the IHS,"
+O0gbfvJDsv4,383500,385660,so it's less thermally efficient.
+O0gbfvJDsv4,385660,387820,Which brings up the other reason
+O0gbfvJDsv4,387820,391810,the Ryzen 7 5800X3D is special:
+O0gbfvJDsv4,391810,392940,Overclocking.
+O0gbfvJDsv4,392940,395320,"Or rather, lack thereof,"
+O0gbfvJDsv4,395320,398020,for the first time on the Ryzen platform.
+O0gbfvJDsv4,398020,400090,AMD says that this is a limitation
+O0gbfvJDsv4,400090,402380,"for this one specific CPU,"
+O0gbfvJDsv4,402380,404390,because the 3DStats cache memory
+O0gbfvJDsv4,404390,407990,needs a hard capped maximum voltage for reliability.
+O0gbfvJDsv4,407990,408960,Not only does that mean
+O0gbfvJDsv4,408960,410660,that overclocking one of these things
+O0gbfvJDsv4,410660,412460,"would potentially be dangerous,"
+O0gbfvJDsv4,412460,414750,it also means that thanks to the extra power draw
+O0gbfvJDsv4,414750,416900,"required to run the 3D V-cache,"
+O0gbfvJDsv4,416900,421040,"core clocks are lower than the vanilla 5800X, as we saw."
+O0gbfvJDsv4,421040,423350,"Obviously that hasn't hurt it much in practice,"
+O0gbfvJDsv4,423350,426430,but you can imagine how much faster things could be
+O0gbfvJDsv4,426430,428800,if only that limitation weren't in place
+O0gbfvJDsv4,428800,432319,and they can drive the clocks just that little bit faster.
+O0gbfvJDsv4,432320,434440,"Overall, it's a weird chip,"
+O0gbfvJDsv4,434440,436430,but (chuckles) it's not a bad one.
+O0gbfvJDsv4,436430,439160,Is it the most powerful gaming see you in the world?
+O0gbfvJDsv4,439160,442830,"No, it's beaten out by the Core i9-1200KS."
+O0gbfvJDsv4,442830,447830,"But again, that CPU is a power hungry beast that costs $800."
+O0gbfvJDsv4,447970,452190,"The Ryzen 7 5800X3D is $450,"
+O0gbfvJDsv4,452190,453720,which makes it the fastest gaming CPU
+O0gbfvJDsv4,453720,456030,at a price that makes any sense.
+O0gbfvJDsv4,456030,459230,And that's why the Core i7-12700K at $400
+O0gbfvJDsv4,459230,460790,is in our test lineup.
+O0gbfvJDsv4,460790,463250,That chip still represents an extremely good value.
+O0gbfvJDsv4,463250,466700,"It's not far off for gaming and dominates for the price,"
+O0gbfvJDsv4,466700,468420,if you need productivity.
+O0gbfvJDsv4,468420,470570,"Plus, it's running on a brand new platform."
+O0gbfvJDsv4,470570,472330,"Speaking of platforms, hit Subscribe,"
+O0gbfvJDsv4,472330,474789,because we've got a brand new storage platform
+O0gbfvJDsv4,474790,475623,"with a petabyte of flash,"
+O0gbfvJDsv4,475623,476456,(bell dings)
+O0gbfvJDsv4,476456,477979,and we are totally gonna benchmark it.
+O0gbfvJDsv4,479040,481570,But the 5800X3D is a fitting sendoff
+O0gbfvJDsv4,481570,483040,to a platform that's been around
+O0gbfvJDsv4,483040,485900,since I started writing for Linus Tech Tips.
+O0gbfvJDsv4,485900,488560,"By all accounts, this is probably the last CPU"
+O0gbfvJDsv4,488560,489973,that AM4 is going to see.
+O0gbfvJDsv4,490860,492569,"I wouldn't recommend it for new builds,"
+O0gbfvJDsv4,492570,494340,the platform's a dead-end.
+O0gbfvJDsv4,494340,496570,But if you are primarily a gamer
+O0gbfvJDsv4,496570,499150,who got into AMD's ecosystem early
+O0gbfvJDsv4,499150,501820,"and you've been waiting for a chip to upgrade to,"
+O0gbfvJDsv4,501820,504270,then this is a solid choice for top-tier performance
+O0gbfvJDsv4,504270,506580,that won't require you to take a second job.
+O0gbfvJDsv4,506580,509610,"It doesn't need fancy cooling, or a big power supply,"
+O0gbfvJDsv4,509610,511310,or even new RAM.
+O0gbfvJDsv4,511310,513320,Could you get similar performance by overclocking
+O0gbfvJDsv4,513320,518320,a plain Ryzen 7 5800X or even the new $300 5700X?
+O0gbfvJDsv4,518320,519890,"Probably, yeah."
+O0gbfvJDsv4,519890,521870,"But if you don't want to deal with that,"
+O0gbfvJDsv4,521870,524880,"or if you are a small form factor enthusiast,"
+O0gbfvJDsv4,524880,529580,"then for you, the 5800X3D has few downsides."
+O0gbfvJDsv4,529580,531190,And neither does our sponsor.
+O0gbfvJDsv4,531190,532540,- Zoho CRM!
+O0gbfvJDsv4,532540,534990,Zoho CRM is a 360-degree solution
+O0gbfvJDsv4,534990,537020,"for managing your business sales, marketing,"
+O0gbfvJDsv4,537020,538150,and customer service.
+O0gbfvJDsv4,538150,540400,"With their intuitive UI and simple navigation,"
+O0gbfvJDsv4,540400,543020,"you can implement their service quickly and efficiently,"
+O0gbfvJDsv4,543020,545720,with minimal disruption to your current processes.
+O0gbfvJDsv4,545720,547810,They offer AI predictions to help you understand
+O0gbfvJDsv4,547810,548643,"your customer's needs,"
+O0gbfvJDsv4,548643,550670,so you can see trends and purchase patterns
+O0gbfvJDsv4,550670,552180,by a variety of indicators.
+O0gbfvJDsv4,552180,554279,"Plus, their inbuilt design studio"
+O0gbfvJDsv4,554280,556460,helps you customize your CRM experience
+O0gbfvJDsv4,556460,559330,"to help you spot critical customer or account information,"
+O0gbfvJDsv4,559330,562250,at a glance; helping you get your work done faster.
+O0gbfvJDsv4,562250,565030,"Zoho offers flexible contracts, transparent pricing,"
+O0gbfvJDsv4,565030,567580,and an ever-evolving product that grows to meet your needs
+O0gbfvJDsv4,567580,568890,without snowballing costs.
+O0gbfvJDsv4,568890,570890,"With over 15 years of experience in the industry,"
+O0gbfvJDsv4,570890,572770,"and over 250,000 clients,"
+O0gbfvJDsv4,572770,575210,Zoho CRM is a great solution to support you
+O0gbfvJDsv4,575210,576950,in your customer relationship management needs.
+O0gbfvJDsv4,576950,579360,Get 50% off your annual subscription
+O0gbfvJDsv4,579360,582160,when you use the code: ZCRM50
+O0gbfvJDsv4,582160,584680,using the link in the video description.
+O0gbfvJDsv4,584680,585720,- Thanks for watching guys.
+O0gbfvJDsv4,585720,587300,Go check out our most recent sleeper
+O0gbfvJDsv4,587300,591180,where we had to (chuckles) go to some extreme lengths
+O0gbfvJDsv4,591180,594430,to make a Core i9-12900K work.
+O0gbfvJDsv4,594430,596770,"The 5800X3D here,"
+O0gbfvJDsv4,596770,599523,"would've been a much better fit, literally."
