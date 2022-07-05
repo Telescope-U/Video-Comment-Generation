@@ -1,0 +1,492 @@
+vid,start,end,text
+9j-YD11LcLw,180,3510,- Everything about this computer is designed to do one thing
+9j-YD11LcLw,3510,6917,"beat the competition, price or practicality be damned."
+9j-YD11LcLw,6917,9559,"RTX 3090 TI. $1,200 motherboard."
+9j-YD11LcLw,9560,12580,Graphene-infused liquid coolant.
+9j-YD11LcLw,12580,14847,And the centerpiece of our
+9j-YD11LcLw,14847,17350,"""so fast its kind of stupid"" computer;"
+9j-YD11LcLw,17350,20110,"the Intel Core i9 12900KS,"
+9j-YD11LcLw,20110,23270,a product that as far as we can tell only exists
+9j-YD11LcLw,23270,25070,"so that Intel can still say,"
+9j-YD11LcLw,25070,26779,"no matter how many asterisks,"
+9j-YD11LcLw,26780,29780,they have the fastest gaming CPU.
+9j-YD11LcLw,29780,31230,And what do you do with something like that?
+9j-YD11LcLw,31230,33540,"Well, you don't really bother to review it"
+9j-YD11LcLw,33540,35690,because it's never gonna make any sense.
+9j-YD11LcLw,35690,38510,"Instead, you take things one step further"
+9j-YD11LcLw,38510,40149,by making it even dumber.
+9j-YD11LcLw,40150,42160,"That's right, we have obtained"
+9j-YD11LcLw,42160,46470,the Rockit Cool Copper IHS for 12th gen.
+9j-YD11LcLw,46470,48420,This is a product that assumes you have
+9j-YD11LcLw,48420,50149,"so much disposable income,"
+9j-YD11LcLw,50150,52190,you can not only buy the fastest thing
+9j-YD11LcLw,52190,53750,"just to have the bragging rights,"
+9j-YD11LcLw,53750,56940,"but you can spend more, risk destroying it,"
+9j-YD11LcLw,56940,60991,and all just to drop your CPU temps by a few degrees.
+9j-YD11LcLw,60992,62110,"- [Alex] Well, like 15 some people say."
+9j-YD11LcLw,62110,63790,"- 15 degrees? - [Alex] Yeah, 15."
+9j-YD11LcLw,63790,65540,- Holy crap.
+9j-YD11LcLw,65540,67550,"Well this is gonna be fun then, innit?"
+9j-YD11LcLw,67550,69850,Almost as fun as telling you about our sponsor.
+9j-YD11LcLw,69850,70860,- [Narrator] Build Redux.
+9j-YD11LcLw,70860,72790,Build Redux offers competitive pricing
+9j-YD11LcLw,72790,74530,as compared to building a PC yourself.
+9j-YD11LcLw,74530,76940,Their website makes it easy for you to configure your build
+9j-YD11LcLw,76940,78850,alongside their helpful support guides.
+9j-YD11LcLw,78850,80850,Head to buildredux.com/linus
+9j-YD11LcLw,80850,82869,and start building your PC right now.
+9j-YD11LcLw,82870,85410,- Rockit Cools claims raise a lot of questions for me.
+9j-YD11LcLw,85410,86600,There's no doubt that copper's
+9j-YD11LcLw,86600,88159,"an excellent conductor of heat,"
+9j-YD11LcLw,88160,91730,"or that the 12900KS is a hot, power hungry chip"
+9j-YD11LcLw,91730,93660,"that could benefit from additional cooling,"
+9j-YD11LcLw,93660,95870,but here's the issue.
+9j-YD11LcLw,95870,97310,Integrated heat spreaders
+9j-YD11LcLw,98700,99700,have been made of.
+9j-YD11LcLw,99700,101450,Holy (beep) is this one not copper?
+9j-YD11LcLw,102390,103490,"Ah, yes it is."
+9j-YD11LcLw,103490,106460,"Integrated heat spreaders have been made of copper,"
+9j-YD11LcLw,106460,110729,basically going back as long as I've been an enthusiast.
+9j-YD11LcLw,110730,113820,"I mean, this is a Pentium 4 from 2003."
+9j-YD11LcLw,113820,114680,"Of course you might say,"
+9j-YD11LcLw,114680,118434,but that copper has this other stuff on top of it.
+9j-YD11LcLw,118434,120840,"But that's the thing, that's not a problem,"
+9j-YD11LcLw,120840,122070,that's nickel plating.
+9j-YD11LcLw,122070,124720,Nickel plating performance coolers has been common practice
+9j-YD11LcLw,124720,127210,"for over 10 years, and the layer is so thin"
+9j-YD11LcLw,127210,128750,that it's been well demonstrated
+9j-YD11LcLw,128750,131360,that it doesn't have any impact on cooling.
+9j-YD11LcLw,131360,133820,"According to Rockit Cool, it comes down to their design"
+9j-YD11LcLw,133820,135540,which supposedly improves surface area
+9j-YD11LcLw,135540,138810,"by 9 1/2%, as well as their quality."
+9j-YD11LcLw,138810,142349,"They say that their IHS is extremely flat,"
+9j-YD11LcLw,142350,146350,which we know should have a positive impact on our cooling.
+9j-YD11LcLw,146350,147510,But here's the thing.
+9j-YD11LcLw,147510,150769,"Alex, I know that Intel is mass producing these things"
+9j-YD11LcLw,150770,152890,"by literally the millions,"
+9j-YD11LcLw,152890,155290,but is it conceivable that in that mass production
+9j-YD11LcLw,155290,157189,they're allowing their tolerances to slip such
+9j-YD11LcLw,157190,160180,that some random could make it more perfectly?
+9j-YD11LcLw,160180,161250,More accurately?
+9j-YD11LcLw,161250,163940,"- [Alex] Yeah, I really doubt that Intel spends $33"
+9j-YD11LcLw,163940,164900,on their or IHS.
+9j-YD11LcLw,164900,166019,- I'm sure it's clear to everyone
+9j-YD11LcLw,166020,168920,"that neither of these are $33 worth of copper,"
+9j-YD11LcLw,168920,171620,"and both of them had to be CNC machined,"
+9j-YD11LcLw,171620,175049,so what makes one of them more expensive to machine?
+9j-YD11LcLw,175050,177630,"- The tighter your tolerance is, so the flatter it is,"
+9j-YD11LcLw,177630,178930,the more expensive it gets.
+9j-YD11LcLw,178930,181230,"- Why? Better machine, more time?"
+9j-YD11LcLw,181230,182062,- Both?
+9j-YD11LcLw,182063,182896,- But then why wouldn't Intel
+9j-YD11LcLw,182896,184430,just use a better machine at their scale?
+9j-YD11LcLw,184430,186319,"- Well, because they're doing so much scale."
+9j-YD11LcLw,186320,188120,"They only have to make a couple of these guys,"
+9j-YD11LcLw,188120,190260,Intel's making thousands and thousands of those.
+9j-YD11LcLw,190260,191390,That adds up fast.
+9j-YD11LcLw,191390,192731,- [Linus] So they wanna go fast?
+9j-YD11LcLw,192731,193564,"- [Alex] Yeah, they wanna go fast."
+9j-YD11LcLw,193564,194920,- Could it make that much of a difference?
+9j-YD11LcLw,194920,197610,We can actually get some idea by taking a closer look
+9j-YD11LcLw,197610,200370,at the thermal paste pattern of our stock IHS.
+9j-YD11LcLw,200370,202310,- It looks like there was way more pressure right
+9j-YD11LcLw,202310,204630,"in the center, which is good, that's right where the dye is,"
+9j-YD11LcLw,204630,206520,"and then around that, not so much."
+9j-YD11LcLw,206520,209740,"So I imagine this part, not doing a whole lot of cooling."
+9j-YD11LcLw,209740,210670,- But enough talk.
+9j-YD11LcLw,210670,212069,Now it's time to perform surgery
+9j-YD11LcLw,212070,215840,on the $800 CPU that I just bought yesterday.
+9j-YD11LcLw,215840,218220,Can you believe Intel wouldn't send us a second sample
+9j-YD11LcLw,218220,219190,after the review?
+9j-YD11LcLw,219190,220180,- [Alex] What a bunch of jerks.
+9j-YD11LcLw,220180,221959,"- I know, right? (Linus huffing)"
+9j-YD11LcLw,221960,223440,There are a few different configurations
+9j-YD11LcLw,223440,225540,that you can get your copper IHS upgrade kit in.
+9j-YD11LcLw,225540,228140,"You can get just this and that's $33,"
+9j-YD11LcLw,228140,230580,or if you don't have any delidding tools
+9j-YD11LcLw,230580,232720,"or anything like that, you can get the full kit"
+9j-YD11LcLw,232720,235350,"for 80 U.S. dollars, which is everything you need"
+9j-YD11LcLw,235350,238510,to take apart and reassemble your CPU.
+9j-YD11LcLw,238510,239560,"- [Alex] Well, there's no glue."
+9j-YD11LcLw,239560,240650,You need to buy the glue separate.
+9j-YD11LcLw,240650,242370,"- Oh, you go buy silicone glue?"
+9j-YD11LcLw,242370,243709,"Well, that's probably fine."
+9j-YD11LcLw,243710,245034,- [Alex] They recommend CA actually-
+9j-YD11LcLw,245034,246260,- CA? - [Alex] Yeah.
+9j-YD11LcLw,246260,248459,- I would think it'd be too brittle. Alright.
+9j-YD11LcLw,248460,250560,"Well, we're gonna follow the instructions."
+9j-YD11LcLw,251937,253319,(component clattering)
+9j-YD11LcLw,253319,254470,- [Alex] Geez.
+9j-YD11LcLw,254470,257370,- Sorry. The delidding tool is machined delrin.
+9j-YD11LcLw,257370,258810,Not as fancy as Der8auer
+9j-YD11LcLw,258810,262350,and you actually have to insert your CPU
+9j-YD11LcLw,263530,266310,"and then screw it shut in order to operate it,"
+9j-YD11LcLw,266310,268010,"which is a little less user friendly,"
+9j-YD11LcLw,268010,270470,but it's also significantly lower cost.
+9j-YD11LcLw,270470,272310,"And they say the whole thing can be done in a few minutes,"
+9j-YD11LcLw,272310,274470,and from the look of it I believe them.
+9j-YD11LcLw,274470,275533,"Wait, why am I using this thing?"
+9j-YD11LcLw,275533,278610,When I have an lttstore.com screwdriver! Yes.
+9j-YD11LcLw,280190,282230,The next page of the instructions are pretty crap.
+9j-YD11LcLw,282230,284630,"It just says set a two minute timer with a heat gun,"
+9j-YD11LcLw,284630,286900,no mention of temperatures or anything like that.
+9j-YD11LcLw,286900,288590,Fortunately we're fairly smart.
+9j-YD11LcLw,288590,291199,We can figure out that we need to melt the solder
+9j-YD11LcLw,291200,294270,that is attaching the original IHS to the dye.
+9j-YD11LcLw,294270,296430,"Oh, that's actually a benefit to the delrin,"
+9j-YD11LcLw,296430,299400,it'll sap away less heat once we clam shell it up.
+9j-YD11LcLw,299400,300233,What are we at?
+9j-YD11LcLw,300233,302840,"- Looks like we're right around 130 degrees,"
+9j-YD11LcLw,302840,304660,so that isn't hot enough to melt solder.
+9j-YD11LcLw,304660,307440,"Probably let free around 270 degrees,"
+9j-YD11LcLw,307440,309530,but it is gonna be getting softer for sure.
+9j-YD11LcLw,309530,311910,"The delrin's at about 140 degrees right now,"
+9j-YD11LcLw,311910,313360,so probably don't touch it.
+9j-YD11LcLw,313360,316310,- [Linus] We're gonna wanna move reasonably quickly here.
+9j-YD11LcLw,316310,319750,This seems like a crap ton of pressure.
+9j-YD11LcLw,319750,321130,I feel like I'm ruining it.
+9j-YD11LcLw,321130,323310,"- I found on soldered CPUs,"
+9j-YD11LcLw,323310,324730,if it doesn't feel quite right
+9j-YD11LcLw,324730,326170,"when it starts moving in one direction,"
+9j-YD11LcLw,326170,328370,"like it doesn't pop off, if you flip it"
+9j-YD11LcLw,328370,330190,and then push it the other way you can kinda
+9j-YD11LcLw,330190,331810,just strain fatigue it.
+9j-YD11LcLw,331810,333174,"- [Linus] Well, it's moving freely now,"
+9j-YD11LcLw,333174,334290,"- Oh, there you go. - so that's cool."
+9j-YD11LcLw,334290,336530,Boop. Look at that. Beautiful.
+9j-YD11LcLw,336530,338340,And not even that burn-y.
+9j-YD11LcLw,338340,340730,"The next step is to scrape it then, right?"
+9j-YD11LcLw,340730,341670,- [Alex] What are you scraping?
+9j-YD11LcLw,341670,343080,- I'm gonna scrape the solder.
+9j-YD11LcLw,343080,345120,"- Okay, well first we need to get rid of the black crap."
+9j-YD11LcLw,345120,346090,It's one step at a time.
+9j-YD11LcLw,346090,348470,- I told you they include a scraping tool.
+9j-YD11LcLw,348470,351270,"Man, I can't believe that we bought this yesterday"
+9j-YD11LcLw,351270,353629,and we are already doing this to it.
+9j-YD11LcLw,353630,355800,"- [Alex] This isn't abuse, we're making it faster."
+9j-YD11LcLw,355800,357090,(Linus groaning)
+9j-YD11LcLw,357090,361360,- Scraping tool just feels like just the right hardness.
+9j-YD11LcLw,361360,362960,"Sorry, how exactly does this tape gun work?"
+9j-YD11LcLw,362960,364732,The blade is recessed.
+9j-YD11LcLw,364732,366358,- [Alex] You just push the thing.
+9j-YD11LcLw,366358,367230,- Oh. - When you have a box
+9j-YD11LcLw,367230,368980,"it goes over, you push, it comes out."
+9j-YD11LcLw,368980,370150,"- Oh, that's actually quite clever."
+9j-YD11LcLw,370150,372720,"Which is good, because I think I paid a lot"
+9j-YD11LcLw,372720,374610,for this thing way back in the day.
+9j-YD11LcLw,374610,376150,It's taped down. Now what?
+9j-YD11LcLw,376150,378479,- This is cool part. I really like how they've done this.
+9j-YD11LcLw,378480,381390,"Instead of, you know, sometimes you have to use a razor"
+9j-YD11LcLw,381390,382460,to get the solder off
+9j-YD11LcLw,382460,384039,"- Yeah, for sure. - and it's just terrible."
+9j-YD11LcLw,384040,385060,"Here, use these chemicals."
+9j-YD11LcLw,385060,388200,I believe this indium and it eats away the solder.
+9j-YD11LcLw,388200,389370,"So you just apply it,"
+9j-YD11LcLw,389370,390203,- Shut up.
+9j-YD11LcLw,390203,393373,"- spread it around, and it gets rid of it."
+9j-YD11LcLw,394337,395220,- [Linus] What?
+9j-YD11LcLw,395220,397810,Okay. That's pretty neat.
+9j-YD11LcLw,397810,398643,"You don't wanna get, woo,"
+9j-YD11LcLw,398643,400130,you don't wanna get that in your eyes.
+9j-YD11LcLw,400130,403224,"- [Alex] But the other way to do this apparently is mercury,"
+9j-YD11LcLw,403224,405270,and that's a lot worse.
+9j-YD11LcLw,405270,406240,- That's true.
+9j-YD11LcLw,406240,407682,"And a one, two, three."
+9j-YD11LcLw,409120,411130,"Gotta say, the little tissues I dispose of"
+9j-YD11LcLw,411130,412965,usually don't look like this.
+9j-YD11LcLw,412965,414290,(Alex sighing)
+9j-YD11LcLw,414290,415123,- [Alex] The next bit
+9j-YD11LcLw,415123,416919,is you just wanna give it a little polish.
+9j-YD11LcLw,416920,417790,- [Linus] Okay.
+9j-YD11LcLw,417790,419920,- Little dab of this on some paper towel.
+9j-YD11LcLw,419920,423593,"- Oh, I thought this said Flitz Polish, like from Poland."
+9j-YD11LcLw,425650,426540,Oh.
+9j-YD11LcLw,426540,429690,"- [Alex] Yeah, if you kinda look at how they did it here,"
+9j-YD11LcLw,429690,431830,they just do a little bit of the corner.
+9j-YD11LcLw,431830,433521,"- [Linus] Uh huh, yeah."
+9j-YD11LcLw,433521,434354,- [Alex] Yeah.
+9j-YD11LcLw,434354,436660,"- Don't mind me. I'm just polishin' my CPU, here."
+9j-YD11LcLw,437531,440720,(CPU clicking)
+9j-YD11LcLw,440720,442367,- That's probably good.
+9j-YD11LcLw,442367,443200,- Ooh.
+9j-YD11LcLw,446010,447330,"Hi Brandon, how you doin'?"
+9j-YD11LcLw,447330,450270,"I am really glad that I did an accurate job of that taping,"
+9j-YD11LcLw,450270,452919,because that ended up being quite messy.
+9j-YD11LcLw,452920,453753,"- To be clear,"
+9j-YD11LcLw,453753,455870,I don't think the process has to be that messy.
+9j-YD11LcLw,455870,456938,- That's what she said.
+9j-YD11LcLw,456938,459465,(Linus laughing) (Alex sighing)
+9j-YD11LcLw,459465,461633,Look at that. It's gorgeous.
+9j-YD11LcLw,462820,464650,"Oh, balls. Oh, it's everywhere."
+9j-YD11LcLw,464650,465990,"Oh, it's all over my hands."
+9j-YD11LcLw,465990,467190,- I guess this is a situation
+9j-YD11LcLw,467190,470063,where having a delrin thing would be good.
+9j-YD11LcLw,470908,472220,That would be eating in into aluminum right now.
+9j-YD11LcLw,472220,473820,"- Okay, I'm just getting more liquid metal"
+9j-YD11LcLw,473820,474740,"on this by touching it,"
+9j-YD11LcLw,474740,476840,because my hands are covered in liquid metal.
+9j-YD11LcLw,476840,478930,"At any rate, there's a 12th gen thing here."
+9j-YD11LcLw,478930,482030,"'Kay, go ahead. We put our CPU in. Whoop."
+9j-YD11LcLw,482030,485080,We're gonna put this here. Oh God! Oh God.
+9j-YD11LcLw,485080,486289,- [Alex] Jesus Christ.
+9j-YD11LcLw,486290,489853,"- Okay. Where'd our liquid metal go? Oh, here it is."
+9j-YD11LcLw,491477,492620,"Whoa, no, that's too much."
+9j-YD11LcLw,492620,494774,"Oh, stop. Stop. Stop. Stop. Come back."
+9j-YD11LcLw,494774,497517,(Linus mocking bubbles)
+9j-YD11LcLw,497517,498660,"Hm, I mighta put on too much, hey Alex?"
+9j-YD11LcLw,498660,500060,"- [Alex] No, that's seems good."
+9j-YD11LcLw,500060,502120,"- Unlike applying thermal compound to your heat spreader,"
+9j-YD11LcLw,502120,505280,here it's important to have complete coverage of the dye
+9j-YD11LcLw,505280,508139,because every part of it has the potential
+9j-YD11LcLw,508140,511730,to get extremely hot and any part of it
+9j-YD11LcLw,511730,515090,that doesn't have thermal compound coverage is a disaster.
+9j-YD11LcLw,515090,517940,"Oh man, this is, what a ride."
+9j-YD11LcLw,517940,521010,I feel like we've waited so long to unbox this now.
+9j-YD11LcLw,521010,521843,"Look at that,"
+9j-YD11LcLw,521843,524120,you can actually see the tooling marks in the top.
+9j-YD11LcLw,524120,527440,"It's kinda hard to catch, but they kinda go this way."
+9j-YD11LcLw,527440,528930,That's not necessarily a bad thing.
+9j-YD11LcLw,528930,530880,That doesn't mean that it's not flat.
+9j-YD11LcLw,530880,533770,It just means that you can see the marks a little bit.
+9j-YD11LcLw,533770,535530,"Oh, I see. So it is a little bit bigger."
+9j-YD11LcLw,535530,536490,"Yeah, I see that."
+9j-YD11LcLw,536490,538610,"Wow, Alex, I see what you mean."
+9j-YD11LcLw,538610,540880,"This yellow rectangle,"
+9j-YD11LcLw,540880,542888,it's like they didn't even try to center it.
+9j-YD11LcLw,542888,543721,Why?
+9j-YD11LcLw,543721,545300,Rockit Cool includes a nice little guide here
+9j-YD11LcLw,545300,548000,to show you where to apply just a little bit
+9j-YD11LcLw,548000,550720,of liquid metal to the underside of the IHS.
+9j-YD11LcLw,550720,553490,"Not gonna lie, this looks sick."
+9j-YD11LcLw,553490,555550,"Okay. Wait, we didn't put glue on."
+9j-YD11LcLw,555550,558300,Oh my God that is a giant thing of CA.
+9j-YD11LcLw,558300,559700,How are we applying this?
+9j-YD11LcLw,559700,560990,I have an idea.
+9j-YD11LcLw,560990,562959,Ready? (component thunking)
+9j-YD11LcLw,562960,566052,For our CA I'm just gonna make a puddle of CA.
+9j-YD11LcLw,566052,569240,(Linus booping)
+9j-YD11LcLw,569240,571750,We go ahead and just drop it into place. Wop.
+9j-YD11LcLw,573670,575930,And here we go.
+9j-YD11LcLw,575930,578266,Does this feel like absolute madness or what?
+9j-YD11LcLw,578267,579430,"- I don't know, this seems fine."
+9j-YD11LcLw,579430,581660,Intel making a CPU's the madness.
+9j-YD11LcLw,581660,585089,"- In fairness, it does, what is it? 5.5 on"
+9j-YD11LcLw,585090,586620,- two cores. - two cores?
+9j-YD11LcLw,586620,587720,It's fast.
+9j-YD11LcLw,587720,588620,- Really fast.
+9j-YD11LcLw,588620,592510,In my testing that I did it was doing 5.2 all core all day.
+9j-YD11LcLw,592510,594430,Pretty great. - Wow. Okay.
+9j-YD11LcLw,594430,596029,"- [Alex] Oh, did you CA glue it to the thing?"
+9j-YD11LcLw,596030,596863,- [Linus] No.
+9j-YD11LcLw,599520,600890,"Oh, there it goes."
+9j-YD11LcLw,600890,602380,- [Alex] What's that?
+9j-YD11LcLw,602380,604750,- Liquid metal. (beep)
+9j-YD11LcLw,604750,606310,Why don't you handle the CPU from now on?
+9j-YD11LcLw,606310,607720,"- Okay. - Fun fact,"
+9j-YD11LcLw,607720,610582,"alcohol not only dries quickly, but it's a drying agent."
+9j-YD11LcLw,612330,613210,- Don't do that.
+9j-YD11LcLw,613210,615030,If you want a good ole sandpaper wank later
+9j-YD11LcLw,615030,616560,that's how you do it.
+9j-YD11LcLw,616560,618279,"- Okay, that's pretty cool."
+9j-YD11LcLw,618280,619810,And the cooler we're gonna put on it
+9j-YD11LcLw,619810,621310,is about as good as it gets
+9j-YD11LcLw,621310,624770,until you get into Peltier or phase change cooling.
+9j-YD11LcLw,624770,626180,It's a fully custom loop
+9j-YD11LcLw,626180,628250,with ample radiator space for this heat.
+9j-YD11LcLw,628250,630200,"And that bit about graphene infused coolant,"
+9j-YD11LcLw,630200,631270,we did a whole video about it.
+9j-YD11LcLw,631270,633580,It actually does drop the temps a couple of degrees.
+9j-YD11LcLw,633580,636740,So this is as good as it gets.
+9j-YD11LcLw,636740,638310,"Man, this is way more extreme"
+9j-YD11LcLw,638310,640160,than just buying the highest end parts
+9j-YD11LcLw,640160,641000,and throwing them together.
+9j-YD11LcLw,641000,644660,We are trying to shave every degree off of this CPU.
+9j-YD11LcLw,644660,646060,Moment of truth.
+9j-YD11LcLw,646060,647140,(something mocking flatulence)
+9j-YD11LcLw,647140,648352,"Oh hey, there we go."
+9j-YD11LcLw,648352,650070,(keyboard clicking)
+9j-YD11LcLw,650070,651860,Do you believe this will have worked?
+9j-YD11LcLw,651860,655000,15 degrees is a bold claim for $33.
+9j-YD11LcLw,655000,657640,"I mean, you could spend 33 more dollars on a cooler"
+9j-YD11LcLw,657640,660040,and it wouldn't drop your CPU temps 15 degrees.
+9j-YD11LcLw,660040,661949,"- Well, this cooler will do that."
+9j-YD11LcLw,661950,663210,"Anyway, I think it'll be around 10."
+9j-YD11LcLw,663210,664900,I've seen a lotta people comment
+9j-YD11LcLw,664900,666446,"that it's like a 10 degree drop,"
+9j-YD11LcLw,666446,667399,- Really? - Which is crazy.
+9j-YD11LcLw,667400,669030,- That's also really impressive.
+9j-YD11LcLw,669030,670410,"And it booted, which is good."
+9j-YD11LcLw,670410,671910,We haven't managed to kill it.
+9j-YD11LcLw,672900,674210,"Really Alex, Windows 11?"
+9j-YD11LcLw,674210,676260,"You know the people are gonna be mad, right?"
+9j-YD11LcLw,676260,677100,Prime95?
+9j-YD11LcLw,677100,677933,- [Alex] Yep.
+9j-YD11LcLw,677933,679170,- Small FFT?
+9j-YD11LcLw,679170,680220,- [Alex] Blend.
+9j-YD11LcLw,680220,683129,"- Wait, this thing hit a hundred degrees in a blend test?"
+9j-YD11LcLw,683130,684880,"- [Alex] After like nine minutes or something, yeah."
+9j-YD11LcLw,684880,686390,- Really? - [Alex] Yeah.
+9j-YD11LcLw,686390,688475,- On custom water cooling?
+9j-YD11LcLw,688475,690540,"- [Alex] Well, it's like 240 watts sustained."
+9j-YD11LcLw,690540,691570,- Out of the box?
+9j-YD11LcLw,691570,692530,"- Yeah. - Wow, actually,"
+9j-YD11LcLw,692530,694455,two of the cores are at 5.5.
+9j-YD11LcLw,694455,695600,- Yeah. - Just like they said.
+9j-YD11LcLw,695600,698050,"Now, before we actually put the processor under load,"
+9j-YD11LcLw,698050,699620,is a perfect time to have a look
+9j-YD11LcLw,699620,701620,at all of our temperature sensors and make sure
+9j-YD11LcLw,701620,705500,"that none of them are a huge outlier, which could indicate"
+9j-YD11LcLw,705500,708030,"that we didn't have adequate coverage of our liquid metal,"
+9j-YD11LcLw,708030,711800,and it looks like this is all in okay shape
+9j-YD11LcLw,711800,712860,and we're ready to press go.
+9j-YD11LcLw,712860,715730,"I mean, we're gonna know almost immediately if this worked."
+9j-YD11LcLw,715730,716563,Wow.
+9j-YD11LcLw,716563,719540,"- Now to be clear, it did take eight minutes"
+9j-YD11LcLw,719540,721790,"for it to thermal throttle last time, but."
+9j-YD11LcLw,721790,722779,- [Linus] I don't think we're gonna get there.
+9j-YD11LcLw,722780,724440,"- [Alex] Yeah, we haven't hit 60 yet."
+9j-YD11LcLw,724440,726950,- This is interesting. For a couple of reasons.
+9j-YD11LcLw,726950,730710,"First, we can see why it's best not to use Prime95 Blend"
+9j-YD11LcLw,730710,731990,for a stress test.
+9j-YD11LcLw,731990,732823,That's okay.
+9j-YD11LcLw,732823,734450,"But as long as we do it both times,"
+9j-YD11LcLw,734450,737150,that's kind of flippin' incredible.
+9j-YD11LcLw,737150,739880,"It's not 15 degrees incredible,"
+9j-YD11LcLw,739880,742070,but it's a lot better than a kick in the teeth.
+9j-YD11LcLw,742070,743920,It's in the neighborhood just shy of 10.
+9j-YD11LcLw,743920,747070,- [Alex] Nine degrees while consuming 20 more watts
+9j-YD11LcLw,747070,748500,is really impressive.
+9j-YD11LcLw,748500,751250,"- Remember, that extra power consumption means"
+9j-YD11LcLw,751250,754680,"that our cores are boosting higher, and for longer."
+9j-YD11LcLw,754680,756720,This is great. Right?
+9j-YD11LcLw,756720,758449,"- Yeah. - I mean, I'm pretty stoked."
+9j-YD11LcLw,758450,759900,- Do you know what's even more impressive?
+9j-YD11LcLw,759900,762250,When we went for lunch we forgot to stop it.
+9j-YD11LcLw,762250,763420,"Yeah, it's still fine."
+9j-YD11LcLw,763420,764779,- Under 90.
+9j-YD11LcLw,764780,767160,"- It's been running for an hour now,"
+9j-YD11LcLw,767160,770220,and before after like 10 minutes it was thermal throttling.
+9j-YD11LcLw,770220,773019,Now it's what? 85 degrees. It's amazing.
+9j-YD11LcLw,773020,775180,- Yeah. 90 on the hottest P-core.
+9j-YD11LcLw,775180,777240,I can really feel the heat comin' off it though.
+9j-YD11LcLw,777240,778073,- [Alex] Oh yeah.
+9j-YD11LcLw,778073,780963,- It doesn't feel like that's just a CPU worth of heat.
+9j-YD11LcLw,781860,785760,"I mean, that's what? Holy (beep) 300 watts?"
+9j-YD11LcLw,785760,787100,- Yeah.
+9j-YD11LcLw,787100,787933,- That's crazy.
+9j-YD11LcLw,788970,790629,How can you have a CPU pulling three.
+9j-YD11LcLw,790630,793790,"Ow, the freakin' VMR heat sink is."
+9j-YD11LcLw,793790,795829,Where's my thermal camera?
+9j-YD11LcLw,795830,797463,"- Oh yeah, I guess there's no fans pointed at that"
+9j-YD11LcLw,797463,798680,'cause it's just a test bench.
+9j-YD11LcLw,798680,799920,"- Yeah, well I didn't think"
+9j-YD11LcLw,799920,803100,it was gonna be pushin' 300 flippin' watts.
+9j-YD11LcLw,803100,804610,- Those poor VRMs are putting
+9j-YD11LcLw,804610,807120,like 250 amps through them right now.
+9j-YD11LcLw,807120,811210,- The PCB is at 72 degrees.
+9j-YD11LcLw,811210,812043,What?
+9j-YD11LcLw,812910,817360,"What are you? Oh, network switch. UPS. A power brick."
+9j-YD11LcLw,817360,818510,I need to take this thing home
+9j-YD11LcLw,818510,819840,and just play with it with my kids.
+9j-YD11LcLw,819840,821630,This thing is so cool.
+9j-YD11LcLw,821630,823140,"- [Alex] Alright, do you wanna run a couple more tests?"
+9j-YD11LcLw,823140,823973,- I'd love to.
+9j-YD11LcLw,823973,826320,"BMW's a pretty short blender render though, hey?"
+9j-YD11LcLw,826320,827680,"- Yeah, but it allows us to see"
+9j-YD11LcLw,827680,830460,if it runs faster in thermal velocity boost range.
+9j-YD11LcLw,830460,831530,"- Mm, right."
+9j-YD11LcLw,831530,833700,"- So, 1 minute 28 to beat,"
+9j-YD11LcLw,833700,836800,and the maximum temp was 95 degrees.
+9j-YD11LcLw,836800,839269,"It's really fast, yeah. - It's really fast."
+9j-YD11LcLw,839270,841210,- [Brandon] So that there is about 10 degrees better.
+9j-YD11LcLw,841210,842780,"- Oh yeah, I guess that's a good point, Brandon."
+9j-YD11LcLw,842780,846810,That actually is 10 degrees better as advertised.
+9j-YD11LcLw,846810,850890,Here it is. 75 versus 82 degrees.
+9j-YD11LcLw,850890,855450,"Okay, only eight degrees, but that's at higher power draw."
+9j-YD11LcLw,855450,856960,"So wait, if it's higher power draw"
+9j-YD11LcLw,856960,858770,was the result even any different though?
+9j-YD11LcLw,858770,860160,- [Alex] It was one second better.
+9j-YD11LcLw,860160,862160,- One second faster.
+9j-YD11LcLw,862160,864769,"But then by the time you're spending $800 on your CPU,"
+9j-YD11LcLw,864770,868170,"you're probably spending a total of around 3 grand,"
+9j-YD11LcLw,868170,870149,"3,500 on the whole machine,"
+9j-YD11LcLw,870150,872767,what's another 40 bucks for one second better?
+9j-YD11LcLw,872767,875300,- And you could over clock it now.
+9j-YD11LcLw,875300,877320,There's enough head room that if we want.
+9j-YD11LcLw,877320,879064,- Do we go for 5.6?
+9j-YD11LcLw,879064,879970,- I don't see why not.
+9j-YD11LcLw,879970,881360,- Do we have XTU on here?
+9j-YD11LcLw,881360,882600,"- Yeah, of course we do."
+9j-YD11LcLw,882600,886769,XTU shows us just how good this CPU has binned.
+9j-YD11LcLw,886770,888710,I have the same profile
+9j-YD11LcLw,888710,890660,that's pretty much exactly the same clocks
+9j-YD11LcLw,890660,892129,"as this was stock,"
+9j-YD11LcLw,892130,895190,"and that was pulling about 350, 400 watts."
+9j-YD11LcLw,895190,898250,- Should I just push everything up 100 megahertz
+9j-YD11LcLw,898250,899083,and see what happens?
+9j-YD11LcLw,899083,900529,- Yeah.
+9j-YD11LcLw,900529,901960,(Linus gasping)
+9j-YD11LcLw,901960,902793,Current limited.
+9j-YD11LcLw,902793,904970,So we're gonna need to up our voltage a bit.
+9j-YD11LcLw,904970,906779,"Do 0.1, that's pretty safe."
+9j-YD11LcLw,906780,909860,- It's amazing how close to the sun Intel
+9j-YD11LcLw,909860,911610,is flying with this thing.
+9j-YD11LcLw,911610,916339,I just wanna see if it actually hits that frequency.
+9j-YD11LcLw,916340,918070,"- [Alex] No, it's slower."
+9j-YD11LcLw,918070,922890,"- Okay, definitely gonna take some fine tuning"
+9j-YD11LcLw,922890,925090,"to get this thing to run any faster than stock,"
+9j-YD11LcLw,925090,926350,but it's cooler.
+9j-YD11LcLw,926350,928050,"Alright, you wanna do a game test?"
+9j-YD11LcLw,928050,928883,- [Alex] Yeah.
+9j-YD11LcLw,928883,931120,"For our tests I chose ""Shadow Of The Tomb Raider"""
+9j-YD11LcLw,931120,933460,"and ""Forza,"" just because they give you"
+9j-YD11LcLw,933460,934890,what the CPU is out outputting.
+9j-YD11LcLw,934890,936870,'Cause this CPU's so fast
+9j-YD11LcLw,936870,939010,that everything's GPU bound pretty much.
+9j-YD11LcLw,939010,942855,- That is some killer coil whine on this 3090 TI.
+9j-YD11LcLw,942855,945120,(Linus mocking coil whining)
+9j-YD11LcLw,945120,947540,"I mean, that's what happens when we have 450 watt,"
+9j-YD11LcLw,947540,949420,or it's rumored they could be even higher
+9j-YD11LcLw,949420,951010,for the next gen GPUs.
+9j-YD11LcLw,951010,953480,"- This computer, legitimately, if you have bad,"
+9j-YD11LcLw,953480,956320,"not up to code wiring in your house, it might burn down."
+9j-YD11LcLw,956320,960080,- But look at these reflections. 110 FPS.
+9j-YD11LcLw,960080,963330,"- That's exactly the same as before, but it's GPU bound."
+9j-YD11LcLw,963330,966320,We actually got five more FPS on the CPU.
+9j-YD11LcLw,966320,967153,That's a win.
+9j-YD11LcLw,967153,969630,- If we had a faster GPU we'd get five more FPS.
+9j-YD11LcLw,969630,970500,- Yeah.
+9j-YD11LcLw,970500,973460,- And a 378.
+9j-YD11LcLw,973460,975108,- We'll worry about CPU game.
+9j-YD11LcLw,975108,977009,- And 237.
+9j-YD11LcLw,977010,979720,- That's seven FPS higher.
+9j-YD11LcLw,979720,980553,(Linus grunting)
+9j-YD11LcLw,980553,982610,And the average FPS is exactly the same again.
+9j-YD11LcLw,982610,983550,- So there you have it.
+9j-YD11LcLw,983550,987870,"If you want every last little bit of performance,"
+9j-YD11LcLw,987870,989210,you can buy one of these.
+9j-YD11LcLw,989210,993740,"Or if you want almost as good, you could spend way less."
+9j-YD11LcLw,993740,996060,"Oh, and you could check out our sponsor."
+9j-YD11LcLw,996060,998000,- Ting Mobile. Do you like saving money?
+9j-YD11LcLw,998000,999670,Ting Mobile's a low cost carrier
+9j-YD11LcLw,999670,1001339,with rates to help you do just that.
+9j-YD11LcLw,1001340,1003930,"Almost every phone on the market will work with Ting Mobile,"
+9j-YD11LcLw,1003930,1005560,"and they have the perfect plan for everybody,"
+9j-YD11LcLw,1005560,1006810,no matter what your needs are.
+9j-YD11LcLw,1006810,1008390,Start with the unlimited talk and text
+9j-YD11LcLw,1008390,1011210,with their flex plans charging just $5 per gigabyte.
+9j-YD11LcLw,1011210,1014600,"Their Set 12 plan with 12 gigs of data is only $35 a month,"
+9j-YD11LcLw,1014600,1017690,"and if you need it, unlimited data plans are $45 a month."
+9j-YD11LcLw,1017690,1019610,You can even share your data on a family plan
+9j-YD11LcLw,1019610,1021110,with all those ungrateful children you have
+9j-YD11LcLw,1021110,1022160,and save even more.
+9j-YD11LcLw,1022160,1023220,"Even with those saving,"
+9j-YD11LcLw,1023220,1025630,you still get nationwide coverage and award-winning support.
+9j-YD11LcLw,1025630,1027510,"In fact, consumer reports named Ting Mobile"
+9j-YD11LcLw,1027510,1029230,"their number one carrier in America,"
+9j-YD11LcLw,1029230,1030199,and that's a big country.
+9j-YD11LcLw,1030199,1032350,Check them out at linus.ting.com
+9j-YD11LcLw,1032350,1035150,and receive 25 bucks credit.
+9j-YD11LcLw,1035150,1036520,"- If you guys enjoyed this video,"
+9j-YD11LcLw,1036520,1039500,maybe check out this one where we did subzero cooling.
+9j-YD11LcLw,1039500,1040333,It was fun.

@@ -4,17 +4,19 @@ import pandas as pd
 
 COMMENT_PATH = 'Dataset/comments.csv'
 TRANSCRIPT_FOLDER = "Dataset/Transcripts/"
-INFO_PATH = "Dataset/videos.csv"
+INFO_PATH = "new_infos.csv"
 LOG_ERROR_PATH = "DataCollection/error_log.csv"
 LOG_SUCCESS_PATH = "DataCollection/success_log.csv"
 
-# 去除没有获取到comment的video信息
-comment_df = pd.read_csv(COMMENT_PATH)
-info_df = pd.read_csv(INFO_PATH)
+comments = pd.read_csv(COMMENT_PATH)
+# 处理votes数值转换
+def trans_votes(string):
+    if isinstance(string, str):
+        if 'k' == string[-1].lower():
+            return float(string[:-1])*1000
+        return float(string)
+comments['votes'].fillna('0')
+comments['votes'].apply(trans_votes)
+print(comments['votes'])
+# comments.to_csv(COMMENT_PATH, index=None)
 
-comment_df = comment_df.drop_duplicates()
-comment_vid = set(comment_df.vid)
-valid_vid = [vid for vid in info_df.vid if vid in comment_vid]
-print(info_df.shape)
-info_df = info_df[info_df['vid'].isin(valid_vid)]
-print(info_df.shape)

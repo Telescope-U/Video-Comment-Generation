@@ -1,0 +1,88 @@
+vid,start,end,text
+okgPbtz4ZkE,799,2720,this is the lockpicking lawyer and one
+okgPbtz4ZkE,2720,4720,of the easiest ways of entering a
+okgPbtz4ZkE,4720,7359,supposedly secure building is known as
+okgPbtz4ZkE,7359,9599,tailgating that's what we call the
+okgPbtz4ZkE,9599,11920,social engineering practice of following
+okgPbtz4ZkE,11920,14320,an authorized person through a locked
+okgPbtz4ZkE,14320,16240,door that way you don't have to deal
+okgPbtz4ZkE,16240,18880,with the access control system and if
+okgPbtz4ZkE,18880,21359,your target is not too savvy all you
+okgPbtz4ZkE,21359,23600,really need is a tray of coffee in each
+okgPbtz4ZkE,23600,25680,hand to convince them to hold the door
+okgPbtz4ZkE,25680,28000,for you but thankfully people are
+okgPbtz4ZkE,28000,30240,getting better educated and tricks like
+okgPbtz4ZkE,30240,32320,that work less and less
+okgPbtz4ZkE,32320,35120,so the goal becomes how to piggyback off
+okgPbtz4ZkE,35120,36800,someone's credentials without them
+okgPbtz4ZkE,36800,37920,knowing
+okgPbtz4ZkE,37920,39920,in the past i've discussed a couple of
+okgPbtz4ZkE,39920,42399,strategies for how to do this with rfid
+okgPbtz4ZkE,42399,44960,tags including the use of a device like
+okgPbtz4ZkE,44960,47039,this to read the card right out of your
+okgPbtz4ZkE,47039,50800,target's pocket that was video 1056 and
+okgPbtz4ZkE,50800,53360,i've also discussed how to use a tiny
+okgPbtz4ZkE,53360,55840,wireless bug like this to tap your
+okgPbtz4ZkE,55840,59680,target's reader that was video 1052
+okgPbtz4ZkE,59680,61680,but what do you do when there's a keypad
+okgPbtz4ZkE,61680,63520,like this one involved
+okgPbtz4ZkE,63520,66240,well these bugs can be useful in those
+okgPbtz4ZkE,66240,68640,circumstances but there is a less
+okgPbtz4ZkE,68640,71119,intrusive way albeit one with some
+okgPbtz4ZkE,71119,72560,shortcomings
+okgPbtz4ZkE,72560,74479,look what happens when you approach a
+okgPbtz4ZkE,74479,76960,keypad with this smartphone thermal
+okgPbtz4ZkE,76960,79360,imager you need to do it within about 10
+okgPbtz4ZkE,79360,82320,to 15 seconds of code entry but you get
+okgPbtz4ZkE,82320,86600,a very interesting result
+okgPbtz4ZkE,97520,99680,okay as you saw that gives a pretty
+okgPbtz4ZkE,99680,101840,clear indication of what buttons were
+okgPbtz4ZkE,101840,104159,pressed and if you carefully watch heat
+okgPbtz4ZkE,104159,106880,intensity it can give you a general idea
+okgPbtz4ZkE,106880,108720,of digit order though i'd want to
+okgPbtz4ZkE,108720,110640,combine that data with general
+okgPbtz4ZkE,110640,113119,observations of hand movement
+okgPbtz4ZkE,113119,115840,another shortcoming of this device is
+okgPbtz4ZkE,115840,118320,range this only works well for things
+okgPbtz4ZkE,118320,121439,like this within a few feet so i tried
+okgPbtz4ZkE,121439,123119,something else
+okgPbtz4ZkE,123119,126000,this may look like a traditional rifle
+okgPbtz4ZkE,126000,128239,scope but it's actually packed with a
+okgPbtz4ZkE,128239,130959,high-end thermal imager batteries and a
+okgPbtz4ZkE,130959,133599,computer that wirelessly pairs to my
+okgPbtz4ZkE,133599,136400,smartphone this can easily distinguish
+okgPbtz4ZkE,136400,139280,the heat of game animals up to about 500
+okgPbtz4ZkE,139280,142080,yards and depending on conditions the
+okgPbtz4ZkE,142080,144800,heat left by your fingertip from 40 to
+okgPbtz4ZkE,144800,146480,50 feet away
+okgPbtz4ZkE,146480,148800,oddly despite wide knowledge of this
+okgPbtz4ZkE,148800,151120,exploit i've never seen someone try it
+okgPbtz4ZkE,151120,153680,from a distance so let me give you a
+okgPbtz4ZkE,153680,156640,demo from about 30 feet away
+okgPbtz4ZkE,156640,158480,you'll see this higher end sensor can
+okgPbtz4ZkE,158480,160879,detect finger touches for about two to
+okgPbtz4ZkE,160879,163680,three times longer than this tiny
+okgPbtz4ZkE,163680,166000,smartphone sensor in fact in perfect
+okgPbtz4ZkE,166000,168160,conditions i've had it work for almost a
+okgPbtz4ZkE,168160,171840,minute after code entry
+okgPbtz4ZkE,194560,196879,okay folks while i do think that was
+okgPbtz4ZkE,196879,199599,impressive it's obviously not a perfect
+okgPbtz4ZkE,199599,201440,solution especially when it comes to
+okgPbtz4ZkE,201440,204400,digit order and repeated digits it can
+okgPbtz4ZkE,204400,206480,also be greatly affected by weather
+okgPbtz4ZkE,206480,208640,conditions and the construction of the
+okgPbtz4ZkE,208640,209760,keypad
+okgPbtz4ZkE,209760,212480,but if used in the right condition and
+okgPbtz4ZkE,212480,214480,in conjunction with other observations
+okgPbtz4ZkE,214480,217599,it can be very effective so how do you
+okgPbtz4ZkE,217599,219920,defend against it it's actually pretty
+okgPbtz4ZkE,219920,222879,easy just briefly rest your fingers on
+okgPbtz4ZkE,222879,227799,all the buttons after entering the code
+okgPbtz4ZkE,233439,235599,okay folks i hope you found that both
+okgPbtz4ZkE,235599,237840,interesting and helpful but that's all i
+okgPbtz4ZkE,237840,239920,have for you today if you do have any
+okgPbtz4ZkE,239920,241920,questions or comments about this please
+okgPbtz4ZkE,241920,243920,put them below if you like this video
+okgPbtz4ZkE,243920,245519,and would like to see more like it
+okgPbtz4ZkE,245519,248159,please subscribe and as always have a
+okgPbtz4ZkE,248159,252400,nice day thank you

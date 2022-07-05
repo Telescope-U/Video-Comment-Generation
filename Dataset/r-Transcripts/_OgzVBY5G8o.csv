@@ -1,0 +1,135 @@
+vid,start,end,text
+_OgzVBY5G8o,210,2550,"- Let's face it, tech heads like us are numbers people."
+_OgzVBY5G8o,2550,5220,"And when we wanna know whether a gadget is worth buying,"
+_OgzVBY5G8o,5220,7799,the first place we're gonna look is the spec sheet.
+_OgzVBY5G8o,7800,9750,"But times change, and some of the numbers"
+_OgzVBY5G8o,9750,11890,we absolutely obsessed over long ago
+_OgzVBY5G8o,11890,14430,really don't matter much anymore today.
+_OgzVBY5G8o,14430,16590,So let's take a look at three specs that you just
+_OgzVBY5G8o,16590,19650,should not devote any mental power to worrying about.
+_OgzVBY5G8o,19650,20910,Let's start with a motherboard spec
+_OgzVBY5G8o,20910,22680,"that just doesn't matter anymore,"
+_OgzVBY5G8o,22680,24150,the front-side bus.
+_OgzVBY5G8o,24150,27119,"Now this is not a VIP section of the loser cruiser,"
+_OgzVBY5G8o,27120,29250,it's a connection built into the motherboard
+_OgzVBY5G8o,29250,31020,that used to link the CPU
+_OgzVBY5G8o,31020,32820,"and a chip called the North Bridge,"
+_OgzVBY5G8o,32820,35460,which in turn connected to your systems RAM.
+_OgzVBY5G8o,35460,37556,The front-side bus had its own clock speed
+_OgzVBY5G8o,37556,39690,that was once an important spec to look for
+_OgzVBY5G8o,39690,40920,"when buying a motherboard,"
+_OgzVBY5G8o,40920,44280,especially as the FSB affected your CPUs clock speed
+_OgzVBY5G8o,44280,46289,through the use of a multiplier.
+_OgzVBY5G8o,46290,48300,So on top of having to match a CPU
+_OgzVBY5G8o,48300,50325,"with a motherboard socket and chip set,"
+_OgzVBY5G8o,50325,53460,you also had to make sure your mother board's BIOS
+_OgzVBY5G8o,53460,57063,could run the FSB and multiplier at compatible settings
+_OgzVBY5G8o,57063,58500,for your CPU.
+_OgzVBY5G8o,58500,62010,"For example, if the FSB ran at 66 megahertz"
+_OgzVBY5G8o,62010,64799,"and your CPU was rated at 300 megahertz,"
+_OgzVBY5G8o,64800,67410,that it would need a multiplier of 4.5.
+_OgzVBY5G8o,67410,68970,"But perhaps an even bigger deal,"
+_OgzVBY5G8o,68970,71790,"that ultimately led to the FSBs demise,"
+_OgzVBY5G8o,71790,74070,was how it interacted with memory.
+_OgzVBY5G8o,74070,78330,"Oftentimes your RAM would run at the same speed as the FSB,"
+_OgzVBY5G8o,78330,79620,"which almost sounds nice,"
+_OgzVBY5G8o,79620,81360,and at first it wasn't a big issue
+_OgzVBY5G8o,81360,83310,since the FSB paradigm
+_OgzVBY5G8o,83310,85049,dated back to early Pentium chips
+_OgzVBY5G8o,85050,86640,from the mid to late 90s.
+_OgzVBY5G8o,86640,90300,"But as time went on and CPUs got faster,"
+_OgzVBY5G8o,90300,93840,data couldn't get from memory to the CPU quickly enough
+_OgzVBY5G8o,93840,96030,due to the slow FSB.
+_OgzVBY5G8o,96030,98159,Meaning CPUs were often waiting around
+_OgzVBY5G8o,98160,101940,"to get data from memory, creating a huge bottleneck."
+_OgzVBY5G8o,101940,104670,"But these days, the memory controller has been moved"
+_OgzVBY5G8o,104670,107250,onto the CPU itself with a direct connection
+_OgzVBY5G8o,107250,108750,between the CPU and RAM.
+_OgzVBY5G8o,108750,112080,So the FSB and North Bridge are mostly relics of the past
+_OgzVBY5G8o,112080,113790,you no longer need to worry about.
+_OgzVBY5G8o,113790,115860,"Let's move on to a spec that is still around,"
+_OgzVBY5G8o,115860,118680,but it's just something we don't have to care about anymore.
+_OgzVBY5G8o,118680,120090,"Right after we thank FreshBooks,"
+_OgzVBY5G8o,120090,121560,the invoicing accounting solution
+_OgzVBY5G8o,121560,123600,that's built for owners and their clients.
+_OgzVBY5G8o,123600,125760,FreshBooks users save a ton of time and money.
+_OgzVBY5G8o,125760,127230,We're talking 11 hours a week
+_OgzVBY5G8o,127230,129750,that they used to spend sorting through invoices.
+_OgzVBY5G8o,129750,131986,"Invoices, and keeping track of financials."
+_OgzVBY5G8o,131986,135209,Plus 94% of FreshBooks users say it's super easy
+_OgzVBY5G8o,135210,136043,"to get up and running,"
+_OgzVBY5G8o,136043,137550,"and with award winning support, you're never alone."
+_OgzVBY5G8o,137550,141240,Switch to FreshBooks today and join over 24 million people
+_OgzVBY5G8o,141240,142980,who have used it and loved it.
+_OgzVBY5G8o,142980,145140,"Try FreshBooks for free for 30 days,"
+_OgzVBY5G8o,145140,146310,"no credit card required,"
+_OgzVBY5G8o,146310,149849,by going to freshbooks.com/techquickie to get started.
+_OgzVBY5G8o,149850,152100,"Okay, here's a still current spec"
+_OgzVBY5G8o,152100,153780,that you should not stress over.
+_OgzVBY5G8o,153780,156900,The signal to noise ratio for computer audio.
+_OgzVBY5G8o,156900,159569,"Back in the day, the sound integrated into motherboards"
+_OgzVBY5G8o,159570,161010,was famously terrible.
+_OgzVBY5G8o,161010,162569,"Not only was the quality pour,"
+_OgzVBY5G8o,162570,166710,but it was very common to hear hissing and static sounds
+_OgzVBY5G8o,166710,167580,in the background
+_OgzVBY5G8o,167580,169590,even when you didn't have anything playing.
+_OgzVBY5G8o,169590,170760,"Which might be good for falling asleep,"
+_OgzVBY5G8o,170760,172739,"but for some of us, could be very annoying."
+_OgzVBY5G8o,172740,174450,This was due to electrical interference
+_OgzVBY5G8o,174450,177569,inside the PC and poor electrical shielding.
+_OgzVBY5G8o,177570,180510,So one way that frustrated users typically got around this
+_OgzVBY5G8o,180510,183239,was to install a dedicated sound card.
+_OgzVBY5G8o,183240,185670,"Although sound cards were not a perfect solution,"
+_OgzVBY5G8o,185670,187770,they typically offered higher quality components
+_OgzVBY5G8o,187770,189930,"and better electrical isolation,"
+_OgzVBY5G8o,189930,193530,which is where the signal to noise specification came in.
+_OgzVBY5G8o,193530,196470,Higher SNR usually meant less static coming
+_OgzVBY5G8o,196470,197340,through your speakers.
+_OgzVBY5G8o,197340,200160,"Now having a high SNR is still important,"
+_OgzVBY5G8o,200160,202680,but these days you don't have to worry about it too much
+_OgzVBY5G8o,202680,205319,because onboard sound has significantly improved
+_OgzVBY5G8o,205320,207870,"thanks to higher quality amplifiers and capacitors,"
+_OgzVBY5G8o,207870,209430,along with improved isolation
+_OgzVBY5G8o,209430,210959,from the rest of the motherboard.
+_OgzVBY5G8o,210960,213300,And you don't even need an ultra premium motherboard
+_OgzVBY5G8o,213300,214740,to find these features.
+_OgzVBY5G8o,214740,217410,Most mid-range board should give you clean sound
+_OgzVBY5G8o,217410,221130,"and any decent modern sound card, certainly should as well."
+_OgzVBY5G8o,221130,223230,So although both sound cards and motherboards
+_OgzVBY5G8o,223230,225930,"will still list SNR on their spec sheet,"
+_OgzVBY5G8o,225930,228150,it's not something that you should get too hung up on
+_OgzVBY5G8o,228150,231299,unless they're really going for something bargain basement.
+_OgzVBY5G8o,231300,233160,Let's wrap up with a graphics card spec
+_OgzVBY5G8o,233160,234960,that's a real blast from the past.
+_OgzVBY5G8o,234960,237840,The number of colors your GPU displays.
+_OgzVBY5G8o,237840,239400,"Those of you with long memories,"
+_OgzVBY5G8o,239400,241620,"who remember when Windows 95 ruled the roost,"
+_OgzVBY5G8o,241620,244409,might also recall that your computer may have been set
+_OgzVBY5G8o,244410,248460,to show just 256 colors out of the box.
+_OgzVBY5G8o,248460,251790,Early graphics adapters could only support a limited number
+_OgzVBY5G8o,251790,253980,of colors due to memory limitations.
+_OgzVBY5G8o,253980,255870,The number 256 comes from the fact
+_OgzVBY5G8o,255870,259079,that eight bits were used to express each color.
+_OgzVBY5G8o,259079,262590,And two to the power of eight gives you 256 total colors.
+_OgzVBY5G8o,262590,265080,This was fine for the simple graphics we were used to
+_OgzVBY5G8o,265080,267330,"on computers up through the mid 1990s,"
+_OgzVBY5G8o,267330,270389,but it didn't look quite right for photographs.
+_OgzVBY5G8o,270390,271500,Although it was certainly an improvement
+_OgzVBY5G8o,271500,274894,on really old video adapters that could only use 16 colors.
+_OgzVBY5G8o,274894,276180,Woof.
+_OgzVBY5G8o,276180,277620,"But these days, you don't have to worry"
+_OgzVBY5G8o,277620,280380,about how many colors your GPU can push to your monitor.
+_OgzVBY5G8o,280380,283950,"Even the cheapest integrated graphics will do 24 bit colors,"
+_OgzVBY5G8o,283950,287094,which is over 16 million colors.
+_OgzVBY5G8o,287094,290220,But 256 color mode actually still finds use
+_OgzVBY5G8o,290220,293040,in some applications like remote desktop software
+_OgzVBY5G8o,293040,295530,where bandwidth savings are often prioritized
+_OgzVBY5G8o,295530,297210,over photorealism.
+_OgzVBY5G8o,297210,298043,And you know what?
+_OgzVBY5G8o,298043,299340,That might even be more than enough
+_OgzVBY5G8o,299340,303990,if you only use your computer for creating modern art.
+_OgzVBY5G8o,303990,304823,Thanks for watching guys.
+_OgzVBY5G8o,304823,306660,"If you like this video, hit like, hit subscribe"
+_OgzVBY5G8o,306660,309210,and hit us up in the comment section with your suggestions
+_OgzVBY5G8o,309210,312300,for topics that we should cover in the future.
+_OgzVBY5G8o,312300,313712,We appreciate it.

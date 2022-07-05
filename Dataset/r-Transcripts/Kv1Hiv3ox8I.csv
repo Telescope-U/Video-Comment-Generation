@@ -1,0 +1,441 @@
+vid,start,end,text
+Kv1Hiv3ox8I,160,2320,here we have an uncompressed image and
+Kv1Hiv3ox8I,2320,5759,it uses 46 megabytes of space and over
+Kv1Hiv3ox8I,5759,8320,here we have the same image as a
+Kv1Hiv3ox8I,8320,12000,compressed jpeg and it uses 4.1
+Kv1Hiv3ox8I,12000,14799,megabytes can you see the difference
+Kv1Hiv3ox8I,14799,16960,what about when we zoom in so that we
+Kv1Hiv3ox8I,16960,19680,can see the individual pixels
+Kv1Hiv3ox8I,19680,22400,well in this video we're going to take a
+Kv1Hiv3ox8I,22400,25279,deep dive into the jpeg algorithm and
+Kv1Hiv3ox8I,25279,28160,see how images can be compressed to just
+Kv1Hiv3ox8I,28160,31359,a tenth of their uncompressed file size
+Kv1Hiv3ox8I,31359,33360,all while keeping the same image
+Kv1Hiv3ox8I,33360,36000,resolution and a very high quality
+Kv1Hiv3ox8I,36000,39200,appearance to begin let's take a quick
+Kv1Hiv3ox8I,39200,41920,26 seconds to understand the importance
+Kv1Hiv3ox8I,41920,44559,of this algorithm why we're making this
+Kv1Hiv3ox8I,44559,47200,video and truthfully why you should
+Kv1Hiv3ox8I,47200,48640,stick around
+Kv1Hiv3ox8I,48640,51199,first most digital images from your
+Kv1Hiv3ox8I,51199,53680,phone or a camera are saved using the
+Kv1Hiv3ox8I,53680,55280,jpeg format
+Kv1Hiv3ox8I,55280,58000,second i spent a couple hours on the
+Kv1Hiv3ox8I,58000,60399,internet recording which images were
+Kv1Hiv3ox8I,60399,63680,jpeg versus other formats and found that
+Kv1Hiv3ox8I,63680,67520,86 of the images were jpegs so
+Kv1Hiv3ox8I,67520,70960,essentially this algorithm is everywhere
+Kv1Hiv3ox8I,70960,71840,third
+Kv1Hiv3ox8I,71840,74560,video compression algorithms such as
+Kv1Hiv3ox8I,74560,77560,h.264
+Kv1Hiv3ox8I,77680,81119,well that's 26 seconds so let's get back
+Kv1Hiv3ox8I,81119,84000,to seeing what jpeg does
+Kv1Hiv3ox8I,84000,87600,in short jpeg goes through and analyzes
+Kv1Hiv3ox8I,87600,90159,each section of an image and finds and
+Kv1Hiv3ox8I,90159,92560,removes elements that your eyes can't
+Kv1Hiv3ox8I,92560,95200,easily perceive when you compress an
+Kv1Hiv3ox8I,95200,98479,image via jpeg you can use a sliding
+Kv1Hiv3ox8I,98479,102000,scale called quality to decide how much
+Kv1Hiv3ox8I,102000,104479,you want to compress the image as the
+Kv1Hiv3ox8I,104479,107119,quality of an image decreases from one
+Kv1Hiv3ox8I,107119,109680,hundred percent to zero percent the
+Kv1Hiv3ox8I,109680,112479,amount of file compression increases
+Kv1Hiv3ox8I,112479,115040,thereby decreasing the amount of space
+Kv1Hiv3ox8I,115040,117040,the image file takes up
+Kv1Hiv3ox8I,117040,120159,here we have 12 images along with the
+Kv1Hiv3ox8I,120159,123439,quality and file size of each image as
+Kv1Hiv3ox8I,123439,126479,we continue to compress the image we can
+Kv1Hiv3ox8I,126479,129119,see that the picture's resolution or
+Kv1Hiv3ox8I,129119,132000,number of pixels stays the same but
+Kv1Hiv3ox8I,132000,134959,eventually we get these defect squares
+Kv1Hiv3ox8I,134959,137840,which are technically called artifacts
+Kv1Hiv3ox8I,137840,141920,let's take the 90 image and the 10 image
+Kv1Hiv3ox8I,141920,143440,and zoom in
+Kv1Hiv3ox8I,143440,145760,here we can see the inner workings of
+Kv1Hiv3ox8I,145760,148959,the jpeg compression hard at work but
+Kv1Hiv3ox8I,148959,152959,wait how exactly does jpeg work well
+Kv1Hiv3ox8I,152959,155840,that's the focus of this video so let's
+Kv1Hiv3ox8I,155840,158160,dive right in
+Kv1Hiv3ox8I,158160,160720,the jpeg compression algorithm is
+Kv1Hiv3ox8I,160720,163680,composed of five key steps each with a
+Kv1Hiv3ox8I,163680,166239,rather complicated name but before we
+Kv1Hiv3ox8I,166239,168560,dive into the details it's first
+Kv1Hiv3ox8I,168560,170800,important to understand the reason why
+Kv1Hiv3ox8I,170800,174160,jpeg works human eyes are not perfect
+Kv1Hiv3ox8I,174160,176800,they have their nuances and jpeg
+Kv1Hiv3ox8I,176800,179120,exploits these nuances to remove
+Kv1Hiv3ox8I,179120,181120,information that our eyes are not great
+Kv1Hiv3ox8I,181120,183680,at perceiving for example in the human
+Kv1Hiv3ox8I,183680,185360,eye there are two different types of
+Kv1Hiv3ox8I,185360,187280,light receptive cells
+Kv1Hiv3ox8I,187280,189360,rods and cones
+Kv1Hiv3ox8I,189360,191599,rods are not color sensitive and are
+Kv1Hiv3ox8I,191599,193360,critical for seeing in low light
+Kv1Hiv3ox8I,193360,195680,conditions whereas cones with their
+Kv1Hiv3ox8I,195680,198959,color receptors of red green and blue
+Kv1Hiv3ox8I,198959,200640,are color sensitive
+Kv1Hiv3ox8I,200640,203440,furthermore in each eye there are 100
+Kv1Hiv3ox8I,203440,206000,million rod cells whereas there are only
+Kv1Hiv3ox8I,206000,208879,six million cone cells and as a result
+Kv1Hiv3ox8I,208879,211040,your eyes are far more receptive to the
+Kv1Hiv3ox8I,211040,212959,brightness and darkness of an image
+Kv1Hiv3ox8I,212959,215519,which is called luminance and far less
+Kv1Hiv3ox8I,215519,217519,receptive to the colors contained in
+Kv1Hiv3ox8I,217519,220400,that image which is called chrominance
+Kv1Hiv3ox8I,220400,222319,take this image of some tulips for
+Kv1Hiv3ox8I,222319,224319,example the black and white version that
+Kv1Hiv3ox8I,224319,226480,shows only the luminance appears to be
+Kv1Hiv3ox8I,226480,228720,just as detailed as the full colored
+Kv1Hiv3ox8I,228720,230959,image however when we look at just the
+Kv1Hiv3ox8I,230959,234239,color alone or the prominence that same
+Kv1Hiv3ox8I,234239,236480,image appears significantly less
+Kv1Hiv3ox8I,236480,238959,detailed so let's see how the jpeg
+Kv1Hiv3ox8I,238959,240879,algorithm exploits the nuance of the
+Kv1Hiv3ox8I,240879,243760,human eye the first step is color space
+Kv1Hiv3ox8I,243760,246480,conversion see the original image is
+Kv1Hiv3ox8I,246480,249519,composed of pixels and every pixel has a
+Kv1Hiv3ox8I,249519,252799,red green and blue component each with a
+Kv1Hiv3ox8I,252799,256880,value from 0 to 255 and the combination
+Kv1Hiv3ox8I,256880,260560,of these three values of r g and b
+Kv1Hiv3ox8I,260560,263280,results in a color for a single pixel
+Kv1Hiv3ox8I,263280,265600,the process of color space conversion
+Kv1Hiv3ox8I,265600,268960,takes these three r g and b values for
+Kv1Hiv3ox8I,268960,271759,every single pixel and calculates three
+Kv1Hiv3ox8I,271759,275120,new values luminance blue chrominance
+Kv1Hiv3ox8I,275120,278160,and red chrominance abbreviated y
+Kv1Hiv3ox8I,278160,282000,cb and cr this process is reversible and
+Kv1Hiv3ox8I,282000,284800,no data is removed during the conversion
+Kv1Hiv3ox8I,284800,287280,however the next step called prominence
+Kv1Hiv3ox8I,287280,289919,down sampling removes a considerable
+Kv1Hiv3ox8I,289919,292320,amount of data remember how we said that
+Kv1Hiv3ox8I,292320,294720,our eyes are bad at detecting color or
+Kv1Hiv3ox8I,294720,296560,prominence versus brightness or
+Kv1Hiv3ox8I,296560,299840,luminance well in down sampling we take
+Kv1Hiv3ox8I,299840,301600,both the blue and red chrominance
+Kv1Hiv3ox8I,301600,303759,component images and divide the
+Kv1Hiv3ox8I,303759,306240,component images into two by two blocks
+Kv1Hiv3ox8I,306240,309120,of pixels then we calculate the average
+Kv1Hiv3ox8I,309120,311360,value for each block remove the
+Kv1Hiv3ox8I,311360,313759,repetitive information and shrink the
+Kv1Hiv3ox8I,313759,316639,image so each average value of a 4 pixel
+Kv1Hiv3ox8I,316639,319280,block takes up a single pixel
+Kv1Hiv3ox8I,319280,321600,as a result the information that our
+Kv1Hiv3ox8I,321600,324000,eyes are poor at perceiving the red and
+Kv1Hiv3ox8I,324000,326320,blue prominence component images are
+Kv1Hiv3ox8I,326320,328639,shrunk to one quarter of the original
+Kv1Hiv3ox8I,328639,331759,size but the luminance remains the same
+Kv1Hiv3ox8I,331759,334320,now with just two steps the image is
+Kv1Hiv3ox8I,334320,337199,half the original size note that when
+Kv1Hiv3ox8I,337199,339360,reassembling the picture the blue and
+Kv1Hiv3ox8I,339360,342080,red prominence images are rescaled to
+Kv1Hiv3ox8I,342080,343840,match the size of the luminance
+Kv1Hiv3ox8I,343840,346560,component with the rgb values being
+Kv1Hiv3ox8I,346560,348960,recalculated from luminance blue
+Kv1Hiv3ox8I,348960,351280,chrominance and red chrominants and
+Kv1Hiv3ox8I,351280,353680,because the luminance changes from pixel
+Kv1Hiv3ox8I,353680,357440,to pixel the recalculated rgb values can
+Kv1Hiv3ox8I,357440,360080,change from pixel to pixel as well
+Kv1Hiv3ox8I,360080,362400,the next two steps are definitely a
+Kv1Hiv3ox8I,362400,364880,little more complicated and they're
+Kv1Hiv3ox8I,364880,369440,called discrete cosine transform or dct
+Kv1Hiv3ox8I,369440,371280,and quantization
+Kv1Hiv3ox8I,371280,373600,together these two steps also remove
+Kv1Hiv3ox8I,373600,375840,information but they do it by exploiting
+Kv1Hiv3ox8I,375840,377680,the fact that our eyes aren't good at
+Kv1Hiv3ox8I,377680,379600,perceiving high frequency elements
+Kv1Hiv3ox8I,379600,382800,within images what does that mean well
+Kv1Hiv3ox8I,382800,384880,let's take a look at this picture of the
+Kv1Hiv3ox8I,384880,387360,woods our eyes are great at seeing the
+Kv1Hiv3ox8I,387360,390000,edge of a tree or the outline of a rock
+Kv1Hiv3ox8I,390000,392080,but when it comes to focusing on and
+Kv1Hiv3ox8I,392080,394639,distinguishing high frequency color data
+Kv1Hiv3ox8I,394639,396960,such as single blades of grass
+Kv1Hiv3ox8I,396960,399600,individual leaves in a cluster of leaves
+Kv1Hiv3ox8I,399600,402160,or variations in the shadows created by
+Kv1Hiv3ox8I,402160,404400,the leaves of a tree our eyes can't
+Kv1Hiv3ox8I,404400,407199,really pick out the details furthermore
+Kv1Hiv3ox8I,407199,409919,most nature or landscape photography has
+Kv1Hiv3ox8I,409919,411759,portions of the image that are out of
+Kv1Hiv3ox8I,411759,414400,focus and removing high frequency color
+Kv1Hiv3ox8I,414400,417199,variation to create smoother textures is
+Kv1Hiv3ox8I,417199,420400,unnoticeable so then how does the jpeg
+Kv1Hiv3ox8I,420400,422560,algorithm exploit the nuance of the
+Kv1Hiv3ox8I,422560,425440,human eye well essentially the discrete
+Kv1Hiv3ox8I,425440,428639,cosine transform and quantization steps
+Kv1Hiv3ox8I,428639,430800,go through each section of the image and
+Kv1Hiv3ox8I,430800,433280,find areas that have a high frequency of
+Kv1Hiv3ox8I,433280,435440,alternating prominence or luminance
+Kv1Hiv3ox8I,435440,437680,these elements that our eyes aren't able
+Kv1Hiv3ox8I,437680,440240,to perceive are then removed this
+Kv1Hiv3ox8I,440240,443039,process is rather complicated but bear
+Kv1Hiv3ox8I,443039,444160,with us
+Kv1Hiv3ox8I,444160,446560,let's use the luminance component image
+Kv1Hiv3ox8I,446560,447919,as our example
+Kv1Hiv3ox8I,447919,450160,but know that the same process happens
+Kv1Hiv3ox8I,450160,452400,with the two prominence components the
+Kv1Hiv3ox8I,452400,455440,first step is to divide the entire image
+Kv1Hiv3ox8I,455440,458720,into 8 by 8 sections called blocks each
+Kv1Hiv3ox8I,458720,463440,with 64 pixels with values from 0 to 255
+Kv1Hiv3ox8I,463440,465440,that represent the luminance at every
+Kv1Hiv3ox8I,465440,466400,pixel
+Kv1Hiv3ox8I,466400,469800,next we shift each value by subtracting
+Kv1Hiv3ox8I,469800,473759,128 from each value so the range becomes
+Kv1Hiv3ox8I,473759,475919,negative 128
+Kv1Hiv3ox8I,475919,476840,to
+Kv1Hiv3ox8I,476840,482560,127 where negative 128 is black and 127
+Kv1Hiv3ox8I,482560,483759,is white
+Kv1Hiv3ox8I,483759,486560,the next step is complicated so let's
+Kv1Hiv3ox8I,486560,489120,start with an analogy pretend you have a
+Kv1Hiv3ox8I,489120,491199,painting that you want to recreate and
+Kv1Hiv3ox8I,491199,493840,you only have a dozen different colors
+Kv1Hiv3ox8I,493840,496000,in order to recreate this painting
+Kv1Hiv3ox8I,496000,498479,you'll need perhaps 15 parts of the
+Kv1Hiv3ox8I,498479,501199,first paint and then three parts of the
+Kv1Hiv3ox8I,501199,502400,second paint
+Kv1Hiv3ox8I,502400,504560,followed by eight parts of the third
+Kv1Hiv3ox8I,504560,506879,paint all the way up until you use
+Kv1Hiv3ox8I,506879,510000,perhaps 11 parts of the last paint and
+Kv1Hiv3ox8I,510000,512240,in the end we have recreated our
+Kv1Hiv3ox8I,512240,514959,original painting the discrete cosine
+Kv1Hiv3ox8I,514959,517279,transform works kind of like this
+Kv1Hiv3ox8I,517279,520880,however instead of paint we use these 64
+Kv1Hiv3ox8I,520880,523839,base images and just like in our analogy
+Kv1Hiv3ox8I,523839,527040,we can rebuild any block of 64 pixels
+Kv1Hiv3ox8I,527040,529519,using a combination of these 64 base
+Kv1Hiv3ox8I,529519,532320,images with each image multiplied by a
+Kv1Hiv3ox8I,532320,534640,value or a constant saying how much of
+Kv1Hiv3ox8I,534640,538000,that base image is used thus the 64
+Kv1Hiv3ox8I,538000,540880,pixel block each containing a value is
+Kv1Hiv3ox8I,540880,544880,transformed into 64 values or constants
+Kv1Hiv3ox8I,544880,547120,that represent how much of each base
+Kv1Hiv3ox8I,547120,548720,image is used
+Kv1Hiv3ox8I,548720,551600,let's take this letter a for example we
+Kv1Hiv3ox8I,551600,554160,can rebuild this letter a using this set
+Kv1Hiv3ox8I,554160,557120,of 64 base images with a constant
+Kv1Hiv3ox8I,557120,560000,multiplied by each base image we add up
+Kv1Hiv3ox8I,560000,562000,all the base images times their
+Kv1Hiv3ox8I,562000,564800,respective constant and as a result we
+Kv1Hiv3ox8I,564800,567839,get this letter a nothing in dct
+Kv1Hiv3ox8I,567839,570160,actually compresses or shrinks the image
+Kv1Hiv3ox8I,570160,573440,but the next step quantization does
+Kv1Hiv3ox8I,573440,576399,so how does quantization work well here
+Kv1Hiv3ox8I,576399,578240,we have our table of constants
+Kv1Hiv3ox8I,578240,580560,corresponding to the utilization of each
+Kv1Hiv3ox8I,580560,583360,base image the next step is to divide
+Kv1Hiv3ox8I,583360,585600,each value in the table of constants by
+Kv1Hiv3ox8I,585600,587200,the corresponding value in the
+Kv1Hiv3ox8I,587200,590000,quantization table and round each result
+Kv1Hiv3ox8I,590000,592959,to the closest integer this quantization
+Kv1Hiv3ox8I,592959,595200,table has higher numbers in the bottom
+Kv1Hiv3ox8I,595200,597200,right where the high frequency data that
+Kv1Hiv3ox8I,597200,599360,your eyes aren't great at perceiving is
+Kv1Hiv3ox8I,599360,602000,located and smaller numbers in the top
+Kv1Hiv3ox8I,602000,604240,left where more distinct patterns are
+Kv1Hiv3ox8I,604240,607440,located after we divide each constant by
+Kv1Hiv3ox8I,607440,609200,the corresponding value in the
+Kv1Hiv3ox8I,609200,611360,quantization table and round to the
+Kv1Hiv3ox8I,611360,614000,nearest integer our blocks data looks
+Kv1Hiv3ox8I,614000,617200,like this it has just a few numbers and
+Kv1Hiv3ox8I,617200,619839,a lot of zeros in this step we're
+Kv1Hiv3ox8I,619839,622399,throwing away data but really we're just
+Kv1Hiv3ox8I,622399,624240,throwing away data that our eyes don't
+Kv1Hiv3ox8I,624240,626320,perceive so we can't even tell the
+Kv1Hiv3ox8I,626320,628320,difference we also use a second
+Kv1Hiv3ox8I,628320,630399,quantization table with the prominence
+Kv1Hiv3ox8I,630399,632399,values that are larger and thus we
+Kv1Hiv3ox8I,632399,634320,generate even more zeros in the
+Kv1Hiv3ox8I,634320,636959,resulting table in essence throughout
+Kv1Hiv3ox8I,636959,639360,the discrete cosine transform and
+Kv1Hiv3ox8I,639360,642560,quantization steps the entire image uses
+Kv1Hiv3ox8I,642560,645839,a set of 64 base images which are always
+Kv1Hiv3ox8I,645839,648720,the same and two quantization tables one
+Kv1Hiv3ox8I,648720,650399,for luminance and the other for
+Kv1Hiv3ox8I,650399,653519,chrominance in order to transform every
+Kv1Hiv3ox8I,653519,656160,eight by eight block of pixels into just
+Kv1Hiv3ox8I,656160,659519,a few numbers and a whole bunch of zeros
+Kv1Hiv3ox8I,659519,662240,the last step is called run length and
+Kv1Hiv3ox8I,662240,665120,huffman encoding and in it we list all
+Kv1Hiv3ox8I,665120,667519,the values for every block in both the
+Kv1Hiv3ox8I,667519,670399,luminance and prominence images however
+Kv1Hiv3ox8I,670399,673360,when we list the numbers we use a zigzag
+Kv1Hiv3ox8I,673360,675440,pattern like this because it's more
+Kv1Hiv3ox8I,675440,677920,likely that the non-zero numbers will be
+Kv1Hiv3ox8I,677920,679440,found up here
+Kv1Hiv3ox8I,679440,681839,next we use a run length encoding
+Kv1Hiv3ox8I,681839,684320,algorithm where we list the numbers and
+Kv1Hiv3ox8I,684320,687200,then instead of listing all the zeros we
+Kv1Hiv3ox8I,687200,689360,just say how many zeros there are
+Kv1Hiv3ox8I,689360,691360,perhaps you can see that this list of
+Kv1Hiv3ox8I,691360,693839,just a couple dozen numbers is far more
+Kv1Hiv3ox8I,693839,696240,compressed than 64 pixels being
+Kv1Hiv3ox8I,696240,698640,represented each by a number from zero
+Kv1Hiv3ox8I,698640,700640,to 255
+Kv1Hiv3ox8I,700640,703200,after that we use a huffman encoding
+Kv1Hiv3ox8I,703200,705040,scheme which is a whole separate
+Kv1Hiv3ox8I,705040,707279,encoding algorithm that's covered pretty
+Kv1Hiv3ox8I,707279,709920,well in this video by tom scott that you
+Kv1Hiv3ox8I,709920,712079,should take a look at after we discuss
+Kv1Hiv3ox8I,712079,715440,the h.264 video compression algorithm
+Kv1Hiv3ox8I,715440,718480,and how the image is rebuilt as well as
+Kv1Hiv3ox8I,718480,720399,a few caveats
+Kv1Hiv3ox8I,720399,723680,the h.264 video compression algorithm
+Kv1Hiv3ox8I,723680,727760,also called advanced video coding or abc
+Kv1Hiv3ox8I,727760,729760,is currently the recommended video
+Kv1Hiv3ox8I,729760,731760,compression algorithm for uploading
+Kv1Hiv3ox8I,731760,734800,videos to youtube and it uses techniques
+Kv1Hiv3ox8I,734800,737120,such as chrominance down sampling or
+Kv1Hiv3ox8I,737120,740079,chroma subsampling as well as variations
+Kv1Hiv3ox8I,740079,742240,of discrete cosine transform and
+Kv1Hiv3ox8I,742240,744600,quantization however
+Kv1Hiv3ox8I,744600,747680,h.264 is more complicated because
+Kv1Hiv3ox8I,747680,750240,instead of compressing a single static
+Kv1Hiv3ox8I,750240,753200,image as in jpeg video compression must
+Kv1Hiv3ox8I,753200,756720,compress 24 to 60 or more frames for
+Kv1Hiv3ox8I,756720,758399,every second of video
+Kv1Hiv3ox8I,758399,760639,the very short explanation is that it
+Kv1Hiv3ox8I,760639,764079,uses intra frames or iframes which are
+Kv1Hiv3ox8I,764079,766959,similar to jpeg images for one out of
+Kv1Hiv3ox8I,766959,769680,every 30 frames and then for the other
+Kv1Hiv3ox8I,769680,772639,29 frames it uses prediction or
+Kv1Hiv3ox8I,772639,775200,bi-directional prediction to only code
+Kv1Hiv3ox8I,775200,777120,for the difference and motion while
+Kv1Hiv3ox8I,777120,779600,using previously decoded frames as
+Kv1Hiv3ox8I,779600,782000,reference note that the frequency of
+Kv1Hiv3ox8I,782000,784639,iframes varies widely and there is
+Kv1Hiv3ox8I,784639,786880,typically an iframe at the start of
+Kv1Hiv3ox8I,786880,789519,every scene change as prediction doesn't
+Kv1Hiv3ox8I,789519,792000,work well across scene changes these
+Kv1Hiv3ox8I,792000,794880,topics are incredibly complex so they'll
+Kv1Hiv3ox8I,794880,797120,have to be covered in a separate video
+Kv1Hiv3ox8I,797120,800399,but let's now get back to jpeg
+Kv1Hiv3ox8I,800399,802560,in order to rebuild the original image
+Kv1Hiv3ox8I,802560,805760,we follow the reverse set of steps first
+Kv1Hiv3ox8I,805760,808160,we disassemble the run length encoding
+Kv1Hiv3ox8I,808160,811200,and perform huffman decoding schemes and
+Kv1Hiv3ox8I,811200,814720,lay the values into our 8x8 blocks
+Kv1Hiv3ox8I,814720,817440,next we multiply each value by the
+Kv1Hiv3ox8I,817440,820000,quantization table and then multiply the
+Kv1Hiv3ox8I,820000,822720,resulting constants by the corresponding
+Kv1Hiv3ox8I,822720,825680,base images and add all the constituent
+Kv1Hiv3ox8I,825680,829040,base images together then we upscale the
+Kv1Hiv3ox8I,829040,831519,red prominence in blue prominence images
+Kv1Hiv3ox8I,831519,833360,and reconvert the luminance and
+Kv1Hiv3ox8I,833360,836000,chrominance values into the red green
+Kv1Hiv3ox8I,836000,838560,and blue color space with this we can
+Kv1Hiv3ox8I,838560,840880,see how four blocks of luminance and two
+Kv1Hiv3ox8I,840880,843839,sets of prominence blocks yield a 16 by
+Kv1Hiv3ox8I,843839,846000,16 grid of pixels
+Kv1Hiv3ox8I,846000,848240,finally when we zoom out we have
+Kv1Hiv3ox8I,848240,850560,something that looks nearly identical to
+Kv1Hiv3ox8I,850560,853199,our original uncompressed image
+Kv1Hiv3ox8I,853199,855680,it's truly amazing how your smartphone
+Kv1Hiv3ox8I,855680,858240,can take images composed of millions of
+Kv1Hiv3ox8I,858240,861120,pixels and then perform calculations on
+Kv1Hiv3ox8I,861120,863519,every eight by eight block of pixels
+Kv1Hiv3ox8I,863519,865839,compressing all that data into just a
+Kv1Hiv3ox8I,865839,867920,couple dozen numbers and then turning
+Kv1Hiv3ox8I,867920,870240,around and uncompressing the image
+Kv1Hiv3ox8I,870240,872000,faster than it takes you to swipe your
+Kv1Hiv3ox8I,872000,873839,finger across the screen
+Kv1Hiv3ox8I,873839,878560,for example this picture is 4032 by 3024
+Kv1Hiv3ox8I,878560,882120,pixels which yields a total of 190
+Kv1Hiv3ox8I,882120,885600,512 blocks and in order to compress or
+Kv1Hiv3ox8I,885600,888320,uncompress this image every single block
+Kv1Hiv3ox8I,888320,889920,must go through each step of the
+Kv1Hiv3ox8I,889920,892639,algorithm indeed our smartphones are
+Kv1Hiv3ox8I,892639,895760,truly impressive but wait wait we're not
+Kv1Hiv3ox8I,895760,898000,yet done with this video there are some
+Kv1Hiv3ox8I,898000,900240,additional notes and major shortcomings
+Kv1Hiv3ox8I,900240,902399,to the jpeg algorithm that we should
+Kv1Hiv3ox8I,902399,903680,discuss
+Kv1Hiv3ox8I,903680,906240,first sometimes you can select how much
+Kv1Hiv3ox8I,906240,908240,you want to compress an image and this
+Kv1Hiv3ox8I,908240,910639,scaling level of compression changes the
+Kv1Hiv3ox8I,910639,913199,values in the quantization table because
+Kv1Hiv3ox8I,913199,915120,the algorithm divides using these
+Kv1Hiv3ox8I,915120,917519,quantization tables and then rounds to
+Kv1Hiv3ox8I,917519,919920,the nearest result if we increase the
+Kv1Hiv3ox8I,919920,922160,values in the table we will inevitably
+Kv1Hiv3ox8I,922160,924800,get more zeros in the resulting discrete
+Kv1Hiv3ox8I,924800,927600,cosine transformed and quantized block
+Kv1Hiv3ox8I,927600,930560,and as a result the file will be smaller
+Kv1Hiv3ox8I,930560,933040,however with too much compression you
+Kv1Hiv3ox8I,933040,935360,get artifacts or issues with the
+Kv1Hiv3ox8I,935360,937519,compressed image that look like blurry
+Kv1Hiv3ox8I,937519,940240,splotches on the edges of square blocks
+Kv1Hiv3ox8I,940240,942240,you can see how many blocks have similar
+Kv1Hiv3ox8I,942240,944399,traits to the top left blocks in the
+Kv1Hiv3ox8I,944399,947279,discrete cosine transformation table
+Kv1Hiv3ox8I,947279,949360,the next note is that earlier we
+Kv1Hiv3ox8I,949360,951519,mentioned that quantization removes high
+Kv1Hiv3ox8I,951519,953759,frequency data which is partially
+Kv1Hiv3ox8I,953759,956959,correct in reality quantization reduces
+Kv1Hiv3ox8I,956959,959360,the precision of an image block and
+Kv1Hiv3ox8I,959360,961759,reduces the precision more for the high
+Kv1Hiv3ox8I,961759,963759,frequency data compared to the low
+Kv1Hiv3ox8I,963759,966079,frequency data thus making the image
+Kv1Hiv3ox8I,966079,969120,block less accurate the third note is
+Kv1Hiv3ox8I,969120,971440,that jpeg is great at compressing
+Kv1Hiv3ox8I,971440,973759,pictures taken from a camera because
+Kv1Hiv3ox8I,973759,976000,natural world pictures tend to have a
+Kv1Hiv3ox8I,976000,978639,lot of smooth textures and because no
+Kv1Hiv3ox8I,978639,981279,camera is perfectly in focus it's hard
+Kv1Hiv3ox8I,981279,982880,to tell the difference between the
+Kv1Hiv3ox8I,982880,985360,uncompressed and compressed image
+Kv1Hiv3ox8I,985360,987440,however it doesn't perform well at
+Kv1Hiv3ox8I,987440,990160,compressing vector graphics like this
+Kv1Hiv3ox8I,990160,992320,and in fact you get rather noticeable
+Kv1Hiv3ox8I,992320,994560,artifacts close to the boundary lines in
+Kv1Hiv3ox8I,994560,997360,vector graphics this is because the jpeg
+Kv1Hiv3ox8I,997360,999519,algorithm needs to reconstruct these
+Kv1Hiv3ox8I,999519,1001680,straight lines using the base images
+Kv1Hiv3ox8I,1001680,1003839,which don't work perfectly when the data
+Kv1Hiv3ox8I,1003839,1006320,is compressed therefore it's recommended
+Kv1Hiv3ox8I,1006320,1008560,not to compress vector graphics using
+Kv1Hiv3ox8I,1008560,1012079,the jpeg algorithm finally jpeg is by
+Kv1Hiv3ox8I,1012079,1014880,far the most common image format because
+Kv1Hiv3ox8I,1014880,1017839,it's old well understood and royalty
+Kv1Hiv3ox8I,1017839,1019920,free but there are a number of other
+Kv1Hiv3ox8I,1019920,1022240,image formats some with comparably
+Kv1Hiv3ox8I,1022240,1025199,better compression capabilities
+Kv1Hiv3ox8I,1025199,1027520,rather fittingly this video is sponsored
+Kv1Hiv3ox8I,1027520,1030160,by brilliant a website and app that
+Kv1Hiv3ox8I,1030160,1032959,teaches you all kinds of stem topics in
+Kv1Hiv3ox8I,1032959,1035760,hands-on interactive ways from the
+Kv1Hiv3ox8I,1035760,1038000,basics such as foundational math or
+Kv1Hiv3ox8I,1038000,1040400,computer science fundamentals all the
+Kv1Hiv3ox8I,1040400,1042558,way to complex topics such as
+Kv1Hiv3ox8I,1042558,1045678,astrophysics and quantum computing in
+Kv1Hiv3ox8I,1045678,1048079,this video we just scratched the surface
+Kv1Hiv3ox8I,1048079,1050559,of algorithms by showing you the inside
+Kv1Hiv3ox8I,1050559,1052640,of one algorithm but if you want to
+Kv1Hiv3ox8I,1052640,1054799,learn more about the algorithms that run
+Kv1Hiv3ox8I,1054799,1057520,our technology-filled world we recommend
+Kv1Hiv3ox8I,1057520,1059520,you look at brilliant's course on
+Kv1Hiv3ox8I,1059520,1062559,algorithm fundamentals brilliant uses
+Kv1Hiv3ox8I,1062559,1064240,interactive courses to bring
+Kv1Hiv3ox8I,1064240,1066960,explanations and thus your understanding
+Kv1Hiv3ox8I,1066960,1069760,to the next level textbooks boring
+Kv1Hiv3ox8I,1069760,1072080,lectures and powerpoint presentations
+Kv1Hiv3ox8I,1072080,1074559,are out and fun animations and
+Kv1Hiv3ox8I,1074559,1077360,interactives are in for the viewers of
+Kv1Hiv3ox8I,1077360,1079760,this channel brilliant is offering 20
+Kv1Hiv3ox8I,1079760,1082160,percent off an annual subscription to
+Kv1Hiv3ox8I,1082160,1085039,the first 200 people to sign up just go
+Kv1Hiv3ox8I,1085039,1088480,to brilliant.org slash branch education
+Kv1Hiv3ox8I,1088480,1090160,and you can find that link in the
+Kv1Hiv3ox8I,1090160,1092559,description below thank you again to
+Kv1Hiv3ox8I,1092559,1095679,brilliant for sponsoring this video
+Kv1Hiv3ox8I,1095679,1097600,that's pretty much it for the jpeg
+Kv1Hiv3ox8I,1097600,1100000,compression we believe the future will
+Kv1Hiv3ox8I,1100000,1102480,require a strong emphasis on engineering
+Kv1Hiv3ox8I,1102480,1104799,education and we're thankful to all of
+Kv1Hiv3ox8I,1104799,1106799,our patreon and youtube membership
+Kv1Hiv3ox8I,1106799,1109520,sponsors for supporting this stream if
+Kv1Hiv3ox8I,1109520,1111200,you want to support us on youtube
+Kv1Hiv3ox8I,1111200,1114000,memberships or patreon you can find the
+Kv1Hiv3ox8I,1114000,1116559,links in the description also remember
+Kv1Hiv3ox8I,1116559,1119200,to subscribe comment below and share
+Kv1Hiv3ox8I,1119200,1122000,this video with others this is branch
+Kv1Hiv3ox8I,1122000,1125360,education thanks for watching to the end
+Kv1Hiv3ox8I,1125360,1128790,[Music]

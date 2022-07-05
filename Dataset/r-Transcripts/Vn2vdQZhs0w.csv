@@ -1,0 +1,289 @@
+vid,start,end,text
+Vn2vdQZhs0w,830,2879,(whip cracking) (intense music)
+Vn2vdQZhs0w,2880,4740,- It's punishment time.
+Vn2vdQZhs0w,4740,9209,This enormous pile of to-be-tested DisplayPort cables
+Vn2vdQZhs0w,9210,12605,comes from all the most popular brands.
+Vn2vdQZhs0w,12605,16650,"AmazonBasics, Monoprice, Best Buy, and more."
+Vn2vdQZhs0w,16650,19560,We bought three of each at various lengths
+Vn2vdQZhs0w,19560,22920,for the most popular models to give us multiple data points
+Vn2vdQZhs0w,22920,25850,and we are going to be painstakingly running all of them
+Vn2vdQZhs0w,25850,28000,through our Total Phase Cable Tester
+Vn2vdQZhs0w,28000,32713,to see who has the good stuff and who has the crude stuff.
+Vn2vdQZhs0w,34130,36930,I know our sponsor Build Redux has the good stuff.
+Vn2vdQZhs0w,36930,39350,They create PCs for gamers who wanna win
+Vn2vdQZhs0w,39350,41670,and who want high frame rates without breaking the bank.
+Vn2vdQZhs0w,41670,43519,"They're backed by a two year parts and labor warranty,"
+Vn2vdQZhs0w,43520,44353,"so you're covered,"
+Vn2vdQZhs0w,44353,45940,and you can click the link in the video description
+Vn2vdQZhs0w,45940,47973,to start creating your PC today.
+Vn2vdQZhs0w,50293,52876,(upbeat music)
+Vn2vdQZhs0w,56710,57719,"Okay, I lied a bit."
+Vn2vdQZhs0w,57720,60410,"The cables have already been tested at their rated speed,"
+Vn2vdQZhs0w,60410,61660,"and if they passed,"
+Vn2vdQZhs0w,61660,63280,we pushed them even further
+Vn2vdQZhs0w,63280,66770,to see who is under promising and over delivering.
+Vn2vdQZhs0w,66770,69340,We did over 100 runs in total
+Vn2vdQZhs0w,69340,74090,and ended up with this masterpiece of a spreadsheet.
+Vn2vdQZhs0w,74090,75490,"Proud of this one, aren't ya?"
+Vn2vdQZhs0w,75490,76700,"- [Colin] Oh, yeah."
+Vn2vdQZhs0w,76700,77670,- Nerd.
+Vn2vdQZhs0w,77670,80330,Now why are we testing DisplayPort?
+Vn2vdQZhs0w,80330,82920,Partly because we already tested HDMI
+Vn2vdQZhs0w,82920,85750,"and got a lot of requests to follow up with DisplayPort,"
+Vn2vdQZhs0w,85750,88220,but the other half is that people like me
+Vn2vdQZhs0w,88220,89980,and Wendell over at Level 1 Techs
+Vn2vdQZhs0w,89980,91260,who apparently actually went out
+Vn2vdQZhs0w,91260,95010,and bought one of these cable testers after our last video
+Vn2vdQZhs0w,95010,96820,have had a lot of issues
+Vn2vdQZhs0w,96820,98580,with DisplayPort over the years
+Vn2vdQZhs0w,98580,100850,from intermittent signaling issues
+Vn2vdQZhs0w,100850,102810,to outright dead cables.
+Vn2vdQZhs0w,102810,106270,And I think it's about time I figure out why.
+Vn2vdQZhs0w,106270,108530,Each cable went through our Total Phase Cable Tester
+Vn2vdQZhs0w,108530,110110,at the spec that it's rated for.
+Vn2vdQZhs0w,110110,110943,"Now, there are a total"
+Vn2vdQZhs0w,110943,113260,"of eight versions of DisplayPort,"
+Vn2vdQZhs0w,113260,115500,two of which are minor a revisions
+Vn2vdQZhs0w,115500,116580,that don't change much.
+Vn2vdQZhs0w,116580,119430,"So we'll acknowledge that they exist and move along,"
+Vn2vdQZhs0w,119430,120940,"and even some of the numbered ones,"
+Vn2vdQZhs0w,120940,122170,we didn't have to do much with.
+Vn2vdQZhs0w,122170,126540,"DisplayPort versions, 1.0 and 1.1 are relatively ancient,"
+Vn2vdQZhs0w,126540,128390,so that's part of why we're not testing
+Vn2vdQZhs0w,128390,129670,any of those cables here.
+Vn2vdQZhs0w,129670,132530,"But the real reason is that they weren't widely adopted,"
+Vn2vdQZhs0w,132530,137530,"so most cables are rated for at least DisplayPort 1.2,"
+Vn2vdQZhs0w,137550,139653,"and it's the same story for DisplayPort 1.3,"
+Vn2vdQZhs0w,140490,143920,"it was superseded by 1.4 almost immediately,"
+Vn2vdQZhs0w,143920,145720,"which carries the same bandwidth,"
+Vn2vdQZhs0w,145720,148790,but added support for display stream compression 1.2
+Vn2vdQZhs0w,148790,151840,forward error correction and HDR 10 metadata.
+Vn2vdQZhs0w,151840,154513,"That leaves us with really three DisplayPorts that matter,"
+Vn2vdQZhs0w,154513,159390,"1.2, 1.4 and the upcoming 2.0 spec."
+Vn2vdQZhs0w,159390,160610,"In consumer terms,"
+Vn2vdQZhs0w,160610,163090,the biggest difference between these three
+Vn2vdQZhs0w,163090,164360,is that each one is rated
+Vn2vdQZhs0w,164360,166720,"for a different maximum bandwidth,"
+Vn2vdQZhs0w,166720,169820,"the higher, the number, the faster it can go."
+Vn2vdQZhs0w,169820,172330,"Now, there are multiple ways to hit that limit,"
+Vn2vdQZhs0w,172330,174160,"you could crank the resolution,"
+Vn2vdQZhs0w,174160,175690,"you could crank the refresh rate,"
+Vn2vdQZhs0w,175690,177180,"you could crank the color depth,"
+Vn2vdQZhs0w,177180,180629,"or realistically some combination of those three,"
+Vn2vdQZhs0w,180630,182240,and then you just won't be able
+Vn2vdQZhs0w,182240,184560,to go any higher unless you enable
+Vn2vdQZhs0w,184560,185840,"display stream compression,"
+Vn2vdQZhs0w,185840,187920,we could talk a little bit more about that later.
+Vn2vdQZhs0w,187920,190550,"Now, here are the manufacturers we're talking about today."
+Vn2vdQZhs0w,190550,191930,You'll be familiar with many of these
+Vn2vdQZhs0w,191930,193629,"from our HDMI cable testing video,"
+Vn2vdQZhs0w,193630,196460,where we covered some things in more depth
+Vn2vdQZhs0w,196460,198530,"that we're gonna gloss over a little bit today,"
+Vn2vdQZhs0w,198530,200300,like how digital signaling works.
+Vn2vdQZhs0w,200300,201610,We're gonna have a card in the end screen
+Vn2vdQZhs0w,201610,202600,if you're playing catch-up.
+Vn2vdQZhs0w,202600,205040,"Now, here are our tests,"
+Vn2vdQZhs0w,205040,207170,"we have three groupings,"
+Vn2vdQZhs0w,207170,209090,tab one in yellow are the cables
+Vn2vdQZhs0w,209090,211620,"that we're testing in triplicate to eliminate flukes,"
+Vn2vdQZhs0w,211620,212909,"these are the most popular ones,"
+Vn2vdQZhs0w,212910,215260,we're expecting most of you to actually buy.
+Vn2vdQZhs0w,215260,218420,Tab two in orange are single samples
+Vn2vdQZhs0w,218420,221500,of 9 of the top 10 cables on Amazon.
+Vn2vdQZhs0w,221500,223580,"And finally, tab three in blue"
+Vn2vdQZhs0w,223580,225770,"are cables that we sampled from around the office,"
+Vn2vdQZhs0w,225770,227790,including bundled cables from monitors
+Vn2vdQZhs0w,227790,230713,"made by Aorus, Samsung, and ASUS ROG."
+Vn2vdQZhs0w,231690,235601,"All right, Colin, show us what's behind tab number one."
+Vn2vdQZhs0w,235601,236855,(drums rolling)
+Vn2vdQZhs0w,236855,238800,"- [Colin] Okay, they all passed."
+Vn2vdQZhs0w,238800,240730,- Every single one passed.
+Vn2vdQZhs0w,240730,241562,- [Colin] Every one.
+Vn2vdQZhs0w,241563,243240,"- Every, huh."
+Vn2vdQZhs0w,243240,245740,That's not what I was expecting.
+Vn2vdQZhs0w,245740,249840,So every single brand new cable
+Vn2vdQZhs0w,249840,253390,that we purchased specifically for this video passed
+Vn2vdQZhs0w,253390,258390,"at its rated spec which I didn't see coming,"
+Vn2vdQZhs0w,258690,262060,but the science behind it kind of makes sense.
+Vn2vdQZhs0w,262060,263180,"Here's the thing,"
+Vn2vdQZhs0w,263180,265130,the inside of a DisplayPort cable
+Vn2vdQZhs0w,265130,269120,"is actually very similar to the inside of an HDMI cable,"
+Vn2vdQZhs0w,269120,270960,with only one more conductor
+Vn2vdQZhs0w,270960,274009,for a total of 20 versus 19.
+Vn2vdQZhs0w,274010,278380,Both of them have four-shielded twisted pairs of conductors.
+Vn2vdQZhs0w,278380,279680,You could think of them kind of like
+Vn2vdQZhs0w,279680,281870,the sides of this lanyard
+Vn2vdQZhs0w,281870,285720,"but in HDMI, only three of them carry data,"
+Vn2vdQZhs0w,285720,288320,with a fourth kind of skinnier one
+Vn2vdQZhs0w,288320,290937,that just is reserved for clock pulses.
+Vn2vdQZhs0w,290937,293000,DisplayPort takes advantage here
+Vn2vdQZhs0w,293000,295470,by using all four shielded pairs
+Vn2vdQZhs0w,295470,296460,to transmit data.
+Vn2vdQZhs0w,296460,297889,"You know what, this isn't working,"
+Vn2vdQZhs0w,297890,299860,"let's just do a different visual,"
+Vn2vdQZhs0w,299860,302379,new colors of lanyards on lttstore.com.
+Vn2vdQZhs0w,302380,305360,This allows each pair to run at a lower frequency
+Vn2vdQZhs0w,305360,309539,while maintaining overall transmission parity with HDMI.
+Vn2vdQZhs0w,309540,311740,So with 12 of the 20 conductors used
+Vn2vdQZhs0w,311740,314610,"for the signal plus, signal minus and ground connections,"
+Vn2vdQZhs0w,314610,316419,that leaves eight other conductors
+Vn2vdQZhs0w,316420,318630,"that are used to run a configuration channel,"
+Vn2vdQZhs0w,318630,321150,"an auxiliary channel, and a power connection."
+Vn2vdQZhs0w,321150,323320,The power connection actually goes unused
+Vn2vdQZhs0w,323320,324360,"in common cables though,"
+Vn2vdQZhs0w,324360,325990,and is reserved for use in devices
+Vn2vdQZhs0w,325990,328569,"with integrated DisplayPort cables,"
+Vn2vdQZhs0w,328570,330790,and having these wires connected can actually
+Vn2vdQZhs0w,330790,332240,cause a short circuit condition
+Vn2vdQZhs0w,332240,333639,"that was a problem in the past,"
+Vn2vdQZhs0w,333640,336350,particularly with cheap mini DisplayPort cables.
+Vn2vdQZhs0w,336350,337470,"Fun fact, by the way,"
+Vn2vdQZhs0w,337470,339710,those locking tabs on the end are not
+Vn2vdQZhs0w,339710,342780,"actually part of the official DisplayPort specification,"
+Vn2vdQZhs0w,342780,344020,they are nice to have though.
+Vn2vdQZhs0w,344020,346000,"Now with respect to our results,"
+Vn2vdQZhs0w,346000,349050,we can gather that this reduction in signaling frequency
+Vn2vdQZhs0w,349050,351259,"is contributing to better signal integrity,"
+Vn2vdQZhs0w,351260,352630,leading to DisplayPort cables
+Vn2vdQZhs0w,352630,356400,being more consistent than what we saw with HDMI.
+Vn2vdQZhs0w,356400,358870,"So if you're buying a brand new cable today,"
+Vn2vdQZhs0w,358870,361160,"cheap is probably cheerful,"
+Vn2vdQZhs0w,361160,363740,and Infinite Cables once again topped our list
+Vn2vdQZhs0w,363740,365259,"for the lowest cost per foot,"
+Vn2vdQZhs0w,365260,368030,"followed by AmazonBasics and Monoprice,"
+Vn2vdQZhs0w,368030,369900,but we're not done yet.
+Vn2vdQZhs0w,369900,371889,"Inside the dense document,"
+Vn2vdQZhs0w,371890,373560,"that is the DisplayPort standard,"
+Vn2vdQZhs0w,373560,376970,"there exists a set of definitions for transmission modes,"
+Vn2vdQZhs0w,376970,379170,these are the bit rates that DisplayPorts
+Vn2vdQZhs0w,379170,380700,can transmit data at.
+Vn2vdQZhs0w,380700,383890,"We're not talking about resolutions per se,"
+Vn2vdQZhs0w,383890,385040,but rather the speed
+Vn2vdQZhs0w,385040,387800,"at which the cable operates, full stop."
+Vn2vdQZhs0w,387800,389699,"DisplayPort 1.4, for example,"
+Vn2vdQZhs0w,389700,392840,"is compatible with four different transmission modes,"
+Vn2vdQZhs0w,392840,396710,"RBR, HBR, HBR2 and HBR3,"
+Vn2vdQZhs0w,396710,400289,"which peaks at 8.1 gigabits per second, per lane."
+Vn2vdQZhs0w,400290,401910,"That means with four lanes,"
+Vn2vdQZhs0w,401910,404130,DisplayPort 1.4's peak bandwidth
+Vn2vdQZhs0w,404130,406610,is 32.4 gigabits per second.
+Vn2vdQZhs0w,406610,410120,That is significantly less than the 48 gigabit per second
+Vn2vdQZhs0w,410120,411663,maximum of HDMI 2.1.
+Vn2vdQZhs0w,413130,415600,I am not calling it that (chuckles).
+Vn2vdQZhs0w,415600,418360,"To get around this, some applications of DisplayPort"
+Vn2vdQZhs0w,418360,421210,have implemented more than the usual four lanes.
+Vn2vdQZhs0w,421210,422520,Apple famously created
+Vn2vdQZhs0w,422520,425599,a custom eight-lane DisplayPort 1.2 interface
+Vn2vdQZhs0w,425600,427580,"to drive the first 5K iMac,"
+Vn2vdQZhs0w,427580,430439,and Thunderbolt can also have up to eight lanes
+Vn2vdQZhs0w,430440,432500,allowing it to carry two display signals
+Vn2vdQZhs0w,432500,434270,over a single cable.
+Vn2vdQZhs0w,434270,436030,"The longterm solution, however,"
+Vn2vdQZhs0w,436030,440270,"is DisplayPort 2.0, which can run in three new modes"
+Vn2vdQZhs0w,440270,442840,named according to their per lane bit rate.
+Vn2vdQZhs0w,442840,444810,"Now we'll talk about why that matters shortly,"
+Vn2vdQZhs0w,444810,447000,"but first let's take a look at our next tab,"
+Vn2vdQZhs0w,447000,448713,Amazon's best sellers.
+Vn2vdQZhs0w,449580,450680,How'd they do?
+Vn2vdQZhs0w,450680,451930,- [Colin] All passed.
+Vn2vdQZhs0w,451930,452949,- Every single one passed again?
+Vn2vdQZhs0w,452950,454180,- [Colin] Again.
+Vn2vdQZhs0w,454180,456130,- Now that's crazy.
+Vn2vdQZhs0w,456130,457210,Every single one of them
+Vn2vdQZhs0w,457210,460440,"not only met the current spec that they were rated for,"
+Vn2vdQZhs0w,460440,464823,"but even met the next gen UHBR10 spec, wild."
+Vn2vdQZhs0w,466610,469099,"Now they're not an amazing deal cost-wise,"
+Vn2vdQZhs0w,469100,473210,"but at least they're easy to order, I guess,"
+Vn2vdQZhs0w,473210,476180,"and they helped us confirm an interesting pattern,"
+Vn2vdQZhs0w,476180,477350,or so we thought.
+Vn2vdQZhs0w,477350,479020,One of the insidious ways
+Vn2vdQZhs0w,479020,482250,that a bad DisplayPort cable can get ya
+Vn2vdQZhs0w,482250,486400,is by working but not working at the correct link speed.
+Vn2vdQZhs0w,486400,488340,"That's actually a feature, not a bug."
+Vn2vdQZhs0w,488340,491210,"DisplayPort is fully backwards compatible,"
+Vn2vdQZhs0w,491210,492880,"so every time you plug in,"
+Vn2vdQZhs0w,492880,496310,the devices go through a sort of handshake process
+Vn2vdQZhs0w,496310,497400,"called link training,"
+Vn2vdQZhs0w,497400,498650,which determines the speed
+Vn2vdQZhs0w,498650,500900,"that they can operate at without errors,"
+Vn2vdQZhs0w,500900,503560,and even if the devices are both capable
+Vn2vdQZhs0w,503560,505070,"of a greater speed,"
+Vn2vdQZhs0w,505070,506323,"let's say DisplayPort 1.4,"
+Vn2vdQZhs0w,507760,510140,a bad cable could drag them back
+Vn2vdQZhs0w,510140,512030,"to a slower link speed,"
+Vn2vdQZhs0w,512030,514349,"let's say DisplayPort 1.2,"
+Vn2vdQZhs0w,514349,516880,and this can be really hard to diagnose
+Vn2vdQZhs0w,516880,520870,"because the links can be renegotiated on the fly,"
+Vn2vdQZhs0w,520870,523279,"meaning that they might work fine for a bit,"
+Vn2vdQZhs0w,523280,527020,"then drop down, only to jump back into action again."
+Vn2vdQZhs0w,527020,531100,"And we ran into just such a cable in tab number three,"
+Vn2vdQZhs0w,531100,533519,where we grabbed some longer DisplayPort cables
+Vn2vdQZhs0w,533520,535180,"that we've purchased over the years,"
+Vn2vdQZhs0w,535180,536839,as well as a handful of cables
+Vn2vdQZhs0w,536840,539460,that were included with the monitors.
+Vn2vdQZhs0w,539460,541850,"I knew it (laughs), I knew it."
+Vn2vdQZhs0w,541850,543329,I've had so many issues
+Vn2vdQZhs0w,543330,545650,with those 25-foot Monoprice cables
+Vn2vdQZhs0w,545650,548070,"that we bought in bulk, like ages ago,"
+Vn2vdQZhs0w,548070,548910,"but on this one,"
+Vn2vdQZhs0w,548910,551850,"one of the four pairs managed a continuity check,"
+Vn2vdQZhs0w,551850,555389,"so it is connected, but failed on signal,"
+Vn2vdQZhs0w,555390,558210,which is the worst kind of fail.
+Vn2vdQZhs0w,558210,560994,I'm going to enjoy cutting this cable up.
+Vn2vdQZhs0w,560994,561827,"- [Brandon] Oh my God,"
+Vn2vdQZhs0w,561827,563090,that nearly hit the lens.
+Vn2vdQZhs0w,563090,564200,- Oh did it really? - [Brandon] Yeah.
+Vn2vdQZhs0w,564200,566610,- We also had one of Samsung's bundled cables
+Vn2vdQZhs0w,566610,567930,"fail out right here,"
+Vn2vdQZhs0w,567930,569760,continuity means that the conductors
+Vn2vdQZhs0w,569760,572130,are just not conducting.
+Vn2vdQZhs0w,572130,574400,Now we didn't have enough of those kicking
+Vn2vdQZhs0w,574400,577890,around that we could just positively identify
+Vn2vdQZhs0w,577890,579530,"as Samsung bundled cables,"
+Vn2vdQZhs0w,579530,581970,so we couldn't draw a clear conclusion.
+Vn2vdQZhs0w,581970,582949,"Other than that,"
+Vn2vdQZhs0w,582950,584660,the one included with your monitor
+Vn2vdQZhs0w,584660,586790,"might not be the best quality,"
+Vn2vdQZhs0w,586790,589259,but pretty much any reputable brand cable
+Vn2vdQZhs0w,589260,591350,"off the shelf should be okay,"
+Vn2vdQZhs0w,591350,593290,even if you're a forward-thinking consumer
+Vn2vdQZhs0w,593290,594380,who might wanna get the most
+Vn2vdQZhs0w,594380,596730,"out of Intel's upcoming Arc Alchemist GPU's,"
+Vn2vdQZhs0w,596730,599203,which are confirmed to have DisplayPort 2.0.
+Vn2vdQZhs0w,600310,602550,Thanks to Samsung for sponsoring today's video.
+Vn2vdQZhs0w,602550,604290,"Samsung has something new for you,"
+Vn2vdQZhs0w,604290,607470,"The freestyle, it's a point and play projector"
+Vn2vdQZhs0w,607470,608629,with a compact design
+Vn2vdQZhs0w,608630,611100,"and adjustable 180 degree cradle stand,"
+Vn2vdQZhs0w,611100,613380,you don't need to worry about fiddling with a focus wheel
+Vn2vdQZhs0w,613380,615240,or rearranging your projector
+Vn2vdQZhs0w,615240,616980,because the auto sensing feature
+Vn2vdQZhs0w,616980,621019,will intuitively correct skewed and blurry images for you.
+Vn2vdQZhs0w,621020,621920,"If you're on the go,"
+Vn2vdQZhs0w,621920,624850,the freestyle has a 360 degrees speaker
+Vn2vdQZhs0w,624850,628699,"and a five watt woofer for powerful all around sound,"
+Vn2vdQZhs0w,628700,631360,"and you can power it with an external battery,"
+Vn2vdQZhs0w,631360,633050,so it works no matter where you are.
+Vn2vdQZhs0w,633050,635649,It uses Samsung's built-in Smart TV experience
+Vn2vdQZhs0w,635650,639050,"that features Samsung TV plus, various streaming platforms,"
+Vn2vdQZhs0w,639050,641529,and more while also allowing you to use Bixby
+Vn2vdQZhs0w,641530,644750,or Amazon A-L-E-X-A so that you can go hands-free.
+Vn2vdQZhs0w,644750,646330,It offers full HD resolution
+Vn2vdQZhs0w,646330,647780,and the ability to project an image
+Vn2vdQZhs0w,647780,650170,"between 30 and 100 inches,"
+Vn2vdQZhs0w,650170,652010,"allowing you to use it in a small space,"
+Vn2vdQZhs0w,652010,653410,or you can go all out
+Vn2vdQZhs0w,653410,655399,and create an at-home theater experience.
+Vn2vdQZhs0w,655400,657410,So take your theater with you wherever you go
+Vn2vdQZhs0w,657410,658243,with the Freestyle.
+Vn2vdQZhs0w,658243,660510,"You can learn more about Samsung's The Freestyle,"
+Vn2vdQZhs0w,660510,661920,and get a free carrying case
+Vn2vdQZhs0w,661920,663920,if you pre-order before February 10th
+Vn2vdQZhs0w,663920,665779,using the link down below.
+Vn2vdQZhs0w,665780,666760,"If you guys enjoyed this video,"
+Vn2vdQZhs0w,666760,668980,"go check out the HDMI cable testing video,"
+Vn2vdQZhs0w,668980,671050,where we've got into a little bit more depth
+Vn2vdQZhs0w,671050,672680,about what some of the charts
+Vn2vdQZhs0w,672680,675080,"that you guys might be looking at here mean,"
+Vn2vdQZhs0w,675080,677690,"and yeah, see like the eye diagrams and stuff,"
+Vn2vdQZhs0w,677690,681083,and why a narrow eye is a bad eye.

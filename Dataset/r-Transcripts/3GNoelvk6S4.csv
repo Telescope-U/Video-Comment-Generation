@@ -1,0 +1,286 @@
+vid,start,end,text
+3GNoelvk6S4,0,2159,I've added up to here with this
+3GNoelvk6S4,2159,3720,with what
+3GNoelvk6S4,3720,6060,with this being old enough to remember
+3GNoelvk6S4,6060,8400,when OnePlus stood for well-designed
+3GNoelvk6S4,8400,10500,phones with clean software at rock
+3GNoelvk6S4,10500,13139,bottom prices it's been painful for me
+3GNoelvk6S4,13139,14759,watching their slow descent into
+3GNoelvk6S4,14759,16920,mediocrity and it's high time that I
+3GNoelvk6S4,16920,19619,share my thoughts the one time Flagship
+3GNoelvk6S4,19619,21300,killer has been plagued by hardware
+3GNoelvk6S4,21300,24300,issues software glitches and most
+3GNoelvk6S4,24300,26580,damningly lackluster support for the
+3GNoelvk6S4,26580,28740,Enthusiast users who made them what they
+3GNoelvk6S4,28740,32099,are today what the heck happened I used
+3GNoelvk6S4,32099,34920,to rely on OnePlus as my recommendation
+3GNoelvk6S4,34920,38280,go-to for friends and family alike the
+3GNoelvk6S4,38280,40920,one company other than that one that I
+3GNoelvk6S4,40920,43320,could count on for years of intuitive
+3GNoelvk6S4,43320,44760,software updates and trouble-free
+3GNoelvk6S4,44760,47820,operation then in the last couple of
+3GNoelvk6S4,47820,49440,years I've ended up in the doghouse
+3GNoelvk6S4,49440,52379,twice over OnePlus recommendations first
+3GNoelvk6S4,52379,54719,with my son which is bad enough then
+3GNoelvk6S4,54719,58500,with my wife which is much much worse so
+3GNoelvk6S4,58500,60120,now to make it up to her I'm gonna have
+3GNoelvk6S4,60120,61739,to buy her something nice
+3GNoelvk6S4,61739,64559,with this money from our sponsor build
+3GNoelvk6S4,64559,66900,redox build Redux makes it easy to
+3GNoelvk6S4,66900,68760,configure your new build with support
+3GNoelvk6S4,68760,70680,guides to help you along the way they
+3GNoelvk6S4,70680,72600,also offer competitive pricing as
+3GNoelvk6S4,72600,74640,compared to building a PC yourself so
+3GNoelvk6S4,74640,77759,head to build redux.com Linus and start
+3GNoelvk6S4,77759,80280,your new build today while I've been
+3GNoelvk6S4,80280,82380,personally frustrated for a while it was
+3GNoelvk6S4,82380,83700,in exchange with our good friend Steve
+3GNoelvk6S4,83700,85560,from Gamer's Nexus that pushed me from
+3GNoelvk6S4,85560,87479,I'm not recommending these to friends
+3GNoelvk6S4,87479,90180,anymore to I need to make a video about
+3GNoelvk6S4,90180,92880,this it appears that certain models of
+3GNoelvk6S4,92880,94920,OnePlus phones have been afflicted by a
+3GNoelvk6S4,94920,96960,strange bug that causes their storage to
+3GNoelvk6S4,96960,99540,fill up at an alarming rate intriguing
+3GNoelvk6S4,99540,101700,now the obvious solution would be to
+3GNoelvk6S4,101700,103740,delete some cat pictures but if user
+3GNoelvk6S4,103740,106200,reports are anything to go by not even a
+3GNoelvk6S4,106200,108060,complete Purge of precious memories of
+3GNoelvk6S4,108060,109860,snowball 1 is enough to free up the
+3GNoelvk6S4,109860,112920,space and in fact there's no indication
+3GNoelvk6S4,112920,116100,within the UI of what is consuming all
+3GNoelvk6S4,116100,118619,of the storage even factory resetting
+3GNoelvk6S4,118619,121680,these devices yielded no improvement so
+3GNoelvk6S4,121680,123780,to diagnose what's going on here we need
+3GNoelvk6S4,123780,126659,to go to the device logs logs are a
+3GNoelvk6S4,126659,128640,record of diagnostic data and they can
+3GNoelvk6S4,128640,130500,include information about operating
+3GNoelvk6S4,130500,133140,system updates app crashes physical
+3GNoelvk6S4,133140,134940,errors anything that could help to
+3GNoelvk6S4,134940,136379,troubleshoot a device that isn't
+3GNoelvk6S4,136379,139319,functioning correctly only we've got a
+3GNoelvk6S4,139319,140099,problem
+3GNoelvk6S4,140099,142680,this log data on Android isn't available
+3GNoelvk6S4,142680,146340,to end users at least not out of the box
+3GNoelvk6S4,146340,148800,thankfully OnePlus has still got one
+3GNoelvk6S4,148800,150780,thing right they are one of the only
+3GNoelvk6S4,150780,152879,Android phone makers who still allow
+3GNoelvk6S4,152879,154920,adventurous users to Tinker under
+3GNoelvk6S4,154920,157620,Android's Hood by rooting their device
+3GNoelvk6S4,157620,160140,this process comes with enough risk that
+3GNoelvk6S4,160140,162000,most manufacturers will actually void
+3GNoelvk6S4,162000,164160,your warranty just for attempting it but
+3GNoelvk6S4,164160,166379,it also has some benefits including
+3GNoelvk6S4,166379,169019,granting complete access to the phone's
+3GNoelvk6S4,169019,171120,file system and it was in these
+3GNoelvk6S4,171120,173160,typically hidden system folders that a
+3GNoelvk6S4,173160,175200,few Brave enthusiasts came across some
+3GNoelvk6S4,175200,178500,modem log files or dumps that were
+3GNoelvk6S4,178500,181080,pretty suspicious for starters they were
+3GNoelvk6S4,181080,183060,big hundreds of megabytes in some cases
+3GNoelvk6S4,183060,186599,which is a lot of text but your phone
+3GNoelvk6S4,186599,189720,generating big log dumps isn't itself a
+3GNoelvk6S4,189720,191700,problem it's when it doesn't clean up
+3GNoelvk6S4,191700,194159,after itself and that's exactly what
+3GNoelvk6S4,194159,196560,happened here affected users discovered
+3GNoelvk6S4,196560,199739,that onepluses historically well-managed
+3GNoelvk6S4,199739,203159,oxygen OS was simply leaving these logs
+3GNoelvk6S4,203159,205319,to pile up until there was no storage
+3GNoelvk6S4,205319,208440,left for anything else well great now
+3GNoelvk6S4,208440,209879,that we know what the problem is it's an
+3GNoelvk6S4,209879,213840,easy fix right not exactly while rooting
+3GNoelvk6S4,213840,216900,is an option for OnePlus users it comes
+3GNoelvk6S4,216900,219480,with a plethora of inconveniences first
+3GNoelvk6S4,219480,221159,and foremost being that many apps
+3GNoelvk6S4,221159,223260,including Banking and entertainment apps
+3GNoelvk6S4,223260,225360,will simply refuse to run if they detect
+3GNoelvk6S4,225360,227760,a rooted device not a great workaround
+3GNoelvk6S4,227760,229799,it also doesn't change the fact that
+3GNoelvk6S4,229799,231840,your system is still dumping these large
+3GNoelvk6S4,231840,234420,files into storage on a consistent basis
+3GNoelvk6S4,234420,236459,it's like okay there's a hole in your
+3GNoelvk6S4,236459,238680,ship but don't worry this bucket will
+3GNoelvk6S4,238680,239819,save the day
+3GNoelvk6S4,239819,242159,dumb we tried reaching out to OnePlus
+3GNoelvk6S4,242159,244200,about the problem and a couple of weeks
+3GNoelvk6S4,244200,247319,later we finally got a reply indicating
+3GNoelvk6S4,247319,249420,that they are aware of the issue and
+3GNoelvk6S4,249420,252360,have been working to fix it which I mean
+3GNoelvk6S4,252360,254819,is okay except that there are complaints
+3GNoelvk6S4,254819,257820,about this going back as far as mid 2021
+3GNoelvk6S4,257820,260579,with OnePlus reps at times giving users
+3GNoelvk6S4,260579,262500,the run around or even ghosting them
+3GNoelvk6S4,262500,264660,entirely we would never ghost our
+3GNoelvk6S4,264660,266820,floatplane.com subscribers check it out
+3GNoelvk6S4,266820,268979,for behind the scenes and outtakes
+3GNoelvk6S4,268979,271979,now In fairness to the Reps if my recent
+3GNoelvk6S4,271979,273560,experience is anything to go by
+3GNoelvk6S4,273560,276060,oneplus's software team has plenty of
+3GNoelvk6S4,276060,278460,other bugs to squash here's one that
+3GNoelvk6S4,278460,280800,persisted on my wife's phone for months
+3GNoelvk6S4,280800,283979,okay In fairness the arrow is within
+3GNoelvk6S4,283979,286440,about the same area code but she's gonna
+3GNoelvk6S4,286440,288600,need a bit more accuracy than this if
+3GNoelvk6S4,288600,289680,she's going to end up on the right
+3GNoelvk6S4,289680,291000,off-ramp hey
+3GNoelvk6S4,291000,292979,my son's deal breaker issue was an even
+3GNoelvk6S4,292979,295259,stupider one his phone got an update
+3GNoelvk6S4,295259,297660,that completely broke data access on the
+3GNoelvk6S4,297660,299940,Telus mobile network well no problem I
+3GNoelvk6S4,299940,301740,thought I'll just go edit the APN
+3GNoelvk6S4,301740,305400,settings and nope OnePlus actually Grays
+3GNoelvk6S4,305400,307680,out these buttons making them impossible
+3GNoelvk6S4,307680,310020,to click on the most ridiculous thing
+3GNoelvk6S4,310020,312240,about this seemingly arbitrary interface
+3GNoelvk6S4,312240,314580,decision is that the functions behind
+3GNoelvk6S4,314580,317580,the grayed out buttons still work so the
+3GNoelvk6S4,317580,319680,workaround for me was to use this
+3GNoelvk6S4,319680,322919,third-party shortcut manager app to jump
+3GNoelvk6S4,322919,325740,to those settings directly bypassing the
+3GNoelvk6S4,325740,328259,grayed out button hey voila the settings
+3GNoelvk6S4,328259,330900,can be changed I mean
+3GNoelvk6S4,330900,333120,Apple gives access to APN settings
+3GNoelvk6S4,333120,336720,OnePlus it is basic functionality like
+3GNoelvk6S4,336720,338340,the van hoodies super secure phone
+3GNoelvk6S4,338340,341639,pocket get yours today at lttstore.com
+3GNoelvk6S4,341639,343560,I can't recommend putting one of these
+3GNoelvk6S4,343560,345479,in it though since Linus gave me this
+3GNoelvk6S4,345479,347280,phone a year ago I've had my camera app
+3GNoelvk6S4,347280,349800,refuse to open until I restart but then
+3GNoelvk6S4,349800,351419,it breaks again the minute my kids do
+3GNoelvk6S4,351419,353699,something cute I've also had problems
+3GNoelvk6S4,353699,355740,with picture messages for three months
+3GNoelvk6S4,355740,357960,before they finally patch that and
+3GNoelvk6S4,357960,359759,probably the weirdest one was that I
+3GNoelvk6S4,359759,361259,couldn't answer phone calls it's
+3GNoelvk6S4,361259,362759,intermittent so I couldn't catch it on
+3GNoelvk6S4,362759,365039,camera but the green button to answer
+3GNoelvk6S4,365039,367620,calls just wouldn't register which is
+3GNoelvk6S4,367620,369840,pretty important for you know a phone
+3GNoelvk6S4,369840,372900,they are losing me too I can't say I've
+3GNoelvk6S4,372900,375060,ever had my actual phone app not work
+3GNoelvk6S4,375060,377759,but I've got my own problems the most
+3GNoelvk6S4,377759,380100,maddening one is the app switcher look
+3GNoelvk6S4,380100,382139,at this if I go to click on the previous
+3GNoelvk6S4,382139,385440,opened app it reopens the app I was just
+3GNoelvk6S4,385440,387180,using instead of opening the app I
+3GNoelvk6S4,387180,389520,clicked on I used the switcher dozens of
+3GNoelvk6S4,389520,390900,times a day so if you're starting to
+3GNoelvk6S4,390900,394139,notice gray hairs that could be it Miami
+3GNoelvk6S4,394139,396900,and light sensor can take ages to adjust
+3GNoelvk6S4,396900,398880,in dark areas and I've had camera
+3GNoelvk6S4,398880,401639,problems too after the Android 11 update
+3GNoelvk6S4,401639,403139,I noticed that the images were being
+3GNoelvk6S4,403139,404819,over processed to the point where
+3GNoelvk6S4,404819,407100,pictures of my son looked like he had
+3GNoelvk6S4,407100,409440,the life sucked out of him
+3GNoelvk6S4,409440,411419,and I also noticed some odd fingerprint
+3GNoelvk6S4,411419,412800,scanner Behavior where it sometimes
+3GNoelvk6S4,412800,415199,won't even pop up of course every phone
+3GNoelvk6S4,415199,418380,has bugs some of them lots so why are we
+3GNoelvk6S4,418380,419819,picking on OnePlus
+3GNoelvk6S4,419819,421440,it's because they promise to be
+3GNoelvk6S4,421440,423180,something different and their Fall From
+3GNoelvk6S4,423180,425060,Grace has left a hole both in the market
+3GNoelvk6S4,425060,427860,and in our hearts
+3GNoelvk6S4,427860,430020,okay as cheesy as that is we're not the
+3GNoelvk6S4,430020,432360,only ones who have noticed in early 2021
+3GNoelvk6S4,432360,435060,MKBHD uploaded a video titled what
+3GNoelvk6S4,435060,437460,happened to OnePlus his ultimate
+3GNoelvk6S4,437460,439560,conclusion was that they didn't really
+3GNoelvk6S4,439560,442020,change but rather they outgrew their
+3GNoelvk6S4,442020,444720,initial role as the enthusiast-focused
+3GNoelvk6S4,444720,446580,Flagship killer sub brand for parent
+3GNoelvk6S4,446580,449699,company BBK he lamented their price
+3GNoelvk6S4,449699,451919,creep and the design compromises that
+3GNoelvk6S4,451919,453660,they've made to appeal to the mainstream
+3GNoelvk6S4,453660,456180,but he understood that business units
+3GNoelvk6S4,456180,458460,have to be profitable and expressed a
+3GNoelvk6S4,458460,460199,careful optimism about a potential
+3GNoelvk6S4,460199,461580,return to form
+3GNoelvk6S4,461580,463860,and he could still be right all the
+3GNoelvk6S4,463860,465660,right ingredients are still there and
+3GNoelvk6S4,465660,468060,many of their big announcements since
+3GNoelvk6S4,468060,470160,then around pooling resources between
+3GNoelvk6S4,470160,472620,OnePlus and Oppo have been
+3GNoelvk6S4,472620,476039,yeah and moments for people like me who
+3GNoelvk6S4,476039,477900,knew that co-founder Pete lau's previous
+3GNoelvk6S4,477900,481340,role was as a VP at Oppo and also that
+3GNoelvk6S4,481340,484919,they never really left Oppo and OnePlus
+3GNoelvk6S4,484919,488520,are both subsidiaries of BBK
+3GNoelvk6S4,488520,490319,so with all the pieces still in place
+3GNoelvk6S4,490319,492840,and nothing really changed why are they
+3GNoelvk6S4,492840,493800,struggling
+3GNoelvk6S4,493800,496199,my diagnosis is that it's a matter of
+3GNoelvk6S4,496199,499080,focus Oppo and OnePlus Foams have run
+3GNoelvk6S4,499080,502080,similar Hardware since day Zero I mean
+3GNoelvk6S4,502080,504180,bbk's different brands are literally
+3GNoelvk6S4,504180,506099,only separated by curtains on the
+3GNoelvk6S4,506099,508860,production floor so it was always the
+3GNoelvk6S4,508860,511139,software that set one plus apart it was
+3GNoelvk6S4,511139,513180,that obsessive attention to system
+3GNoelvk6S4,513180,515279,responsiveness into meaningful
+3GNoelvk6S4,515279,517620,modifications to an otherwise mostly
+3GNoelvk6S4,517620,520260,stock Android experience
+3GNoelvk6S4,520260,522779,so why has that changed
+3GNoelvk6S4,522779,525480,well there was a leadership shakeup and
+3GNoelvk6S4,525480,527640,while neither has addressed the alleged
+3GNoelvk6S4,527640,529680,conflict that caused fellow co-founder
+3GNoelvk6S4,529680,531959,Carl pay to leave he ended up founding
+3GNoelvk6S4,531959,534480,his own company nothing it was pretty
+3GNoelvk6S4,534480,536399,clear during the awkward transition
+3GNoelvk6S4,536399,539399,period where Mr Lyle gradually took on a
+3GNoelvk6S4,539399,542580,more public-facing role that the rift
+3GNoelvk6S4,542580,544740,between them was a long time Brewing
+3GNoelvk6S4,544740,547019,if I had to guess what happened I would
+3GNoelvk6S4,547019,549000,say it was probably over controversial
+3GNoelvk6S4,549000,552060,ideas like merging oppos from my
+3GNoelvk6S4,552060,554459,personal experience worse color OS
+3GNoelvk6S4,554459,557339,software with onepluses really excellent
+3GNoelvk6S4,557339,560580,oxygen OS but as an outsider it's hard
+3GNoelvk6S4,560580,563640,to say for sure after all it is Pete Lau
+3GNoelvk6S4,563640,565500,not Carl pay Who is credited with
+3GNoelvk6S4,565500,568320,bringing CyanogenMod the clean mostly
+3GNoelvk6S4,568320,570120,stock open source Android skin that
+3GNoelvk6S4,570120,572880,eventually became lineage OS to Oppo in
+3GNoelvk6S4,572880,574680,the first place
+3GNoelvk6S4,574680,577620,bottom line like Marquez I'm still
+3GNoelvk6S4,577620,580080,rooting for them and there is tons of
+3GNoelvk6S4,580080,582420,time left to right the ship but it's
+3GNoelvk6S4,582420,584100,clear that they need to get their head
+3GNoelvk6S4,584100,587220,in the game especially when it comes to
+3GNoelvk6S4,587220,588420,Software
+3GNoelvk6S4,588420,590220,and it's clear that I'm going to tell
+3GNoelvk6S4,590220,592740,you about our sponsor Lakeside software
+3GNoelvk6S4,592740,595440,Lakeside software is a digital employee
+3GNoelvk6S4,595440,597600,experience management platform that your
+3GNoelvk6S4,597600,599940,whole business will love their solution
+3GNoelvk6S4,599940,602760,collects over 10 000 data points about
+3GNoelvk6S4,602760,605459,every endpoint in your its state every
+3GNoelvk6S4,605459,609360,15 seconds neat right even better all of
+3GNoelvk6S4,609360,611100,that data is used to automatically
+3GNoelvk6S4,611100,613860,resolve it tickets and issues this data
+3GNoelvk6S4,613860,615899,can even fuel Next Generation root cause
+3GNoelvk6S4,615899,618839,analysis proactive it and most
+3GNoelvk6S4,618839,620760,importantly improved digital employee
+3GNoelvk6S4,620760,623339,productivity on June 29th you can join
+3GNoelvk6S4,623339,625380,Lakeside for a webinar to discuss their
+3GNoelvk6S4,625380,627600,2022 digital workplace productivity
+3GNoelvk6S4,627600,629940,report you'll learn about it's impact on
+3GNoelvk6S4,629940,632399,organizational productivity downtime and
+3GNoelvk6S4,632399,634680,turnover the webinar summarizes the
+3GNoelvk6S4,634680,637200,experiences of 600 Executives I.T
+3GNoelvk6S4,637200,639540,leaders and employees regarding their
+3GNoelvk6S4,639540,641760,digital employee experience so sign up
+3GNoelvk6S4,641760,643440,today or learn more about Lakeside
+3GNoelvk6S4,643440,645839,software at the link down below thanks
+3GNoelvk6S4,645839,647279,for watching let us know in the comments
+3GNoelvk6S4,647279,648779,how your experience has been with
+3GNoelvk6S4,648779,650760,OnePlus has it gotten better or worse
+3GNoelvk6S4,650760,652380,over the years if you're looking for
+3GNoelvk6S4,652380,653579,something else to watch check out our
+3GNoelvk6S4,653579,654959,recent Tech Link videos where we
+3GNoelvk6S4,654959,657240,discussed how Apple still has no USBC on
+3GNoelvk6S4,657240,659220,their upcoming iPhones but how the
+3GNoelvk6S4,659220,661380,European Union May force them to within
+3GNoelvk6S4,661380,664279,the next couple of years

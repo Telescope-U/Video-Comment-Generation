@@ -1,0 +1,190 @@
+vid,start,end,text
+8MCfWPpJhXM,560,2480,whenever you travel in a train you might
+8MCfWPpJhXM,2480,4080,have seen these hanging weights near the
+8MCfWPpJhXM,4080,6000,poles and a strange connection of wires
+8MCfWPpJhXM,6000,7279,near to them
+8MCfWPpJhXM,7279,8960,what exactly are they
+8MCfWPpJhXM,8960,10400,why couldn't they just use a simple
+8MCfWPpJhXM,10400,12639,conductive wire arrangement similar to
+8MCfWPpJhXM,12639,15120,the normal power transmission system
+8MCfWPpJhXM,15120,17199,let's explore this topic
+8MCfWPpJhXM,17199,19199,in this simple case both ends of the
+8MCfWPpJhXM,19199,23039,wire are fixed as shown
+8MCfWPpJhXM,23119,24880,temperature variations will cause big
+8MCfWPpJhXM,24880,26960,problems in this design
+8MCfWPpJhXM,26960,28800,in the summer time as the temperature
+8MCfWPpJhXM,28800,31679,increases the material will expand
+8MCfWPpJhXM,31679,33680,since the ends are fixed this will
+8MCfWPpJhXM,33680,36559,result in sagging of the wire
+8MCfWPpJhXM,36559,39760,and sagging wires are free to deform
+8MCfWPpJhXM,39760,41920,due to this the wire will go for a wave
+8MCfWPpJhXM,41920,43440,kind of movement
+8MCfWPpJhXM,43440,44960,there is a chance of sparks being
+8MCfWPpJhXM,44960,47360,produced and the pantograph may even get
+8MCfWPpJhXM,47360,49600,stuck
+8MCfWPpJhXM,49600,51199,maybe you can tighten these wires too
+8MCfWPpJhXM,51199,53120,much so that you can reduce the sagging
+8MCfWPpJhXM,53120,54480,in the summer
+8MCfWPpJhXM,54480,56960,however this wire will break during the
+8MCfWPpJhXM,56960,59120,cold winter months as the material
+8MCfWPpJhXM,59120,60800,contracts
+8MCfWPpJhXM,60800,62719,now it is clear why fixing a wire at
+8MCfWPpJhXM,62719,65518,both ends is not a good idea
+8MCfWPpJhXM,65518,67840,an ideal overhead equipment setup should
+8MCfWPpJhXM,67840,70000,always keep the contact wire perfectly
+8MCfWPpJhXM,70000,72560,straight without breaking the wire
+8MCfWPpJhXM,72560,75680,let's see how we can achieve this
+8MCfWPpJhXM,75680,77759,first we must design a simple system to
+8MCfWPpJhXM,77759,79280,take care of this expansion and
+8MCfWPpJhXM,79280,81200,contraction problem
+8MCfWPpJhXM,81200,83360,in this design we are replacing a fixed
+8MCfWPpJhXM,83360,85200,connection with a pulley
+8MCfWPpJhXM,85200,86799,when you attach a dead weight to this
+8MCfWPpJhXM,86799,88960,free end the wire sag will be greatly
+8MCfWPpJhXM,88960,90880,reduced
+8MCfWPpJhXM,90880,93119,here tension in the wire is the same as
+8MCfWPpJhXM,93119,95280,the weight of the discs
+8MCfWPpJhXM,95280,97360,this arrangement will compensate for any
+8MCfWPpJhXM,97360,99280,temperature change
+8MCfWPpJhXM,99280,101439,the more the temperature increases the
+8MCfWPpJhXM,101439,104880,more the weight will pull down
+8MCfWPpJhXM,105520,107280,with this pulley and weight arrangement
+8MCfWPpJhXM,107280,109040,can we increase the distance between the
+8MCfWPpJhXM,109040,111680,poles to any extent
+8MCfWPpJhXM,111680,113280,the answer is
+8MCfWPpJhXM,113280,115280,no
+8MCfWPpJhXM,115280,117119,although the concrete weights reduce the
+8MCfWPpJhXM,117119,118719,sag of the wire they can never
+8MCfWPpJhXM,118719,121520,completely eliminate the sag especially
+8MCfWPpJhXM,121520,123759,when the span is too large even with a
+8MCfWPpJhXM,123759,125920,good amount of disc weight the sag will
+8MCfWPpJhXM,125920,127600,be considerable
+8MCfWPpJhXM,127600,130399,here is an easy experiment to prove it
+8MCfWPpJhXM,130399,132800,this experimental rig is exactly same as
+8MCfWPpJhXM,132800,134239,og system
+8MCfWPpJhXM,134239,137040,one and the cable is fixed here
+8MCfWPpJhXM,137040,140239,and other end is passing over a pulley
+8MCfWPpJhXM,140239,142800,you can see a good sag let's add a
+8MCfWPpJhXM,142800,144239,weight and see what happened to the
+8MCfWPpJhXM,144239,146560,system
+8MCfWPpJhXM,148740,151779,[Music]
+8MCfWPpJhXM,152160,154400,the size has decreased
+8MCfWPpJhXM,154400,156400,now let's add one more weight a really
+8MCfWPpJhXM,156400,159120,heavy weight
+8MCfWPpJhXM,161440,164319,the stock has decreased again but not
+8MCfWPpJhXM,164319,165200,zero
+8MCfWPpJhXM,165200,166560,this means that
+8MCfWPpJhXM,166560,168800,if you want a perfect straight line here
+8MCfWPpJhXM,168800,170480,you have to have an infinite amount of
+8MCfWPpJhXM,170480,173760,weight at the pulley side
+8MCfWPpJhXM,173840,176080,due to this the maximum distance allowed
+8MCfWPpJhXM,176080,179440,between the poles is around 50 meters
+8MCfWPpJhXM,179440,181200,the solution is simple
+8MCfWPpJhXM,181200,184879,introduce more support in between
+8MCfWPpJhXM,184879,186319,here's the trick
+8MCfWPpJhXM,186319,188319,you can see an extended cantilever in
+8MCfWPpJhXM,188319,191040,these supports
+8MCfWPpJhXM,191440,195440,they should be able to swing as shown
+8MCfWPpJhXM,195440,196560,such that when the temperature
+8MCfWPpJhXM,196560,198879,variations occur they will not block the
+8MCfWPpJhXM,198879,200720,movement of the wire
+8MCfWPpJhXM,200720,203280,however the last cantilever is fixed as
+8MCfWPpJhXM,203280,204640,we saw earlier
+8MCfWPpJhXM,204640,206959,we've developed a small wire unit or
+8MCfWPpJhXM,206959,208640,overhead equipment for the electric
+8MCfWPpJhXM,208640,210640,train
+8MCfWPpJhXM,210640,212959,now it's time to achieve a long oag
+8MCfWPpJhXM,212959,215760,system starting from this design
+8MCfWPpJhXM,215760,217920,the solution is simple
+8MCfWPpJhXM,217920,220879,just duplicate this entire unit and
+8MCfWPpJhXM,220879,222799,start this new unit before the first
+8MCfWPpJhXM,222799,225120,unit ends to maintain the electrical
+8MCfWPpJhXM,225120,227840,continuity between units a few flexible
+8MCfWPpJhXM,227840,230319,jumper wires are used you can see how
+8MCfWPpJhXM,230319,232159,the jumper wires electrically connect
+8MCfWPpJhXM,232159,235120,the first and second unit
+8MCfWPpJhXM,235120,236560,we can run our electric train
+8MCfWPpJhXM,236560,239040,successfully in this system you can see
+8MCfWPpJhXM,239040,241280,clearly how a pantograph changes contact
+8MCfWPpJhXM,241280,245439,from one ohe unit to another
+8MCfWPpJhXM,246000,247680,we had a successful test run of the
+8MCfWPpJhXM,247680,250000,train
+8MCfWPpJhXM,251519,253599,however if you observe carefully you'll
+8MCfWPpJhXM,253599,255519,notice that the contact wires are still
+8MCfWPpJhXM,255519,257440,sagging a little bit
+8MCfWPpJhXM,257440,259359,the disc weight and supports with swing
+8MCfWPpJhXM,259359,261199,arms could not solve the sag problem
+8MCfWPpJhXM,261199,262479,completely
+8MCfWPpJhXM,262479,264160,can you think of a solution to fix this
+8MCfWPpJhXM,264160,266000,issue once and for all
+8MCfWPpJhXM,266000,267759,we'll give you one clue
+8MCfWPpJhXM,267759,270080,the almost perfect straight line can be
+8MCfWPpJhXM,270080,271759,achieved with the help of one more
+8MCfWPpJhXM,271759,274000,pulley wire system which is placed
+8MCfWPpJhXM,274000,277440,slightly above the current contact wire
+8MCfWPpJhXM,277440,279600,can you spot the solution now
+8MCfWPpJhXM,279600,281440,it's relatively simple
+8MCfWPpJhXM,281440,283440,these two wires have the exact same
+8MCfWPpJhXM,283440,285520,shape now
+8MCfWPpJhXM,285520,287680,if you take a connecting wire called a
+8MCfWPpJhXM,287680,290080,dropper which has the same length as the
+8MCfWPpJhXM,290080,291919,distance between the wires
+8MCfWPpJhXM,291919,293919,nothing will happen to their shape
+8MCfWPpJhXM,293919,295759,however what would happen if we
+8MCfWPpJhXM,295759,297759,connected the wires using a dropper of a
+8MCfWPpJhXM,297759,300400,shorter length
+8MCfWPpJhXM,300800,303039,this shorter dropper will obviously pull
+8MCfWPpJhXM,303039,305759,the contact wire up
+8MCfWPpJhXM,305759,308880,while pulling the upper wire down
+8MCfWPpJhXM,308880,311600,in short the sag of the upper wire will
+8MCfWPpJhXM,311600,313680,increase while the bottom wire will have
+8MCfWPpJhXM,313680,316639,a perfect zero sag at this point the
+8MCfWPpJhXM,316639,319039,upper wire is called catenary and the
+8MCfWPpJhXM,319039,322479,lower wire is obviously the contact wire
+8MCfWPpJhXM,322479,325039,by adding more droppers the contact wire
+8MCfWPpJhXM,325039,328000,will become even straighter
+8MCfWPpJhXM,328000,330240,these droppers also absorb vibrations
+8MCfWPpJhXM,330240,332080,arising from the interaction between the
+8MCfWPpJhXM,332080,336000,pantograph and the contact wire
+8MCfWPpJhXM,336639,338800,we can simplify this system by attaching
+8MCfWPpJhXM,338800,340800,the ends of both wires to the common
+8MCfWPpJhXM,340800,343120,pulley
+8MCfWPpJhXM,344080,346400,however the tension in the wires must be
+8MCfWPpJhXM,346400,350160,the same as it was in the earlier design
+8MCfWPpJhXM,350960,352400,does this mean we need to add more
+8MCfWPpJhXM,352400,353600,weights
+8MCfWPpJhXM,353600,357199,obviously this is not a good idea
+8MCfWPpJhXM,357199,358720,let's implement a clever pulley
+8MCfWPpJhXM,358720,360240,arrangement that provides an immense
+8MCfWPpJhXM,360240,363039,mechanical advantage
+8MCfWPpJhXM,363039,365199,a 2 newton force at the pulley gives
+8MCfWPpJhXM,365199,369039,three newtons of tension in each wire
+8MCfWPpJhXM,369039,371360,as you can see now the contact wire is
+8MCfWPpJhXM,371360,373759,almost straight with this system the
+8MCfWPpJhXM,373759,375840,pantograph always remains in contact
+8MCfWPpJhXM,375840,379639,with the contact wire
+8MCfWPpJhXM,380400,382479,till now we have seen that the atd is
+8MCfWPpJhXM,382479,384639,attached at one end and the other end is
+8MCfWPpJhXM,384639,385680,fixed
+8MCfWPpJhXM,385680,387520,we saw earlier how to duplicate this
+8MCfWPpJhXM,387520,391520,simple unit to achieve a long ohe
+8MCfWPpJhXM,391520,394160,however before duplicating if you mirror
+8MCfWPpJhXM,394160,395680,this simple design
+8MCfWPpJhXM,395680,400000,the whole design will be much simpler
+8MCfWPpJhXM,400479,404479,this is the final ohe design
+8MCfWPpJhXM,404960,406880,from these visuals you will understand a
+8MCfWPpJhXM,406880,409599,lot of details about this design
+8MCfWPpJhXM,409599,411599,catenary wires are kept at the same
+8MCfWPpJhXM,411599,414160,voltage as the contact wires
+8MCfWPpJhXM,414160,415919,otherwise there will be current flow via
+8MCfWPpJhXM,415919,421000,the droppers and unnecessary energy loss
+8MCfWPpJhXM,424240,426240,additionally if there is any damage in
+8MCfWPpJhXM,426240,428319,the contact wire the system will not
+8MCfWPpJhXM,428319,429120,fail
+8MCfWPpJhXM,429120,431360,please have a look at this jumper design
+8MCfWPpJhXM,431360,432800,the jumper is passing through the
+8MCfWPpJhXM,432800,434319,catenary wire
+8MCfWPpJhXM,434319,436240,this means the power will be supplied by
+8MCfWPpJhXM,436240,438800,the catenary wire through jumpers
+8MCfWPpJhXM,438800,440800,thank you for watching the video see you
+8MCfWPpJhXM,440800,444039,next time
