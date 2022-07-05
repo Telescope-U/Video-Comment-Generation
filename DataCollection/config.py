@@ -1,6 +1,6 @@
 COMMENT_PATH = '../Dataset/comments.csv'
 TRANSCRIPT_FOLDER = "../Dataset/Transcripts/"
-INFO_PATH = "../Dataset/videos.csv"
+INFO_PATH = "../Dataset/infos.csv"
 LOG_ERROR_PATH = "error_log.csv"
 LOG_SUCCESS_PATH = "success_log.csv"
 
