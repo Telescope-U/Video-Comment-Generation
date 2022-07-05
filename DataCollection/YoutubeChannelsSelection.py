@@ -55,21 +55,22 @@ def log(path, *msg):
 
 # for tag in KEYWORDS:
 #     write_csv(INFO_PATH, search_video(tag))
-import pandas as pd
-videos = pd.read_csv(INFO_PATH)
-for index, video in videos.iterrows():
-    video_id = video.loc['vid']
-    print(index, video_id, video['link'])
-    try:
-        for comments in get_video_comments(video_id):
-            write_csv(COMMENT_PATH, comments)
-        log(LOG_SUCCESS_PATH,'comment',video_id)
-    except:
-        log(LOG_ERROR_PATH, 'comment', video_id)
-    try:
-        transcript = get_video_transcript(video_id)
-        transcript.insert(0, TRANSCRIPT_HEAD)
-        write_csv(os.path.join(TRANSCRIPT_FOLDER, video_id+'.csv'), transcript)
-        log(LOG_SUCCESS_PATH,'transcript', video_id)
-    except:
-        log(LOG_ERROR_PATH, "transcript", video_id)
+
+# import pandas as pd
+# videos = pd.read_csv(INFO_PATH)
+# for index, video in videos.iterrows():
+#     video_id = video.loc['vid']
+#     print(index, video_id, video['link'])
+#     try:
+#         for comments in get_video_comments(video_id):
+#             write_csv(COMMENT_PATH, comments)
+#         log(LOG_SUCCESS_PATH,'comment',video_id)
+#     except:
+#         log(LOG_ERROR_PATH, 'comment', video_id)
+#     try:
+#         transcript = get_video_transcript(video_id)
+#         transcript.insert(0, TRANSCRIPT_HEAD)
+#         write_csv(os.path.join(TRANSCRIPT_FOLDER, video_id+'.csv'), transcript)
+#         log(LOG_SUCCESS_PATH,'transcript', video_id)
+#     except:
+#         log(LOG_ERROR_PATH, "transcript", video_id)
