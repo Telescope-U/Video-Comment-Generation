@@ -74,3 +74,10 @@ def log(path, *msg):
 #         log(LOG_SUCCESS_PATH,'transcript', video_id)
 #     except:
 #         log(LOG_ERROR_PATH, "transcript", video_id)
+# 根据vid爬取video_info
+with open('../add_info.csv', 'r') as f:
+    vids = f.readlines()
+for vid in vids:
+    vid = vid.strip()
+    print(get_video_info(vid))
+    break
