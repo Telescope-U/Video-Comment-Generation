@@ -439,3 +439,444 @@ vid,start,end,text
 8IHqntr8FjY,957076,959410,- If this video made you angry and you need a detox
 8IHqntr8FjY,959410,961834,maybe go check out Bunta the sleeper PC.
 8IHqntr8FjY,961835,965621,"It's a super cool rig, crazy powerful and it looks awesome."
+vid,start,end,text
+8IHqntr8FjY,562,1520,- Hey there Apple.
+8IHqntr8FjY,1520,5023,"In case you didn't know, this is an SSD."
+8IHqntr8FjY,5023,6779,Normally users can swap these
+8IHqntr8FjY,6780,9336,to repair upgrade their computers.
+8IHqntr8FjY,9336,11972,"But according to some articles we've found online,"
+8IHqntr8FjY,11972,14933,there is no way to swap the SSD
+8IHqntr8FjY,14933,18221,on the new expensive Mac Studio.
+8IHqntr8FjY,18221,21696,"Of course, the truth is a little bit more complicated"
+8IHqntr8FjY,21696,24473,"than that, and in fact, there are some reports"
+8IHqntr8FjY,24473,28001,that you can in fact swap out the SSD in the Mac Studio.
+8IHqntr8FjY,28002,31406,"So naturally, I shelled out, thank you, ooh!"
+8IHqntr8FjY,31406,34310,"nearly $3,000 for a second one"
+8IHqntr8FjY,34310,36514,so we could test it out for you
+8IHqntr8FjY,36514,38719,because I mean like there's no way
+8IHqntr8FjY,38719,40300,that Apple would do something
+8IHqntr8FjY,40300,42062,"this anti-consumer, would they?"
+8IHqntr8FjY,42062,43028,"- No, never."
+8IHqntr8FjY,43028,46026,"- I mean, especially not months after that big splash"
+8IHqntr8FjY,46026,47647,"about repairability, right?"
+8IHqntr8FjY,47647,48892,- [Alex] That would be crazy.
+8IHqntr8FjY,48893,49851,"- It would be crazy,"
+8IHqntr8FjY,49851,52497,just like it would be crazy to tell you about our sponsor
+8IHqntr8FjY,52497,54994,"- GlassWire, GlassWire lets you see past"
+8IHqntr8FjY,54994,58203,"and present network activity, detect malware on your PC"
+8IHqntr8FjY,58203,60735,or Android device and block its connections
+8IHqntr8FjY,60735,62713,to prevent things from getting worse.
+8IHqntr8FjY,62713,66210,Use offer code linus for 25% off at the link below.
+8IHqntr8FjY,66210,69377,(bright upbeat music)
+8IHqntr8FjY,75747,77022,"- Naturally before we begin,"
+8IHqntr8FjY,77022,79613,we have to get our Mac Studio opened up.
+8IHqntr8FjY,79613,80863,"So, is that it?"
+8IHqntr8FjY,81781,84314,"Great paper packaging though, I love that."
+8IHqntr8FjY,84315,87523,"I love this little spring loaded box at the bottom,"
+8IHqntr8FjY,87523,89473,it's made completely out of cardboard.
+8IHqntr8FjY,89473,91729,Their packaging engineers are super cool.
+8IHqntr8FjY,91730,94405,"I'm not gonna go through this too much with you guys,"
+8IHqntr8FjY,94405,96192,"You can get it with the M1 Max,"
+8IHqntr8FjY,96192,98072,"you can get it with the M1 Pro,"
+8IHqntr8FjY,98072,99476,you can get it with the M1 Ultra.
+8IHqntr8FjY,99476,102509,"It's got Thunderbolt four, it's got USB type eight,"
+8IHqntr8FjY,102510,104889,"10 gig ethernet, HDMI,"
+8IHqntr8FjY,104889,106630,"and of course, display port over Thunderbolt."
+8IHqntr8FjY,106630,109214,"You got USB, an SD card reader at the front"
+8IHqntr8FjY,109214,111203,and it comes with a power cable
+8IHqntr8FjY,111204,114612,"that is, check this out, fully removable."
+8IHqntr8FjY,114612,116020,"Wow, that's a feature now."
+8IHqntr8FjY,116020,116853,Look at that.
+8IHqntr8FjY,116853,118489,"Well, it's kind of an anti feature,"
+8IHqntr8FjY,118489,119817,'cause now I can't lift up my computer
+8IHqntr8FjY,119817,121909,by the power cord without it falling down.
+8IHqntr8FjY,121909,123738,"Oh, we should have done it the monitor way."
+8IHqntr8FjY,123738,124646,"This has been covered to death,"
+8IHqntr8FjY,124647,125846,so I'm not gonna hop on it too much.
+8IHqntr8FjY,125846,127095,But getting into the Mac Studio
+8IHqntr8FjY,127095,128936,is a bit of a pain in the butt.
+8IHqntr8FjY,128936,131210,They could have put the screws somewhere accessible
+8IHqntr8FjY,131210,133390,but instead they're under a little rubber foot
+8IHqntr8FjY,133390,136283,that you're gonna have to bang up in order to get up them.
+8IHqntr8FjY,136283,137873,What's the best way to get under this stupid thing.
+8IHqntr8FjY,137873,140822,- So looks like there's a spot that you can get under.
+8IHqntr8FjY,140822,141780,See like right here.
+8IHqntr8FjY,141780,142612,"- Oh, look at that."
+8IHqntr8FjY,142613,143760,There's a specific spot.
+8IHqntr8FjY,143760,145142,I hear a lot of arguments
+8IHqntr8FjY,145142,147448,for why Apple should be protective of its products
+8IHqntr8FjY,147448,150245,making sure that only qualified personnel work on them.
+8IHqntr8FjY,150245,152821,But a lot of those arguments become completely invalid
+8IHqntr8FjY,152821,154203,"when you consider that,"
+8IHqntr8FjY,154203,156593,"you wouldn't need to be specially qualified,"
+8IHqntr8FjY,156593,159788,if they didn't have special bull (beep)
+8IHqntr8FjY,159788,161314,that you need to know in order to open it.
+8IHqntr8FjY,161314,163405,This is a problem that Apple engineered.
+8IHqntr8FjY,163406,164239,Thanks Apple.
+8IHqntr8FjY,164239,167014,"I haven't actually, other than popping in on Anthony"
+8IHqntr8FjY,167014,169425,while he was shooting short circuit looked at the inside.
+8IHqntr8FjY,169425,172170,I always tend to try to sequester myself when
+8IHqntr8FjY,172170,173870,there's a big new release that I haven't had
+8IHqntr8FjY,173870,175433,a chance to see in person yet.
+8IHqntr8FjY,175433,176265,Have I lost a screw already?
+8IHqntr8FjY,176266,177099,That's okay.
+8IHqntr8FjY,177099,179481,I'll just be able to order a replacement easily from Apple.
+8IHqntr8FjY,179481,182148,(air whooshing)
+8IHqntr8FjY,183323,184155,Gotta give credit.
+8IHqntr8FjY,184156,185157,They got style.
+8IHqntr8FjY,185157,187249,Matte black PCBs all the time.
+8IHqntr8FjY,187249,190122,"- Wait, are these they're completely different."
+8IHqntr8FjY,190123,190956,"- Wait, what?"
+8IHqntr8FjY,190956,192103,"Oh, whoa."
+8IHqntr8FjY,192104,194720,Did we just discover that there are different revisions
+8IHqntr8FjY,194720,196191,of the Mac studio power supply?
+8IHqntr8FjY,196191,197928,Are these the exact same skew?
+8IHqntr8FjY,197928,200403,- I thought so.. - Can you double check?
+8IHqntr8FjY,200404,201311,- Yeah.
+8IHqntr8FjY,201311,205264,"- What the crap, these are completely whole different PCBs."
+8IHqntr8FjY,205264,210082,This is not just Apple sourced from two different factories.
+8IHqntr8FjY,210082,213726,This is different construction techniques even.
+8IHqntr8FjY,213726,214666,Oh interesting.
+8IHqntr8FjY,214666,217160,This one says light on power technology
+8IHqntr8FjY,217160,218996,and this is from Delta.
+8IHqntr8FjY,218996,220145,"So if I have it to guess,"
+8IHqntr8FjY,220145,222415,I think what probably happened is Apple put
+8IHqntr8FjY,222415,224840,out for qualifying designs from multiple vendors
+8IHqntr8FjY,224840,227651,as you would because you wanna get competitive quotes.
+8IHqntr8FjY,227651,229179,You never just get one quote.
+8IHqntr8FjY,229179,232086,They got multiple validated designs.
+8IHqntr8FjY,232086,235499,And instead of just choosing one they're dual sourcing right
+8IHqntr8FjY,235499,238172,"from the start, which if I had to guess, I would say"
+8IHqntr8FjY,238172,240032,because this isn't gonna be an especially
+8IHqntr8FjY,240032,241142,high volume product compared to something
+8IHqntr8FjY,241143,243375,like say an iPhone is just making sure
+8IHqntr8FjY,243375,244662,that by having two sources
+8IHqntr8FjY,244662,247499,their supply is less likely to be interrupted by random
+8IHqntr8FjY,247499,249553,COVID shutdowns or whatever else
+8IHqntr8FjY,249554,251421,"the case may be, fascinating."
+8IHqntr8FjY,251421,254684,- Okay. I confirmed that they're exactly the same specs.
+8IHqntr8FjY,254684,255798,- Which ones which?
+8IHqntr8FjY,255798,257377,"- Oh, mine has a schmo."
+8IHqntr8FjY,257377,258834,- Okay. 'Cause they probably...
+8IHqntr8FjY,258834,260642,Knowing Apple they're probably chipped on.
+8IHqntr8FjY,260642,262464,Should we switch the power supplies?
+8IHqntr8FjY,262464,263374,- Screw it. We might as well.
+8IHqntr8FjY,263374,264332,- We might as well.
+8IHqntr8FjY,264332,265476,Why don't we just start with that?
+8IHqntr8FjY,265476,267987,I'm not even gonna keep disassembling it for now.
+8IHqntr8FjY,267987,269831,I'm just gonna install this and see if it'll boot.
+8IHqntr8FjY,269831,271638,Let's find out if you can switch your power supply.
+8IHqntr8FjY,271638,272919,"I mean, that's what the people wanna know."
+8IHqntr8FjY,272919,274978,Right? That's why we're here doing what Apple
+8IHqntr8FjY,274978,277438,"could easily document and tell us, but don't."
+8IHqntr8FjY,277438,279509,(air whooshing)
+8IHqntr8FjY,279510,280671,Oh Alex.
+8IHqntr8FjY,280671,281504,- Yeah.
+8IHqntr8FjY,281504,282337,- What's going on?
+8IHqntr8FjY,282337,283517,- What do you mean?
+8IHqntr8FjY,283517,286143,- What is this PC monitor? (beep)
+8IHqntr8FjY,286143,287735,Where's my studio monitor.
+8IHqntr8FjY,287735,289628,"- If you want, I can go grab it."
+8IHqntr8FjY,289628,292266,- Look how long this power cord is Alex?
+8IHqntr8FjY,292266,293416,- That's a display power cable.
+8IHqntr8FjY,293416,296940,"- Well I could, plug it in at any distance I wanted."
+8IHqntr8FjY,296941,297899,Who needs it?
+8IHqntr8FjY,297899,298982,Look at that.
+8IHqntr8FjY,300198,302319,Confirmed you can swap between
+8IHqntr8FjY,302319,305035,the two different models of power supply.
+8IHqntr8FjY,305035,310001,Now this is where Anthony rightfully got really excited
+8IHqntr8FjY,310001,311396,during his tear down on short circuit
+8IHqntr8FjY,311396,313798,because it was almost immediately obvious
+8IHqntr8FjY,313798,317215,"that Apple has not one but two SSD slots,"
+8IHqntr8FjY,318218,320981,including one that's unpopulated.
+8IHqntr8FjY,320981,323431,That's kind of cool check this out.
+8IHqntr8FjY,323432,325939,They're doing power here.
+8IHqntr8FjY,325939,328783,So all your data pins will definitely be connected
+8IHqntr8FjY,328783,330689,before power supplied to the drive.
+8IHqntr8FjY,330689,333340,"That's pretty sick actually, before we go much further."
+8IHqntr8FjY,333340,334550,There's one other bit of speculation
+8IHqntr8FjY,334550,335611,we would like to put to rest.
+8IHqntr8FjY,335611,338016,Some users online observed that their SSD was
+8IHqntr8FjY,338016,340939,in the right slot and wouldn't work anymore.
+8IHqntr8FjY,340939,343212,If they moved it over to the left leading them to think
+8IHqntr8FjY,343212,346434,that maybe this chip right here was an SSD controller
+8IHqntr8FjY,346434,349280,or somehow integral to the functioning of the SSD.
+8IHqntr8FjY,349280,350539,"But you can see that our unit,"
+8IHqntr8FjY,350539,353181,in fact both of our units have the SSD installed
+8IHqntr8FjY,353181,356351,on the left and there's no chip down here.
+8IHqntr8FjY,356351,358512,So my guess would be that this has more to do
+8IHqntr8FjY,358512,361992,with the front IO and less to do with the SSDs because
+8IHqntr8FjY,361992,365170,"as we know, Apple puts their SSD controllers directly"
+8IHqntr8FjY,365170,366698,on their M1 SOC.
+8IHqntr8FjY,366698,369495,So these are gonna be wired up directly to the SOC.
+8IHqntr8FjY,369495,371853,I gotta give myself credit for nailing that this
+8IHqntr8FjY,371853,373253,wasn't an SSD before.
+8IHqntr8FjY,373253,374310,I think anyone else did.
+8IHqntr8FjY,374310,377070,I was on Owen show right after I had checked
+8IHqntr8FjY,377071,378085,out Anthony Short circuit.
+8IHqntr8FjY,378085,378918,And I was like
+8IHqntr8FjY,378918,380156,I don't see a controller or a D1 on there.
+8IHqntr8FjY,380156,381261,That's right ladies and gentlemen
+8IHqntr8FjY,381261,383223,we've got four none flash packages.
+8IHqntr8FjY,383223,386653,"And that's all she wrote, which is probably"
+8IHqntr8FjY,386653,389102,actually why it has two slots in the first place.
+8IHqntr8FjY,389102,392063,Because in order to hit that eight terabytes of capacity
+8IHqntr8FjY,392063,393801,they're gonna need yeah.
+8IHqntr8FjY,393801,395616,At least eight packages with current technology
+8IHqntr8FjY,395616,396449,as far as I'm aware.
+8IHqntr8FjY,396449,399139,"Hey, where's that at sabrent eight terabyte SSD."
+8IHqntr8FjY,399139,401743,Yes. Confirmed sabrent is using eight packages
+8IHqntr8FjY,401743,403078,to hit eight terabytes.
+8IHqntr8FjY,403078,404901,So that's probably why we haven't seen any loaded
+8IHqntr8FjY,404901,406931,with two already because the eight terabyte one
+8IHqntr8FjY,406931,408310,is so expensive and not too many people are gonna
+8IHqntr8FjY,408310,409798,be ordering it and ripping it open.
+8IHqntr8FjY,409798,411214,Enough about that though.
+8IHqntr8FjY,411214,413214,Ready to do an SSD swap.
+8IHqntr8FjY,415081,417147,"Unlike our power supplies, everything about"
+8IHqntr8FjY,417147,419077,our flash storage modules appears
+8IHqntr8FjY,419077,421334,to be identical other than the colors of tape
+8IHqntr8FjY,421334,422167,that we put on them.
+8IHqntr8FjY,422167,424733,So I'm expecting this to go off without a hitch
+8IHqntr8FjY,424733,426269,as long as Apple didn't lock it.
+8IHqntr8FjY,426269,428610,But I wanna talk in a bit more depth about why
+8IHqntr8FjY,428610,433430,I called this a flash storage module rather than an SSD.
+8IHqntr8FjY,433430,436966,"An SSD has three main components, flash storage."
+8IHqntr8FjY,436967,439045,So those are the chips right there.
+8IHqntr8FjY,439045,441351,"You can see the analogs right there between the two,"
+8IHqntr8FjY,441351,442995,often a DRAM cache though
+8IHqntr8FjY,442995,445237,that's not a given and a controller
+8IHqntr8FjY,445237,448401,but Apple is conspicuously missing both a cache
+8IHqntr8FjY,448401,451040,and a controller that's because Apple moved
+8IHqntr8FjY,451040,452998,this from the SSD.
+8IHqntr8FjY,452998,456382,So this is not a full SSD onto their M1 Silicon.
+8IHqntr8FjY,456382,457961,And there are a number
+8IHqntr8FjY,457962,460693,"of good reasons to do this, security, performance"
+8IHqntr8FjY,460693,463427,and perhaps most importantly cost.
+8IHqntr8FjY,463427,466010,One of these controllers is gonna be a couple
+8IHqntr8FjY,466010,468905,"of dollars on every single unit, putting it"
+8IHqntr8FjY,468905,472193,in the Silicon of the diode means it is now pennies.
+8IHqntr8FjY,472193,474875,"Now in the long ago past, allocating diode to anything other"
+8IHqntr8FjY,474875,478319,"than compute and connectivity, would've been unthinkable"
+8IHqntr8FjY,478319,481113,but over time as transistors have continued to shrink
+8IHqntr8FjY,481113,483349,and especially now as modular
+8IHqntr8FjY,483349,487274,and chip designs are becoming more and more popular
+8IHqntr8FjY,487274,490225,adding a little bit of diode here for something
+8IHqntr8FjY,490226,493002,"like an SSD controller, isn't as much of a problem."
+8IHqntr8FjY,493002,496498,And it's very clear that Apple does not care
+8IHqntr8FjY,496498,499753,how large their diode gets for their M1 Silicon.
+8IHqntr8FjY,499753,502164,"What this means though, is that we can't think"
+8IHqntr8FjY,502165,504366,of these things as SSDs.
+8IHqntr8FjY,504366,507697,And it makes sense that you can't just willy-nilly
+8IHqntr8FjY,507697,510966,swap the flash storage around because you also
+8IHqntr8FjY,510967,515016,cannot do that on a regular SSD because unlike a hard drive
+8IHqntr8FjY,515016,518276,bits are not stored in any kind of sequential fashion
+8IHqntr8FjY,518276,521085,and only the controller knows where every zero
+8IHqntr8FjY,521085,522917,and one is supposed to be.
+8IHqntr8FjY,522917,525485,"However, there should be no reason that changing out"
+8IHqntr8FjY,525485,529967,the SSD and completely formatting it fresh shouldn't work.
+8IHqntr8FjY,529967,531182,So let's go ahead and proceed.
+8IHqntr8FjY,531182,533878,One nice thing is that it looks like these little
+8IHqntr8FjY,533878,535941,I would've initially thought there are thermal pads
+8IHqntr8FjY,535941,538889,but now I'm feeling like they're more EMI shields.
+8IHqntr8FjY,538890,539848,They're still sticky
+8IHqntr8FjY,539848,541796,which means I should be able to just reuse it.
+8IHqntr8FjY,541796,542700,Very nice. Love it.
+8IHqntr8FjY,542700,545138,I love that I don't have to like basically reassemble
+8IHqntr8FjY,545138,547386,this thing at all in order to test it.
+8IHqntr8FjY,547386,549574,- You should probably put the other bit
+8IHqntr8FjY,549574,550972,of the cage in there first.
+8IHqntr8FjY,550972,552519,- Fine. I'll put that in.
+8IHqntr8FjY,552519,553352,It's probably fine.
+8IHqntr8FjY,553352,554185,"Yeah, it's fine."
+8IHqntr8FjY,554185,557773,Could I just get a few of like A4 paper or something?
+8IHqntr8FjY,557773,558852,"- Well, it's not on so."
+8IHqntr8FjY,558852,559873,"- Oh, is it not?"
+8IHqntr8FjY,559873,561832,- No. I see lights flashing inside.
+8IHqntr8FjY,561832,562665,- Yes.
+8IHqntr8FjY,562665,563678,"- Oh, - It's saying SOS."
+8IHqntr8FjY,563679,564512,"- Oh, it's mad."
+8IHqntr8FjY,564512,565508,Oh right.
+8IHqntr8FjY,565508,567009,'Cause I swapped to the SSD.
+8IHqntr8FjY,567009,567842,- Yeah.
+8IHqntr8FjY,567842,569266,"- Oh, balls. You think there would be something"
+8IHqntr8FjY,569266,571152,on the screen instead of just flashing a red thing.
+8IHqntr8FjY,571152,573039,I mean they clearly know what the problem is.
+8IHqntr8FjY,573039,574781,There's a blink code here.
+8IHqntr8FjY,574781,576358,- Yeah. And in the past they actually
+8IHqntr8FjY,576358,577766,had recovery environments.
+8IHqntr8FjY,577767,581097,So you could reflash all of the stuff on here.
+8IHqntr8FjY,581097,582295,we just connect to the internet
+8IHqntr8FjY,582296,583319,in the recovery environment.
+8IHqntr8FjY,583319,584152,- Yeah.
+8IHqntr8FjY,584152,585358,- Do all the stuff for you.
+8IHqntr8FjY,585358,586191,You can't anymore.
+8IHqntr8FjY,586191,587279,"- Oh, why?"
+8IHqntr8FjY,587280,588518,- It's a great question.
+8IHqntr8FjY,588518,589351,- So what do you do?
+8IHqntr8FjY,589351,592153,"- Well, you have to read this little document here"
+8IHqntr8FjY,592153,593508,and use another Mac.
+8IHqntr8FjY,593508,596005,- You have to have another Mac to restore your Mac.
+8IHqntr8FjY,596005,597472,- You have to have another Mac.
+8IHqntr8FjY,597472,599128,- It's infuriating.
+8IHqntr8FjY,599129,601626,It's like the way Apple treats their customers.
+8IHqntr8FjY,601626,604621,"Oh, you didn't buy enough of our products."
+8IHqntr8FjY,604622,605580,Well.
+8IHqntr8FjY,605580,608247,(host laughing)
+8IHqntr8FjY,611020,612080,"- That was creepy but accurate, yeah."
+8IHqntr8FjY,612080,614487,- Like I'm their customer am I not?
+8IHqntr8FjY,614487,616847,"Oh, you're not, not a real customer."
+8IHqntr8FjY,616847,618845,Plug the Mac computers together
+8IHqntr8FjY,618845,621053,with a supported USBC cable.
+8IHqntr8FjY,621053,623220,What supported USBC cable?
+8IHqntr8FjY,624079,625897,Does it have to be an Apple one or what?
+8IHqntr8FjY,625898,627029,- I don't think so.
+8IHqntr8FjY,627029,629646,- Please tell me there's no BS chip in it.
+8IHqntr8FjY,629646,632073,It really put the FU and DFU mode.
+8IHqntr8FjY,632073,635262,"In fact, you have to own a second Mac to do this."
+8IHqntr8FjY,635262,636538,- It will take a little while
+8IHqntr8FjY,636538,639818,for this to fully install the OS.
+8IHqntr8FjY,639818,640651,"- Well, that's perfect"
+8IHqntr8FjY,640651,642311,"'Cause I have a conference call right now, but wait"
+8IHqntr8FjY,642311,646217,that means we've made it at least as far as that swapping
+8IHqntr8FjY,646218,648229,it worked a hundred percent of the time for us.
+8IHqntr8FjY,648229,649062,- Yep.
+8IHqntr8FjY,649062,650155,- So unlike the people who said
+8IHqntr8FjY,650155,654049,that they did have difficulty with some of their swaps
+8IHqntr8FjY,654049,657108,we managed a 100% success rate sample sizes too.
+8IHqntr8FjY,657108,657941,- Yep.
+8IHqntr8FjY,657941,658774,- Okay.
+8IHqntr8FjY,660818,661828,(upbeat music)
+8IHqntr8FjY,661828,663001,we're back and it worked.
+8IHqntr8FjY,663001,664321,- It sort of worked.
+8IHqntr8FjY,664321,665397,Oh it didn't work.
+8IHqntr8FjY,665397,667522,And then I did it again exactly the same way.
+8IHqntr8FjY,667522,668511,And then it worked.
+8IHqntr8FjY,668511,669344,"- Oh, okay."
+8IHqntr8FjY,669344,671527,Well it ultimately worked
+8IHqntr8FjY,671527,674235,"which answers one question, which is,"
+8IHqntr8FjY,674235,677000,can you change out your SSD if due to
+8IHqntr8FjY,677000,678814,a defect or whatever else?
+8IHqntr8FjY,678814,681229,And the answer is yes.
+8IHqntr8FjY,681229,684142,But it still leaves one question pending.
+8IHqntr8FjY,684142,686100,What if you wanted to upgrade
+8IHqntr8FjY,686100,689350,say go from 512 gigs to four terabytes.
+8IHqntr8FjY,690811,694477,"If you can swap two, 512 gig modules,"
+8IHqntr8FjY,694477,696395,then surely nothing would prevent you
+8IHqntr8FjY,696395,698277,from putting in a larger one.
+8IHqntr8FjY,698277,699962,Would it? Let's find out.
+8IHqntr8FjY,699962,701087,That's interesting.
+8IHqntr8FjY,701087,704329,I had said that I thought power was being delivered
+8IHqntr8FjY,704330,706322,via these two bands right here.
+8IHqntr8FjY,706322,707855,"And I had said, oh, that's such a cool design."
+8IHqntr8FjY,707855,710349,Power's not connected until it's plugged all the way in.
+8IHqntr8FjY,710349,711626,I was wrong about that.
+8IHqntr8FjY,711626,714016,It looks like those are both just for grounding.
+8IHqntr8FjY,714016,715873,And since they're not hot swappable
+8IHqntr8FjY,715873,717441,there'd be no reason to care about power
+8IHqntr8FjY,717441,718998,not being connected until later.
+8IHqntr8FjY,718998,722019,Anyway. So just wanna correct that.
+8IHqntr8FjY,722020,723158,Are you ready?
+8IHqntr8FjY,723158,725757,"Theoretically, this is a one terabyte Mac studio now."
+8IHqntr8FjY,725757,729215,- Well you probably need to do the whole DFU thing again.
+8IHqntr8FjY,729215,730299,"- Well, you know sure."
+8IHqntr8FjY,730299,731132,Let's just see.
+8IHqntr8FjY,731132,732779,Maybe it'll magically work.
+8IHqntr8FjY,732779,734067,- It didn't wait.
+8IHqntr8FjY,734067,734932,- Will this work?
+8IHqntr8FjY,734932,735890,- Shouldn't.
+8IHqntr8FjY,735890,737721,"- If this works, that's kind of awesome."
+8IHqntr8FjY,737721,739304,That means third parties would be able
+8IHqntr8FjY,739304,742091,to make these flash modules conceivably
+8IHqntr8FjY,742091,744331,and you could actually have cheap SSD upgrades.
+8IHqntr8FjY,744331,745779,- That would be awesome.
+8IHqntr8FjY,745780,747205,- Flash module upgrades.
+8IHqntr8FjY,747205,748780,"Well, it's an SSD upgrade"
+8IHqntr8FjY,748780,752251,if you update the flash of an SSD.
+8IHqntr8FjY,752251,754668,"Installing system, holy crap."
+8IHqntr8FjY,755891,757545,Holy crap.
+8IHqntr8FjY,757545,758682,Is this gonna work?
+8IHqntr8FjY,758682,760544,Did we already talk about how Scotty
+8IHqntr8FjY,760544,762575,from strange parts managed to change out
+8IHqntr8FjY,762575,763698,the flash on an iPhone?
+8IHqntr8FjY,763698,764531,- Oh yeah.
+8IHqntr8FjY,764531,765364,And it just detected it.
+8IHqntr8FjY,765364,767683,He just plugged it in to restore and it worked.
+8IHqntr8FjY,767683,772258,"- Which shows you that even with all of Apple, really."
+8IHqntr8FjY,772258,775091,"So even with Apples, SOC security,"
+8IHqntr8FjY,777435,781223,"things that they do like on iPhones, this works"
+8IHqntr8FjY,781223,783689,but they specifically go out
+8IHqntr8FjY,783689,787349,of their way to prevent you from doing it on the Mac studio.
+8IHqntr8FjY,787349,790516,Now technically we have not tried just
+8IHqntr8FjY,791554,793218,putting a higher capacity
+8IHqntr8FjY,793218,797292,single module in it's possible that might work.
+8IHqntr8FjY,797292,798356,Has anyone tried that yet?
+8IHqntr8FjY,798356,800773,- Other people have tried it and it's never worked
+8IHqntr8FjY,800773,803563,- Unreal because you know
+8IHqntr8FjY,803563,806001,"Apple has the tools to change this, right?"
+8IHqntr8FjY,806001,809996,There's absolutely no way that Apple produces
+8IHqntr8FjY,809996,813746,these main boards and hard locks them forever
+8IHqntr8FjY,814672,818055,to a particular capacity flash module.
+8IHqntr8FjY,818055,821388,"In fact, the fact that there is no logic"
+8IHqntr8FjY,822659,825390,on the flash module is even less reason
+8IHqntr8FjY,825390,826672,for this to be locked down
+8IHqntr8FjY,826672,829909,"in any way because the actual controller,"
+8IHqntr8FjY,829909,833398,any security reason that they might provide
+8IHqntr8FjY,833398,838398,"for doing this all on the SOC anyway, they're just flash."
+8IHqntr8FjY,838431,840427,It's just ones and zeros.
+8IHqntr8FjY,840427,843434,I was almost ready to be impressed.
+8IHqntr8FjY,843434,846978,Now I'm just super pissed off and you should be too
+8IHqntr8FjY,846978,849570,whether you're an Apple customer or not an Apple customer
+8IHqntr8FjY,849570,852857,this kind of crap affects you because as Apple does.
+8IHqntr8FjY,852857,854683,So does the rest of the industry
+8IHqntr8FjY,854683,857099,- You know what particular really cool about this?
+8IHqntr8FjY,857099,858238,- Nothing.
+8IHqntr8FjY,858238,859742,"- You know, like the 980 pro"
+8IHqntr8FjY,859742,861139,how much do you think it is to go
+8IHqntr8FjY,861139,863610,from half a terabyte to a terabyte?
+8IHqntr8FjY,863611,865691,"- I don't know, like 40 bucks, 50 bucks."
+8IHqntr8FjY,865691,867246,- It's 80 bucks for them.
+8IHqntr8FjY,867246,869696,How much do you think it is for Apple on this?
+8IHqntr8FjY,869697,871206,"- I don't know, 150."
+8IHqntr8FjY,871206,872164,- 200.
+8IHqntr8FjY,872164,876081,- $200. And that is why Apple does not want you
+8IHqntr8FjY,877602,880904,"upgrading your own flash module, that (beep) you."
+8IHqntr8FjY,880904,882487,Those are the only two reasons.
+8IHqntr8FjY,882487,883829,"Man, in researching this,"
+8IHqntr8FjY,883829,887022,I read some of the worst possible takes.
+8IHqntr8FjY,887022,888040,"You know, you got people talking"
+8IHqntr8FjY,888040,890582,about how well the M1 is architect different
+8IHqntr8FjY,890582,892538,and that's why you need to do it this way.
+8IHqntr8FjY,892539,895945,As though Apple didn't design it from the ground up
+8IHqntr8FjY,895945,898210,as though Apple had a gun to their head
+8IHqntr8FjY,898210,900640,that they have to design it like this.
+8IHqntr8FjY,900640,901773,There's nothing else to do.
+8IHqntr8FjY,901773,905003,Apple locks it through firmware.
+8IHqntr8FjY,905003,906882,There's no reason they have to do that
+8IHqntr8FjY,906882,908481,but they do it anyway.
+8IHqntr8FjY,908481,912364,And unless their customers make great big stink about it
+8IHqntr8FjY,912364,914443,they're just gonna keep on doing this kind of thing.
+8IHqntr8FjY,914443,916763,"By the way, when I say they're customers, I mean me too"
+8IHqntr8FjY,916763,918491,I just bought two (beep) Mac studios.
+8IHqntr8FjY,918491,919501,Am I not a customer?
+8IHqntr8FjY,919501,922571,Tell you who you should be a customer of our sponsor.
+8IHqntr8FjY,922571,924287,- Squarespace need a website
+8IHqntr8FjY,924288,925897,but don't have the knowhow?
+8IHqntr8FjY,925897,927350,Squarespace makes it easy.
+8IHqntr8FjY,927350,929623,There's a wide selection of award-winning templates
+8IHqntr8FjY,929624,930854,all optimized for mobile.
+8IHqntr8FjY,930854,932372,So it looks great on any device.
+8IHqntr8FjY,932372,933935,You can create members only content
+8IHqntr8FjY,933935,936814,for actual revenue using Squarespace's members areas
+8IHqntr8FjY,936814,938634,and you can grow and engage your audience
+8IHqntr8FjY,938634,941347,with a powerful and easy to use email campaign system.
+8IHqntr8FjY,941347,942816,If you also need additional help
+8IHqntr8FjY,942816,945360,Squarespace also offers webinars has a full series
+8IHqntr8FjY,945360,946193,of help guides
+8IHqntr8FjY,946193,948613,or you can contact their 24/7 customer support
+8IHqntr8FjY,948613,950774,by a live chat and email.
+8IHqntr8FjY,950775,951967,So get started today and head
+8IHqntr8FjY,951967,956967,to squarespace.com/ltt to get 10% off your first purchase.
+8IHqntr8FjY,957076,959410,- If this video made you angry and you need a detox
+8IHqntr8FjY,959410,961834,maybe go check out Bunta the sleeper PC.
+8IHqntr8FjY,961835,965621,"It's a super cool rig, crazy powerful and it looks awesome."

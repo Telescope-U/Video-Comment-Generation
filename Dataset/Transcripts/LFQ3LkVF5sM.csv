@@ -1,330 +1,393 @@
 vid,start,end,text
-LFQ3LkVF5sM,80,3679,this is not the future of the pc
-LFQ3LkVF5sM,3679,6319,this is if the enthusiast in you screams
-LFQ3LkVF5sM,6319,9440,that no you can't just replace gpus and
-LFQ3LkVF5sM,9440,12719,cpus with integrated socs i am here to
-LFQ3LkVF5sM,12719,16560,tell you that apple silicon gober apple
-LFQ3LkVF5sM,16560,19119,obviously knows it and make no mistake
-LFQ3LkVF5sM,19119,22640,intel amd and nvidia all know it too the
-LFQ3LkVF5sM,22640,24320,writing is on the wall and now it's just
-LFQ3LkVF5sM,24320,27599,a matter of time pcs need to change
-LFQ3LkVF5sM,27599,29679,and i'm going to tell you how
-LFQ3LkVF5sM,29679,31359,and why right after i tell you about our
-LFQ3LkVF5sM,31359,34000,sponsor glasswire glasswire lets you see
-LFQ3LkVF5sM,34000,36160,past and present network activity detect
-LFQ3LkVF5sM,36160,38320,malware on your pc or android device and
-LFQ3LkVF5sM,38320,39840,block its connections to prevent things
-LFQ3LkVF5sM,39840,41920,from getting worse use offer code linus
-LFQ3LkVF5sM,41920,45839,for 25 off at the link below
-LFQ3LkVF5sM,53440,55360,a lot of you really liked our how to
-LFQ3LkVF5sM,55360,57120,build a pc the last guide you'll ever
-LFQ3LkVF5sM,57120,60079,need and i'm really glad that you do
-LFQ3LkVF5sM,60079,62559,because it took so much effort to make
-LFQ3LkVF5sM,62559,65119,but look at that run time and it could
-LFQ3LkVF5sM,65119,66880,have been even longer
-LFQ3LkVF5sM,66880,68960,think about how many components go into
-LFQ3LkVF5sM,68960,71280,a typical pc build and then look at this
-LFQ3LkVF5sM,71280,74320,unassuming little box the mac studio in
-LFQ3LkVF5sM,74320,76560,our testing the m1 ultra variant pulled
-LFQ3LkVF5sM,76560,78200,a grand total of
-LFQ3LkVF5sM,78200,81600,223.4 watts from the wall under the
-LFQ3LkVF5sM,81600,83600,heaviest load that we could give it and
-LFQ3LkVF5sM,83600,85600,the m1 max version didn't even break
-LFQ3LkVF5sM,85600,88159,three digits if we ignore the rosetta
-LFQ3LkVF5sM,88159,91200,results they achieved 88 and 61 percent
-LFQ3LkVF5sM,91200,94400,respectively of the core i9 12900k and
-LFQ3LkVF5sM,94400,97280,rtx 3090 bench's overall performance in
-LFQ3LkVF5sM,97280,99840,our productivity testing at just 34 and
-LFQ3LkVF5sM,99840,103200,15 of the total system power at most the
-LFQ3LkVF5sM,103200,104560,12 900k
-LFQ3LkVF5sM,104560,107920,the cpu alone can draw more power than
-LFQ3LkVF5sM,107920,111040,the whole m1 ultra mac studio and
-LFQ3LkVF5sM,111040,112880,developers are still figuring out how to
-LFQ3LkVF5sM,112880,115680,optimize for apple silicon now
-LFQ3LkVF5sM,115680,117759,look at that pc and all its components
-LFQ3LkVF5sM,117759,120000,again all the raw materials that go into
-LFQ3LkVF5sM,120000,122320,making it what it is it's wasteful right
-LFQ3LkVF5sM,122320,124560,in almost every way except economically
-LFQ3LkVF5sM,124560,127200,it's not that x86 is inherently bad but
-LFQ3LkVF5sM,127200,129840,it has limitations that even intel have
-LFQ3LkVF5sM,129840,131920,tried to overcome themselves with
-LFQ3LkVF5sM,131920,134560,projects like titanium while extensions
-LFQ3LkVF5sM,134560,136480,have given it more life its complex
-LFQ3LkVF5sM,136480,139120,instruction set design is at its core an
-LFQ3LkVF5sM,139120,140720,old one that dates back to the late
-LFQ3LkVF5sM,140720,145120,1970s literally every x86 based cpu
-LFQ3LkVF5sM,145120,148160,boots up in 8086 compatibility mode and
-LFQ3LkVF5sM,148160,151440,can in theory run software made for the
-LFQ3LkVF5sM,151440,155280,og ibm pc precious die space and
-LFQ3LkVF5sM,155280,156959,transistors are used for supporting
-LFQ3LkVF5sM,156959,159040,instructions and modes that might be
-LFQ3LkVF5sM,159040,161519,redundant or not even remotely useful
-LFQ3LkVF5sM,161519,164160,today but must be there to maintain
-LFQ3LkVF5sM,164160,166319,compatibility with the architecture and
-LFQ3LkVF5sM,166319,168720,now if i'm intel or amd looking at my
-LFQ3LkVF5sM,168720,171360,options i'm sweating a little and
-LFQ3LkVF5sM,171360,173760,weighing a switch to arm while neither
-LFQ3LkVF5sM,173760,176800,currently sells an armed cpu both hold
-LFQ3LkVF5sM,176800,179519,armed licenses and amd is on record
-LFQ3LkVF5sM,179519,181680,saying that they're willing and able to
-LFQ3LkVF5sM,181680,184879,do it it wasn't that long ago even that
-LFQ3LkVF5sM,184879,187360,intel had their own reduced instruction
-LFQ3LkVF5sM,187360,190800,set cpu called the i860 and i-960 and
-LFQ3LkVF5sM,190800,192400,you'd be kidding yourself if you thought
-LFQ3LkVF5sM,192400,194080,they weren't prototyping stuff on the
-LFQ3LkVF5sM,194080,195920,side like apple was when they were
-LFQ3LkVF5sM,195920,198480,suffering through 14 nanometer plus plus
-LFQ3LkVF5sM,198480,201200,plus a change in the pc industry would
-LFQ3LkVF5sM,201200,202879,of course have a teething period like
-LFQ3LkVF5sM,202879,204959,apple silicon is currently experiencing
-LFQ3LkVF5sM,204959,208000,but it could eventually be a good thing
-LFQ3LkVF5sM,208000,210159,and not just for efficiency think about
-LFQ3LkVF5sM,210159,213200,it intel and amd are alone in the cpu
-LFQ3LkVF5sM,213200,215519,race right now just like amd and nvidia
-LFQ3LkVF5sM,215519,218799,are currently alone in the gpu race and
-LFQ3LkVF5sM,218799,221280,if intel had their way in the 90s or in
-LFQ3LkVF5sM,221280,224400,2015 there'd be only one
-LFQ3LkVF5sM,224400,226000,thanks to intel's control over
-LFQ3LkVF5sM,226000,227599,performance and efficiency enhancing
-LFQ3LkVF5sM,227599,230400,extensions used on modern cpus like sse
-LFQ3LkVF5sM,230400,232640,and avx and amd's control over the
-LFQ3LkVF5sM,232640,235760,64-bit extensions that every desktop cpu
-LFQ3LkVF5sM,235760,238159,since core 2 has used we don't have any
-LFQ3LkVF5sM,238159,240400,other desktop cpu manufacturers anyone
-LFQ3LkVF5sM,240400,242400,entering the x86 market would have to
-LFQ3LkVF5sM,242400,244720,reverse engineer those extensions to
-LFQ3LkVF5sM,244720,246799,compete because amd and intel have a
-LFQ3LkVF5sM,246799,248159,technology sharing agreement that
-LFQ3LkVF5sM,248159,250879,forbids sub licensing and expires if
-LFQ3LkVF5sM,250879,253760,either company changes hands by contrast
-LFQ3LkVF5sM,253760,256400,arm doesn't sell anything directly they
-LFQ3LkVF5sM,256400,258400,develop the base specifications and then
-LFQ3LkVF5sM,258400,260239,they license that to other companies who
-LFQ3LkVF5sM,260239,261919,then have the option of tweaking and
-LFQ3LkVF5sM,261919,263520,adding to those designs to tailor them
-LFQ3LkVF5sM,263520,265919,to suit their needs this is how apple
-LFQ3LkVF5sM,265919,268320,silicon came to be and if arm took off
-LFQ3LkVF5sM,268320,270720,on the desktop we could see not only
-LFQ3LkVF5sM,270720,273520,mobile players like qualcomm samsung and
-LFQ3LkVF5sM,273520,275759,mediatek enter the ring but maybe google
-LFQ3LkVF5sM,275759,277919,or even hp they used to make their own
-LFQ3LkVF5sM,277919,280800,cpus once too and we can't forget nvidia
-LFQ3LkVF5sM,280800,283759,whose last consumer arm soc uses gpu
-LFQ3LkVF5sM,283759,286160,cores from 2014 and lives on in the
-LFQ3LkVF5sM,286160,288800,nintendo switch and shield tv plus
-LFQ3LkVF5sM,288800,291120,actually it's kind of bizarre that
-LFQ3LkVF5sM,291120,293199,nvidia hasn't continued to produce
-LFQ3LkVF5sM,293199,296080,consumer socs like perhaps contractual
-LFQ3LkVF5sM,296080,297840,obligations within and outside of
-LFQ3LkVF5sM,297840,299759,nvidia's control had something to do
-LFQ3LkVF5sM,299759,301759,with it because not only were they close
-LFQ3LkVF5sM,301759,304160,to straight up buying arm a sign that
-LFQ3LkVF5sM,304160,305840,they knew times were changing but
-LFQ3LkVF5sM,305840,308320,they're also still actively developing
-LFQ3LkVF5sM,308320,311199,arm socs just not for consumers their
-LFQ3LkVF5sM,311199,313120,grace data center soc for ali
-LFQ3LkVF5sM,313120,315280,acceleration has a surprisingly similar
-LFQ3LkVF5sM,315280,317120,level of integration to apple silicon on
-LFQ3LkVF5sM,317120,319680,paper and is just begging to be scaled
-LFQ3LkVF5sM,319680,321680,down so that consumers can use it just
-LFQ3LkVF5sM,321680,324400,like the tesla's and not quadro gpus do
-LFQ3LkVF5sM,324400,327600,with g-force but let's back up a sec
-LFQ3LkVF5sM,327600,331759,duopoly aside if x86 is so bad and arm
-LFQ3LkVF5sM,331759,335120,is so good why is x86 still the king of
-LFQ3LkVF5sM,335120,338720,the pc well prior to apple silicon
-LFQ3LkVF5sM,338720,342000,you'd be forgiven for thinking that arm
-LFQ3LkVF5sM,342000,344240,chips simply can't perform
-LFQ3LkVF5sM,344240,347759,like intel and amd qualcomm has a
-LFQ3LkVF5sM,347759,350800,virtual monopoly over non-apple arm pcs
-LFQ3LkVF5sM,350800,353039,and a literal monopoly in the windows
-LFQ3LkVF5sM,353039,355039,ecosystem thanks to an exclusivity
-LFQ3LkVF5sM,355039,357039,agreement with microsoft when that deal
-LFQ3LkVF5sM,357039,358800,was penned it probably did make some
-LFQ3LkVF5sM,358800,361280,sense qualcomm was the third biggest
-LFQ3LkVF5sM,361280,364240,chip maker even as of mid-2020 and
-LFQ3LkVF5sM,364240,366080,there's still a giant who's recently
-LFQ3LkVF5sM,366080,368400,been eyeing a slice of the arm pie for
-LFQ3LkVF5sM,368400,371039,themselves so assuming qualcomm would
-LFQ3LkVF5sM,371039,373120,become the biggest supplier of desktop
-LFQ3LkVF5sM,373120,375440,arm chips it made sense for microsoft to
-LFQ3LkVF5sM,375440,377440,want to optimize for that hardware
-LFQ3LkVF5sM,377440,379919,unfortunately for microsoft and for us
-LFQ3LkVF5sM,379919,382240,there is no polite way to put this even
-LFQ3LkVF5sM,382240,384639,qualcomm's latest chips suck which
-LFQ3LkVF5sM,384639,386479,recently prompted google to follow
-LFQ3LkVF5sM,386479,388319,samsung and apple and going their own
-LFQ3LkVF5sM,388319,390160,way with tensor and may eventually
-LFQ3LkVF5sM,390160,392000,prompt microsoft to do the same
-LFQ3LkVF5sM,392000,394160,qualcomm's utter failure to compete in
-LFQ3LkVF5sM,394160,396960,the pc space so far has given intel amd
-LFQ3LkVF5sM,396960,399360,and especially nvidia precious breathing
-LFQ3LkVF5sM,399360,401360,room and we're not saying that the pc as
-LFQ3LkVF5sM,401360,403520,we know it is dead today it definitely
-LFQ3LkVF5sM,403520,405600,still has some life left and they'll
-LFQ3LkVF5sM,405600,408560,first probably try to integrate x86 socs
-LFQ3LkVF5sM,408560,410080,more tightly before they consider
-LFQ3LkVF5sM,410080,412160,switching over intel for example could
-LFQ3LkVF5sM,412160,413919,very well be working on an soc that
-LFQ3LkVF5sM,413919,416000,combines alder lake's efficiency cores
-LFQ3LkVF5sM,416000,417919,with a larger number of xc graphics
-LFQ3LkVF5sM,417919,419680,cores and ai engine blocks taking the
-LFQ3LkVF5sM,419680,421360,dye space that would otherwise have been
-LFQ3LkVF5sM,421360,422960,allocated to the bigger performance
-LFQ3LkVF5sM,422960,425759,cores even so reduced instruction set
-LFQ3LkVF5sM,425759,427680,architectures proved their worth in the
-LFQ3LkVF5sM,427680,430000,late 90s with early arm licenses and
-LFQ3LkVF5sM,430000,432479,with power pc which was famously used in
-LFQ3LkVF5sM,432479,435360,the first imax clock for clock power pc
-LFQ3LkVF5sM,435360,437440,tended to outperform x86 by a wide
-LFQ3LkVF5sM,437440,439199,margin though this did depend on the
-LFQ3LkVF5sM,439199,441199,task and eventually powerpc hit a
-LFQ3LkVF5sM,441199,442639,performance and efficiency wall just
-LFQ3LkVF5sM,442639,445680,like x86 is today intel's titanium for
-LFQ3LkVF5sM,445680,447599,its part was supposed to be a sort of
-LFQ3LkVF5sM,447599,450319,successor to risk as a concept by using
-LFQ3LkVF5sM,450319,453120,one hp termed explicitly parallel
-LFQ3LkVF5sM,453120,456560,instruction computing or epic yes
-LFQ3LkVF5sM,456560,458639,naming has always been bad unlike our
-LFQ3LkVF5sM,458639,461280,swag it from ltdstore.com it describes
-LFQ3LkVF5sM,461280,463680,exactly what it is a sweater and a
-LFQ3LkVF5sM,463680,466560,jacket as we know today titanium didn't
-LFQ3LkVF5sM,466560,469120,work out so well still even intel saw
-LFQ3LkVF5sM,469120,471360,that the x86's days were numbered their
-LFQ3LkVF5sM,471360,473599,plan for pentium 4 was more or less to
-LFQ3LkVF5sM,473599,475599,just clock it as high as it would go and
-LFQ3LkVF5sM,475599,477520,hope that the numbers kept going up and
-LFQ3LkVF5sM,477520,479520,now that we're back to this phase again
-LFQ3LkVF5sM,479520,481680,where we can't physically fit more cores
-LFQ3LkVF5sM,481680,483919,on a die because new process nodes are
-LFQ3LkVF5sM,483919,485840,providing less additional density
-LFQ3LkVF5sM,485840,487440,something's got to give
-LFQ3LkVF5sM,487440,489840,the current solution stacking dies will
-LFQ3LkVF5sM,489840,491840,only get you so far when you're already
-LFQ3LkVF5sM,491840,495440,pushing 241 watts by comparison a lot of
-LFQ3LkVF5sM,495440,497680,arm's advantages today come not strictly
-LFQ3LkVF5sM,497680,499360,from its reduced instruction set but
-LFQ3LkVF5sM,499360,500960,from how it's typically bundled into a
-LFQ3LkVF5sM,500960,502639,system-on-chip configuration where
-LFQ3LkVF5sM,502639,504560,virtually the entire computer is super
-LFQ3LkVF5sM,504560,506639,close to the cpu cores why does this
-LFQ3LkVF5sM,506639,508879,matter when we already have apus it's
-LFQ3LkVF5sM,508879,511440,all about density and power draw simply
-LFQ3LkVF5sM,511440,513680,expanding the size of the die isn't
-LFQ3LkVF5sM,513680,515599,normally a good idea from power and
-LFQ3LkVF5sM,515599,517919,thermal perspective but arm cores are
-LFQ3LkVF5sM,517919,520560,typically much smaller than x86 and sip
-LFQ3LkVF5sM,520560,523200,far less power so not only can you fit
-LFQ3LkVF5sM,523200,525360,more of them into the same space
-LFQ3LkVF5sM,525360,527279,you're also not as limited in terms of
-LFQ3LkVF5sM,527279,530320,die size in general m1 ultra's die area
-LFQ3LkVF5sM,530320,533600,is bigger than the rtx 3090 ti let's do
-LFQ3LkVF5sM,533600,534880,a case study
-LFQ3LkVF5sM,534880,538959,amd's 8 core ryzen 7 5700g desktop apus
-LFQ3LkVF5sM,538959,541120,are somewhere between an m1 and m1 pro
-LFQ3LkVF5sM,541120,543839,in terms of die size the apu dedicates
-LFQ3LkVF5sM,543839,545839,just over a quarter of the utilized die
-LFQ3LkVF5sM,545839,548800,space to cpu cores and cache alone and
-LFQ3LkVF5sM,548800,551040,just 10 to the gpu for thermal
-LFQ3LkVF5sM,551040,553120,management there's also a fair amount of
-LFQ3LkVF5sM,553120,555600,unused white space even within the cores
-LFQ3LkVF5sM,555600,558080,themselves meanwhile even m1's big
-LFQ3LkVF5sM,558080,560240,performance cpu cores are tiny by
-LFQ3LkVF5sM,560240,562640,comparison with all cores taking just
-LFQ3LkVF5sM,562640,565680,over 20 percent of that smaller die area
-LFQ3LkVF5sM,565680,568000,the gpu takes up double the relative die
-LFQ3LkVF5sM,568000,570560,space as the apu which means there's way
-LFQ3LkVF5sM,570560,573519,more gpu horsepower on tap and still
-LFQ3LkVF5sM,573519,575360,room for other functions like the
-LFQ3LkVF5sM,575360,577600,massive media engine neural engine and
-LFQ3LkVF5sM,577600,579600,storage controller there's very little
-LFQ3LkVF5sM,579600,581680,white space by comparison not only are
-LFQ3LkVF5sM,581680,583279,those arm cores efficient enough to
-LFQ3LkVF5sM,583279,586080,handle such a compact layout but when so
-LFQ3LkVF5sM,586080,587839,much of the system is contained within
-LFQ3LkVF5sM,587839,589839,it significantly less energy has to be
-LFQ3LkVF5sM,589839,591920,used for signaling which also happens to
-LFQ3LkVF5sM,591920,593920,be much faster if we tried to push an
-LFQ3LkVF5sM,593920,596240,x86 processor to these densities in
-LFQ3LkVF5sM,596240,599120,proximity with this many gpu cores
-LFQ3LkVF5sM,599120,600640,it would quickly become a thermal
-LFQ3LkVF5sM,600640,602560,meltdown event sort of like the opposite
-LFQ3LkVF5sM,602560,605200,of how alex had to save a frozen core i9
-LFQ3LkVF5sM,605200,607920,12900 ks literally frozen go check it
-LFQ3LkVF5sM,607920,609120,out on flow plane along with more
-LFQ3LkVF5sM,609120,611040,exclusive when you're done here and it's
-LFQ3LkVF5sM,611040,614320,scales m1 max sports a larger die than
-LFQ3LkVF5sM,614320,617360,the rtx 3070 and m1 ultra is about a
-LFQ3LkVF5sM,617360,620640,third again bigger than the rtx 3090 ti
-LFQ3LkVF5sM,620640,622959,with the die that large the computy bits
-LFQ3LkVF5sM,622959,625040,of the 3090 ti would take up roughly
-LFQ3LkVF5sM,625040,627680,half the m1 ultra's die area while apple
-LFQ3LkVF5sM,627680,629839,currently dedicates just over a third
-LFQ3LkVF5sM,629839,631440,that means that if apple built a
-LFQ3LkVF5sM,631440,633680,dedicated big chip design and weren't
-LFQ3LkVF5sM,633680,635839,using their own metal api separate from
-LFQ3LkVF5sM,635839,636959,the rest of the industry they
-LFQ3LkVF5sM,636959,639440,legitimately could reach high-end gpu
-LFQ3LkVF5sM,639440,642000,levels of real world performance a shame
-LFQ3LkVF5sM,642000,644160,that apple had to go their own way
-LFQ3LkVF5sM,644160,646640,but imagine if nvidia were to build such
-LFQ3LkVF5sM,646640,647519,a thing
-LFQ3LkVF5sM,647519,649120,they could corner the arm desktop or
-LFQ3LkVF5sM,649120,651040,notebook space very quickly if
-LFQ3LkVF5sM,651040,652880,developers were on board especially it's
-LFQ3LkVF5sM,652880,654959,not as simple as gluing them together
-LFQ3LkVF5sM,654959,656959,obviously and that geforce power
-LFQ3LkVF5sM,656959,659120,consumption is still a problem but it's
-LFQ3LkVF5sM,659120,661200,also not an impossible hurdle and with
-LFQ3LkVF5sM,661200,663680,the success of apple silicon despite its
-LFQ3LkVF5sM,663680,665839,growing pains it's impossible for the
-LFQ3LkVF5sM,665839,667519,industry to ignore the advantages to
-LFQ3LkVF5sM,667519,669600,this approach you can have excellent
-LFQ3LkVF5sM,669600,671519,performance coupled with incredibly low
-LFQ3LkVF5sM,671519,673200,power draw on a much more open
-LFQ3LkVF5sM,673200,675839,architecture that allows for bigger or
-LFQ3LkVF5sM,675839,677680,more aspirational system integrators to
-LFQ3LkVF5sM,677680,679600,tweak things as they see fit this
-LFQ3LkVF5sM,679600,681519,potential future will suck for
-LFQ3LkVF5sM,681519,683200,enthusiasts who like getting their hands
-LFQ3LkVF5sM,683200,685279,dirty but the alternative is laid bare
-LFQ3LkVF5sM,685279,687680,before us power targets shooting up at
-LFQ3LkVF5sM,687680,689279,record pace to the point where we're
-LFQ3LkVF5sM,689279,690720,looking at new connectors to help
-LFQ3LkVF5sM,690720,693360,deliver all the juice this generation of
-LFQ3LkVF5sM,693360,696399,hardware now is already incredibly power
-LFQ3LkVF5sM,696399,698720,hungry with intel and amd squeezing
-LFQ3LkVF5sM,698720,700240,higher and higher frequencies out of
-LFQ3LkVF5sM,700240,701920,their cores and nvidia rumored to
-LFQ3LkVF5sM,701920,704320,require up to 600 watts for their
-LFQ3LkVF5sM,704320,706959,next-gen top-end gpu there's really no
-LFQ3LkVF5sM,706959,709600,backing down we have to ask ourselves
-LFQ3LkVF5sM,709600,711760,is it worth it and at what point does it
-LFQ3LkVF5sM,711760,713519,stop being worth it
-LFQ3LkVF5sM,713519,714880,at least it's always worth listening to
-LFQ3LkVF5sM,714880,717440,the segways the sponsors like backblaze
-LFQ3LkVF5sM,717440,719120,starting at just seven dollars a month
-LFQ3LkVF5sM,719120,721120,backblaze offers an affordable and easy
-LFQ3LkVF5sM,721120,723040,to use cloud backup solution they make
-LFQ3LkVF5sM,723040,724639,it simple by allowing you to backup
-LFQ3LkVF5sM,724639,726639,almost anything from your mac or pc and
-LFQ3LkVF5sM,726639,728399,access it from anywhere in the world via
-LFQ3LkVF5sM,728399,730639,their web or mobile apps backblaze even
-LFQ3LkVF5sM,730639,732320,lets you restore your data by mail a
-LFQ3LkVF5sM,732320,733600,hard drive with your data will be
-LFQ3LkVF5sM,733600,735040,shipped right to your door and once
-LFQ3LkVF5sM,735040,736480,you're done you can return the hard
-LFQ3LkVF5sM,736480,738560,drive within 30 days for a full refund
-LFQ3LkVF5sM,738560,741680,with over 55 billion files restored and
-LFQ3LkVF5sM,741680,743279,two exabytes of data under their
-LFQ3LkVF5sM,743279,745600,management backblaze has got you covered
-LFQ3LkVF5sM,745600,747519,so don't be that person who forgets to
-LFQ3LkVF5sM,747519,749440,back up their important files sign up
-LFQ3LkVF5sM,749440,751519,and get a 15 day free trial with no
-LFQ3LkVF5sM,751519,753040,credit card required today at
-LFQ3LkVF5sM,753040,755680,backblaze.com ltt
-LFQ3LkVF5sM,755680,757040,thanks for watching guys this one's a
-LFQ3LkVF5sM,757040,759040,bit more philosophical than usual so
-LFQ3LkVF5sM,759040,760560,maybe go check out something more down
-LFQ3LkVF5sM,760560,762480,and dirty for a palette cleanser like
-LFQ3LkVF5sM,762480,765040,our 6.9 gigahertz gpu released on six
-LFQ3LkVF5sM,765040,768320,nine it's nice
+LFQ3LkVF5sM,150,3660,- This is not the future of the PC.
+LFQ3LkVF5sM,3660,4740,This is.
+LFQ3LkVF5sM,4740,6516,"If the enthusiast in you screams that,"
+LFQ3LkVF5sM,6517,10200,"""No you can't just replace GPUs and CPUs"
+LFQ3LkVF5sM,10200,12030,"with integrated SoCs."""
+LFQ3LkVF5sM,12030,13740,I am here to tell you
+LFQ3LkVF5sM,13740,14910,"that Apple Silicon,"
+LFQ3LkVF5sM,14910,16110,go brrr.
+LFQ3LkVF5sM,16110,18000,Apple obviously knows it.
+LFQ3LkVF5sM,18000,19260,And make no mistake.
+LFQ3LkVF5sM,19260,21300,"Intel, AMD and NVIDIA"
+LFQ3LkVF5sM,21300,22740,all know it too.
+LFQ3LkVF5sM,22740,23880,The writing is on the wall.
+LFQ3LkVF5sM,23880,25500,And now it's just a matter of time.
+LFQ3LkVF5sM,25500,27810,PCs need to change.
+LFQ3LkVF5sM,27810,30630,And I'm gonna tell you how and why.
+LFQ3LkVF5sM,30630,32375,Right after I tell you about our sponsor.
+LFQ3LkVF5sM,32375,33277,- GlassWire.
+LFQ3LkVF5sM,33277,35940,"GlassWire lets you see past and present network activity,"
+LFQ3LkVF5sM,35940,38430,"detect malware on your PC or Android device,"
+LFQ3LkVF5sM,38430,39420,and block its connections
+LFQ3LkVF5sM,39420,41160,to prevent things from getting worse.
+LFQ3LkVF5sM,41160,44043,Use offer code Linus for 25% off at the link below.
+LFQ3LkVF5sM,46930,49513,(upbeat music)
+LFQ3LkVF5sM,53640,55260,- A lot of you really liked our
+LFQ3LkVF5sM,55260,57899,"How to build a PC, the last guide you'll ever need!"
+LFQ3LkVF5sM,57900,60240,And I'm really glad that you do.
+LFQ3LkVF5sM,60240,62700,Because it took so much effort to make.
+LFQ3LkVF5sM,62700,64830,But look at that run time.
+LFQ3LkVF5sM,64830,66930,And it could have been even longer.
+LFQ3LkVF5sM,66930,68700,Think about how many components
+LFQ3LkVF5sM,68700,70380,go into a typical PC build.
+LFQ3LkVF5sM,70380,73170,And then look at this unassuming little box.
+LFQ3LkVF5sM,73170,74310,The Mac Studio.
+LFQ3LkVF5sM,74310,76470,In our testing the M1 Ultra variant
+LFQ3LkVF5sM,76470,77520,pulled a grand total
+LFQ3LkVF5sM,77520,81359,of 223.4 watts from the wall.
+LFQ3LkVF5sM,81360,82710,Under the heaviest load
+LFQ3LkVF5sM,82710,83670,that we could give it.
+LFQ3LkVF5sM,83670,87060,And the M1 Max version didn't even break three digits.
+LFQ3LkVF5sM,87060,88829,"If we ignore the Rosetta results,"
+LFQ3LkVF5sM,88830,92400,"they achieved 88 and 61% respectively,"
+LFQ3LkVF5sM,92400,94366,of the core I9 12900K
+LFQ3LkVF5sM,94366,97350,and the RTX 3090 benches overall performance
+LFQ3LkVF5sM,97350,98760,in our productivity testing.
+LFQ3LkVF5sM,98760,102210,"At just 34 and 15% of the total system power,"
+LFQ3LkVF5sM,102210,103260,at most.
+LFQ3LkVF5sM,103260,106200,"The 12900K, the CPU alone,"
+LFQ3LkVF5sM,106200,107850,can draw more power
+LFQ3LkVF5sM,107850,111030,than the whole M1 Ultra Mac Studio.
+LFQ3LkVF5sM,111030,112710,And developers are still figuring out
+LFQ3LkVF5sM,112710,114930,how to optimize for Apple Silicon.
+LFQ3LkVF5sM,114930,116940,Now look at that PC
+LFQ3LkVF5sM,116940,118440,and all its components again.
+LFQ3LkVF5sM,118440,119700,All the raw materials
+LFQ3LkVF5sM,119700,121289,that go into making it what it is.
+LFQ3LkVF5sM,121290,122430,"It's wasteful, right?"
+LFQ3LkVF5sM,122430,123450,"In almost every way,"
+LFQ3LkVF5sM,123450,124710,except economically.
+LFQ3LkVF5sM,124710,127229,"It's not that X86 is inherently bad,"
+LFQ3LkVF5sM,127230,128610,but it has limitations
+LFQ3LkVF5sM,128610,131850,that even Intel have tried to overcome themselves.
+LFQ3LkVF5sM,131850,133710,With projects like Itanium.
+LFQ3LkVF5sM,133710,135870,"While extensions have given it more life,"
+LFQ3LkVF5sM,135870,137970,its complex instruction set design
+LFQ3LkVF5sM,137970,139110,"is, at its core,"
+LFQ3LkVF5sM,139110,142230,an old one that dates back to the late 1970s.
+LFQ3LkVF5sM,142230,145890,Literally every x86 base CPU boots up
+LFQ3LkVF5sM,145890,148080,in 8086 compatibility mode.
+LFQ3LkVF5sM,148080,149700,"And can in theory,"
+LFQ3LkVF5sM,149700,154110,run software made for the OG IBM PC.
+LFQ3LkVF5sM,154110,156090,Precious dye space and transistors
+LFQ3LkVF5sM,156090,158519,are used for supporting instructions and modes
+LFQ3LkVF5sM,158520,159810,"that might be redundant,"
+LFQ3LkVF5sM,159810,162239,or not even remotely useful today.
+LFQ3LkVF5sM,162240,165210,But must be there to maintain compatibility
+LFQ3LkVF5sM,165210,166320,with the architecture.
+LFQ3LkVF5sM,166320,168270,"And now if I'm Intel or AMD,"
+LFQ3LkVF5sM,168270,169650,looking at my options.
+LFQ3LkVF5sM,169650,170970,I'm sweating a little.
+LFQ3LkVF5sM,170970,173190,And weighing a switch to Arm.
+LFQ3LkVF5sM,173190,175830,"While neither currently sells an Arm CPU,"
+LFQ3LkVF5sM,175830,178170,both hold Arm licenses.
+LFQ3LkVF5sM,178170,179970,And AMD is on record saying
+LFQ3LkVF5sM,179970,182730,that they're willing and able to do it.
+LFQ3LkVF5sM,182730,184500,"It wasn't that long ago, even."
+LFQ3LkVF5sM,184500,188310,That Intel had their own reduced instructions set CPU
+LFQ3LkVF5sM,188310,190800,called the I860 and I960.
+LFQ3LkVF5sM,190800,192000,And you'd be kidding yourself
+LFQ3LkVF5sM,192000,193980,if you thought that they weren't prototyping stuff
+LFQ3LkVF5sM,193980,194909,on the side.
+LFQ3LkVF5sM,194910,196590,Like Apple was when they were suffering
+LFQ3LkVF5sM,196590,199497,through 14 nm ++++.
+LFQ3LkVF5sM,199497,201360,"A change in the PC industry would,"
+LFQ3LkVF5sM,201360,202193,"of course,"
+LFQ3LkVF5sM,202193,203025,have a teething period
+LFQ3LkVF5sM,203026,205080,like Apple Silicon is currently experiencing.
+LFQ3LkVF5sM,205080,208110,But it could eventually be a good thing.
+LFQ3LkVF5sM,208110,209970,And not just for efficiency.
+LFQ3LkVF5sM,209970,210803,Think about it.
+LFQ3LkVF5sM,210803,214439,Intel and AMD are alone in the CPU race right now.
+LFQ3LkVF5sM,214440,215610,Just like AMD and NVIDIA
+LFQ3LkVF5sM,215610,218370,are currently alone in the GPU race.
+LFQ3LkVF5sM,218370,220349,"And if Intel had their way,"
+LFQ3LkVF5sM,220350,222540,in the '90s or in 2015.
+LFQ3LkVF5sM,222540,224370,There'd be only one.
+LFQ3LkVF5sM,224370,226680,Thanks to Intel's control over performance
+LFQ3LkVF5sM,226680,228390,and efficiency enhancing extensions.
+LFQ3LkVF5sM,228390,231477,Used on modern CPUs like SSE and AVX.
+LFQ3LkVF5sM,231477,234060,And AMDs control over the 64 bit extensions
+LFQ3LkVF5sM,234060,236010,that every desktop CPU
+LFQ3LkVF5sM,236010,237239,since core two has used.
+LFQ3LkVF5sM,237240,240180,We don't have any other desktop CPU manufacturers.
+LFQ3LkVF5sM,240180,242129,Anyone entering the x86 market
+LFQ3LkVF5sM,242130,243690,would have to reverse engineer
+LFQ3LkVF5sM,243690,245340,those extensions to compete.
+LFQ3LkVF5sM,245340,248160,Because AMD and Intel have a technology sharing agreement
+LFQ3LkVF5sM,248160,249960,that forbids sub licensing.
+LFQ3LkVF5sM,249960,252960,And expires if either company changes hands.
+LFQ3LkVF5sM,252960,253950,"By contrast,"
+LFQ3LkVF5sM,253950,256200,Arm doesn't sell anything directly.
+LFQ3LkVF5sM,256200,258269,They develop the base specifications
+LFQ3LkVF5sM,258269,260280,and then they license that to other companies.
+LFQ3LkVF5sM,260280,261959,Who then have the option of tweaking
+LFQ3LkVF5sM,261959,263190,and adding to those designs
+LFQ3LkVF5sM,263190,264900,to tailor them to suit their needs.
+LFQ3LkVF5sM,264900,267540,This is how Apple Silicon came to be.
+LFQ3LkVF5sM,267540,269370,And if Arm took off on the desktop.
+LFQ3LkVF5sM,269370,271620,We could see not only mobile players
+LFQ3LkVF5sM,271620,273570,"like Qualcomm, Samsung"
+LFQ3LkVF5sM,273570,275010,and MediaTek enter the ring.
+LFQ3LkVF5sM,275010,277200,But maybe Google or even HP.
+LFQ3LkVF5sM,277200,279420,They used to make their own CPUs once too.
+LFQ3LkVF5sM,279420,280950,"And we can't forget NVIDIA,"
+LFQ3LkVF5sM,280950,283050,"whose last consumer Arm SoC,"
+LFQ3LkVF5sM,283050,285509,uses GPU cores from 2014.
+LFQ3LkVF5sM,285510,287250,And lives on in the Nintendo Switch
+LFQ3LkVF5sM,287250,288960,and Shield TV+.
+LFQ3LkVF5sM,288960,291060,Actually it's kind of bizarre
+LFQ3LkVF5sM,291060,292740,that NVIDIA hasn't continued
+LFQ3LkVF5sM,292740,294720,to produce consumer SoCs.
+LFQ3LkVF5sM,294720,297000,"Like perhaps contractual obligations,"
+LFQ3LkVF5sM,297000,299190,"within and outside of NVIDIA's control,"
+LFQ3LkVF5sM,299190,300240,had something to do with it.
+LFQ3LkVF5sM,300240,301949,Because not only were they close
+LFQ3LkVF5sM,301950,303900,to straight up buying Arm.
+LFQ3LkVF5sM,303900,305880,A sign that they knew times were changing.
+LFQ3LkVF5sM,305880,309720,But they're also still actively developing Arm SoC's.
+LFQ3LkVF5sM,309720,311130,Just not for consumers.
+LFQ3LkVF5sM,311130,314100,"Their Grace data center SoC for AI acceleration,"
+LFQ3LkVF5sM,314100,316380,has a surprisingly similar level of integration
+LFQ3LkVF5sM,316380,317760,to Apple Silicon on paper.
+LFQ3LkVF5sM,317760,320220,And it's just begging to be scaled down
+LFQ3LkVF5sM,320220,321690,so that consumers can use it.
+LFQ3LkVF5sM,321690,322830,Just like the Teslas
+LFQ3LkVF5sM,322830,325710,and not Quadro GPU's do with GeForce.
+LFQ3LkVF5sM,325710,327720,But let's back up a sec.
+LFQ3LkVF5sM,327720,329160,Duopoly aside.
+LFQ3LkVF5sM,329160,331410,If x86 is so bad
+LFQ3LkVF5sM,331410,333000,and Arm is so good.
+LFQ3LkVF5sM,333000,336330,Why is x86 still the king of the PC?
+LFQ3LkVF5sM,336330,338879,"Well, prior to Apple Silicon."
+LFQ3LkVF5sM,338880,342540,You'd be forgiven for thinking that Arm chips
+LFQ3LkVF5sM,342540,344340,simply can't perform.
+LFQ3LkVF5sM,344340,346410,"Like Intel and AMD,"
+LFQ3LkVF5sM,346410,348870,Qualcomm has a virtual monopoly
+LFQ3LkVF5sM,348870,351000,over non Apple Arm PCs.
+LFQ3LkVF5sM,351000,352440,And a literal monopoly
+LFQ3LkVF5sM,352440,354000,in the Windows ecosystem.
+LFQ3LkVF5sM,354000,356550,Thanks to an exclusivity agreement with Microsoft.
+LFQ3LkVF5sM,356550,357780,"When that deal was pinned,"
+LFQ3LkVF5sM,357780,359850,it probably did make some sense.
+LFQ3LkVF5sM,359850,361950,Qualcomm was the third biggest chip maker
+LFQ3LkVF5sM,361950,364020,even as of mid 2020.
+LFQ3LkVF5sM,364020,365430,And they're still a giant
+LFQ3LkVF5sM,365430,367440,who's recently been eyeing a slice
+LFQ3LkVF5sM,367440,369480,of the Arm pie for themselves.
+LFQ3LkVF5sM,369480,371520,So assuming Qualcomm would become
+LFQ3LkVF5sM,371520,374129,the biggest supplier of desktop Arm chips.
+LFQ3LkVF5sM,374130,375480,It made sense for Microsoft
+LFQ3LkVF5sM,375480,377610,to want to optimize for that hardware.
+LFQ3LkVF5sM,377610,380069,"Unfortunately, for Microsoft and for us."
+LFQ3LkVF5sM,380070,382050,There's no polite way to put this.
+LFQ3LkVF5sM,382050,384599,Even Qualcomm's latest chips suck.
+LFQ3LkVF5sM,384600,386160,Which recently prompted Google
+LFQ3LkVF5sM,386160,387750,to follow Samsung and Apple
+LFQ3LkVF5sM,387750,389580,in going their own way with Tensor.
+LFQ3LkVF5sM,389580,391110,And may eventually prompt Microsoft
+LFQ3LkVF5sM,391110,392219,to do the same.
+LFQ3LkVF5sM,392220,394260,Qualcomms utter failure to compete
+LFQ3LkVF5sM,394260,395670,"in the PC space, so far."
+LFQ3LkVF5sM,395670,398580,"Has given Intel, AMD and especially NVIDIA"
+LFQ3LkVF5sM,398580,399900,precious breathing room.
+LFQ3LkVF5sM,399900,400800,And we're not saying
+LFQ3LkVF5sM,400800,403020,that the PC as we know it is dead today.
+LFQ3LkVF5sM,403020,405120,It definitely still has some life left.
+LFQ3LkVF5sM,405120,407067,And they'll first probably try to integrate
+LFQ3LkVF5sM,407067,409439,x86 SoC's more tightly
+LFQ3LkVF5sM,409440,411030,before they consider switching over.
+LFQ3LkVF5sM,411030,411990,"Intel for example,"
+LFQ3LkVF5sM,411990,413749,could very well be working on an SoC
+LFQ3LkVF5sM,413749,416190,that combines Alder Lakes efficiency cores
+LFQ3LkVF5sM,416190,418410,with a larger number of XE graphics cores
+LFQ3LkVF5sM,418410,419400,and AI engine blocks.
+LFQ3LkVF5sM,419400,420479,Taking the dye space
+LFQ3LkVF5sM,420480,422010,that would otherwise have been allocated
+LFQ3LkVF5sM,422010,423750,to the bigger performance cores.
+LFQ3LkVF5sM,423750,424770,"Even so,"
+LFQ3LkVF5sM,424770,426569,reduced instruction set architectures
+LFQ3LkVF5sM,426570,428640,proved their worth in the late '90s
+LFQ3LkVF5sM,428640,429990,with early Arm licensees
+LFQ3LkVF5sM,429990,431069,and with PowerPC.
+LFQ3LkVF5sM,431070,433950,Which was famously used in the first iMac's.
+LFQ3LkVF5sM,433950,434850,"Clock for clock,"
+LFQ3LkVF5sM,434850,437040,PowerPC tended to outperform x86
+LFQ3LkVF5sM,437040,438090,by a wide margin.
+LFQ3LkVF5sM,438090,439800,Though this did depend on the task.
+LFQ3LkVF5sM,439800,441090,And eventually PowerPC
+LFQ3LkVF5sM,441090,442650,hit a performance and efficiency wall.
+LFQ3LkVF5sM,442650,444509,Just like x86 is today.
+LFQ3LkVF5sM,444510,446310,"Intel's Itanium for its part,"
+LFQ3LkVF5sM,446310,448440,was supposed to be a sort of successor
+LFQ3LkVF5sM,448440,449730,to risk as a concept.
+LFQ3LkVF5sM,449730,451890,"By using what HP termed,"
+LFQ3LkVF5sM,451890,454320,Explicitly Parallel Instruction computing.
+LFQ3LkVF5sM,454320,455670,Or Epic.
+LFQ3LkVF5sM,455670,458310,"Yes, naming has always been bad."
+LFQ3LkVF5sM,458310,460800,Unlike our swacket from lttstore.com
+LFQ3LkVF5sM,460800,462720,It describes exactly what it is.
+LFQ3LkVF5sM,462720,464550,A sweater and a jacket.
+LFQ3LkVF5sM,464550,465419,"As we know today,"
+LFQ3LkVF5sM,465420,467970,Itanium didn't work out so well.
+LFQ3LkVF5sM,467970,471300,Still even Intel saw that the x86's days were numbered.
+LFQ3LkVF5sM,471300,472590,Their plan for Pentium 4
+LFQ3LkVF5sM,472590,473580,was more or less
+LFQ3LkVF5sM,473580,475560,to just clock it as high as it would go.
+LFQ3LkVF5sM,475560,477540,And hope that the numbers kept going up.
+LFQ3LkVF5sM,477540,479670,And now that we're back to this phase again.
+LFQ3LkVF5sM,479670,481140,Where we can't physically fit
+LFQ3LkVF5sM,481140,482430,more cores on a dye
+LFQ3LkVF5sM,482430,483990,because new process nodes
+LFQ3LkVF5sM,483990,485970,are providing less additional density.
+LFQ3LkVF5sM,485970,487620,Something's got to give.
+LFQ3LkVF5sM,487620,488580,"The current solution,"
+LFQ3LkVF5sM,488580,489689,stacking dyes.
+LFQ3LkVF5sM,489690,491190,Will only get you so far
+LFQ3LkVF5sM,491190,494250,when you're already pushing 241 watts.
+LFQ3LkVF5sM,494250,495150,"By comparison,"
+LFQ3LkVF5sM,495150,496830,"a lot of Arms advantages today,"
+LFQ3LkVF5sM,496830,499409,come not strictly from its reduced instruction set.
+LFQ3LkVF5sM,499410,500910,But from how it's typically bundled
+LFQ3LkVF5sM,500910,502500,into a system on chip configuration.
+LFQ3LkVF5sM,502500,504150,Where virtually the entire computer
+LFQ3LkVF5sM,504150,506310,is super close to the CPU cores.
+LFQ3LkVF5sM,506310,508830,Why does this matter when we already have APUS?
+LFQ3LkVF5sM,508830,511110,Well it's all about density and power draw.
+LFQ3LkVF5sM,511110,513269,Simply expanding the size of the dye.
+LFQ3LkVF5sM,513270,515010,"Isn't normally a good idea,"
+LFQ3LkVF5sM,515010,517110,from a power and thermal perspective.
+LFQ3LkVF5sM,517110,519360,But Arm cores are typically much smaller
+LFQ3LkVF5sM,519360,521909,than x86 and sip far less power.
+LFQ3LkVF5sM,521909,523199,So not only can you fit
+LFQ3LkVF5sM,523200,525540,more of them into the same space.
+LFQ3LkVF5sM,525540,526980,You're also not as limited
+LFQ3LkVF5sM,526980,528990,in terms of dye size in general.
+LFQ3LkVF5sM,528990,533430,M1 Ultra's dye area is bigger than the RTX 3090 Ti.
+LFQ3LkVF5sM,533430,535020,Let's do a case study.
+LFQ3LkVF5sM,535020,539130,AMD's 8 core Ryzen 7 5700G desktop APUS
+LFQ3LkVF5sM,539130,541260,"are somewhere between an M1 and M1 Pro,"
+LFQ3LkVF5sM,541260,542490,in terms of dye size.
+LFQ3LkVF5sM,542490,545070,The APU dedicates just over a quarter
+LFQ3LkVF5sM,545070,546300,of the utilized dye space
+LFQ3LkVF5sM,546300,548850,to CPU cores and cache alone.
+LFQ3LkVF5sM,548850,550709,And just 10% to the GPU.
+LFQ3LkVF5sM,550710,551640,"For thermal management,"
+LFQ3LkVF5sM,551640,554820,there's also a fair amount of unused white space
+LFQ3LkVF5sM,554820,556530,even within the cores themselves.
+LFQ3LkVF5sM,556530,559380,"Meanwhile, even M1's big performance CPU cores"
+LFQ3LkVF5sM,559380,561150,are tiny by comparison.
+LFQ3LkVF5sM,561150,563790,With all cores taking just over 20%
+LFQ3LkVF5sM,563790,565889,of that smaller dye area.
+LFQ3LkVF5sM,565890,569340,The GPU takes up double the relative dye space as the APU.
+LFQ3LkVF5sM,569340,572520,Which means there's way more GPU horsepower on tap.
+LFQ3LkVF5sM,572520,574800,And still room for other functions
+LFQ3LkVF5sM,574800,576779,"like the massive media engine,"
+LFQ3LkVF5sM,576780,579060,neural engine and storage controller.
+LFQ3LkVF5sM,579060,581250,There's very little white space by comparison.
+LFQ3LkVF5sM,581250,583350,Not only are those Arm cores efficient enough
+LFQ3LkVF5sM,583350,585149,to handle such a compact layout.
+LFQ3LkVF5sM,585150,587130,But when so much of the system
+LFQ3LkVF5sM,587130,588210,is contained within it.
+LFQ3LkVF5sM,588210,589530,Significantly less energy
+LFQ3LkVF5sM,589530,591030,has to be used for signaling.
+LFQ3LkVF5sM,591030,593160,Which also happens to be much faster.
+LFQ3LkVF5sM,593160,595230,If we tried to push an x86 processor
+LFQ3LkVF5sM,595230,596220,to these densities.
+LFQ3LkVF5sM,596220,599220,In proximity with this many GPU cores.
+LFQ3LkVF5sM,599220,601709,It would quickly become a thermal meltdown event.
+LFQ3LkVF5sM,601710,602760,Sort of like the opposite
+LFQ3LkVF5sM,602760,604110,of how Alex had to save
+LFQ3LkVF5sM,604110,606390,a frozen Core i9-12900KS.
+LFQ3LkVF5sM,606390,607680,Literally frozen.
+LFQ3LkVF5sM,607680,608760,Go check it out on Floatplane
+LFQ3LkVF5sM,608760,609690,along with more exclusive
+LFQ3LkVF5sM,609690,610710,when you're done here.
+LFQ3LkVF5sM,610710,612180,And it scales.
+LFQ3LkVF5sM,612180,616140,M1 Mac's sports a larger dye than the RTX 3070.
+LFQ3LkVF5sM,616140,618690,And M1 Ultra is about a third again bigger
+LFQ3LkVF5sM,618690,620880,than the RTX 3090 Ti.
+LFQ3LkVF5sM,620880,622380,"With the dye that large,"
+LFQ3LkVF5sM,622380,624270,the compute-y bits to the 3090 Ti
+LFQ3LkVF5sM,624270,625560,would take up roughly half
+LFQ3LkVF5sM,625560,627300,the M1 Ultra's dye area.
+LFQ3LkVF5sM,627300,628620,While Apple will currently dedicates
+LFQ3LkVF5sM,628620,629970,just over a third.
+LFQ3LkVF5sM,629970,631529,That means that if Apple built
+LFQ3LkVF5sM,631530,633120,a dedicated big chip design.
+LFQ3LkVF5sM,633120,635490,And weren't using their own Metal API
+LFQ3LkVF5sM,635490,637080,separate from the rest of the industry.
+LFQ3LkVF5sM,637080,638520,They legitimately could reach
+LFQ3LkVF5sM,638520,639930,high end GPU levels
+LFQ3LkVF5sM,639930,641790,of real world performance.
+LFQ3LkVF5sM,641790,644339,Shame that Apple had to go their own way.
+LFQ3LkVF5sM,644340,647700,But imagine if NVIDIA were to build such a thing.
+LFQ3LkVF5sM,647700,649170,They could corner the Arm desktop
+LFQ3LkVF5sM,649170,651029,or Notebook space very quickly.
+LFQ3LkVF5sM,651030,652830,"If developers were on board, especially."
+LFQ3LkVF5sM,652830,655650,"It's not as simple as gluing them together, obviously."
+LFQ3LkVF5sM,655650,657660,And that GeForce power consumption
+LFQ3LkVF5sM,657660,658709,is still a problem.
+LFQ3LkVF5sM,658710,661140,But it's also not an impossible hurdle.
+LFQ3LkVF5sM,661140,663030,"And with the success of Apple Silicon,"
+LFQ3LkVF5sM,663030,664980,despite its growing pains.
+LFQ3LkVF5sM,664980,666360,It's impossible for the industry
+LFQ3LkVF5sM,666360,667560,to ignore the advantages
+LFQ3LkVF5sM,667560,668610,to this approach.
+LFQ3LkVF5sM,668610,670320,You can have excellent performance
+LFQ3LkVF5sM,670320,672240,coupled with incredibly low power draw.
+LFQ3LkVF5sM,672240,673950,On a much more open architecture.
+LFQ3LkVF5sM,673950,675510,That allows for bigger
+LFQ3LkVF5sM,675510,677760,or more aspirational system integrators
+LFQ3LkVF5sM,677760,679530,to tweak things as they see fit.
+LFQ3LkVF5sM,679530,682320,This potential future will suck for enthusiasts
+LFQ3LkVF5sM,682320,683880,who like getting their hands dirty.
+LFQ3LkVF5sM,683880,686310,But the alternative is laid bare before us.
+LFQ3LkVF5sM,686310,688620,Power targets shooting up at record pace
+LFQ3LkVF5sM,688620,690600,to the point where we're looking at new connectors
+LFQ3LkVF5sM,690600,692250,to help deliver all the juice.
+LFQ3LkVF5sM,692250,694470,"This generation of hardware now,"
+LFQ3LkVF5sM,694470,697139,is already incredibly power hungry.
+LFQ3LkVF5sM,697140,698790,With Intel and AMD squeezing
+LFQ3LkVF5sM,698790,700170,higher and higher frequencies
+LFQ3LkVF5sM,700170,701220,out of their cores.
+LFQ3LkVF5sM,701220,704129,And NVIDIA rumored to require up to 600 watts
+LFQ3LkVF5sM,704130,706500,for their next gen top end GPU.
+LFQ3LkVF5sM,706500,708090,There's really no backing down.
+LFQ3LkVF5sM,708090,709717,"We have to ask ourselves,"
+LFQ3LkVF5sM,709717,710699,"""Is it worth it?"""
+LFQ3LkVF5sM,710700,713730,And at what point does it stop being worth it?
+LFQ3LkVF5sM,713730,715019,At least it's always worth listening
+LFQ3LkVF5sM,715020,716700,to segways of sponsors like-
+LFQ3LkVF5sM,716700,717600,- Backblaze.
+LFQ3LkVF5sM,717600,719279,Starting at just $7 a month.
+LFQ3LkVF5sM,719280,720870,Backblaze offers an affordable
+LFQ3LkVF5sM,720870,722970,and easy to use cloud backup solution.
+LFQ3LkVF5sM,722970,723803,"To make it simple,"
+LFQ3LkVF5sM,723803,725610,by allowing you to back up almost anything
+LFQ3LkVF5sM,725610,726660,from your macro PC.
+LFQ3LkVF5sM,726660,728339,And access it from anywhere in the world
+LFQ3LkVF5sM,728340,730020,via their web or mobile apps.
+LFQ3LkVF5sM,730020,732450,Backblaze even lets you restore your data by mail.
+LFQ3LkVF5sM,732450,733530,A hard drive with your data
+LFQ3LkVF5sM,733530,734910,will be shipped right to your door.
+LFQ3LkVF5sM,734910,735810,"And once you're done,"
+LFQ3LkVF5sM,735810,737670,you can return the hard drive within 30 days
+LFQ3LkVF5sM,737670,738750,for a full refund.
+LFQ3LkVF5sM,738750,741600,With over 55 billion files restored
+LFQ3LkVF5sM,741600,743069,and 2 exabytes of data
+LFQ3LkVF5sM,743070,744210,under their management.
+LFQ3LkVF5sM,744210,745800,Backblaze has got you covered.
+LFQ3LkVF5sM,745800,747060,So don't be that person
+LFQ3LkVF5sM,747060,749070,who forgets to back up their important files.
+LFQ3LkVF5sM,749070,751290,Sign up and get a 15 day free trial.
+LFQ3LkVF5sM,751290,752610,With no credit card required
+LFQ3LkVF5sM,752610,755790,today at Backblaze.com/LTT.
+LFQ3LkVF5sM,755790,756839,- Thanks for watching guys.
+LFQ3LkVF5sM,756840,759120,This one's a bit more philosophical than usual.
+LFQ3LkVF5sM,759120,760260,So maybe go check out something
+LFQ3LkVF5sM,760260,761100,more down and dirty
+LFQ3LkVF5sM,761100,762569,for a pallet cleanser.
+LFQ3LkVF5sM,762570,765630,Like our 6.9 gigahertz GPU released on 6/9.
+LFQ3LkVF5sM,765630,766473,It's nice.
